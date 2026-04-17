@@ -85,7 +85,7 @@ Warstwa kosmetyczno-absorpcyjna, nie izolacyjna. Ma sens tylko zintegrowana z ma
 
 Uchwała Rady Miasta o klasyfikacji terenu (Studium + MPZP) + rozporządzenie MKiŚ. Dla „terenów zabudowy mieszkaniowej wielorodzinnej" od linii tramwajowych: **65 dB D / 55 dB N**. W strefie śródmiejskiej miast > 100 tys.: **68 dB D / 59 dB N**. Poznań ~540 tys. → obie kwalifikacje możliwe.
 
-**Kwerenda UDIP #1**: konkretna klasyfikacja Dąbrowskiego w MPZP + w strategicznej mapie hałasu Poznania (aktualizacja co 5 lat, dyrektywa 2002/49/WE; ostatnia 2022 lub 2027 [do weryfikacji]).
+**Kwerenda UDIP #1**: konkretna klasyfikacja Dąbrowskiego w MPZP + w strategicznej mapie hałasu Poznania (aktualizacja co 5 lat, dyrektywa 2002/49/WE; czwarta edycja: **2022**; następna: 2027 <!-- poznan.pl/mim/main/-,p,11105,65515.html, dostęp 2026-04-17 -->).
 
 Dla Dąbrowskiego (wariant zdegradowany 64–69 dB w nocy):
 - Limit 59 dB → przekroczenie 5–10 dB (rażące).

@@ -46,7 +46,7 @@ Decyduje uchwała Rady Miasta o klasyfikacji terenu (Studium + MPZP). Dla Poznan
 - Tereny „zwykłej" zabudowy wielorodzinnej: noc 55 dB.
 - Strefa śródmiejska: noc 59 dB.
 
-**Pierwsza kwerenda UDIP**: konkretna klasyfikacja ul. Dąbrowskiego w obowiązującym MPZP oraz w strategicznej mapie hałasu Poznania (aktualizacja cykliczna 5 lat wg dyrektywy 2002/49/WE — ostatnia 2022 lub 2027 [do weryfikacji]).
+**Pierwsza kwerenda UDIP**: konkretna klasyfikacja ul. Dąbrowskiego w obowiązującym MPZP oraz w strategicznej mapie hałasu Poznania (aktualizacja cykliczna 5 lat wg dyrektywy 2002/49/WE — czwarta edycja: **2022**; następna: 2027). <!-- poznan.pl/mim/main/-,p,11105,65515.html, dostęp 2026-04-17 -->
 
 Konsekwencja: jeśli limit nocny 59 dB, a pomiar 64–69 dB (wariant zdegradowany — patrz osiągalność techniczna poniżej), MPK ma 5–10 dB przekroczenia (rażące). Przy limicie 55 dB przekroczenie drastyczniejsze.
 

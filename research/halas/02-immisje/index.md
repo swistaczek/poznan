@@ -70,9 +70,9 @@ Pełne szablony urzędowe w `szablony/halas/`:
 - **I CKN 497/01** (SN, 10 lipca 2003) — jw.
 - **I CSK 433/06** (SN, 22 lutego 2007, sprawa „Orlika") — mir domowy jako dobro osobiste.
 - **III CK 221/05** (SN, 19 maja 2006) — immisje psychologiczne.
-- **II CSK 187/13** (SN, 31 stycznia 2014) — [do weryfikacji w LEX/Legalis] — art. 435 KC poza OOU.
-- **I ACa 563/15** (SA Poznań, 30 września 2015) — [do weryfikacji w LEX/Legalis] — rygor opinii biegłego.
-- **III CZP 55/13** — [do weryfikacji w LEX/Legalis] — zbieg roszczeń art. 144 KC + art. 24 KC.
+- **II CSK 187/13** (SN, 31 stycznia 2014) — potwierdzone SAOS/104211 — art. 435 KC dla infrastruktury publicznej poza OOU.
+- **I ACa 563/15** (SA Poznań, 30 września 2015) — [do weryfikacji — szukano w SAOS i Google 2026-04-17, brak publicznie dostępnych wyników; sprawdź w LEX/Legalis] — rygor opinii biegłego.
+- **III CZP 55/13** — [do weryfikacji — szukano w SAOS i SN.pl 2026-04-17, 0 wyników; może błędna sygnatura; sprawdź w LEX/Legalis] — zbieg roszczeń art. 144 KC + art. 24 KC.
 
 ## Powiązane
 

@@ -57,7 +57,7 @@ Wskaźniki Relative Risk (RR) i Hazard Ratio (HR) per 10 dB pochodzą z wielooś
 | ADHD/hyperactivity (dzieci w szkole) | 1.120 (+12.0%) | 0.900 – 1.380 | Umbrella+ 2025 pediatrics |
 | Zaburzenia zachowania dzieci w domu | 1.073 (+7.3%) | 1.009 – 1.142 | Umbrella+ 2025 pediatrics |
 
-DOI poszczególnych prac — patrz rozdział [do weryfikacji] dla konkretnych artykułów. Cytowana praca _Environmental Health Perspectives_ 2023 dla T2DM: DOI 10.1289/EHP... [do weryfikacji — pełen DOI].
+DOI poszczególnych prac — patrz sekcje poniżej. Cytowana praca EHP dla T2DM: Sørensen M et al. 2021, *Environmental Health Perspectives* 129(12), DOI: **10.1289/EHP9146** [rok 2021, nie 2023; zweryfikowano 2026-04-17].
 
 ## Neurodegeneracja i układ glimfatyczny
 
@@ -71,4 +71,4 @@ Dla ul. Dąbrowskiego przy szacowanym $L_{DEN}$ 68–72 dB (14–18 dB powyżej 
 
 ## Brak adaptacji fizjologicznej
 
-Analizy modelami adjustowanymi (m.in. Environmental Health Perspectives, DOI: 10.1289/EHP... [do weryfikacji]) wskazują, że RR dla nadciśnienia tętniczego jest wysoce skorelowany z komponentą nocną $L_{NIGHT}$, a liniowe narastanie ryzyka potwierdza **brak adaptacji fizjologicznej** — organizm nie przyzwyczaja się do hałasu, mimo subiektywnego "przywyknięcia" mieszkańca.
+Analizy modelami adjustowanymi (m.in. Sørensen et al. 2021, EHP, DOI: 10.1289/EHP9146) wskazują, że RR dla nadciśnienia tętniczego jest wysoce skorelowany z komponentą nocną $L_{NIGHT}$, a liniowe narastanie ryzyka potwierdza **brak adaptacji fizjologicznej** — organizm nie przyzwyczaja się do hałasu, mimo subiektywnego "przywyknięcia" mieszkańca.

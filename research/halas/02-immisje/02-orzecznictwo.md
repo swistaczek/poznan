@@ -41,9 +41,9 @@ Okoliczność, że zarządca drogi operuje w granicach norm publicznoprawnych, s
 
 Konsekwencja: argument miasta o „spełnianiu norm" jest na gruncie cywilnym **chybiony**.
 
-### Wyrok SN z 31 stycznia 2014 r., sygn. II CSK 187/13 [do weryfikacji w LEX/Legalis]
+### Wyrok SN z 31 stycznia 2014 r., sygn. II CSK 187/13
 
-**Teza kluczowa**: potwierdzenie deliktowej odpowiedzialności cywilnej podmiotu eksploatującego głośną infrastrukturę publiczną na podstawie art. 435 KC — **również w strefach poza OOU**. Sprawa dotyczyła infrastruktury lotniczej; stanowisko ma zastosowanie analogicznie do infrastruktury tramwajowej.
+**Teza kluczowa**: Skarb Państwa ponosi odpowiedzialność na podstawie art. 435 KC za immisje hałasowe z bazy lotnictwa wojskowego — niezależnie od sfery imperium/dominium. Baza lotnicza stanowi „zakład wprawiany w ruch za pomocą sił przyrody". Sprawa dotyczyła infrastruktury lotniczej; teza ma zastosowanie analogicznie do infrastruktury tramwajowej. <!-- SAOS: https://www.saos.org.pl/judgments/104211, dostęp 2026-04-17 -->
 
 Wymowa dla mieszkańców ul. Dąbrowskiego: droga roszczeniowa z art. 435 KC jest otwarta niezależnie od braku OOU.
 
@@ -83,4 +83,4 @@ Podstawowy zestaw sygnatur do powołania w pozwie:
 - **IV CSK 486/11** — niewiążący charakter norm publicznoprawnych dla sądu cywilnego,
 - **I CSK 433/06** — mir domowy jako dobro osobiste,
 - **III CK 221/05** — immisje psychologiczne,
-- **II CSK 187/13** [do weryfikacji] — art. 435 KC poza OOU.
+- **II CSK 187/13** — art. 435 KC poza OOU (potwierdzone SAOS/104211).

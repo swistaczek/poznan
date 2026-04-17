@@ -47,7 +47,7 @@ Naruszenie uprawnia **każdego faktycznego użytkownika mieszkania** do:
 
 ## Zbieg roszczeń
 
-Historyczna uchwała SN **sygn. III CZP 55/13** [do weryfikacji] potwierdziła zbieg roszczeń z art. 144 KC i art. 24 KC. Przekroczenie „przeciętnej miary" na gruncie stosunków sąsiedzkich (art. 144 KC):
+Historyczna uchwała SN **sygn. III CZP 55/13** [do weryfikacji — nie znaleziono w SAOS ani SN.pl 2026-04-17; sprawdź w LEX/Legalis] potwierdziła zbieg roszczeń z art. 144 KC i art. 24 KC. Przekroczenie „przeciętnej miary" na gruncie stosunków sąsiedzkich (art. 144 KC):
 - konstytuuje zakazane immisje,
 - **automatycznie wypełnia przesłankę bezprawności naruszenia dóbr osobistych** z art. 24 KC.
 

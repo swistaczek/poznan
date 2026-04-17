@@ -121,7 +121,7 @@ Dowodzi to, że chroniczny deficyt snu doprowadził do trwałych następstw.
 Dla odparcia obrony urzędu (volenti non fit iniuria / "wiedzieliście kupując"):
 
 1. Pełna kopia dokumentacji POZ z ≥10 lat (art. 26 ustawy o prawach pacjenta, 30 dni, bezpłatnie) — oś czasu leków nasennych, hipotensyjnych, przeciwlękowych.
-2. Z ZDM/MPK/archiwum miasta — daty zmian infrastruktury: wymiana taboru na Tramino (ok. 2012–2015 [do weryfikacji — rok dokładny]), zwiększenie częstotliwości linii, daty szlifowań na Dąbrowskiego.
+2. Z ZDM/MPK/archiwum miasta — daty zmian infrastruktury: wymiana taboru na Tramino (**pierwsze dostawy S105p: kwiecień 2011; zakończenie: maj 2012; kontrakt 2009**) <!-- źródło: poznan.pl/mim/prezydent/news,1093/..., dostęp 2026-04-17 -->, zwiększenie częstotliwości linii, daty szlifowań na Dąbrowskiego.
 3. Korelacja obu osi — spełnia kryteria przyczynowości **Bradforda Hilla** (temporality + biological gradient).
 4. Grupa kontrolna — 10–15 sąsiadów z oficyn (niska ekspozycja) + 10–15 z frontu (wysoka). Dla N=30, przy oczekiwanym RR 1.5, różnica istotna statystycznie (p<0.05).
 5. Świadkowie — sąsiedzi, rodzina obserwująca pogorszenie.
