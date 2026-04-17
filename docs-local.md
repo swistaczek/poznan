@@ -15,14 +15,24 @@ Do lokalnego podglądu (optional — służy autorom, nie wymagany do edycji tre
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-docs.txt
+
+# Mirror treści repo do docs/ (MkDocs wymaga docs_dir jako podkatalog):
+./scripts/mirror-to-docs.sh
+
 mkdocs serve
 ```
 
 Otwórz `http://127.0.0.1:8000/poznan/`.
 
+> [!TIP]
+> Po każdej edycji pliku źródłowego: ponownie `./scripts/mirror-to-docs.sh`
+> (mkdocs serve nie obserwuje zmian poza `docs/`). Alternatywa: edytuj
+> wprost w `docs/` dla szybkiego preview, potem przepisz do root.
+
 ## Build produkcyjny (jak w CI)
 
 ```bash
+./scripts/mirror-to-docs.sh
 mkdocs build --strict
 ```
 

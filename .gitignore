@@ -1,4 +1,5 @@
 # Build MkDocs
+docs/
 _site/
 .cache/
 
@@ -7,6 +8,7 @@ __pycache__/
 *.pyc
 *.pyo
 .venv/
+.venv-*/
 venv/
 env/
 

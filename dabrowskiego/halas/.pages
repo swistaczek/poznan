@@ -1,5 +1,4 @@
 title: Hałas tramwajowy
 nav:
-  - Pisma wysłane: pisma
-  - Odpowiedzi: odpowiedzi
+  - index.md
   - ...

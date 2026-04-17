@@ -6,10 +6,11 @@ repo_url: "https://github.com/swistaczek/poznan"
 repo_name: "swistaczek/poznan"
 edit_uri: "edit/main/"
 
-# Całe repo jest dokumentacją. Wykluczenia — patrz `exclude_docs` na końcu.
-docs_dir: "."
-# Katalog buildu poza treścią repo.
-site_dir: "_site"
+# Repo trzyma treść na płaskim root-level (dla aktywisty i Claude Code).
+# MkDocs wymaga docs_dir jako podkatalog — mirrorowanie przez `scripts/mirror-to-docs.sh`
+# (CI robi to przed buildem, lokalnie również). docs/ jest gitignored.
+docs_dir: docs
+site_dir: _site
 
 theme:
   name: material
@@ -44,9 +45,9 @@ theme:
     repo: fontawesome/brands/github
 
 plugins:
+  # search: PL stemmer nie jest wspierany w MkDocs Material (fallback do EN).
+  # Polskie słowa są indeksowane, brak morfologii (akustyka ≠ akustyczny w wyszukaniu).
   - search:
-      lang:
-        - pl
       separator: '[\s\-\.\,\;\:\!\?]+'
   - awesome-pages
   # Opcjonalne pluginy — odkomentuj gdy potrzebne (i dodaj do requirements-docs.txt):
@@ -97,6 +98,7 @@ exclude_docs: |
   **/CLAUDE.md
   MEMORY.md
   **/MEMORY.md
+  README.md
   _site/
   .github/
   .git/
