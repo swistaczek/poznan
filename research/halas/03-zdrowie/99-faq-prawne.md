@@ -121,4 +121,4 @@ Argumentacja w sprawie Dąbrowskiego:
 3. Bezskuteczność środków krajowych (wyrok sądu powszechnego odrzucający lub przyznający niewspółmierne zadośćuczynienie, decyzje WIOŚ/sanepidu odmawiające interwencji).
 4. Wykazanie, że władza publiczna (miasto, MPK) nie wypełniła "positive obligations" z art. 8 EKPC.
 
-Skarga **bezpłatna**, można pisać **po polsku**, wzór formularza na stronie Trybunału. **Termin: 4 miesiące** od prawomocnego wyroku krajowego (po 1.02.2022; zredukowany z 6 miesięcy). Szansa na wygraną przy solidnej dokumentacji w ostatniej dekadzie: ~60–70% [do weryfikacji — statystyka orzeczeń] — znacznie wyżej niż średnia skarg do ETPC (~2%).
+Skarga **bezpłatna**, można pisać **po polsku**, wzór formularza na stronie Trybunału. **Termin: 4 miesiące** od prawomocnego wyroku krajowego (po 1.02.2022; zredukowany z 6 miesięcy). Szansa na wygraną: ~30% spraw Art. 8 o charakterze środowiskowym dopuszczonych do rozpatrzenia kończy się stwierdzeniem naruszenia (Krommendijk, *HRLR* 2022, DOI: 10.1093/hrlr/ngab030) — znacznie wyżej niż ogólna skuteczność skarg (~2% szacunkowo; ETPCz odrzuca >90% jako niedopuszczalne).
