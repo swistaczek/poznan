@@ -125,7 +125,7 @@ Wypełnianie szablonów: zobacz [`szablony/CLAUDE.md`](./szablony/CLAUDE.md) —
 
 ### 6. Lokalny podgląd strony (opcjonalne)
 
-Strona publikowana automatycznie z `main` przez GitHub Actions ([`.github/workflows/gh-pages.yml`](./.github/workflows/gh-pages.yml)). Do lokalnego podglądu:
+Strona publikowana automatycznie z `main` przez GitHub Actions ([workflow](https://github.com/swistaczek/poznan/blob/main/.github/workflows/gh-pages.yml)). Do lokalnego podglądu:
 
 ```bash
 python -m venv .venv
@@ -136,7 +136,7 @@ mkdocs serve    # http://127.0.0.1:8000/poznan/
 
 Szczegóły (build strict, troubleshooting, rozszerzenia): [`docs-local.md`](./docs-local.md).
 
-Stos: [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) + pluginy `search` (PL stemmer) i `awesome-pages`. Konfiguracja w [`mkdocs.yml`](./mkdocs.yml).
+Stos: [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) + pluginy `search` (fallback EN stemmer — PL niewspierany) i `awesome-pages`. Konfiguracja w [`mkdocs.yml`](https://github.com/swistaczek/poznan/blob/main/mkdocs.yml).
 
 ---
 

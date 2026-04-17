@@ -65,6 +65,10 @@ markdown_extensions:
   - admonition
   - attr_list
   - def_list
+  # Material icons (:material-xxx:, :octicons-xxx-NN:) + twemoji
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - footnotes
   - md_in_html
   - tables
@@ -98,7 +102,6 @@ exclude_docs: |
   **/CLAUDE.md
   MEMORY.md
   **/MEMORY.md
-  README.md
   _site/
   .github/
   .git/
