@@ -10,6 +10,7 @@ Materiały referencyjne dotyczące hałasu tramwajowego i drogowego w Poznaniu: 
 | Immisje cywilne | podstawy art. 144 KC, orzecznictwo, dowody, forma powództwa, koszty i czas | [`02-immisje/`](./02-immisje/) |
 | Zdrowie publiczne | wytyczne WHO 2018, epidemiologia, DALY/WBV, protokół dokumentowania | [`03-zdrowie/`](./03-zdrowie/) |
 | Monitoring torowisk MPK | WPF/PZP, PHNUA IV/92/24, MPZP/DUŚ, BAT (UBM, USP, C_dyn), UDIP do MPK, art. 115a POŚ | [`04-monitoring-torowisk/`](./04-monitoring-torowisk/) |
+| Dąbrowskiego — retrospektywa 2016-2026 | Rozp. MŚ 2012, pomiary ZDM 2016 (8 punktów, pkt 17: 62,2 dB), SMH 2022, uchwały RM 2018 / Sejmik IV/92/24, modernizacja FEW 2021-2027 (ciche torowisko, TAT, węzeł Kraszewskiego) | [`05-dabrowskiego-historia/`](./05-dabrowskiego-historia/) |
 
 ## Dokumenty zbiorcze
 
@@ -17,6 +18,7 @@ Materiały referencyjne dotyczące hałasu tramwajowego i drogowego w Poznaniu: 
 - [`wyniki-02-immisje-cywilne.md`](./wyniki-02-immisje-cywilne.md)
 - [`wyniki-03-zdrowie-publiczne.md`](./wyniki-03-zdrowie-publiczne.md)
 - [`wyniki-17-monitoring-torowisk-mpk.md`](./wyniki-17-monitoring-torowisk-mpk.md) — nie edytuj, używaj chunków [`04-monitoring-torowisk/`](./04-monitoring-torowisk/)
+- [`wyniki-halas-dabrowskiego-historia.md`](./wyniki-halas-dabrowskiego-historia.md) — nie edytuj, używaj chunków [`05-dabrowskiego-historia/`](./05-dabrowskiego-historia/); case study ul. Dąbrowskiego 2016-2026 (wyodrębniony z `szablony/wyniki-16-szablony-pism.md`)
 
 ## Dane pomiarowe — źródła pierwotne
 

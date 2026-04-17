@@ -1,41 +1,41 @@
 # Prawnicy i eksperci pro bono
 
-> Zrodlo: [wyniki-19](../wyniki-19-aktywisci-poznan.md) | [← index](index.md)
+> Źródło: [wyniki-19](../wyniki-19-aktywisci-poznan.md) | [← index](index.md)
 
-Kontekst: brak ustrukturyzowanego, bezplatnego wsparcia prawniczego to najwieksza bariera systemowa zniechecajaca inicjatywy obywatelskie do wieloletnich batalii przeciw kapitalowi deweloperskiemu i wladzy. Poznan (zdominowany przez lokalny biznes) nie doczekal sie filialnej obecnosci ogolnopolskich fundacji dedykowanych litygacji w zrownowazonym rozwoju (porownanie: Fundacja Frank Bold dziala z Krakowa na Poludnie — Poznan ma luke). Istnieje natomiast wyselekcjonowana pula poznanskich prawnikow-pragmatykow (adwokaci, radcy), ktorzy w ramach CSR / imperatywu moralnego wspomagaja aktywistow z twardymi dowodami.
+Kontekst: brak ustrukturyzowanego, bezpłatnego wsparcia prawniczego to największa bariera systemowa zniechęcająca inicjatywy obywatelskie do wieloletnich batalii przeciw kapitałowi deweloperckiemu i władzy. Poznań (zdominowany przez lokalny biznes) nie doczekał się filialnej obecności ogólnopolskich fundacji dedykowanych litygacji w zrównoważonym rozwoju (porównanie: Fundacja Frank Bold działa z Krakowa na Południe — Poznań ma lukę). Istnieje natomiast wyselekcjonowana pula poznańskich prawników-pragmatyków (adwokaci, radcy), którzy w ramach CSR / imperatywu moralnego wspomagają aktywistów z twardymi dowodami.
 
-Model: **impact litigation** — precedensowe postepowania przed WSA/NSA, pisma mrozace bezprawne zapedy inwestorow przed PINB, sprawy o immisje halasu i zanieczyszczen.
+Model: **impact litigation** — precedensowe postępowania przed WSA/NSA, pisma mrożące bezprawne zapędy inwestorów przed PINB, sprawy o immisje hałasu i zanieczyszczeń.
 
-Uzupelnienie systemowe: nieodplatna pomoc prawna nadzorowana przez Starostwo Powiatowe (powiat poznanski) `[numer protokolu do weryfikacji — zrodlowy: AE:PL-52322-57306-BBTGD-22]`, dzialajaca w dniach roboczych. Dla zlozonych spraw deweloperskich — niewystarczajaca; trzeba komercyjnego profilu.
+Uzupełnienie systemowe: nieodpłatna pomoc prawna nadzorowana przez Starostwo Powiatowe (powiat poznański) `[numer protokołu do weryfikacji — źródłowy: AE:PL-52322-57306-BBTGD-22]`, działająca w dniach roboczych. Dla złożonych spraw deweloperskich — niewystarczająca; trzeba komercyjnego profilu.
 
 ---
 
 ## Adw. dr Agata Koschel-Sturzbecher — Impact litigation pro bono
 
 **Organizacja:** Kancelaria Adwokacka Koschel-Sturzbecher
-**Rola:** Adwokat, doktor nauk prawnych (tytul "adw. dr")
-**Tematyka:** Zaawansowane prawo cywilne, asymetrie w umowach konsumenckich z molochami rynku, roszczenia odszkodowawcze (utracone szanse), sprawy o immisje — halas, drgania, zanieczyszczenia
-**Kontakt:** biuro@adwokaci-ks.pl / +48 500 091 968 / siedziba: 61-730 Poznan, ul. Mlynska 9/2
-**Zasieg:** Miejski i regionalny, z serca poznanskiej jurysdykcji
-**Styl:** Formalno-prawny / nastawiony na destrukcje argumentow przeciwnika procesowego i precedens
-**Aktywnosc:** Umiarkowana publicznie, rygorystyczna selekcja spraw pod katem rokowan na wygrana `[do weryfikacji zakresu pro bono w 2026]`
+**Rola:** Adwokat, doktor nauk prawnych (tytuł "adw. dr")
+**Tematyka:** Zaawansowane prawo cywilne, asymetrie w umowach konsumenckich z molochami rynku, roszczenia odszkodowawcze (utracone szanse), sprawy o immisje — hałas, drgania, zanieczyszczenia
+**Kontakt:** biuro@adwokaci-ks.pl / +48 500 091 968 / siedziba: 61-730 Poznań, ul. Młyńska 9/2
+**Zasięg:** Miejski i regionalny, z serca poznańskiej jurysdykcji
+**Styl:** Formalno-prawny / nastawiony na destrukcję argumentów przeciwnika procesowego i precedens
+**Aktywność:** Umiarkowana publicznie, rygorystyczna selekcja spraw pod kątem rokowań na wygraną `[do weryfikacji zakresu pro bono w 2026]`
 
-**Jak moze pomoc inicjatywie poznan:**
-Sam tytul "adw. dr" uwiarygadnia kazde stowarzyszenie wchodzace na sciezke wojenna przeciw wielkim budzetowym dzialom prawnym ZDM, urzedu, zagranicznego dewelopera — zespol przestaje byc "glosnymi cyklistami". Specjalizacja w cywilistyce otwiera klucze do konstrukcji powodztw cywilnych o immisje (zarzuty o naruszenie dobr osobistych przez codzienny halas/drgania transportu). Dla halasu Dabrowskiego: fundament do powodztwa cywilnego mieszkancow pierzei Jezyc vs MPK Poznan sp. z o.o. o zaniechanie szlifowania szyn i niedoprowadzenie torowiska do stanu technicznego. Kancelaria deklaruje obsluge "Pro Bono" w oficjalnych profilach.
+**Jak może pomóc inicjatywie poznan:**
+Sam tytuł "adw. dr" uwiarygadnia każde stowarzyszenie wchodzące na ścieżkę wojenną przeciw wielkim budżetowym działom prawnym ZDM, urzędu, zagranicznego dewelopera — zespół przestaje być "głośnymi cyklistami". Specjalizacja w cywilistyce otwiera klucze do konstrukcji powództw cywilnych o immisje (zarzuty o naruszenie dóbr osobistych przez codzienny hałas/drgania transportu). Dla hałasu Dąbrowskiego: fundament do powództwa cywilnego mieszkańców pierzei Jeżyc vs MPK Poznań sp. z o.o. o zaniechanie szlifowania szyn i niedoprowadzenie torowiska do stanu technicznego. Kancelaria deklaruje obsługę "Pro Bono" w oficjalnych profilach.
 
-**Uwazaj:**
-Podmiot rynkowy z rygorem operacyjnym — wolny czas na pro bono jest surowo ograniczony. Niedopuszczalny blad: wreczenie adwokatowi bezladnego pliku "dokumentow" do rozszyfrowania. Kazda sprawa ubiegajaca sie o pro bono musi byc:
+**Uważaj:**
+Podmiot rynkowy z rygorem operacyjnym — wolny czas na pro bono jest surowo ograniczony. Niedopuszczalny błąd: wręczenie adwokatowi bezładnego pliku "dokumentów" do rozszyfrowania. Każda sprawa ubiegająca się o pro bono musi być:
 1. Sformatowana faktograficznie (wzorowa teczka dowodowa)
-2. Miec walor bezprecedensowosci (impact litigation — pomoze nie jednej klatce schodowej, ale polowie dzielnicy)
-3. Miec jasne roszczenie i sciezke procesowa
+2. Mieć walor bezprecedensowości (impact litigation — pomoże nie jednej klatce schodowej, ale połowie dzielnicy)
+3. Mieć jasne roszczenie i ścieżkę procesową
 
-Moment wejscia: **zanim** urzad wyda ostateczna decyzje (WZ, pozwolenie na budowe). Po decyzji — szanse drastycznie maleja, a zasoby pro bono rosna.
+Moment wejścia: **zanim** urząd wyda ostateczną decyzję (WZ, pozwolenie na budowę). Po decyzji — szanse drastycznie maleją, a zasoby pro bono rosną.
 
 **Otwieracz kontaktu:**
-"Szanowni Panstwo, w zalaczeniu jednoarkuszowy brief (A4) dotyczacy sprawy [halasu tramwajowego na ul. Dabrowskiego / wycinki przy ul. X / inwestycji deweloperskiej Y]. W punktach:
-- Stan faktyczny (4-5 zdan).
+"Szanowni Państwo, w załączeniu jednoarkuszowy brief (A4) dotyczący sprawy [hałasu tramwajowego na ul. Dąbrowskiego / wycinki przy ul. X / inwestycji deweloperskiej Y]. W punktach:
+- Stan faktyczny (4-5 zdań).
 - Stan prawny (art. + sygnatury).
-- Walor precedensowy: wyrok w tej materii ulatwi oddychanie i podniesie wartosc majatkowa mieszkancom co najmniej [N] kamienic/kwartalu.
+- Walor precedensowy: wyrok w tej materii ułatwi oddychanie i podniesie wartość majątkową mieszkańcom co najmniej [N] kamienic/kwartału.
 - Oczekiwanie: 15-minutowa konsultacja kwalifikacyjna.
 Z wyrazami szacunku, [...]"
 
@@ -43,18 +43,18 @@ Z wyrazami szacunku, [...]"
 
 ## Notatki operacyjne — pro bono w strategii
 
-- **Kiedy wchodzi prawnik:** przed ostateczna decyzja urzedowa (WZ, pozwolenie na budowe, MPZP uchwalone). Po decyzji — rosna zasoby, spada szansa.
+- **Kiedy wchodzi prawnik:** przed ostateczną decyzją urzędową (WZ, pozwolenie na budowę, MPZP uchwalone). Po decyzji — rosną zasoby, spada szansa.
 - **Alternatywy pro bono poza Poznaniem:**
-  - **HFPC** (Helsinska Fundacja Praw Czlowieka) — sprawy precedensowe, amicus curiae, SLAPP. Patrz [08-ngo/03-hfpc-prawa-czlowieka.md](../08-ngo/03-hfpc-prawa-czlowieka.md).
+  - **HFPC** (Helsińska Fundacja Praw Człowieka) — sprawy precedensowe, amicus curiae, SLAPP. Patrz [08-ngo/03-hfpc-prawa-czlowieka.md](../08-ngo/03-hfpc-prawa-czlowieka.md).
   - **Watchdog Polska** — porady UDIP indywidualne (nie gotowe wzory) na `porady.siecobywatelska.pl`. Patrz [08-ngo/02-watchdog-transparentnosc.md](../08-ngo/02-watchdog-transparentnosc.md).
-  - **Frank Bold (Krakow)** — impact litigation zrownowazony rozwoj; na Poznan rzadko, ale mozna probowac w sprawach systemowych.
-  - **Kancelaria Szal** (halas) — pisma i wzory ws. akustyki; patrz [08-ngo/04-halas-ekologia-akustyczna.md](../08-ngo/04-halas-ekologia-akustyczna.md).
-- **Tryb "teczki wzorowej":** kazda sprawa do prawnika powinna miec: (1) chronologie faktow z datami, (2) skany pism urzedowych, (3) sygnatury decyzji, (4) wskazane artykuly prawa, (5) sprecyzowane roszczenie i wskazana sciezka procesowa. Prawnik ma zweryfikowac, nie zrobic prace sekretarska.
-- **Nieodplatna pomoc prawna Powiatu Poznanskiego** — dla spraw podstawowych (umowy, odwolania w trybie KPA), NIE dla litygacji precedensowej. Protokol dostepu `[do weryfikacji]`.
+  - **Frank Bold (Kraków)** — impact litigation zrównoważony rozwój; na Poznań rzadko, ale można próbować w sprawach systemowych.
+  - **Kancelaria Szal** (hałas) — pisma i wzory ws. akustyki; patrz [08-ngo/04-halas-ekologia-akustyczna.md](../08-ngo/04-halas-ekologia-akustyczna.md).
+- **Tryb "teczki wzorowej":** każda sprawa do prawnika powinna mieć: (1) chronologię faktów z datami, (2) skany pism urzędowych, (3) sygnatury decyzji, (4) wskazane artykuły prawa, (5) sprecyzowane roszczenie i wskazaną ścieżkę procesową. Prawnik ma zweryfikować, nie zrobić pracę sekretarską.
+- **Nieodpłatna pomoc prawna Powiatu Poznańskiego** — dla spraw podstawowych (umowy, odwołania w trybie KPA), NIE dla litygacji precedensowej. Protokół dostępu `[do weryfikacji]`.
 
 ## Do rozbudowy
 
-- Lista innych poznanskich kancelarii dekrarujacych pro bono w obszarze samorzadowym / srodowiskowym / konsumenckim — brak mapowania `[do weryfikacji]`
-- Poznanskie profile radcow prawnych specjalizujacych sie w prawie budowlanym i zagospodarowaniu przestrzennym `[do weryfikacji]`
-- Czy istnieje lokalna klinika prawa UAM lub innej uczelni oferujaca wsparcie dla inicjatyw obywatelskich `[do weryfikacji]`
-- Zweryfikowac aktualny zakres i kryteria pro bono adw. Koschel-Sturzbecher w 2026 r.
+- Lista innych poznańskich kancelarii deklarujących pro bono w obszarze samorządowym / środowiskowym / konsumenckim — brak mapowania `[do weryfikacji]`
+- Poznańskie profile radców prawnych specjalizujących się w prawie budowlanym i zagospodarowaniu przestrzennym `[do weryfikacji]`
+- Czy istnieje lokalna klinika prawa UAM lub innej uczelni oferująca wsparcie dla inicjatyw obywatelskich `[do weryfikacji]`
+- Zweryfikować aktualny zakres i kryteria pro bono adw. Koschel-Sturzbecher w 2026 r.
