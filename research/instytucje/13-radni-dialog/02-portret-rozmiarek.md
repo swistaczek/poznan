@@ -1,5 +1,7 @@
 # Portret: Mateusz Rozmiarek (PiS)
 
+> **Kanoniczna karta**: [`../radni/rozmiarek-mateusz.md`](../radni/rozmiarek-mateusz.md) — profil operacyjny + dialog scalony + tabela framingu + warianty otwarcia. Ten plik i `02b` to portrety źródłowe, nie aktualizować.
+
 ## Historia i droga do polityki
 
 Młodsze pokolenie decydentów w Radzie Miasta Poznania. Profil interdyscyplinarny, sprofilowany naukowo — droga do polityki poprzez kulturę fizyczną i nauki o zdrowiu.

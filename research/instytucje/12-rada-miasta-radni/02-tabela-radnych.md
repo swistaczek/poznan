@@ -1,5 +1,7 @@
 # Tabela główna — radni kadencji 2024–2029
 
+> Karty per osoba (profil operacyjny + zasady kontaktu + wstęp do rozmowy): [`../radni/index.md`](../radni/index.md) — kanoniczny punkt wejścia dla aktywisty piszącego e-mail lub interpelację.
+
 Kontakt: tel. BIP 61 878 53 08 (centrala) lub 61 878 53 12 (komisje); e-mail oficjalny przez BIP.
 
 | Nazwisko i imię | Komitet/Frakcja | Okręg | Komisje i funkcje | Kontakt | Priorytety / potencjał rozmowy |

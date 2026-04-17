@@ -7,6 +7,10 @@ Mapa kompetencji organów właściwych dla spraw poznańskich: samorząd, admini
 | Podobszar | Zakres | Wejście |
 |---|---|---|
 | Kompetencje | ustrój miasta, jednostki i spółki, województwo i administracja rządowa | [`07-kompetencje/`](./07-kompetencje/) |
+| Rady osiedli | kompetencje, kontakty, mechanika 42 rad osiedlowych Poznania | [`11-rady-osiedla/`](./11-rady-osiedla/) |
+| Rada Miasta — struktura | frakcje, komisje, mechanika głosowań, historia kadencji | [`12-rada-miasta-radni/`](./12-rada-miasta-radni/) |
+| Rada Miasta — dialog | metodologia portretów, mapa mianowników, zasady dialogu, FAQ | [`13-radni-dialog/`](./13-radni-dialog/) |
+| **Radni RM — karty per osoba** | **pełne profile operacyjne + dialog scalone; główny punkt wejścia** | [**`radni/`**](./radni/) |
 
 ## Dokumenty zbiorcze
 

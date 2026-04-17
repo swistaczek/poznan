@@ -1,8 +1,10 @@
 # Profile operacyjne — inne priorytety: jak rozmawiać
 
-> Pogłębienie tych portretów (historia osobista, wartości, cytaty, propozycje wstępu do rozmowy): `../13-radni-dialog/`
+> Karty per osoba (operacyjne + dialog scalone): [`../radni/`](../radni/). Ten plik zachowuje zbiorczy widok do szybkiego przeglądu.
 
 ## Ganowicz Grzegorz (KO) — Neutralny / Strażnik status quo
+
+> **Karta**: [`../radni/ganowicz-grzegorz.md`](../radni/ganowicz-grzegorz.md)
 
 **Tło**: Wieloletni Przewodniczący Rady Miasta — instytucja sama w sobie. Nurt centrowy, nacisk na stabilność i płynność proceduralną.
 
@@ -18,6 +20,8 @@
 
 ## Mikuła Łukasz (KO) — Neutralny / Pragmatyczny architekt przestrzenny
 
+> **Karta**: [`../radni/mikula-lukasz.md`](../radni/mikula-lukasz.md)
+
 **Tło**: Okręg 1. Nauczyciel akademicki, ekspert urbanistyki. Nadaje ton pracom Komisji Polityki Przestrzennej. Portfolio: MPZP, dogęszczanie tkanki miejskiej wzdłuż korytarzy transportowych, rozwój sieci tramwajowej.
 
 **Poglądy**: Systemowe, nie ideologiczne. Arbiter między deweloperami a mieszkańcami — operuje w granicach studium uwarunkowań. Popiera rozwój tramwajowy, ale nie kieruje się emocjami.
@@ -30,6 +34,8 @@
 
 ## Wiśniewski Mariusz (KO) — Neutralny / Zarządczy realista
 
+> **Karta**: [`../radni/wisniewski-mariusz.md`](../radni/wisniewski-mariusz.md)
+
 **Tło**: Okręg 1. Długoletni zastępca Prezydenta nadzorujący inwestycje i transport. Personifikacja mechanizmów urzędowych — zna ograniczenia operacyjne ZDM, MPK od środka.
 
 **Poglądy**: Ewoluował od wsparcia dla ruchów miejskich do zrównoważonego menedżera ważącego interesy aktywistów z logistyką i oporem kierowców.
@@ -41,6 +47,8 @@
 ---
 
 ## Dudzic-Biskupska Małgorzata (KO) — Neutralny / Strażniczka finansów
+
+> **Karta**: [`../radni/dudzic-biskupska-malgorzata.md`](../radni/dudzic-biskupska-malgorzata.md)
 
 **Tło**: Okręg 2. Kluczowa w komisjach budżetowych i WPF. Każdy projekt infrastrukturalny musi uzyskać jej aprobatę finansową.
 
@@ -55,6 +63,8 @@
 
 ## Rozmiarek Mateusz (PiS) — Odmienne priorytety w transporcie / Otwarty na UDIP i efektywność
 
+> **Karta**: [`../radni/rozmiarek-mateusz.md`](../radni/rozmiarek-mateusz.md)
+
 **Tło**: Okręg 2. Wiceprzewodniczący RM z ramienia opozycji. Młodsze pokolenie działaczy. Wielokrotnie punktował opóźnienia inwestycji ("rozkopany Poznań") — nie jako wróg zrównoważonego transportu, ale jako krytyk nieudolności zarządczej. Tel. BIP 61 878 53 08.
 
 **Poglądy**: W sprawach zwężeń ulic — inne priorytety niż repo. W sprawach transparentności i efektywności zarządzania — wspólny grunt.
@@ -67,20 +77,24 @@
 
 ## Jemielity Ewa (PiS) — Odmienne priorytety w transporcie / Wspólny grunt: seniorzy, dostępność, ład
 
+> **Karta**: [`../radni/jemielity-ewa.md`](../radni/jemielity-ewa.md)
+
 **Tło**: Okręg 1. Wiceprzewodnicząca Komisji Rodziny. Oficjalnie: polityka socjalna. Jedna z głośniejszych krytyczek transformacji przestrzennej — ale z pozycji troski o dostępność, nie motoryzmu per se.
 
 **Poglądy**: Obrona komfortu rodzin i dostępności miasta. Krytyczna wobec zwężeń arterii i likwidacji parkingów. Argument: "uderzenie w wolność i komfort rodzin". Jednocześnie: aktywna w ochronie zieleni, seniorów, równości dzielnic.
 
 **Persona**: Akademicki pragmatyzm (ekonomistka, UEP), konfrontacyjna retoryka, ale przede wszystkim trybuna mieszkańców "dzielnic gorszego sortu". Reaguje na argumenty wartości nieruchomości i koszty zdrowotne. Tel. BIP 61 878 53 12.
 
-**Jak rozmawiać**: W kwestiach ruchu — nie przez pryzmat ruchu, lecz przez pryzmat wartości: dostępność seniorów, ochrona zieleni, koszty degradacji tkanki miejskiej. Nie angażować retoryką antysamochodową — szukać wspólnego gruntu. Pogłębienie: `../13-radni-dialog/01-portret-jemielity.md`.
+**Jak rozmawiać**: W kwestiach ruchu — nie przez pryzmat ruchu, lecz przez pryzmat wartości: dostępność seniorów, ochrona zieleni, koszty degradacji tkanki miejskiej. Nie angażować retoryką antysamochodową — szukać wspólnego gruntu. Pogłębienie: [`../radni/jemielity-ewa.md`](../radni/jemielity-ewa.md).
 
 ---
 
 ## Alexandrowicz Przemysław (PiS) — Odmienne priorytety w transporcie / Wspólny grunt: dziedzictwo, ład, bezpieczeństwo rodzin
 
+> **Karta**: [`../radni/alexandrowicz-przemyslaw.md`](../radni/alexandrowicz-przemyslaw.md)
+
 **Tło**: Weteran samorządowy. Historycznie Wiceprzewodniczący RM. Profil: edukacja, wartości historyczne, tradycyjny model rodziny. Transport i przestrzeń nie są głównym obszarem zainteresowania. Tel. 600 874 000.
 
 **Poglądy**: W głosowaniach transportowych: linia klubu PiS. Jako intelektualista konserwatywny: wysoce sformalizowany język, odwołania historyczne, omija zgiełk social mediów.
 
-**Jak rozmawiać**: Nie przez pryzmat ekologii ani antysamochodowości. Przez ochronę dziedzictwa (wibracje tramwaju niszczą kamienice), bezpieczeństwo rodzin i ład publiczny. Pogłębienie: `../13-radni-dialog/03-portret-alexandrowicz.md`.
+**Jak rozmawiać**: Nie przez pryzmat ekologii ani antysamochodowości. Przez ochronę dziedzictwa (wibracje tramwaju niszczą kamienice), bezpieczeństwo rodzin i ład publiczny. Pogłębienie: [`../radni/alexandrowicz-przemyslaw.md`](../radni/alexandrowicz-przemyslaw.md).

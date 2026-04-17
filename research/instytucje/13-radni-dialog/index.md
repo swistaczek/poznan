@@ -19,6 +19,11 @@ Uzupełnienie wyniki-12: nie klasyfikacja operacyjna, lecz portrety ludzkie — 
 - **Alexandrowicz Przemysław (PiS)**: konserwatywny weteran, ochrona dziedzictwa — wibracje tramwaju niszczą zabytkowe kamienice. Punkt wejścia: ochrona substancji historycznej, nie "zrównoważona mobilność".
 - **Szabelski i inni TD**: pragmatyczni kompromisowcy — dane i koszty zdrowotne, nie retoryka środowiskowa.
 
+## Karty per osoba (kanoniczne)
+
+Pełne karty operacyjne + dialog scalone w jednym pliku per radny: [`../radni/`](../radni/)  
+Ten katalog (`13-radni-dialog/`) zachowujemy jako źródło metodologiczne i historyczne portrety źródłowe.
+
 ## Nawigacja chunków
 
 | Plik | Zawartość |

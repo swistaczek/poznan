@@ -1,5 +1,7 @@
 # Portret: Ewa Jemielity (PiS)
 
+> **Kanoniczna karta**: [`../radni/jemielity-ewa.md`](../radni/jemielity-ewa.md) — profil operacyjny + dialog scalony. Ten plik: portret źródłowy, nie aktualizować.
+
 Radna Rady Miasta Poznania. Profil: akademicki pragmatyzm, gospodarka nieruchomościami, wartość przestrzeni miejskiej.
 
 ## Historia i droga do polityki

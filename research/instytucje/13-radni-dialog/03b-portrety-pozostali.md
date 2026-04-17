@@ -2,6 +2,8 @@
 
 ## Adam Szabelski — zrównoważona przyszłość, polityka młodzieżowa, demografia
 
+> **Kanoniczna karta**: [`../radni/szabelski-adam.md`](../radni/szabelski-adam.md) — treść scalona + mapa mianowników. Ten plik: źródłowy (urwany), nie aktualizować.
+
 Klub [do weryfikacji — fragment źródłowy nie wskazuje przynależności klubowej, prawdopodobnie KO/Trzecia Droga, sprawdzić w składzie Rady Miasta Poznania kadencji 2024–2029].
 
 ### Wartości i troski

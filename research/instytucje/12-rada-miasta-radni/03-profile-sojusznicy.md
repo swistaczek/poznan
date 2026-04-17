@@ -1,6 +1,12 @@
 # Profile operacyjne — aktywni partnerzy i potencjalny wspólny grunt
 
+> Karty per osoba (operacyjne + dialog scalone): [`../radni/`](../radni/). Ten plik zachowuje zbiorczy widok do szybkiego przeglądu.
+
+
+
 ## Wierzbicki Tomasz (KO) — Aktywny partner
+
+> **Karta**: [`../radni/wierzbicki-tomasz.md`](../radni/wierzbicki-tomasz.md)
 
 **Tło**: Korzenie w stowarzyszeniu Prawo do Miasta; ekspert inżynierii ruchu i planowania przestrzennego. Przewodniczący Komisji Transportu — bezpośrednia kontrola nad opiniowaniem projektów drogowych i rowerowych.
 
@@ -16,6 +22,8 @@
 
 ## Bonk-Hammermeister Dorota (Lewica) — Aktywny partner
 
+> **Karta**: [`../radni/bonk-hammermeister-dorota.md`](../radni/bonk-hammermeister-dorota.md)
+
 **Tło**: Okręg 1. Kariera budowana na obronie interesów Wildy. Historycznie Wiceprzewodnicząca Komisji Rewizyjnej — głęboki wgląd w mechanizmy spółek komunalnych. Wcześniejsza aktywność w radach osiedli.
 
 **Poglądy**: Jakość życia, walka z uciążliwościami akustycznymi, ochrona drzewostanu, transparentność (UDIP). Zawsze po stronie pieszych i pasażerów transportu zbiorowego. Ostry konflikt z deweloperami naruszającymi ład przestrzenny.
@@ -30,6 +38,8 @@
 
 ## Lewandowski Tomasz (Lewica Centrum) — Wspólne priorytety
 
+> **Karta**: [`../radni/lewandowski-tomasz.md`](../radni/lewandowski-tomasz.md)
+
 **Tło**: Weteran — wcześniej wiceprezydent miasta. Przewodniczący Klubu Lewicy Centrum — ogromny kapitał wpływu i zdolność do formowania koalicji blokujących.
 
 **Poglądy**: Polityka mieszkaniowa, zapobieganie wykluczeniu, optymalizacja transportu zbiorowego pod kątem dostępności ekonomicznej. Popiera ograniczanie hegemonii transportu indywidualnego — ale przez pryzmat sprawiedliwości redystrybucyjnej.
@@ -42,6 +52,8 @@
 
 ## Owsianna Halina (Lewica) — Wspólne priorytety: zieleń, piesi, seniorzy
 
+> **Karta**: [`../radni/owsianna-halina.md`](../radni/owsianna-halina.md)
+
 **Tło**: Okręg 2. Teren: północny Poznań (Winogrady). Baza: starsi mieszkańcy i miłośnicy przyrody. Aktywność: mikro-infrastruktura osiedlowa, ochrona starodrzewu, polityka pro-zwierzęca. Nieufna wobec dużych inwestycji infrastrukturalnych (wpływ na mikroklimat).
 
 **Persona**: Język emocjonalny, lokalny patriotyzm, empatia. Cierpliwa w bezpośrednich spotkaniach z wyborcami. Nie jest ekspertem od symulacji ruchu.
@@ -53,6 +65,8 @@
 ---
 
 ## Rataj Andrzej (KO) — Partner operacyjny
+
+> **Karta**: [`../radni/rataj-andrzej.md`](../radni/rataj-andrzej.md)
 
 **Tło**: Wiceprzewodniczący RM i Wiceprzewodniczący Komisji Kultury. Kariera oparta na radach osiedli Starego Miasta. Bezprecedensowa liczba interpelacji i zapytań. Obsesja na punkcie estetyki przestrzeni, czystości, hałasu nocnego, punktowych uciążliwości.
 
@@ -67,6 +81,8 @@
 ---
 
 ## Garczewski Łukasz (Społeczny Poznań) — Aktywny partner
+
+> **Karta**: [`../radni/garczewski-lukasz.md`](../radni/garczewski-lukasz.md)
 
 **Tło**: Lider ruchu miejskiego, komitet Społeczny Poznań — profil w pełni zbieżny z agendą repo (zrównoważony transport, jakość przestrzeni publicznej, partycypacja).
 

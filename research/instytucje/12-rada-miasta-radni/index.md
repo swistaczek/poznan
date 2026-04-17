@@ -39,6 +39,10 @@ Lookup tool dla aktywisty. Przed każdą interpelacją, petycją lub lobbingiem 
 | Jemielity Ewa | PiS | Odmienne priorytety w transporcie / wspólny grunt: seniorzy, zieleń | Nie transport — patrz wyniki-13 |
 | Alexandrowicz Przemysław | PiS | Odmienne priorytety w transporcie / wspólny grunt: dziedzictwo, ład | Ochrona zabytków; patrz wyniki-13 |
 
+## Karty per osoba
+
+Scalone profile operacyjne + portret dialogowy per radny: [`../radni/`](../radni/) — kanoniczny punkt wejścia dla aktywisty piszącego e-mail lub przygotowującego interpelację.
+
 ## Nawigacja chunków
 
 1. `01-struktura-frakcje.md` — skład RM, prezydium, frakcje, komisje stałe z przewodniczącymi.

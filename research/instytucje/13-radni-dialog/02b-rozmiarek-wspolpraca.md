@@ -1,5 +1,7 @@
 # Rozmiarek — obszary współpracy i zasady kontaktu
 
+> **Kanoniczna karta**: [`../radni/rozmiarek-mateusz.md`](../radni/rozmiarek-mateusz.md) — treść tego pliku scalona z kartą. Ten plik: źródłowy, nie aktualizować.
+
 Kontynuacja `02-portret-rozmiarek.md`.
 
 ## Obszary potencjalnej współpracy

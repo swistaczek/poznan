@@ -1,5 +1,7 @@
 # Portret: Przemysław Alexandrowicz (PiS)
 
+> **Kanoniczna karta**: [`../radni/alexandrowicz-przemyslaw.md`](../radni/alexandrowicz-przemyslaw.md) — profil operacyjny + dialog scalony. Ten plik: portret źródłowy, nie aktualizować.
+
 Jeden z filarów poznańskiego samorządu. Duży kapitał polityczny, rozpoznawalność, szacunek w środowiskach konserwatywnych, patriotycznych i katolickich. Polityk pryncypialny, ideowy — nie ogranicza roli samorządu do administrowania infrastrukturą.
 
 ## Historia i droga do polityki

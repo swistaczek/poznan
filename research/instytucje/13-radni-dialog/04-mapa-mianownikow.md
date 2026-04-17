@@ -12,6 +12,8 @@ Matryca zbieżności: gdzie deklaracje i biografie radnych przecinają się z in
 
 ## Ewa Jemielity
 
+> Karta: [`../radni/jemielity-ewa.md`](../radni/jemielity-ewa.md)
+
 | Oś | Narracja zbieżna |
 |---|---|
 | A | Ochrona ciągów komunikacyjnych dla seniorów, znoszenie barier przestrzennych. |
@@ -21,6 +23,8 @@ Matryca zbieżności: gdzie deklaracje i biografie radnych przecinają się z in
 | E | "Równouprawnienie Piątkowa" — przeciwdziałanie dyskryminacji budżetowej dzielnic peryferyjnych. |
 
 ## Mateusz Rozmiarek (AWF, Erasmus)
+
+> Karta: [`../radni/rozmiarek-mateusz.md`](../radni/rozmiarek-mateusz.md)
 
 | Oś | Narracja zbieżna |
 |---|---|
@@ -52,6 +56,8 @@ Matryca zbieżności: gdzie deklaracje i biografie radnych przecinają się z in
 
 ## Przemysław Alexandrowicz (konserwatysta)
 
+> Karta: [`../radni/alexandrowicz-przemyslaw.md`](../radni/alexandrowicz-przemyslaw.md)
+
 | Oś | Narracja zbieżna |
 |---|---|
 | A | Obrona spokoju przed anarchizacją ruchu; ochrona życia wielopokoleniowych rodzin z dziećmi. |
@@ -61,6 +67,8 @@ Matryca zbieżności: gdzie deklaracje i biografie radnych przecinają się z in
 | E | Stabilna, wielopokoleniowa rodzina w enklawie mieszkaniowej = fundament mikrogospodarki dzielnicy. |
 
 ## Adam Szabelski
+
+> Karta: [`../radni/szabelski-adam.md`](../radni/szabelski-adam.md)
 
 | Oś | Narracja zbieżna |
 |---|---|
