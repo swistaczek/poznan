@@ -21,7 +21,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # potrzebne dla git-revision-date-localized (opcjonalnie)
+          fetch-depth: 0
+
+      # System libs dla mkdocs-material[imaging] (social plugin: OG preview PNG).
+      # Pillow + cairosvg potrzebują libcairo / libpango / librsvg.
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
 
       - name: Setup Python
         uses: actions/setup-python@v5

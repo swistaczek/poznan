@@ -1,3 +1,8 @@
+> **Zreorganizowane (2026-04-17):** chunki w [`08-ngo/`](08-ngo/index.md), szablony w [`/szablony/ngo/`](../../szablony/ngo/) (jeśli istnieją).
+> Ten plik = pełne źródło, zachowane dla referencji. Do pracy operacyjnej użyj chunków.
+
+---
+
 # Wyniki: Baza NGO — organizacje wsparcia dla inicjatyw obywatelskich w Poznaniu (top 1%)
 
 - **Prompt źródłowy:** `research/prompty/08-ngo-baza.md`

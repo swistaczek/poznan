@@ -14,6 +14,7 @@ site_dir: _site
 
 theme:
   name: material
+  custom_dir: overrides
   language: pl
   palette:
     - scheme: default
@@ -46,19 +47,30 @@ theme:
 
 plugins:
   # search: PL stemmer nie jest wspierany w MkDocs Material (fallback do EN).
-  # Polskie słowa są indeksowane, brak morfologii (akustyka ≠ akustyczny w wyszukaniu).
   - search:
       separator: '[\s\-\.\,\;\:\!\?]+'
   - awesome-pages
-  # Opcjonalne pluginy — odkomentuj gdy potrzebne (i dodaj do requirements-docs.txt):
+  # social: auto-generuje OG image PNG + tagi Open Graph / Twitter Card per stronę.
+  # Wymaga mkdocs-material[imaging] (pillow + cairosvg).
+  - social:
+      cards_layout_options:
+        background_color: "#3f51b5"
+        color: "#ffffff"
+        font_family: Roboto
+  # git-revision-date: wyłączony — docs/ jest rsync-mirror z root, brak git-log
+  # w mirrorze. MkDocs sitemap używa build-date jako lastmod (wystarczająco dobre).
   # - git-revision-date-localized:
   #     type: date
   #     locale: pl
-  #     enable_creation_date: true
-  # - minify:
-  #     minify_html: true
-  #     minify_js: true
-  #     minify_css: true
+  #     fallback_to_build_date: true
+  # minify: kompresja HTML/CSS/JS dla Core Web Vitals / Page Speed.
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
 
 markdown_extensions:
   - abbr
@@ -93,6 +105,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/swistaczek/poznan
+      name: Repozytorium na GitHubie
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/swistak
+      name: Maintainer na X
   generator: false
 
 # Pliki wykluczone z publicznej strony.

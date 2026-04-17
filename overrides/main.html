@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{#- JSON-LD structured data: WebSite + Organization + SearchAction.
+    Dodaje rich-results support w Google (sitelinks search box, brand).
+    Wstawiane w <head> przez nadpisanie bloku extrahead z base.html Material. -#}
+
+{% block extrahead %}
+  {{ super() }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "{{ config.site_url | default('', true) }}#website",
+        "name": {{ config.site_name | tojson }},
+        "description": {{ config.site_description | default('', true) | tojson }},
+        "url": "{{ config.site_url | default('', true) }}",
+        "inLanguage": "{{ config.theme.language | default('pl', true) }}",
+        "publisher": { "@id": "{{ config.site_url | default('', true) }}#organization" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "{{ config.site_url | default('', true) }}?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Organization",
+        "@id": "{{ config.site_url | default('', true) }}#organization",
+        "name": {{ config.site_name | tojson }},
+        "url": "{{ config.site_url | default('', true) }}",
+        "sameAs": [
+          "{{ config.repo_url | default('', true) }}",
+          "https://x.com/swistak"
+        ]
+      }
+      {%- if page and page.meta and page.meta.title %}
+      ,
+      {
+        "@type": "Article",
+        "headline": {{ page.meta.title | tojson }},
+        {%- if page.meta.description %}
+        "description": {{ page.meta.description | tojson }},
+        {%- endif %}
+        "inLanguage": "{{ config.theme.language | default('pl', true) }}",
+        "isPartOf": { "@id": "{{ config.site_url | default('', true) }}#website" },
+        "mainEntityOfPage": "{{ page.canonical_url | default('', true) }}"
+      }
+      {%- endif %}
+    ]
+  }
+  </script>
+{% endblock %}

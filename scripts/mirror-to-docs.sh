@@ -30,6 +30,7 @@ rsync -a \
   --exclude='*.pyc' \
   --exclude='/node_modules/' \
   --exclude='/scripts/' \
+  --exclude='/overrides/' \
   --exclude='/mkdocs.yml' \
   --exclude='/requirements-docs.txt' \
   --exclude='.DS_Store' \
