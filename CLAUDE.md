@@ -60,6 +60,21 @@ Preferowane źródła danych o Poznaniu (gdy potrzebujesz faktu, a nie masz go w
 
 Jeśli cytujesz dane z tych źródeł — zapisuj URL **i** datę dostępu; treść BIP-u potrafi zniknąć po kadencji.
 
+## Metoda pracy: panel ekspertów przed finalną rekomendacją
+
+Sprawy w tym repo są **wysokostawkowe** (postępowania urzędowe i sądowe, inwestycje publiczne, reputacja inicjatyw obywatelskich) i **wieloaspektowe** (prawo administracyjne + cywilne, technika, zdrowie publiczne, urbanistyka, polityka lokalna). Pojedyncza perspektywa daje płytkie, generyczne rekomendacje.
+
+**Dlatego: zanim sformułujesz finalną rekomendację dla użytkownika, uruchom wielu sub-agentów w jednym wywołaniu równoległym (multiple tool calls in one message), z których każdy wciela się w top 1% eksperta innej dziedziny właściwej dla sprawy.** Używaj narzędzia `Agent` (subagent_type: `general-purpose` lub `Explore`), preferowany model: **Opus**.
+
+Zasady:
+- **Równolegle, nie sekwencyjnie** — jedna wiadomość, wiele wywołań `Agent`. Każdy to osobna rola (np. akustyk torowy, prawnik cywilista — immisje, epidemiolog środowiskowy, ekspert uspokojenia ruchu, ekspert UDIP).
+- **Każdy sub-agent dostaje** personę top 1% z twardymi kwalifikacjami + precyzyjny brief + sekcję „Czego NIE chcemy". Gotowe wzorce są w `research/prompty/` — używaj ich jako bazy.
+- **Minimum 3, preferowane 4–6 perspektyw** dla decyzji strategicznych: wybór drogi procesowej, projekt interwencji infrastrukturalnej, kampania medialna, wniosek do rady miasta.
+- **Syntezę robi agent główny**, nie użytkownik. Przedstaw: rekomendację, konsensus ekspertów, istotne rozbieżności z nazwiskami perspektyw, i ostateczną propozycję działania.
+- **NIE uruchamiaj panelu** dla drobnych zadań operacyjnych (formatowanie tabeli, poprawka literówki) — marnotrawstwo tokenów i czasu użytkownika.
+
+Kryterium uruchomienia: „gdybym pomylił się w tej rekomendacji, czy kosztowałoby to więcej niż kilka minut korekty". Jeśli TAK (np. grozi kompromitacja publiczna, przegrany proces, zmarnowane środki BO, blokada inicjatywy) — odpal panel ekspertów. Jeśli NIE — odpowiedz bezpośrednio.
+
 ## Czego NIE robić
 
 - Nie zakładaj struktury projektu kodowego (nie twórz `package.json`, `.gitignore` dla `node_modules`, CI, itp.) — to repo dokumentowe.
