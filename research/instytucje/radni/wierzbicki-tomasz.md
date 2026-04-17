@@ -7,7 +7,7 @@ okreg: do weryfikacji
 ocena: aktywny partner — transport DDR Tempo 30
 updated: 2026-04-17
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
-source_dialog: brak pelnego portretu
+source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
 
 # Wierzbicki Tomasz (KO) — okręg `[do wer.]`
@@ -54,11 +54,9 @@ Korzenie w stowarzyszeniu Prawo do Miasta; ekspert inżynierii ruchu i planowani
 
 **Preferowany kanał**: formalna korespondencja → komisja. ZDM rzadko modyfikuje projekty pod wpływem luźnych wniosków — ale rekomendacja komisji jest wiążąca.
 
-## Proponowany wstęp do rozmowy [do opracowania]
+## Proponowany wstęp do rozmowy
 
-Brak pełnego scenariusza dialogowego — portret Tier 2. Zastosuj zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md).
-
-Szkic: Odnieś się do konkretnego projektu DDR lub strefy Tempo 30, którego budżet lub projekt jest na etapie opiniowania w komisji. Dostarcz symulację wpływu na przepustowość + dane wypadkowości z analogicznej lokalizacji w europejskim mieście.
+„Panie Radny, kontaktujemy się z Panem nie tylko ze względu na Pana rolę w Komisji Transportu, ale przede wszystkim jako z projektantem drogowym, który na przestrzeni lat udowodnił, że poprawę jakości życia w mieście uzyskuje się poprzez racjonalną optymalizację przekrojów ulicznych. Inspirując się Pana wcześniejszymi postulatami dotyczącymi adaptacji rozwiązań wrocławskich, przygotowaliśmy precyzyjną, techniczną inwentaryzację dla ulicy [X]. Zgromadziliśmy dane wymiarowe udowadniające, że bez ingerencji w fundamentalną przepustowość, możliwe jest tam wydzielenie infrastruktury rowerowej obniżającej jednocześnie emisję hałasu. Będziemy wdzięczni za Pana ekspercką recenzję naszych rysunków technicznych i wspólną dyskusję nad ich zgodnością z procedurami ZDM."
 
 ## Co przygotować przed kontaktem
 
@@ -69,12 +67,30 @@ Szkic: Odnieś się do konkretnego projektu DDR lub strefy Tempo 30, którego bu
 
 ## Tło i ścieżka [zaplecze]
 
-Korzenie w ruchu miejskim (Prawo do Miasta). Ekspert inżynierii ruchu i planowania przestrzennego. Angażuje się w debaty publiczne wyważenie i analitycznie. `[do wer.: historia kadencji, rada osiedla, NGO]`
+Przewodniczący Komisji Transportu RMP, zawodowo projektant drogowy w biurze projektów. Korzenie: stowarzyszenie Prawo do Miasta, Rada Osiedla Świerczewo od 2009 r., radny RMP od 2014 r.; wykształcenie — Politechnika Poznańska (budownictwo) + UAM (gospodarka przestrzenna) `[do wer.]`. Wektor: pragmatyk inżynieryjny — uruchamiają go symulacje przepustowości, statystyki wypadkowości i rysunki techniczne, odrzuca argumenty emocjonalne i aktywistyczne slogany.
 
-## Portret dialogowy [do opracowania]
+## Portret dialogowy
 
-Brak pełnego portretu — patrz zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)  
-Prompt do wygenerowania portretu: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
+### Historia i droga
+
+Legitymizacja polityczna z oddolnego aktywizmu osiedlowego, nie z aparatu partyjnego. Świerczewo 2009 → Prawo do Miasta 2014–2018 → KO. Praktyk: projektant drogowy, który dekoduje redukcję szerokości pasa jako narzędzie wymuszające ograniczenie prędkości. W Komisji Transportu pełni funkcję kluczowego analityka — łączy mandat radnego z codziennym warsztatem inżyniera ruchu.
+
+### Wartości i troski — co napędza
+
+- **Pragmatyzm inżynieryjny i optymalizacja**: bezpieczeństwo i komfort przez lepsze wykorzystanie istniejących przekrojów, bez totalnej likwidacji infrastruktury samochodowej.
+- **Nowoczesna mobilność jako standard techniczny**: infrastruktura rowerowa = element współczesnego projektowania drogowego, nie kaprys aktywistów; odwołuje się do rozwiązań z Wrocławia i Zachodu.
+- **Maksymalizacja użyteczności przestrzeni publicznej**: mikro-interwencje (kładki, azyle, zwężenia) z natychmiastowym efektem.
+- **Niezależność myślenia**: broni kontrowersyjnych rozwiązań (np. zwężanie pasów w centrum do 3,0 m) także w sporze z własnym klubem (Dudzic-Biskupska).
+
+### Cytaty i wypowiedzi
+
+- „Nie na tym to polega [aby zmniejszać liczbę pasów dla aut]. Chodzi o to by lepiej wykorzystywać to, co mamy." `[do weryfikacji]`
+- „Byliśmy na takich ulicach we Wrocławiu, które mają siedem metrów, tak jak u nas — i tam te pasy dla rowerzystów zostały wyznaczone." `[do weryfikacji]`
+- „W nadchodzących latach chcę się skupić na kilku kluczowych obszarach [...] takich jak transport, planowanie przestrzenne i zielone przestrzenie." `[do weryfikacji]`
+
+### Archetypowy profil komunikacyjny
+
+Pragmatyk inżynieryjny. Myśli przekrojami, wytycznymi PORD i precedensami z innych polskich miast. Mobilizują go gotowe, wymiarowane propozycje i rysunki techniczne; zraża go patos aktywistyczny i argumenty czysto ideologiczne.
 
 ## Źródła pogłębione
 

@@ -7,7 +7,7 @@ okreg: do weryfikacji
 ocena: inne priorytety — stabilnosc eskalacja instytucjonalna
 updated: 2026-04-17
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
-source_dialog: brak pelnego portretu
+source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
 
 # Ganowicz Grzegorz (KO) — okręg `[do wer.]`
@@ -54,14 +54,34 @@ Nie kontaktować przy sprawach operacyjnych. Angażować tylko przy poważnych n
 - [ ] Kopia bezpośredniego monitu do organu (dowód próby kontaktu)
 - [ ] Opis zagrożenia dla autorytetu Rady Miasta
 
+## Proponowany wstęp do rozmowy
+
+„Panie Przewodniczący, wiemy, że jako osoba uosabiająca powagę i stabilność poznańskiego samorządu, przywiązuje Pan najwyższą wagę do przejrzystości procedur i szacunku dla demokratycznego państwa prawa. Niestety, nasze wielomiesięczne analizy wykazują, że procesy planowania kluczowych inwestycji przestrzennych i transportowych w Poznaniu coraz częściej rozmijają się z zasadami elementarnej transparentności, podważając tym samym fundament zaufania obywateli do Urzędu Miasta. Nie szukamy w Radzie politycznej awantury, lecz przywrócenia rzetelności. Chcielibyśmy zaprezentować Panu naszą dokumentację pokazującą te luki, prosząc o Pański autorytet w celu ucywilizowania dialogu między miejskimi spółkami a stroną społeczną."
+
 ## Tło i ścieżka [zaplecze]
 
-Wieloletni Przewodniczący RM — instytucja sama w sobie. Nurt centrowy, nacisk na stabilność i płynność proceduralną. Ewolucyjne, nie rewolucyjne zmiany w przestrzeni. W social mediach: głównie kontekst reprezentacyjny i kulturalny. `[do wer.: kadencje, NGO]`
+Przewodniczący Rady Miasta Poznania nieprzerwanie od grudnia 2005, polityk centrowo-liberalny KO. Korzenie: opozycja 1980–84, współzałożyciel NZS, rok w więzieniu w Łęczycy `[do wer.]`. Wektor: proceduralizm i autorytet instytucjonalny — angażować tylko przy eskalacjach.
 
-## Portret dialogowy [do opracowania]
+## Portret dialogowy
 
-Brak pełnego portretu — patrz zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)  
-Prompt do wygenerowania portretu: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
+### Historia i droga
+
+Rocznik 1960, inżynier budownictwa lądowego (PP 1983). Współzałożyciel NZS (1980), kolporter prasy podziemnej, więziony rok w Łęczycy (1984) za działalność opozycyjną. Radny RMP od 1998, Przewodniczący Rady od grudnia 2005 — jedna z najdłuższych ciągłości funkcji w polskim samorządzie. Życiorys opozycyjny ukształtował skrajne przywiązanie do procedury i ciągłości demokratycznej jako gwarancji przeciw autorytaryzmowi.
+
+### Wartości i troski — co napędza
+
+- **Proceduralizm i kultura demokratyczna**: ład ustrojowy, szacunek dla regulaminu RMP, wolność debaty jako gwarancja anty-autorytarna.
+- **Konsensus polityczny**: wyważone decyzje, napięcia władza wykonawcza ↔ uchwałodawcza bez destabilizacji.
+- **Instytucjonalizm**: wieloletnie, sprawne funkcjonowanie samorządu ponad partykularyzm frakcji.
+- **Etyka i godność urzędu**: stanowcza reakcja na populizm, wulgaryzację dyskursu, manipulację faktami.
+
+### Cytaty i wypowiedzi
+
+Jako Przewodniczący rzadko wygłasza polityczne manifesty sektorowe. Retoryka oparta na wyważonych konkluzjach moderujących sesje RM i wprowadzaniu porządku prawnego. `[do weryfikacji — brak zidentyfikowanego cytatu publicznego w źródle wyniki-14]`
+
+### Archetypowy profil komunikacyjny
+
+Kotwica proceduralna: myśli kategoriami stabilności ustrojowej i ciągłości instytucji. Mobilizuje go naruszenie Statutu RMP i podważanie autorytetu Rady, nie pojedynczy problem operacyjny — interweniuje, gdy zagrożony jest fundament zaufania obywateli do samorządu.
 
 ## Źródła pogłębione
 

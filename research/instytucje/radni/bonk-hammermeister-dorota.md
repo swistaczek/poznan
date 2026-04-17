@@ -7,7 +7,7 @@ okreg: 1
 ocena: aktywny partner — halas piesi transparentnosc
 updated: 2026-04-17
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
-source_dialog: brak pelnego portretu
+source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
 
 # Bonk-Hammermeister Dorota (Lewica) — Okręg 1
@@ -53,11 +53,9 @@ Wcześniejsza aktywność w radach osiedli; zna mechanizmy spółek komunalnych 
 
 **Jak aktywować**: Dostarcz materiał z amatorskimi pomiarami akustycznymi i relacjami mieszkańców → przekształca w interpelację.
 
-## Proponowany wstęp do rozmowy [do opracowania]
+## Proponowany wstęp do rozmowy
 
-Brak pełnego scenariusza dialogowego — portret Tier 2. Zastosuj zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md).
-
-Szkic: Napisz przez social media / e-mail: „Pani Radna, mieszkańcy [adres] dokumentują od [data] hałas przekraczający [X] dB. Mamy amatorskie pomiary i 80 podpisów sąsiadów. Prosimy o interpelację do MPK."
+„Pani Radna, uważnie analizowaliśmy Pani wcześniejsze interpelacje, w których celnie diagnozuje Pani hałas komunikacyjny jako równoważnik smogu. Niestety, nasze pomiary na ulicy Dąbrowskiego potwierdzają Pani najgorsze obawy: program ochrony przed hałasem w wielu miejscach pozostaje martwym dokumentem. Nie chcemy jednak ograniczać się do narzekania. Przygotowaliśmy zestawienie niskokosztowych mikro-interwencji dla tego rejonu — analogicznych do postulowanych przez Panią poduszek berlińskich i spowolnień — wsparte oficjalnymi danymi pozyskanymi w trybie dostępu do informacji publicznej. Chcielibyśmy połączyć nasze siły analityczne z Pani determinacją, aby skutecznie wyegzekwować te rozwiązania od podległych miastu zarządców infrastruktury."
 
 ## Co przygotować przed kontaktem
 
@@ -68,12 +66,29 @@ Szkic: Napisz przez social media / e-mail: „Pani Radna, mieszkańcy [adres] do
 
 ## Tło i ścieżka [zaplecze]
 
-Wcześniejsza aktywność w radach osiedli Wildy; buduje polityczną karierę na obronie konkretnych interesów wspólnoty lokalnej. Historycznie: Wiceprzewodnicząca Komisji Rewizyjnej = wgląd w mechanizmy finansowe spółek komunalnych. `[do wer.: kadencje, rada osiedla, NGO]`
+Kapitał polityczny zbudowany w bezkompromisowym aktywizmie miejskim. Jedna z kluczowych postaci stowarzyszenia Prawo do Miasta i obrończyni Wildy przed degradacją przestrzenną. W 2018 r. kandydatka na Prezydenta Miasta Poznania z ramienia szerokiej koalicji społeczników. Jako radna i była Wiceprzewodnicząca Komisji Rewizyjnej wypracowała model drobiazgowej kontroli aparatu administracyjnego — zapytania radnych i tryb UDIP do ujawniania opieszałości w realizacji miejskich programów ochrony środowiska. Reprezentując gęsto zabudowany, historyczny okręg śródmiejski, rozumie procesy gentryfikacji i wpływ uciążliwości komunikacyjnych na ucieczkę mieszkańców na przedmieścia. `[do wer.: pełny przebieg kadencji, aktualne funkcje komisyjne]`
 
-## Portret dialogowy [do opracowania]
+## Portret dialogowy
 
-Brak pełnego portretu — patrz zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)  
-Prompt do wygenerowania portretu: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
+### Historia i droga
+
+Korzenie w aktywizmie Wildy i Prawie do Miasta; kandydatka na Prezydenta w 2018 r. jako głos koalicji antysystemowej. W Radzie Miasta łączy empatię dla codziennych uciążliwości (hałas, brak drzew) z bezwzględnym egzekwowaniem prawa miejscowego. Jako (była) Wiceprzewodnicząca Komisji Rewizyjnej wyspecjalizowała się w narzędziach kontrolnych — zapytania radnych, UDIP, sprawozdania ze strategii.
+
+### Wartości i troski — co napędza
+
+- **Bezkompromisowa ochrona zdrowia publicznego**: hałas drogowy i tramwajowy = równoważnik smogu; destrukcyjny wpływ na psychikę i zdrowie fizyczne.
+- **Siła mikro-interwencji**: frustracja biernością urzędów odkładających działania na „wielkie inwestycje"; wiara w poduszki berlińskie, punktowe zwężenia, drobne nasadzenia.
+- **Ochrona środowiska jako absolutny priorytet**: głośny sprzeciw wobec komercjalizacji zieleni (m.in. ostre interwencje ws. niszczenia terenów przez Runmageddon).
+- **Odpowiedzialność i transparentność urzędnicza**: wymaga od wiceprezydentów i zarządów spółek miejskich sprawozdań z realizacji strategii uchwalonych przez radę.
+
+### Cytaty i wypowiedzi
+
+- „Według wielu organizacji międzynarodowych hałas i smog są najpowszechniejszymi w Europie zanieczyszczeniami środowiska." `[do weryfikacji]`
+- „Nawet w okresie pandemii i uszczuplenia środków budżetowych miasta możliwe jest prowadzenie działań przeciwhałasowych, gdyż nie wymaga to wielkich inwestycji i przebudów, a jedynie małych realizacji — jak np. poduszki berlińskie i zwężenia spowalniające ruch samochodów." `[do weryfikacji]`
+
+### Archetypowy profil komunikacyjny
+
+Strażniczka Śródmieścia. Myśli dyrektywami środowiskowymi UE, mapami akustycznymi i logiką UDIP. Mobilizują ją twarde dane pozyskane obywatelsko, połączone z głosem mieszkańców; zraża ją arogancja wielkich inwestycji i język przepustowości kołowej.
 
 ## Źródła pogłębione
 

@@ -7,7 +7,7 @@ okreg: do weryfikacji
 ocena: wspólne priorytety — transport zbiorowy środowisko redystrybucja
 updated: 2026-04-17
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
-source_dialog: brak pelnego portretu
+source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
 
 # Lewandowski Tomasz (Lewica Centrum) — okręg `[do wer.]`
@@ -52,11 +52,9 @@ Były wiceprezydent = zna ograniczenia operacyjne urzędów od środka; odporny 
 
 **Strategia specjalna**: oddanie „autorstwa" projektu klubowi Lewicy Centrum w zamian za gwarancję przepchnięcia w WPF (sprawdza się przy projektach odrzucanych biurokratycznie).
 
-## Proponowany wstęp do rozmowy [do opracowania]
+## Proponowany wstęp do rozmowy
 
-Brak pełnego scenariusza dialogowego — portret Tier 2. Zastosuj zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md).
-
-Szkic: „Szanowny Panie Przewodniczący, projekt [opis] pozwoli obniżyć czas przejazdu linii [X] o [Y] minut, poprawiając dostępność ekonomiczną transportu dla [liczba] pasażerów z [dzielnica]. Koszty zewnętrzne obecnego stanu szacujemy na [kwota] rocznie (wypadki, hałas, opieka zdrowotna). Prosimy o rozważenie poprawki budżetowej."
+„Panie Przewodniczący, Pańska zasada, że społeczne oczekiwania należy bezwzględnie zderzać z realiami finansowymi i organizacyjnymi, stanowi dla nas fundament myślenia o przestrzeni miejskiej. Zwracamy się do Pana, ponieważ widzimy głęboki związek między degradacją infrastruktury komunikacyjnej (w tym drastycznymi przekroczeniami norm hałasu) a spadkiem jakości życia w starym, często komunalnym zasobie mieszkaniowym Poznania, który przez lata starał się Pan ratować. Przygotowaliśmy analizę pokazującą, jak punktowe, nisko-kosztowe rozwiązania w inżynierii ruchu drogowego i torowego mogą istotnie zabezpieczyć zrewitalizowaną tkankę miejską. Szukamy z Panem pragmatycznego dialogu, opierając nasze postulaty na prawie i mechanizmach finansowych, a nie na abstrakcyjnych manifestach."
 
 ## Co przygotować przed kontaktem
 
@@ -67,12 +65,29 @@ Szkic: „Szanowny Panie Przewodniczący, projekt [opis] pozwoli obniżyć czas 
 
 ## Tło i ścieżka [zaplecze]
 
-Weteran samorządowy. Były wiceprezydent miasta — zna procesy wewnątrz urzędu, odporny na biurokratyczne uniki. Ogromny kapitał wpływu i zdolność do formowania koalicji. Polityka mieszkaniowa, zapobieganie wykluczeniu, optymalizacja transportu zbiorowego pod kątem dostępności ekonomicznej. `[do wer.: kadencje, NGO]`
+Przewodniczący Klubu Lewicy Centrum w RMP — kapitał koalicyjny pozwalający blokować lub przepychać poprawki budżetowe. Równolegle wiceminister w Ministerstwie Rozwoju i Technologii (od sierpnia 2024) → dostęp do Funduszu Dopłat BGK i instrumentów prawodawstwa centralnego. Sojusznictwo warunkowe: otwiera się na argumenty socjalno-redystrybucyjne i makroekonomiczne, zamyka na czystą retorykę ekologiczną. Szczegóły biograficzne → `### Historia i droga`.
 
-## Portret dialogowy [do opracowania]
+## Portret dialogowy
 
-Brak pełnego portretu — patrz zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)  
-Prompt do wygenerowania portretu: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
+### Historia i droga
+
+Człowiek instytucja wielkopolskiej lewicy, blisko dwie dekady w realiach zarządczych Poznania. Prawnik z praktyką w prawie spółek handlowych — odcisnęło to piętno na stylu uprawiania polityki. Jako wiceprezydent brał najtrudniejsze portfele społeczne; jako prezes ZKZL ratował zaniedbaną substancję komunalną. Obecna podwójna rola (wiceminister + radny) daje mu dostęp do instrumentów prawodawstwa centralnego (m.in. prawo budowlane) oraz funduszy państwowych.
+
+### Wartości i troski — co napędza
+
+- **Pragmatyzm społeczny i odpowiedzialność finansowa**: obietnice są bezwartościowe, dopóki nie "zderzy się ich z możliwościami" prawnymi i budżetowymi.
+- **Rewitalizacja komunalna**: zabezpieczanie interesów najuboższych przez renowację wyłączonych z eksploatacji, zaniedbanych kamienic — stabilny, bezpieczny zasób miejski.
+- **Polityka mieszkaniowa jako kręgosłup miasta**: opór wobec skrajnej gentryfikacji, gdzie zrewitalizowane śródmieście staje się enklawą niedostępną dla średnich i niskich dochodów.
+- **Państwo prawa i procedura**: problemy miejskie przez matrycę procedur korporacyjnych i prawa gospodarczego. Chęci nie budują bloków — robią to mechanizmy finansowe.
+
+### Cytaty i wypowiedzi
+
+- „Oczekiwania musimy zderzyć z możliwościami." [do weryfikacji]
+- „Z tych środków samorządy mogą remontować kompleksowo zaniedbane i często wyłączone z eksploatacji kamienice, co jest palącą potrzebą społeczności lokalnych. Samorządy powinny więc przewartościować [priorytety inwestycyjne]." [do weryfikacji]
+
+### Archetypowy profil komunikacyjny
+
+Pragmatyk systemowy. Myśli kategoriami prawa gospodarczego, kodeksu spółek handlowych, ustawy o finansach publicznych, mechanizmów finansowania centralnego (BGK, fundusze UE). Mobilizuje go postulat pokazujący źródło pieniędzy i udowadniający, że rozwiązanie infrastrukturalne przeciwdziała wykluczeniu społecznemu oraz degradacji mienia miejskiego.
 
 ## Źródła pogłębione
 

@@ -7,7 +7,7 @@ okreg: 2
 ocena: inne priorytety — ROI koszty zdrowotne oszczednosci
 updated: 2026-04-17
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
-source_dialog: brak pelnego portretu
+source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
 
 # Dudzic-Biskupska Małgorzata (KO) — Okręg 2
@@ -52,9 +52,9 @@ Każdy projekt infrastrukturalny musi uzyskać jej aprobatę finansową. Otwiera
 
 **Czego unikać**: projekty z wysokimi kosztami utrzymania bez źródła finansowania; argumenty bez cyfr.
 
-## Proponowany wstęp do rozmowy [do opracowania]
+## Proponowany wstęp do rozmowy
 
-Szkic: „Szanowna Pani Radna, przedstawiamy analizę ROI projektu [opis]. Koszt realizacji: [X] PLN. Szacowane oszczędności na naprawach nawierzchni przez 10 lat: [Y] PLN. Redukcja kosztów opieki zdrowotnej (metodologia HEAT): [Z] PLN/rok. Bilans finansowy na korzyść budżetu miasta: [suma] PLN w perspektywie 10-letniej."
+„Pani Przewodnicząca, jako strona społeczna mamy pełną świadomość, że przy 90-milionowych ubytkach w PIT, to na Pani spoczywa niewdzięczna odpowiedzialność chronienia fundamentów finansowych miasta. Dlatego nasz projekt nowej organizacji ruchu w ścisłym centrum przygotowaliśmy z ominięciem roszczeniowej ideologii, opierając go całkowicie na wskaźnikach ROI. Zgadzamy się z Pani intuicją — malowanie farbą wąskich pasów dla rowerów nie zapewnia bezpieczeństwa dzieciom. Nasz audyt udowadnia, że wdrażanie bezpiecznej, fizycznie separowanej infrastruktury oraz rygorystyczna walka z hałasem stymuluje powrót zamożnych mieszkańców i klasy średniej do śródmieścia, co bezpośrednio poszerza bazę wpływów z podatku od nieruchomości i ratuje lokalną gospodarkę. Chcielibyśmy poddać tę analizę biznesową Pani surowej weryfikacji."
 
 ## Co przygotować przed kontaktem
 
@@ -66,12 +66,29 @@ Szkic: „Szanowna Pani Radna, przedstawiamy analizę ROI projektu [opis]. Koszt
 
 ## Tło i ścieżka [zaplecze]
 
-Okręg 2. Kluczowa w komisjach budżetowych i WPF. Każdy projekt infrastrukturalny musi uzyskać jej aprobatę finansową. Ocenia przez pryzmat ROI i kosztów operacyjnych. `[do wer.: kadencje, NGO, wykształcenie]`
+Przewodnicząca Komisji Budżetu, Finansów, Przedsiębiorczości i Nadzoru Właścicielskiego; szefowa klubu radnych KO. Expertise: ~25 lat w bankowości i finansach korporacyjnych, Wiceprezes Zarządu Wielkopolskiego Funduszu Rozwoju, operująca środkami JESSICA/JEREMIE `[do wer.]`. Wektor: ROI i dyscyplina budżetowa — każde żądanie musi trafić do niej z kosztorysem i wskazanym źródłem finansowania.
 
-## Portret dialogowy [do opracowania]
+## Portret dialogowy
 
-Brak pełnego portretu — patrz zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)  
-Prompt do wygenerowania portretu: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
+### Historia i droga
+
+Przewodnicząca Komisji Budżetu i szefowa klubu KO; w Radzie od 2018 r. Blisko ćwierćwiecza w bankowości i zarządzaniu ryzykiem korporacyjnym — m.in. Wiceprezes Wielkopolskiego Funduszu Rozwoju, operująca środkami JESSICA/JEREMIE. Absolwentka Uniwersytetu Ekonomicznego w Poznaniu. Personifikacja rygoru księgowego: świat zbudowany na WPF, amortyzacji, wskaźnikach rentowności i wpływach podatkowych. Jej podejście do postulatów ruchów miejskich łączy chłód finansisty z pragmatyzmem „matki z dzieckiem".
+
+### Wartości i troski — co napędza
+
+- **Bezwzględna stabilność budżetu (ROI)**: wskaźnik zwrotu z inwestycji i bilans wydatków operacyjnych; miasto nie utrzyma usług bez bolesnych oszczędności, szczególnie po 90-milionowych ubytkach w PIT.
+- **Obrona źródeł dochodu**: zdecydowane odrzucanie propozycji redukcji podatków od nieruchomości i transportu jako niebezpiecznych dla funkcjonowania miasta.
+- **Praktyczne bezpieczeństwo (anty-eksperymenty)**: niechęć do ideologicznej inżynierii ruchu tworzącej iluzję infrastruktury; preferuje twardą, fizycznie oddzieloną infrastrukturę lub alternatywne sposoby walki z korkami.
+- **Wspieranie przedsiębiorczości**: inwestycje miejskie mają stymulować lokalne biznesy i chronić bazę podatkową centrum.
+
+### Cytaty i wypowiedzi
+
+- „Wydatki Miasta jednak rosną. Dlatego w tej chwili nie ma podstawy do zmniejszania zarówno podatku od nieruchomości, jak i podatku transportowego. Ze względu na spowolnienie gospodarcze jeszcze wiele rzeczy może się wydarzyć." [do weryfikacji]
+- O optymalizacji i węższych pasach ruchu dla rowerów: „Jadąc z dziećmi na rowerach na taką ścieżkę rowerową bym nie wjechała. Bałabym się o ich bezpieczeństwo. Są inne sposoby na rozładowanie korków w mieście niż tylko zmuszanie kierowców do przesiadania się na rowery." [do weryfikacji]
+
+### Archetypowy profil komunikacyjny
+
+Myśli jak audytor finansowy w jednej osobie z główną księgową korporacji: matematyka, arkusze Excel, CBA/ROI, ukryte straty podatkowe. Mobilizuje ją rozmowa w kontekście bezpieczeństwa „najsłabszych" (matka dowożąca dziecko do szkoły) oraz dowód, że degradacja środowiskowa odstrasza mieszkańców i drenuje bazę PIT/podatku od nieruchomości.
 
 ## Źródła pogłębione
 

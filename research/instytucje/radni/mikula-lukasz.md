@@ -7,7 +7,7 @@ okreg: 1
 ocena: inne priorytety — procedury planistyczne blad proceduralny
 updated: 2026-04-17
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
-source_dialog: brak pelnego portretu
+source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
 
 # Mikuła Łukasz (KO) — Okręg 1
@@ -53,11 +53,9 @@ Systemowy, nie ideologiczny — arbiter między deweloperami a mieszkańcami w g
 
 **Format**: Formalna analiza prawno-planistyczna: wskaźnik + artykuł + niezgodność → możliwa zmiana decyzji.
 
-## Proponowany wstęp do rozmowy [do opracowania]
+## Proponowany wstęp do rozmowy
 
-Brak pełnego scenariusza dialogowego — portret Tier 2. Zastosuj zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md).
-
-Szkic: „Szanowny Panie Radny, projekt MPZP [sygnatura] zawiera wskaźnik intensywności zabudowy X, który naszym zdaniem jest niezgodny z §Y studium uwarunkowań z [data]. Wnosimy o weryfikację tej niezgodności przed przyjęciem uchwały."
+„Panie Profesorze, opierając się na Pana badaniach z zakresu zarządzania obszarami metropolitalnymi, przeanalizowaliśmy korelacje między najnowszymi błędami w realizacji polityki transportowej Poznania (hałas, chaos węzłów) a ryzykiem przyspieszenia zjawiska suburbanizacji i degradacji centrum. Jako Przewodniczący Komisji Polityki Przestrzennej wielokrotnie punktował Pan luki i nietransparentne procedury w kształtowaniu ładu przestrzennego przez jednostki miejskie. Zgromadziliśmy twardy materiał dowodowy — wyciągnięty w trybie dostępu do informacji publicznej — obnażający fatalną koordynację planistyczną i infrastrukturalną na kluczowych osiedlach. Chcielibyśmy zaprezentować Panu te dane, licząc, że Pana ekspertyza pomoże przekuć je w niezbędną korektę systemową polityki miasta."
 
 ## Co przygotować przed kontaktem
 
@@ -68,12 +66,30 @@ Szkic: „Szanowny Panie Radny, projekt MPZP [sygnatura] zawiera wskaźnik inten
 
 ## Tło i ścieżka [zaplecze]
 
-Okręg 1. Nauczyciel akademicki, ekspert urbanistyki. Nadaje ton pracom Komisji Polityki Przestrzennej. Portfolio: MPZP, dogęszczanie tkanki miejskiej wzdłuż korytarzy transportowych, rozwój sieci tramwajowej. Wysoce sformalizowany, chłodny, zdystansowany. `[do wer.: uczelnia, NGO, kadencje]`
+Dr hab. UAM, Przewodniczący Komisji Polityki Przestrzennej RMP od 2010. Expertise: prawo + urbanistyka; Metropolia Poznań, TUP. Wektor systemowy/akademicki — reaguje na błędy prawno-planistyczne, nie na emocjonalny apel. `[do wer.: bieżąca afiliacja, kadencje RMP]`
 
-## Portret dialogowy [do opracowania]
+## Portret dialogowy
 
-Brak pełnego portretu — patrz zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)  
-Prompt do wygenerowania portretu: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
+### Historia i droga
+
+Prawnik i urbanista w jednej osobie (UAM: gospodarka przestrzenna 2005, prawo 2007). Doktorat o zarządzaniu obszarami metropolitalnymi — teoretyczne zaplecze przekuwa na pracę legislacyjną RMP. Od 2010 r. Przewodniczący Komisji Polityki Przestrzennej; dodatkowo szef Metropolitalnej Komisji Planistycznej Stowarzyszenia Metropolia Poznań oraz prezes poznańskiego oddziału TUP. Najpotężniejszy umysł planistyczny w poznańskim samorządzie — łączy rygor akademicki z instrumentem uchwałodawczym.
+
+### Wartości i troski — co napędza
+
+- **Integralność planowania urbanistycznego**: miastem zarządza się przez spójne MPZP i plany ogólne, nie przez doraźne, korupcjogenne „wuzetki".
+- **Walka z suburbanizacją**: utrzymać jakość życia w centrum na tyle wysoko, by zahamować exodus do powiatu ziemskiego (hałas, transport, ubytek PIT-u).
+- **Wiarygodność merytoryczna**: szybkie i bezwzględne punktowanie interpretacyjnego naciągania przepisów przez administrację.
+- **Spójność metropolitalna**: perspektywa całej aglomeracji, nie pojedynczej działki.
+
+### Cytaty i wypowiedzi
+
+„Jak to nazwać inaczej niż określić je jako postępowanie, jak to się modnie mówi, nietransparentne. [...] Mam nadzieję, że dzisiaj rzeczywiście odeślemy to z powrotem do powtórzenia procedury, [...] żeby skorygować błędy." `[do weryfikacji — kontekst sesji RMP]`
+
+„Obecnie wdrażana reforma planowania ma na celu uporządkowanie i ujednolicenie zasad kształtowania przestrzeni, jednak budzi liczne kontrowersje." (referat akademicki) `[do weryfikacji — źródło i data]`
+
+### Archetypowy profil komunikacyjny
+
+Strateg przestrzenny: myśli kategoriami makro-urbanistyki, wskaźników intensywności zabudowy i struktury metropolii. Mobilizuje go wykazany błąd proceduralny lub niezgodność ze studium — nie emocjonalny apel ani anegdota. Działa, gdy dostaje łańcuch przyczynowo-skutkowy: zły projekt transportowy → patologia w zagospodarowaniu → suburbanizacja.
 
 ## Źródła pogłębione
 

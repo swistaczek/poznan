@@ -7,7 +7,7 @@ okreg: do weryfikacji
 ocena: aktywny partner — pelna zbieznosc z agenda repo
 updated: 2026-04-17
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
-source_dialog: brak pelnego portretu
+source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
 
 # Garczewski Łukasz (Społeczny Poznań) — okręg `[do wer.]`
@@ -39,9 +39,11 @@ Profil w pełni zbieżny z agendą repo: zrównoważony transport, jakość prze
 
 Angażować priorytetowo. Nie trzeba specjalnego framingu — pełna zbieżność. Dostarczyć konkretne dane lub pomysł → gotowość do działania.
 
-## Proponowany wstęp do rozmowy [do opracowania]
+## Proponowany wstęp do rozmowy
 
-Brak pełnego scenariusza dialogowego — ale nie jest potrzebny (pełna zbieżność). Kontakt bezpośredni.
+> „Łukaszu, obserwujemy, jak trafnie punktujesz powrót do czasów arogancji władzy i zamkniętych drzwi w poznańskim magistracie — to, co nazwałeś «wejściem Grobelnego w Jaśkowiaka». Jako strona społeczna mierzymy się z tym samym murem: z ignorowaniem twardych danych ekologicznych i transportowych przez miejskie jednostki. Korzystając z narzędzi OSINT i UDIP, wyciągnęliśmy na światło dzienne dokumenty obnażające absurdy planowania polityki zrównoważonej mobilności. Chcemy połączyć siły z kimś, kto nie boi się użyć tych danych na forum publicznym i wierzy, że Poznań to nasz wspólny dom, a nie folwark grupy urzędników."
+
+Uwaga komunikacyjna: forma pozioma, bez tytulatury, szybka wymiana przez kanały cyfrowe.
 
 ## Co przygotować przed kontaktem
 
@@ -49,16 +51,34 @@ Brak pełnego scenariusza dialogowego — ale nie jest potrzebny (pełna zbieżn
 - [ ] Dane / dokumentacja
 - [ ] Propozycja współpracy lub interpelacji
 
-## Tło i ścieżka [zaplecze — do weryfikacji]
+## Tło i ścieżka [zaplecze]
 
-`[do weryfikacji — brak szczegółowej biografii w źródłach; profil operacyjny tylko 2-liniowy. Uzupełnić przed spotkaniem z BIP/social media/prasy lokalnej]`
+Lider komitetu Społeczny Poznań, radny RMP. Expertise: transparentność / OSINT / UDIP, były prezes Wikimedia Polska. Wektor sojuszniczy: pełna zbieżność z agendą repo, ostry krytyk status quo. `[do wer.: kadencje, szczegóły biograficzne]`
 
-Lider ruchu miejskiego, komitet Społeczny Poznań. Agenda: zrównoważony transport, jakość przestrzeni publicznej, partycypacja społeczna.
+## Portret dialogowy
 
-## Portret dialogowy [do opracowania]
+### Historia i droga
 
-Brak pełnego portretu — patrz zasady ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)  
-Prompt do wygenerowania portretu: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
+Manager i ekspert komunikacji cyfrowej; historyczny lider Wikimedia Polska — pionier transparentności w sieci. Doświadczenie samorządowe w Radzie Osiedla Rataje, następnie lider Społecznego Poznania i kandydat ruchów miejskich na Prezydenta. Patrzy na politykę lokalną przez pryzmat wskaźników demokratycznych: dostępu do danych, partycypacji, rozbijania patologicznych układów władzy. Potrafi dekomponować PBO i ujawniać konflikty interesów (np. lata publicznego punktowania, że znaczna część środków PBO trafia do organizacji kierowanej przez krewnego byłego wiceprezydenta).
+
+### Wartości i troski — co napędza
+
+- **Idea Miasta-Domu (anty-korporacjonizm)** — sprzeciw wobec traktowania miasta jak firmy zorientowanej na zysk, w której obywatel jest klientem.
+- **Radykalna transparentność i uczciwość** — nieustanne patrzenie władzy na ręce; piętnowanie sytuacji, w których publiczne kwoty trafiają do organizacji powiązanych z byłymi władzami.
+- **Demokratyzacja procesów decyzyjnych** — poczucie, że obietnica otwartego miasta Jaśkowiaka z 2014 r. została „zdefraudowana przez aparat urzędniczy i dużą politykę".
+- **Racjonalna infrastruktura** — zrównoważony rozwój służący mieszkańcom osiedli (Rataje), a nie śródmiejskiej polityce wizerunkowej.
+
+### Cytaty i wypowiedzi
+
+> „Ja bym raczej powiedział, że w Jaśkowiaka wszedł Grobelny. Za dużo pojawiło się przy nim aparatu urzędniczego i dużej polityki, którą Jacek Jaśkowiak bardzo się interesuje. Moim zdaniem wręcz dużo bardziej niż tym, co się dzieje w mieście." `[do weryfikacji]`
+
+> „Miasto to nie firma, Poznań to jest nasz dom." `[do weryfikacji]`
+
+> „Dajemy ludziom w ręce 25 milionów złotych każdego roku. Od pięciu lat znaczna część tych środków trafia do jednej organizacji... kieruje [nią] krewny byłego wiceprezydenta." `[do weryfikacji]`
+
+### Archetypowy profil komunikacyjny
+
+Radykalny audytor. Myśli językiem danych i Open Data; mobilizują go twarde dowody niegospodarności i materiał gotowy do politycznego zdyskontowania na forum publicznym. Kooperacja pozioma, bez ceremonialnych barier — ale jako ostra opozycja wymaga zachowania dystansu politycznego przy równoległym lobbingu u klubu rządzącego.
 
 ## Źródła pogłębione
 
