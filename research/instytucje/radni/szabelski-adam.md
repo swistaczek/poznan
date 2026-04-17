@@ -69,6 +69,19 @@ Data-driven policy: wyniki z badam.poznan.pl, raporty o stanie miasta, twarde st
 | D — zieleń/przestrzeń | Ekomobilność, adaptacyjność klimatyczna starzejących się dzielnic jako test strategii Poznań 2040+ |
 | E — ekonomia | Zażegnanie drenażu demograficznego do „sypialni" podmiejskich i odpływu kapitału intelektualnego |
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Wizja | Kultura startupowa, futurologia miejska (koncepcja Poznań 2040+), brak bagażu transformacji ustrojowej | wysoka |
+| Wiedza | Konsument zaawansowanych podcastów merytorycznych o mikromobilności i nowej ekologii | średnia |
+
+**Jak użyć:** Operować językiem dekad, a nie kadencji — pokazać inicjatywę jako projekt zielonej mikromobilności przyciągający nową falę inwestorów, definiujący śródmieście dla jego generacji. Unikać zachowawczego słownictwa.
+
+**Czego unikać:** Dyskursu opartego na lęku przed innowacją, powoływania się na anachroniczne „metody gospodarskie" sprawdzone w PRL-u; zamykania go w ramach mikro-problemu bez horyzontu demograficznego.
+
+**Otwieracz:** *„Panie Adamie, reprezentuje Pan wizję Poznania 2040+, my również patrzymy dekady do przodu; zamiast inwestować w archaiczną infrastrukturę drogową ubiegłego stulecia, usiądźmy nad projektem zielonej mikromobilności, która przyciągnie do nas nową falę inwestorów i zdefiniuje śródmieście dla Pana generacji."*
+
 ## Źródła pogłębione
 
 - Portret: [`../13-radni-dialog/03b-portrety-pozostali.md`](../13-radni-dialog/03b-portrety-pozostali.md) — `[uwaga: źródło urwane w połowie zdania]`

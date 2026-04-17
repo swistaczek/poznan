@@ -90,6 +90,20 @@ Przewodnicząca Komisji Budżetu i szefowa klubu KO; w Radzie od 2018 r. Blisko 
 
 Myśli jak audytor finansowy w jednej osobie z główną księgową korporacji: matematyka, arkusze Excel, CBA/ROI, ukryte straty podatkowe. Mobilizuje ją rozmowa w kontekście bezpieczeństwa „najsłabszych" (matka dowożąca dziecko do szkoły) oraz dowód, że degradacja środowiskowa odstrasza mieszkańców i drenuje bazę PIT/podatku od nieruchomości.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Sport | Biegi długodystansowe (maratony, półmaratony), reżim treningowy | bardzo wysoka |
+| Perspektywa | Biegacz jako specyficzny pieszy — wyczulenie na zanieczyszczenie powietrza i bariery fizyczne | wysoka |
+| Kariera | Rygor finansowy, szacunek dla ustrukturyzowanych danych budżetowych | bardzo wysoka |
+
+**Jak użyć:** Złamać opór finansowy empatią sportową — jako maratonka ma w nogach setki kilometrów poznańskich ulic (Maltanka, Warta) i realnie czuje brak zieleni, smog, stan chodników. Pokazać inicjatywę jako projekt rozpisany na lata z wyrzeczeniami budżetowymi, który zwraca się w kondycji miasta.
+
+**Czego unikać:** Inicjatyw improwizowanych, pozbawionych kosztorysów i nierealistycznego „koncertowania życzeń"; romantyzmu miejskiego bez cyfr — oczekuje symulacji kosztów przed fazą pochwał koncepcyjnych.
+
+**Otwieracz:** *„Pani Przewodnicząca, jako maratonka ma Pani w nogach setki kilometrów poznańskich ulic i doskonale czuje Pani, jak brak zieleni, smog i przeszkody wpływają na tętno miasta; nasza inicjatywa — podobnie jak przygotowania do maratonu — to projekt rozpisany na lata, który, choć początkowo wymaga wyrzeczeń budżetowych, ostatecznie zwróci się miastu w bezprecedensowej poprawie kondycji zdrowotnej i przestrzennej."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)

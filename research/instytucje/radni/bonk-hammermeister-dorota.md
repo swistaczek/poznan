@@ -90,6 +90,21 @@ Korzenie w aktywizmie Wildy i Prawie do Miasta; kandydatka na Prezydenta w 2018 
 
 Strażniczka Śródmieścia. Myśli dyrektywami środowiskowymi UE, mapami akustycznymi i logiką UDIP. Mobilizują ją twarde dane pozyskane obywatelsko, połączone z głosem mieszkańców; zraża ją arogancja wielkich inwestycji i język przepustowości kołowej.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Hobby | Literatura faktu, polska szkoła reportażu, eseistyka socjologiczna i miejska | wysoka |
+| Miejsce | Wilda — ochrona lokalnego rzemiosła i estetyki kamienicznej, źródło: bip.poznan.pl | bardzo wysoka |
+| Aktywność | Rower miejski jako naturalny środek transportu i filozofia życia (miasto 15-minutowe) | wysoka |
+| Zwierzęta | Opieka nad psami, wrażliwość na hałas i zanieczyszczenia zagrażające dobrostanowi | średnia/wysoka |
+
+**Jak użyć:** Otworzyć nawiązaniem do współczesnej myśli miejskiej i lokalności (reportaż, socjologia transformacji miast), a następnie połączyć z sąsiedzką pracą na Wildzie. Pokazać, że inicjatywa chroni rzemieślniczy i mieszkaniowy charakter ulicy przed presją tranzytową.
+
+**Czego unikać:** Retoryki utylitarystycznej, gloryfikującej deweloperski zysk i wskaźniki przepustowości samochodowej; języka urynkowienia przestrzeni publicznej.
+
+**Otwieracz:** *„Pani Doroto, czytając ostatnio najnowszy reportaż o kosztach społecznych transformacji miast, przypomniałem sobie, jak gigantyczną drogę przeszła Wilda dzięki oddolnej pracy; dlatego zależy nam, by przy nowej organizacji ruchu zachować ten sąsiedzki, rzemieślniczy charakter ulicy, chroniąc mieszkańców przed presją tranzytową."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

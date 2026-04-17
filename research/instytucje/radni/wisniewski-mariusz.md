@@ -87,6 +87,20 @@ Wieloletni Zastępca Prezydenta Poznania odpowiedzialny za najtrudniejsze portfe
 
 Myśli językiem strategii miejskich i wskaźników modalnych; dowartościowanie makro-inwestycji otwiera dialog, bezpodstawna krytyka „wszystko jest źle zaprojektowane" wywołuje natychmiastowy opór defensywny. Mobilizuje go pokazanie, że nowe postulaty wynikają z wizji, którą on sam zaprojektował, i że niedopracowane detale psują odbiór jego 2-miliardowej inwestycji.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Sport | Lech Poznań (Kolejorz) — zagorzały kibic, bywalec trybun na Bułgarskiej | bardzo wysoka |
+| Miejsce | Rataje i Stare Żegrze — mocny lokalny patriotyzm prawobrzeżny; źródło: mariuszwisniewski.pl | bardzo wysoka |
+| Edukacja | Historia nowożytna Poznania i wojskowości (absolwent UAM) | wysoka |
+
+**Jak użyć:** Uruchomić metaforę pracy zespołowej rodem z boiska — spójna taktyka, praca całego zespołu, pragmatyczna „gra" w jednym zespole z zarządem dróg. Docenić skalę organizacyjną jego spuścizny inwestycyjnej (2 mld zł, 10% modalu rowerowego).
+
+**Czego unikać:** Traktowania środowiska kibicowskiego jako patologii, deprecjonowania emocji sportowych; ostrej krytyki opóźnień inwestycyjnych z poprzednich lat bez docenienia skali organizacyjnej przedsięwzięć transportowych, które nadzorował.
+
+**Otwieracz:** *„Panie Prezydencie, śledząc ostatnie zmagania Kolejorza, na których z pewnością Pan był, widać wyraźnie, jak wiele zależy od spójnej taktyki i pracy całego zespołu; chcemy z takim samym pragmatyzmem, grając w jednym zespole z zarządem dróg, wypracować racjonalną taktykę na ograniczenie hałasu w śródmieściu."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)

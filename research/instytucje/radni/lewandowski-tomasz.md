@@ -89,6 +89,21 @@ Człowiek instytucja wielkopolskiej lewicy, blisko dwie dekady w realiach zarzą
 
 Pragmatyk systemowy. Myśli kategoriami prawa gospodarczego, kodeksu spółek handlowych, ustawy o finansach publicznych, mechanizmów finansowania centralnego (BGK, fundusze UE). Mobilizuje go postulat pokazujący źródło pieniędzy i udowadniający, że rozwiązanie infrastrukturalne przeciwdziała wykluczeniu społecznemu oraz degradacji mienia miejskiego.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Hobby | Szachy — trening strategiczny, antycypacja ruchów o kilka kroków wprzód; źródło: bip.poznan.pl | bardzo wysoka |
+| Sport | Nurkowanie — ścisłe procedury, opanowanie, izolacja od bodźców zewnętrznych | bardzo wysoka |
+| Kultura | Literatura historyczna — długoterminowe analogie procesów decyzyjnych | bardzo wysoka |
+| Zakorzenienie | Chełmża — perspektywa migracji z mniejszego ośrodka, wrażliwość na wykluczenie peryferyjne | wysoka |
+
+**Jak użyć:** Zbudować most komunikacyjny na pojęciu procedur i strategii wieloetapowej. Zaprezentować inicjatywę jako dobrze rozpisaną partię szachów — kilka ruchów wprzód, z rygorem logicznym i bez nieustrukturyzowanego chaosu.
+
+**Czego unikać:** Emocjonalnych dygresji, lokalnych wątków pozbawionych danych oraz chaotycznego narzekania — umysł prawnika-szachisty odrzuca propozycje bez rygoru logicznego.
+
+**Otwieracz:** *„Panie Ministrze, wiemy, że jako wytrawny szachista ceni Pan zdolność przewidywania procesów o kilka ruchów wprzód; my naszą inicjatywę dotyczącą siatki połączeń traktujemy podobnie — to nie jednorazowy zryw, ale głęboko przemyślana strategia, która po cichu, krok po kroku ureguluje kwestie paraliżu miejskiego zgodnie z twardymi procedurami, na które Pan zawsze stawia."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

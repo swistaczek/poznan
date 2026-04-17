@@ -88,6 +88,20 @@ Matriarchini lokalna Winograd — kapitał polityczny zbudowany na setkach mikro
 
 Myśli historiami konkretnych ludzi: zagrożonych pieszych, wykluczonych seniorów, dzieci w drodze do szkoły. Mobilizuje ją perspektywa jednego osiedla, nie statystyki oderwane od społecznego kontekstu — problemy makro trzeba pokazywać przez pryzmat Winograd.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Zwierzęta | Głęboki aktywizm na rzecz psów i kotów, wolontariat schroniskowy; źródło: bip.poznan.pl | bardzo wysoka |
+| Natura | Walka o starodrzew, ochrona ptaków miejskich, ogrodnictwo | bardzo wysoka |
+| Miejsce | Winogrady i Cytadela traktowane jako organiczny ekosystem, nie tylko okręg wyborczy | wysoka |
+
+**Jak użyć:** Odwołać się do bezpośredniej troski o bezbronnych mieszkańców — seniorów, dzieci, zwierzęta domowe reagujące stresem na hałas silników. Pokazać inicjatywę jako stworzenie bezpiecznej mikro-przestrzeni dla tych, których zwykle pomija się w statystykach inżynieryjnych.
+
+**Czego unikać:** Zbytniego epatowania technologią drogową, betonem i wskaźnikami inżynieryjnymi z pominięciem tkanki żywej; skupiania się wyłącznie na kierowcach z pominięciem rezydentów przestrzeni (zwierząt, seniorów).
+
+**Otwieracz:** *„Pani Halino, z ogromnym podziwem obserwuję Pani walkę o wybiegi dla zwierząt na północy miasta; nasze działania o uspokojenie ruchu mają dokładnie ten sam cel — chcemy stworzyć przestrzenie, gdzie spacer z psem, nierzadko adoptowanym po przejściach i reagującym stresem na ryk silników, znów będzie całkowicie bezpieczny."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

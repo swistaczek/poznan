@@ -27,6 +27,19 @@ Angażować przy inicjatywach z silną partycypacją społeczną: konsultacje z 
 
 Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Intelektualne | Socjologia równościowa (Gender Studies UAM), sztuka niezależna, literatura równościowa | wysoka |
+| Miejsce | Kawiarnie obywatelskie, kooperatywy, alternatywne instytucje kultury; źródło: facebook.com | wysoka |
+
+**Jak użyć:** Operować językiem asymetrii władzy w przestrzeni miejskiej — pokazać, że ulica faworyzuje osoby silniejsze i zmotoryzowane, a bezpieczeństwo matki z wózkiem nie może być podporządkowane komfortowi kierowców tranzytowych. Odwoływać się do subiektywnego poczucia bezpieczeństwa nocą.
+
+**Czego unikać:** Maskulinistycznego dyskursu technokratycznego („ile betonu wylejemy"), pomijania miękkich wskaźników użyteczności i doświadczenia grup wykluczonych.
+
+**Otwieracz:** *„Pani Profesor, czytając współczesną literaturę miejską wskazującą na głęboką asymetrię władzy na ulicach, uważamy, podobnie jak Pani, że nasze ulice wymagają radykalnej demokratyzacji — by bezpieczeństwo matki z wózkiem nie było podporządkowane komfortowi kierowców tranzytowych."*
+
 ## Źródło
 
 [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

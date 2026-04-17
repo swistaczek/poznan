@@ -80,6 +80,20 @@ Manager i ekspert komunikacji cyfrowej; historyczny lider Wikimedia Polska — p
 
 Radykalny audytor. Myśli językiem danych i Open Data; mobilizują go twarde dowody niegospodarności i materiał gotowy do politycznego zdyskontowania na forum publicznym. Kooperacja pozioma, bez ceremonialnych barier — ale jako ostra opozycja wymaga zachowania dystansu politycznego przy równoległym lobbingu u klubu rządzącego.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Hobby | Wikimedia Polska, open source, digitalizacja wiedzy; źródło: pl.wikimedia.org | bardzo wysoka |
+| Zainteresowania | Gry planszowe (eurogry), systemy RPG, myślenie mechanikami i debugowanie błędów systemowych | wysoka |
+| Wiedza | Dostępność cyfrowa, projektowanie uniwersalne przestrzeni (UX miasta); źródło: linkedin.com | bardzo wysoka |
+
+**Jak użyć:** Operować językiem procesów, jawności i UX — miasto jako system operacyjny, w którym infrastruktura rowerowa czy piesza to „moduły" z błędami do naprawy w oparciu o jawne, mierzalne dane. Forma pozioma, bez tytulatury.
+
+**Czego unikać:** Zastanych procedur z poprzedniej epoki i stwierdzeń typu „od zawsze tak się to robiło w urzędzie"; nieprzejrzystości, zatajania danych pomiarowych, hermetycznego języka urzędniczego.
+
+**Otwieracz:** *„Panie Łukaszu, jako osoba współtworząca Wikipedię wie Pan, że dobre systemy opierają się na przejrzystych regułach dla każdego; tak samo traktujemy infrastrukturę rowerową — widzimy w niej bugi, które powodują wykluczenie słabszych użytkowników, i chcemy wdrożyć otwarty proces ich naprawy w oparciu o jawne, mierzalne dane."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

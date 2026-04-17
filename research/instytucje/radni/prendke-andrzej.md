@@ -27,6 +27,19 @@ Zaproponuj gotowe, tanie rozwiązanie, które radny może przedstawić jako swó
 
 Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Hobby | Oratoryka, debaty oksfordzkie — ustrukturyzowany merytoryczny „sparring" tezy i antytezy | wysoka |
+| Media | Skrócenie dystansu przez platformy X i TikTok, e-sport, kultura technologiczna | wysoka |
+
+**Jak użyć:** Traktować jako równorzędnego partnera merytorycznego w formacie debaty oksfordzkiej — proponować falsyfikację „archaicznych mitów" (np. rzekome spadki przepustowości po wprowadzeniu pasów rowerowych). Operować tezami, nie sloganami.
+
+**Czego unikać:** Wyższego tonu wynikającego z wieku (protekcjonalizmu); urzędniczej nowomowy i kostycznego dystansu — oczekuje szybkiej wymiany bez formalnych barier.
+
+**Otwieracz:** *„Panie Andrzeju, jako człowiek wychowany w kulturze doskonałych debat oksfordzkich, na pewno doceni Pan nasze podejście do tematu uspokojenia ruchu: nie chcemy rzucać pustych tez, lecz chcemy w ustrukturyzowanym sporze sfalsyfikować archaiczne mity dotyczące rzekomych spadków przepustowości po wprowadzeniu pasów rowerowych."*
+
 ## Źródło
 
 [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

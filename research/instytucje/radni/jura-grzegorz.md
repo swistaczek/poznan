@@ -25,6 +25,19 @@ Framować projekty przestrzenne jako inwestycje w kulturę przestrzeni publiczne
 
 Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Kultura | Festiwale miejskie (Malta, Animator), kino niezależne, kino plenerowe — bywalec i promotor | wysoka |
+| Sztuka | Mecenat nad muralami i estetyką sztuki plenerowej, street art niwelujący szarzyznę poprzemysłową | wysoka |
+
+**Jak użyć:** Pokazać, że kultura uliczna, festiwale i murale potrzebują widowni, a huk przelotowy i wąskie chodniki odbierają mieszkańcom fizyczną przestrzeń, by zatrzymać się i celebrować sztukę. Uspokojenie ruchu jako odzyskiwanie przestrzeni dla kultury.
+
+**Czego unikać:** Sprowadzania miasta do utylitarnego agregatu do pracy i snu; deprecjonowania roli kultury jako „dodatku" w hierarchii potrzeb miejskich.
+
+**Otwieracz:** *„Panie Grzegorzu, kultura uliczna, festiwale i wspaniałe poznańskie murale, które Pan wspiera, potrzebują widowni; tymczasem potężny huk przelotowy i wąskie chodniki sprawiają, że mieszkańcy nie mają fizycznej przestrzeni, by się zatrzymać i celebrować sztukę w przestrzeni — my chcemy odzyskać tę przestrzeń dla kultury."*
+
 ## Źródło
 
 [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md) · [`../12-rada-miasta-radni/01-struktura-frakcje.md`](../12-rada-miasta-radni/01-struktura-frakcje.md)

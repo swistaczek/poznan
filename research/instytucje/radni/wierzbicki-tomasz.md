@@ -92,6 +92,21 @@ Legitymizacja polityczna z oddolnego aktywizmu osiedlowego, nie z aparatu partyj
 
 Pragmatyk inżynieryjny. Myśli przekrojami, wytycznymi PORD i precedensami z innych polskich miast. Mobilizują go gotowe, wymiarowane propozycje i rysunki techniczne; zraża go patos aktywistyczny i argumenty czysto ideologiczne.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Miejsce | Szachty (Świerczewo) — rewitalizacja dawnych cegielni, wieża widokowa przeforsowana w PBO | wysoka |
+| Hobby | Inżynier-opiekun przestrzeni — analiza urbanistyczna, pasja do infrastruktury pieszej | wysoka |
+| Zakorzenienie | Południowy Poznań, mieszkaniec od urodzenia; baza: tomaszwierzbicki.pl | wysoka |
+| Cyfrowe | Wysoka responsywność w social media (WhatsApp, Instagram, Facebook) | wysoka |
+
+**Jak użyć:** Zintegrować jego osiedlowy sukces Szacht z twardym argumentem inżynieryjnym — pokazać, że uspokojenie ruchu to kolejny „precyzyjny projekt drogowy", a nie ideologiczny postulat. Odwołać się do jego identyfikacji z rolą inżyniera udostępniającego przestrzeń mieszkańcom.
+
+**Czego unikać:** Ideologicznych, anty-samochodowych postulatów bez oparcia w Prawie o Ruchu Drogowym i rozporządzeniach o warunkach technicznych — jako projektant drogowy odrzuca rozwiązania nienormatywne.
+
+**Otwieracz:** *„Panie Tomaszu, spacerując w weekend w okolicach wieży widokowej na Szachtach, co jest świetnym dowodem na mądre inżynieryjne udostępnienie zieleni, pomyślałem, że przy naszym projekcie uspokojenia ruchu również potrzebujemy pańskiego precyzyjnego, drogowego spojrzenia na bezpieczną geometrię jezdni i skrzyżowań."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

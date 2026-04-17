@@ -105,6 +105,20 @@ Weteran samorządowy. Intelektualne zakorzenienie: klasyczna filozofia, chrześc
 | D — zieleń/przestrzeń | Odtworzenie estetyki krajobrazu, harmonii dziedziczonej po przodkach |
 | E — ekonomia | Stabilna, wielopokoleniowa rodzina = fundament mikrogospodarki dzielnicy |
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Rodzina | Ojciec rodziny wielodzietnej — logistyka dużej jednostki komórkowej, perspektywa rodzica dowożącego dzieci | bardzo wysoka |
+| Filozofia | Katolicka Nauka Społeczna, zasada pomocniczości, filozofia klasyczna | wysoka |
+| Historia | Literatura dotycząca najnowszej historii Polski i Kościoła Katolickiego w XX wieku | średnia/wysoka |
+
+**Jak użyć:** Zakotwiczyć rozmowę w bezpieczeństwie dzieci i suwerenności rodziny — poprawa infrastruktury pieszej wokół placówek oświatowych jako ochrona życia najmłodszych, by rodzice wielodzietni nie drżeli o bezpieczeństwo na osiedlowych ulicach. Język klasyczny, poważny, bez anglicyzmów.
+
+**Czego unikać:** Antyklerykalizmu, redefinicji ról społecznych, zrównywania praw pieszych i zwierząt, atakowania kierowców jako „zła absolutnego" — van rodzinny może być dla niego niezbędnym ramieniem pomocniczym logistyki rodziny.
+
+**Otwieracz:** *„Panie Przewodniczący, wiemy, z jaką żarliwością broni Pan spokoju i autonomii poznańskich rodzin; dla nas poprawa infrastruktury pieszej wokół placówek oświatowych to dokładnie ten sam krok — to ochrona życia najmłodszych, by rodzice z rodzin wielodzietnych nie musieli drżeć o ich bezpieczeństwo na zdominowanych przez pędzące maszyny ulicach osiedlowych."*
+
 ## Źródła pogłębione
 
 - Portret dialogowy: [`../13-radni-dialog/03-portret-alexandrowicz.md`](../13-radni-dialog/03-portret-alexandrowicz.md)

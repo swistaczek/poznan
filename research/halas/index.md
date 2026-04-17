@@ -9,12 +9,14 @@ Materiały referencyjne dotyczące hałasu tramwajowego i drogowego w Poznaniu: 
 | Akustyka torowa | metodologia pomiarów, sygnatury widmowe, normy, interwencje, precedensy, audyt MBM | [`01-akustyka/`](./01-akustyka/) |
 | Immisje cywilne | podstawy art. 144 KC, orzecznictwo, dowody, forma powództwa, koszty i czas | [`02-immisje/`](./02-immisje/) |
 | Zdrowie publiczne | wytyczne WHO 2018, epidemiologia, DALY/WBV, protokół dokumentowania | [`03-zdrowie/`](./03-zdrowie/) |
+| Monitoring torowisk MPK | WPF/PZP, PHNUA IV/92/24, MPZP/DUŚ, BAT (UBM, USP, C_dyn), UDIP do MPK, art. 115a POŚ | [`04-monitoring-torowisk/`](./04-monitoring-torowisk/) |
 
 ## Dokumenty zbiorcze
 
 - [`wyniki-01-akustyka-torowa.md`](./wyniki-01-akustyka-torowa.md)
 - [`wyniki-02-immisje-cywilne.md`](./wyniki-02-immisje-cywilne.md)
 - [`wyniki-03-zdrowie-publiczne.md`](./wyniki-03-zdrowie-publiczne.md)
+- [`wyniki-17-monitoring-torowisk-mpk.md`](./wyniki-17-monitoring-torowisk-mpk.md) — nie edytuj, używaj chunków [`04-monitoring-torowisk/`](./04-monitoring-torowisk/)
 
 ## Dane pomiarowe — źródła pierwotne
 

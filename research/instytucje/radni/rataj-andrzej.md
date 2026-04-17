@@ -94,6 +94,20 @@ Doktor nauk prawnych i politolog, wieloletni Przewodniczący Rady Osiedla Stare 
 
 Legalista porządku. Myśli matrycą procedur i luk wykonawczych; mobilizuje go dowód systemowej niewydolności aparatu (statystyki kar, braki egzekucyjne) oraz materiał prawny (analizy, precedensy sądowe), na którym może oprzeć interpelację.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Hobby | Posnanianistyka — historia urbanistyki i architektury miasta; źródło: facebook.com | bardzo wysoka |
+| Aktywność | Flâneuryzm — piesze wędrówki fotograficzne, inwentaryzacja detali kamienic | wysoka |
+| Miejsce | Stare Miasto i Chwaliszewo — organiczna dbałość o estetykę centrum | bardzo wysoka |
+
+**Jak użyć:** Odwołać się do estetyki i poszanowania historii — jako notariusz i flâneur-kustosz reaguje na narrację o ochronie dziedzictwa przed degradacją (wibracje, chaos parkingowy, graffiti na historycznych tynkach).
+
+**Czego unikać:** Retoryki anarchistycznej, akceptacji „samowoli obywatelskiej", postulowania zmian z pominięciem ścisłych regulacji prawnych; inicjatyw wprowadzających chaos wizualny na rzecz doraźnej funkcjonalności.
+
+**Otwieracz:** *„Panie Przewodniczący, śledząc Pańskie doskonałe fotorelacje detali architektonicznych z naszych kamienic, dostrzegamy wspólny cel; nie ochronimy tego dziedzictwa przed degradacją, jeśli pozwolimy, aby wibracje od nadmiernego tranzytu i chaos parkingowy nadal niszczyły te historyczne ulice."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

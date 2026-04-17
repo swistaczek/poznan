@@ -83,6 +83,20 @@ Jako Przewodniczący rzadko wygłasza polityczne manifesty sektorowe. Retoryka o
 
 Kotwica proceduralna: myśli kategoriami stabilności ustrojowej i ciągłości instytucji. Mobilizuje go naruszenie Statutu RMP i podważanie autorytetu Rady, nie pojedynczy problem operacyjny — interweniuje, gdy zagrożony jest fundament zaufania obywateli do samorządu.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Kultura | Teatr (Teatr Nowy, Teatr Ósmego Dnia), muzyka symfoniczna, jazz — autentyczny bywalec premier | bardzo wysoka |
+| Zakorzenienie | Etos opozycji antykomunistycznej — współzałożyciel NZS, więzień polityczny w Łęczycy (1984) | bardzo wysoka |
+| Osobiste | Filozof i logik z wykształcenia; ceni erudycyjne rozważania i pogłębione analizy | wysoka |
+
+**Jak użyć:** Apelować do kultury przestrzeni i długiego trwania — pokazać, że rozwój sztuki (teatrów, filharmonii) wymaga odpowiednich ram przestrzennych, a uspokojenie ruchu wokół centrów kultury chroni „cichy salon miasta". Język powściągliwy, elegancki, historyczna erudycja.
+
+**Czego unikać:** Zbytniej bezpośredniości, spoufalania się, slangu miejskiego, roszczeniowego aktywizmu podszytego radykalizmem — oczekuje dyskursu na poziomie logiczno-filozoficznym.
+
+**Otwieracz:** *„Panie Przewodniczący, wsłuchując się w Pańskie refleksje o kondycji poznańskiej kultury, dochodzimy do wniosku, że rozwój sztuki wymaga odpowiednich ram przestrzennych; chcemy pomóc ukształtować ulice wokół centrów kultury tak, by stały się cichym salonem miasta, z którego hałas nie wypędza mieszkańców, szukających wytchnienia."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)

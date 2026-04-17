@@ -100,6 +100,20 @@ Rodowita poznanianka. Absolwentka filologii angielskiej UAM. Wieloletni nauczyci
 | D — zieleń/przestrzeń | Obrona zasobów przyrodniczych (Park na Chrobrego) przed patodeweloperką |
 | E — ekonomia | „Równouprawnienie Piątkowa" — dyskryminacja budżetowa dzielnic peryferyjnych |
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Edukacja | Filologia angielska UAM, dydaktyka języka biznesowego, kultura brytyjska/amerykańska | bardzo wysoka |
+| Wartości | Ochrona tradycyjnego modelu rodziny, bezpieczeństwo dzieci, poszanowanie miru domowego | wysoka |
+| Miejsce | Łazarz i Jeżyce — twarda opozycja wobec chaosu przestrzennego i brudu | wysoka |
+
+**Jak użyć:** Powołać się na zachodnie standardy ładu (brytyjskie strefy zamieszkania, oksfordzki rygor dyskursu) i bezpieczeństwo najmłodszych w drodze do szkoły. Pokazać, że konserwatywny szacunek do prawa i spokoju współgra z uspokojeniem ruchu.
+
+**Czego unikać:** Retoryki permisywizmu, otwartego sprzeciwu wobec własności prywatnej samochodu, radykalnego i wykluczającego nowomownego języka — zderzenie wartości zamyka dostęp natychmiast.
+
+**Otwieracz:** *„Pani Radna, patrząc na brytyjskie rozwiązania stref zamieszkania, o których z racji Pani fascynacji tamtejszą kulturą na pewno wiele moglibyśmy dyskutować, widać wyraźnie, że konserwatywny szacunek do prawa i spokoju doskonale współgra z bezpieczną drogą dzieci do szkoły; zależy nam na zaszczepieniu tego anglosaskiego uporządkowania w naszych śródmiejskich dzielnicach."*
+
 ## Źródła pogłębione
 
 - Portret dialogowy: [`../13-radni-dialog/01-portret-jemielity.md`](../13-radni-dialog/01-portret-jemielity.md)

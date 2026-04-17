@@ -91,6 +91,20 @@ Prawnik i urbanista w jednej osobie (UAM: gospodarka przestrzenna 2005, prawo 20
 
 Strateg przestrzenny: myśli kategoriami makro-urbanistyki, wskaźników intensywności zabudowy i struktury metropolii. Mobilizuje go wykazany błąd proceduralny lub niezgodność ze studium — nie emocjonalny apel ani anegdota. Działa, gdy dostaje łańcuch przyczynowo-skutkowy: zły projekt transportowy → patologia w zagospodarowaniu → suburbanizacja.
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Hobby | Kartofilia — kolekcjonowanie historycznych map miejskich, analiza morfologii przestrzeni | wysoka |
+| Podróże | „Turystyka urbanistyczna" — badanie rozwiązań planistycznych i węzłów przesiadkowych w miastach zachodnich | wysoka |
+| Zawód | Gospodarka przestrzenna jako etos naukowy, perspektywa makro-skali metropolii | bardzo wysoka |
+
+**Jak użyć:** Wejść przez europejskie modele planistyczne i wzorce transportu szynowego — prezentować mapy akustyczne i uspokojenie ruchu nie jako pojedyncze skrzyżowania, lecz jako narzędzie redefiniujące wektory mobilności całej strefy śródmiejskiej.
+
+**Czego unikać:** Ograniczania dyskusji do mikroskali (pojedyncza wyrwa w chodniku, prywatna posesja); ignorowania prawa miejscowego i studium uwarunkowań; odrzucania wskaźników statystycznych na rzecz dowodów anegdotycznych.
+
+**Otwieracz:** *„Panie Profesorze, opierając się na Pana analizach i wiedząc, jak często bada Pan wzorce przestrzenne w innych miastach europejskich, chcielibyśmy omówić mapy akustyczne i plan uspokojenia ruchu nie z perspektywy pojedynczych skrzyżowań, ale jako narzędzie redefiniujące wektory mobilności dla całych stref śródmiejskich."*
+
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)

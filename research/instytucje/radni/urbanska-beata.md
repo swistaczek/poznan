@@ -25,6 +25,16 @@ Angażować przy sprawach z potencjałem medialnym i szeroką agendą społeczn�
 
 Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier2-portrety.md)
 
+## Prywatny anchor
+
+Brak danych publicznych o zainteresowaniach prywatnych — rygorystyczny podział polityka/prywatność. Dyskurs radnej koncentruje się ekskluzywnie wokół ochrony praw pracowniczych, mieszkalnictwa komunalnego i programów osłonowych dla najuboższych.
+
+**Jak użyć:** Oprzeć się wyłącznie na fundamentach ideowych: wykluczenie ekonomiczne, mieszkalnictwo komunalne, prawa pracownicze.
+
+**Czego unikać:** Poszukiwania hobby „na siłę" — każda próba strzału na oślep niszczy autentyczność pierwszego kontaktu i rodzi podejrzenie inwigilacji.
+
+**Otwieracz:** *„Pani Radna, lewica zawsze dostrzegała tych, dla których brak samochodu to nie wybór stylu życia, ale wynik wykluczenia ekonomicznego; nasz plan siatki transportowej to program ułatwienia życia klasom pracującym."*
+
 ## Źródło
 
 [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)

@@ -112,6 +112,20 @@ Młodsze pokolenie decydentów RM. Stopień naukowy: dr hab. `[do wer.: zakres h
 | D — zieleń/przestrzeń | Tereny zielone = strefy rekreacji, sportu amatorskiego, przeciw wykluczeniu |
 | E — ekonomia | Patologie urbanistyczne przekładają się na koszty leczenia z budżetu państwa |
 
+## Prywatny anchor
+
+| Kategoria | Anchor | Pewność |
+|---|---|---|
+| Zawód | Praca naukowa: turystyka sportowa, rekreacja (prof. AWF), mobilność międzynarodowa; źródło: awf.poznan.pl | bardzo wysoka |
+| Infrastruktura | Historyczne wsparcie infrastruktury rowerowej — kładka pieszo-rowerowa nad Wartą; źródło: miastopoznaj.pl | bardzo wysoka |
+| Transparentność | Poparcie dla jawnego, elektronicznego rejestru umów miejskich (blog 2014-2018); źródło: miastopoznaj.pl | wysoka |
+
+**Jak użyć:** Powołać się na jego dorobek akademicki i historyczną publicystykę z portalu miastopoznaj.pl — pionierskie artykuły o kładce pieszo-rowerowej, rejestrze umów, setnej rocznicy niepodległości. Framing: podnoszenie konkurencyjności rekreacyjnej Poznania na tle europejskim.
+
+**Czego unikać:** Umniejszania roli sportu jako narzędzia edukacyjnego; zamykania go w dogmatycznym stereotypie radnego partii z pominięciem jego empirycznych i naukowych osiągnięć międzynarodowych.
+
+**Otwieracz:** *„Panie Profesorze, opierając się na Pana pionierskich artykułach o niezbędnym udostępnianiu infrastruktury dla cyklistów, jak choćby kładki pieszo-rowerowej nad Wartą, oraz na Pańskiej unikalnej wiedzy z zakresu turyzmu sportowego wyniesionej z AWF, zależy nam na rozbudowie bezpiecznych korytarzy transportowych, by podnosić konkurencyjność rekreacyjną naszego miasta na tle europejskim."*
+
 ## Źródła pogłębione
 
 - Portret: [`../13-radni-dialog/02-portret-rozmiarek.md`](../13-radni-dialog/02-portret-rozmiarek.md)
