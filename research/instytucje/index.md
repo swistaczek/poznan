@@ -11,6 +11,7 @@ Mapa kompetencji organów właściwych dla spraw poznańskich: samorząd, admini
 ## Dokumenty zbiorcze
 
 - [`wyniki-07-kompetencje-instytucji.md`](./wyniki-07-kompetencje-instytucji.md)
+- [`wyniki-11-rady-osiedla.md`](./wyniki-11-rady-osiedla.md) — fakty, kompetencje, ciekawostki o wszystkich radach osiedla Poznania
 
 ## Powiązania
 

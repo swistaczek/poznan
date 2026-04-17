@@ -16,6 +16,10 @@ Materiały referencyjne dotyczące hałasu tramwajowego i drogowego w Poznaniu: 
 - [`wyniki-02-immisje-cywilne.md`](./wyniki-02-immisje-cywilne.md)
 - [`wyniki-03-zdrowie-publiczne.md`](./wyniki-03-zdrowie-publiczne.md)
 
+## Dane pomiarowe — źródła pierwotne
+
+- [`wyniki-zdm-pomiary-halas-2016.md`](./wyniki-zdm-pomiary-halas-2016.md) — 37 pkt tramwajowych + 127 pkt drogowych; dane ZDM Poznań 2016; zawiera punkty na ul. Dąbrowskiego i skrzyż. Roosevelta/Dąbrowskiego (LAeqN=62,2 dB, max w badaniu)
+
 ## Powiązania
 
 - Kampania: [`dabrowskiego/halas/`](../../dabrowskiego/halas/)
