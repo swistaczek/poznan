@@ -1,4 +1,6 @@
-# Profile operacyjne — neutralni i przeciwnicy
+# Profile operacyjne — inne priorytety: jak rozmawiać
+
+> Pogłębienie tych portretów (historia osobista, wartości, cytaty, propozycje wstępu do rozmowy): `../13-radni-dialog/`
 
 ## Ganowicz Grzegorz (KO) — Neutralny / Strażnik status quo
 
@@ -51,11 +53,11 @@
 
 ---
 
-## Rozmiarek Mateusz (PiS) — Przeciwnik strategiczny / Przydatny narzędziowo
+## Rozmiarek Mateusz (PiS) — Odmienne priorytety w transporcie / Otwarty na UDIP i efektywność
 
 **Tło**: Okręg 2. Wiceprzewodniczący RM z ramienia opozycji. Młodsze pokolenie działaczy. Wielokrotnie punktował opóźnienia inwestycji ("rozkopany Poznań") — nie jako wróg zrównoważonego transportu, ale jako krytyk nieudolności zarządczej. Tel. BIP 61 878 53 08.
 
-**Poglądy**: W sprawach strategicznych (zwężenia ulic) — generalnie przeciwnik. W sprawach transparentności i efektywności zarządzania — użyteczny.
+**Poglądy**: W sprawach zwężeń ulic — inne priorytety niż repo. W sprawach transparentności i efektywności zarządzania — wspólny grunt.
 
 **Persona**: Nowoczesna komunikacja, wysoka responsywność, ironia wobec Prezydenta. Sprawnie posługuje się wizualnymi formami nacisku (relacje z placów budów, złe objazdy).
 
@@ -63,22 +65,22 @@
 
 ---
 
-## Jemielity Ewa (PiS) — Przeciwnik
+## Jemielity Ewa (PiS) — Odmienne priorytety w transporcie / Wspólny grunt: seniorzy, dostępność, ład
 
-**Tło**: Okręg 1. Wiceprzewodnicząca Komisji Rodziny. Oficjalnie: polityka socjalna. W praktyce: jedna z najgłośniejszych krytyczek transformacji przestrzennej Poznania.
+**Tło**: Okręg 1. Wiceprzewodnicząca Komisji Rodziny. Oficjalnie: polityka socjalna. Jedna z głośniejszych krytyczek transformacji przestrzennej — ale z pozycji troski o dostępność, nie motoryzmu per se.
 
-**Poglądy**: Obrona interesów zmotoryzowanych. Konsekwentne głosy przeciw zwężaniu arterii, likwidacji parkingów, rozszerzaniu stref płatnego parkowania. Argument: "uderzenie w wolność i komfort rodzin".
+**Poglądy**: Obrona komfortu rodzin i dostępności miasta. Krytyczna wobec zwężeń arterii i likwidacji parkingów. Argument: "uderzenie w wolność i komfort rodzin". Jednocześnie: aktywna w ochronie zieleni, seniorów, równości dzielnic.
 
-**Persona**: Konfrontacyjna retoryka, rola trybuna klasy średniej. Argumentacja emocjonalna i ideologiczna. Sprawna w mediach tradycyjnych i social mediach. Tel. BIP 61 878 53 12.
+**Persona**: Akademicki pragmatyzm (ekonomistka, UEP), konfrontacyjna retoryka, ale przede wszystkim trybuna mieszkańców "dzielnic gorszego sortu". Reaguje na argumenty wartości nieruchomości i koszty zdrowotne. Tel. BIP 61 878 53 12.
 
-**Strategia**: Nie angażować w kwestiach ruchu — polemika nieopłacalna. Instrumentalne użycie: dostarczać jej materiały o niegospodarności spółek komunalnych i braku transparentności (naturalny cel jako opozycja) → wywiera presję niezależnie od motywów.
+**Jak rozmawiać**: W kwestiach ruchu — nie przez pryzmat ruchu, lecz przez pryzmat wartości: dostępność seniorów, ochrona zieleni, koszty degradacji tkanki miejskiej. Nie angażować retoryką antysamochodową — szukać wspólnego gruntu. Pogłębienie: `../13-radni-dialog/01-portret-jemielity.md`.
 
 ---
 
-## Alexandrowicz Przemysław (PiS) — Przeciwnik / Obojętny
+## Alexandrowicz Przemysław (PiS) — Odmienne priorytety w transporcie / Wspólny grunt: dziedzictwo, ład, bezpieczeństwo rodzin
 
-**Tło**: Weteran samorządowy. Historycznie Wiceprzewodniczący RM. Profil: edukacja, wartości historyczne, tradycyjny model rodziny. Transport i przestrzeń na peryferiach zainteresowań. Tel. 600 874 000.
+**Tło**: Weteran samorządowy. Historycznie Wiceprzewodniczący RM. Profil: edukacja, wartości historyczne, tradycyjny model rodziny. Transport i przestrzeń nie są głównym obszarem zainteresowania. Tel. 600 874 000.
 
-**Poglądy**: W głosowaniach transportowych: linia klubu PiS — przeciw ograniczeniom dla samochodów. Jako intelektualista konserwatywny: wysoce sformalizowany język, odwołania historyczne, omija zgiełk social mediów.
+**Poglądy**: W głosowaniach transportowych: linia klubu PiS. Jako intelektualista konserwatywny: wysoce sformalizowany język, odwołania historyczne, omija zgiełk social mediów.
 
-**Strategia**: Angażowanie zasobów w zmianę jego poglądów na politykę miejską = bezcelowe. Fundamentalne różnice w postrzeganiu przestrzeni publicznej.
+**Jak rozmawiać**: Nie przez pryzmat ekologii ani antysamochodowości. Przez ochronę dziedzictwa (wibracje tramwaju niszczą kamienice), bezpieczeństwo rodzin i ład publiczny. Pogłębienie: `../13-radni-dialog/03-portret-alexandrowicz.md`.

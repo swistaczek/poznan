@@ -1,6 +1,6 @@
-# Profile operacyjne — sojusznicy i potencjalni sojusznicy
+# Profile operacyjne — aktywni partnerzy i potencjalny wspólny grunt
 
-## Wierzbicki Tomasz (KO) — Sojusznik strategiczny
+## Wierzbicki Tomasz (KO) — Aktywny partner
 
 **Tło**: Korzenie w stowarzyszeniu Prawo do Miasta; ekspert inżynierii ruchu i planowania przestrzennego. Przewodniczący Komisji Transportu — bezpośrednia kontrola nad opiniowaniem projektów drogowych i rowerowych.
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Bonk-Hammermeister Dorota (Lewica) — Sojusznik strategiczny
+## Bonk-Hammermeister Dorota (Lewica) — Aktywny partner
 
 **Tło**: Okręg 1. Kariera budowana na obronie interesów Wildy. Historycznie Wiceprzewodnicząca Komisji Rewizyjnej — głęboki wgląd w mechanizmy spółek komunalnych. Wcześniejsza aktywność w radach osiedli.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Lewandowski Tomasz (Lewica Centrum) — Sojusznik
+## Lewandowski Tomasz (Lewica Centrum) — Wspólne priorytety
 
 **Tło**: Weteran — wcześniej wiceprezydent miasta. Przewodniczący Klubu Lewicy Centrum — ogromny kapitał wpływu i zdolność do formowania koalicji blokujących.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Owsianna Halina (Lewica) — Sojusznik (zieleń, piesi, seniorzy)
+## Owsianna Halina (Lewica) — Wspólne priorytety: zieleń, piesi, seniorzy
 
 **Tło**: Okręg 2. Teren: północny Poznań (Winogrady). Baza: starsi mieszkańcy i miłośnicy przyrody. Aktywność: mikro-infrastruktura osiedlowa, ochrona starodrzewu, polityka pro-zwierzęca. Nieufna wobec dużych inwestycji infrastrukturalnych (wpływ na mikroklimat).
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Rataj Andrzej (KO) — Sojusznik operacyjny
+## Rataj Andrzej (KO) — Partner operacyjny
 
 **Tło**: Wiceprzewodniczący RM i Wiceprzewodniczący Komisji Kultury. Kariera oparta na radach osiedli Starego Miasta. Bezprecedensowa liczba interpelacji i zapytań. Obsesja na punkcie estetyki przestrzeni, czystości, hałasu nocnego, punktowych uciążliwości.
 
@@ -66,24 +66,24 @@
 
 ---
 
-## Garczewski Łukasz (Społeczny Poznań) — Sojusznik strategiczny
+## Garczewski Łukasz (Społeczny Poznań) — Aktywny partner
 
 **Tło**: Lider ruchu miejskiego, komitet Społeczny Poznań — profil w pełni zbieżny z agendą repo (zrównoważony transport, jakość przestrzeni publicznej, partycypacja).
 
-**Ocena**: Pełna zgodność z repo — angażować priorytetowo.
+**Ocena**: Pełna zbieżność — angażować priorytetowo.
 
 ---
 
-## Potencjalni sojusznicy
+## Potencjalny wspólny grunt
 
 **Prendke Andrzej (KO, Okręg 2)**: Debiutant potrzebujący szybkich, symbolicznych zwycięstw. Strategia: zaproponować "gotowiec" — prostą, tanią zmianę (doświetlenie przejścia, kontraruch rowerowy na krótkim odcinku). Koszt minimalny, zysk wizerunkowy buduje wdzięczność.
 
 **Mazurek Marta (KO, Okręg 1)**: Zaangażowanie w politykę równościową i partycypację społeczną. Podatna na inicjatywy angażujące mieszkańców bezpośrednio.
 
-**Ueberhan Joanna (Lewica)**: Profil równościowy — transparentność, zieleń. Sojusznik w UDIP i sprawach środowiskowych.
+**Ueberhan Joanna (Lewica)**: Profil równościowy — transparentność, zieleń. Wspólny grunt w UDIP i sprawach środowiskowych.
 
 **Urbańska Beata Kinga (Lewica)**: Kandydatka na Prezydenta, agenda pro-społeczna. Wysoka rozpoznawalność, potencjał medialny.
 
 **Ignaszewski Bartłomiej (KO)**: Komisja Kultury Fizycznej. Popiera inwestycje rowerowe — ale jako rekreację/sport, nie transport codzienny. Przydatny przy projektach DDR rekreacyjnych.
 
-**Jura Grzegorz (KO)**: Przestrzeń przez pryzmat kultury. Możliwość przemycenia agendy rowerowej pod płaszczem "kultury przestrzeni".
+**Jura Grzegorz (KO)**: Przestrzeń przez pryzmat kultury. Możliwość włączenia agendy rowerowej pod kątem "kultury przestrzeni".

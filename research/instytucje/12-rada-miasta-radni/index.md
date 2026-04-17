@@ -15,36 +15,36 @@ Lookup tool dla aktywisty. Przed każdą interpelacją, petycją lub lobbingiem 
 - Kadencja 2024–2029: **34 radnych** w 6 okręgach (historycznie operuje się liczbą 37) `[do weryfikacji]`.
 - Dominacja: **Koalicja Obywatelska** — kontroluje prezydium i kluczowe komisje.
 - Opozycja: **PiS** (sceptyczni wobec ograniczeń ruchu samochodowego).
-- Koalicjant: **Lewica Centrum** — sojusznik w sprawach transportu zbiorowego i środowiska.
+- Koalicjant: **Lewica Centrum** — wspólne priorytety w sprawach transportu zbiorowego i środowiska.
 - Komisja kluczowa: **Komisja Transportu** (Przewodniczący: Tomasz Wierzbicki) — tu zapadają decyzje o DDR, MPZP transportowych, ZDM.
 - Sesje plenarne = fasada. Praca merytoryczna = komisje.
 
-## Szybka mapa: sojusznik / neutralny / przeciwnik (dla spraw repo)
+## Szybka mapa: charakter priorytetów i potencjał rozmowy
 
-| Radny | Frakcja | Ocena (hałas/rower/ruch) | Najlepsza droga kontaktu |
+| Radny | Frakcja | Priorytety / wspólny grunt | Najlepsza droga kontaktu |
 |---|---|---|---|
-| Wierzbicki Tomasz | KO | **Sojusznik strategiczny** | Ekspertyza techniczna + komisja |
-| Bonk-Hammermeister Dorota | Lewica | **Sojusznik strategiczny** | Social media + głos mieszkańców |
-| Lewandowski Tomasz | Lewica Centrum | **Sojusznik** | Argument makroekonomiczny/socjalny |
-| Owsianna Halina | Lewica | **Sojusznik** (zieleń/piesi) | Spotkanie osobiste w okręgu |
-| Rataj Andrzej | KO | **Sojusznik operacyjny** | Formalny wniosek → interpelacja |
-| Garczewski Łukasz | Społeczny Poznań | **Sojusznik strategiczny** | Ruch miejski — pełna zgodność |
-| Prendke Andrzej | KO | Potencjalny sojusznik | "Gotowiec" małej zmiany |
-| Mazurek Marta | KO | Potencjalny sojusznik | Partycypacja społeczna |
-| Ganowicz Grzegorz | KO | Neutralny | Eskalacja instytucjonalna |
-| Mikuła Łukasz | KO | Neutralny/Pragmatyczny | Analiza MPZP + błąd proceduralny |
-| Wiśniewski Mariusz | KO | Neutralny | Szerokie poparcie społeczne |
-| Dudzic-Biskupska Małgorzata | KO | Neutralny | ROI inwestycji + koszty zdrowotne |
-| Rozmiarek Mateusz | PiS | Przeciwnik (przydatny narzędziowo) | UDIP/transparentność |
-| Jemielity Ewa | PiS | **Przeciwnik** | Nie angażować w kwestiach ruchu |
-| Alexandrowicz Przemysław | PiS | **Przeciwnik** | Nie angażować |
+| Wierzbicki Tomasz | KO | **Aktywny partner** — transport, DDR, Tempo 30 | Ekspertyza techniczna + komisja |
+| Bonk-Hammermeister Dorota | Lewica | **Aktywny partner** — przestrzeń, głos mieszkańców | Social media + głos mieszkańców |
+| Lewandowski Tomasz | Lewica Centrum | **Wspólne priorytety** — transport zbiorowy, środowisko | Argument makroekonomiczny/socjalny |
+| Owsianna Halina | Lewica | **Wspólne priorytety** — zieleń, piesi, seniorzy | Spotkanie osobiste w okręgu |
+| Rataj Andrzej | KO | **Partner operacyjny** — interpelacje, kontrola | Formalny wniosek → interpelacja |
+| Garczewski Łukasz | Społeczny Poznań | **Aktywny partner** — ruch miejski, pełna zbieżność | Ruch miejski — pełna zgodność |
+| Prendke Andrzej | KO | Potencjalny wspólny grunt | "Gotowiec" małej zmiany |
+| Mazurek Marta | KO | Potencjalny wspólny grunt | Partycypacja społeczna |
+| Ganowicz Grzegorz | KO | Inne priorytety — stabilność, konsensus | Eskalacja instytucjonalna |
+| Mikuła Łukasz | KO | Inne priorytety — planowanie przestrzenne | Analiza MPZP + błąd proceduralny |
+| Wiśniewski Mariusz | KO | Inne priorytety — zarządczy realista | Szerokie poparcie społeczne |
+| Dudzic-Biskupska Małgorzata | KO | Inne priorytety — ROI/budżet | ROI inwestycji + koszty zdrowotne |
+| Rozmiarek Mateusz | PiS | Odmienne priorytety / otwarty na UDIP i bezp. | UDIP/transparentność; patrz wyniki-13 |
+| Jemielity Ewa | PiS | Odmienne priorytety w transporcie / wspólny grunt: seniorzy, zieleń | Nie transport — patrz wyniki-13 |
+| Alexandrowicz Przemysław | PiS | Odmienne priorytety w transporcie / wspólny grunt: dziedzictwo, ład | Ochrona zabytków; patrz wyniki-13 |
 
 ## Nawigacja chunków
 
 1. `01-struktura-frakcje.md` — skład RM, prezydium, frakcje, komisje stałe z przewodniczącymi.
 2. `02-tabela-radnych.md` — pełna tabela lookup 37 radnych: komitet, okręg, komisje, kontakt, ocena.
-3. `03-profile-sojusznicy.md` — pogłębione profile: Wierzbicki, Bonk-Hammermeister, Lewandowski, Owsianna, Rataj, Garczewski + potencjalni.
-4. `04-profile-neutralni-przeciwnicy.md` — Ganowicz, Mikuła, Wiśniewski, Dudzic-Biskupska, Rozmiarek, Jemielity, Alexandrowicz.
+3. `03-profile-sojusznicy.md` — pogłębione profile: Wierzbicki, Bonk-Hammermeister, Lewandowski, Owsianna, Rataj, Garczewski + potencjalni partnerzy.
+4. `04-profile-neutralni-przeciwnicy.md` — Ganowicz, Mikuła, Wiśniewski, Dudzic-Biskupska, Rozmiarek, Jemielity, Alexandrowicz — inne priorytety, jak rozmawiać. Pogłębienie: `../13-radni-dialog/`.
 5. `05-historia-kadencje.md` — kadencja 2014–2018 i 2018–2024; wzorce migracji; ścieżki kariery.
 6. `06-komisje-mechanika.md` — mapa komisji kluczowych, sieć powiązań ze spółkami, ranking aktywności, wzorce głosowań.
 7. `99-faq.md` — 12 pytań aktywisty (jak wymusić interpelację, jak lobbować przy PiS, jak egzekwować obietnicę).

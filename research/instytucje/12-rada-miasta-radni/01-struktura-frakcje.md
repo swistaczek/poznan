@@ -14,12 +14,12 @@
 
 | Klub / Frakcja | Charakterystyka | Stosunek do spraw repo |
 |---|---|---|
-| Koalicja Obywatelska (KO) | Dominująca większość, kontroluje prezydium i komisje | Zróżnicowany — od sojuszników (Wierzbicki) po neutralnych (Ganowicz) |
-| Prawo i Sprawiedliwość (PiS) | Główna opozycja | Sceptyczni wobec ograniczeń ruchu samochodowego; użyteczni w UDIP/transparentności |
-| Lewica Centrum | Przewodniczący Lewandowski; często decydujący głos w inicjatywach zrównoważonego rozwoju | Sojusznicy w transporcie zbiorowym i środowisku |
-| Lewica | Bonk-Hammermeister, Owsianna, Ueberhan | Sojusznicy strategiczni — walka z hałasem, zieleń, transparentność |
-| Trzecia Droga (PSL/PL2050) | Kowalczyk, Plewiński, Woźniak MR, Konopa, Jarmakowska-Kolanus, Małyszka-Łukomska, Wośkowiak | Neutralni, podejście kompromisowe |
-| Społeczny Poznań | Garczewski Łukasz — lider ruchu miejskiego | Sojusznik strategiczny — pełna zgodność z repo |
+| Koalicja Obywatelska (KO) | Dominująca większość, kontroluje prezydium i komisje | Zróżnicowany — od aktywnych partnerów (Wierzbicki) po inne priorytety (Ganowicz) |
+| Prawo i Sprawiedliwość (PiS) | Główna opozycja | Inne priorytety w transporcie; wspólny grunt: UDIP, transparentność, bezpieczeństwo rodzin |
+| Lewica Centrum | Przewodniczący Lewandowski; często decydujący głos w inicjatywach zrównoważonego rozwoju | Wspólne priorytety: transport zbiorowy, środowisko |
+| Lewica | Bonk-Hammermeister, Owsianna, Ueberhan | Aktywni partnerzy — hałas, zieleń, transparentność |
+| Trzecia Droga (PSL/PL2050) | Kowalczyk, Plewiński, Woźniak MR, Konopa, Jarmakowska-Kolanus, Małyszka-Łukomska, Wośkowiak | Inne priorytety, podejście kompromisowe |
+| Społeczny Poznań | Garczewski Łukasz — lider ruchu miejskiego | Aktywny partner — pełna zbieżność z repo |
 
 ## Komisje stałe — kluczowe dla spraw repo
 
@@ -28,7 +28,7 @@
 | **Komisja Transportu** | Tomasz Wierzbicki (KO) | Epicentrum decyzji o DDR, organizacji ruchu, inwestycjach ZDM — **najważniejsza** |
 | **Komisja Polityki Przestrzennej i Rewitalizacji** | [do wer.] / kluczowy: Łukasz Mikuła | MPZP — kształt zabudowy, trasy transportowe, korytarze napowietrzające |
 | **Komisja Ochrony Środowiska** | [do wer.] | Zieleń miejska, hałas, komfort akustyczny |
-| Komisja Kultury Fizycznej | Bartłomiej Ignaszewski (KO) | Infrastruktura rowerowa jako rekreacja — pośredni sojusznik |
+| Komisja Kultury Fizycznej | Bartłomiej Ignaszewski (KO) | Infrastruktura rowerowa jako rekreacja — potencjalny wspólny grunt |
 | Komisja Polityki Mieszkaniowej | Małgorzata Woźniak (KO) | Tkanka komunalna — pośrednie znaczenie |
 | Komisja Rodziny i Zdrowia | Maria Lisiecka-Pawełczak (KO) / Wiceprzew.: Ewa Jemielity (PiS) | Bezpieczeństwo pieszych, hałas jako zagrożenie zdrowotne |
 | Komisja Kultury i Nauki | Grzegorz Jura (KO) / Wiceprzew.: Andrzej Rataj (KO) | Przestrzeń kulturowa — pośrednie znaczenie |
