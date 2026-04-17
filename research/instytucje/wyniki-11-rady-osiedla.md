@@ -1,8 +1,20 @@
 # Rady osiedla Poznania — baza wiedzy
 
-<!-- Wynik prompta 11: research/prompty/11-rady-osiedla.md -->
-<!-- Źródło: ekspert samorządu lokalnego, 2026-04-17 -->
-<!-- Dane [do weryfikacji – stan na 2026-04] = brak twardych danych publicznych w repozytorium -->
+> **UWAGA (2026-04-17):** Dokument został rozbity na chunki lookup-owe. **Nie edytuj tego pliku** — jest zachowany jako źródło historyczne do weryfikacji. Do pracy bieżącej używaj:
+>
+> - `11-rady-osiedla/index.md` — TL;DR + tabela kluczowych osiedli + nawigacja
+> - `11-rady-osiedla/01-ustroj-tryb-relacje.md` — podstawy prawne, kadencja, wybory, relacja z RM
+> - `11-rady-osiedla/02-mapa-osiedli.md` — tabela wszystkich 42 rad osiedla
+> - `11-rady-osiedla/03-kompetencje-zasoby.md` — co może/musi/nie może RO; algorytm środków wolnych
+> - `11-rady-osiedla/04-aktywista-checklist.md` — 5 procedur krok po kroku
+> - `11-rady-osiedla/ciekawostki.md` — rekordy, precedensy, specyfika Jeżyc/Wildy/Łazarza
+> - `11-rady-osiedla/99-faq.md` — 15 pytań mieszkańca-aktywisty
+> - `11-rady-osiedla/zasoby.md` — linki BIP, akty prawne z datami dostępu
+
+- **Prompt źródłowy:** `research/prompty/11-rady-osiedla.md`
+- **Data researchu:** 2026-04-17
+- **Zasięg:** ustrój, kompetencje, mapa wszystkich 42 rad osiedla Poznania, praktyka działania
+- **Charakter:** dokument referencyjny — NIE esej, lookup tool
 
 ---
 
