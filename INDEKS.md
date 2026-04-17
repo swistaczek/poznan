@@ -23,6 +23,7 @@ Mapa nawigacyjna bazy wiedzy i inicjatyw obywatelskich dla Poznania.
 | instytucje | mapa kompetencji organów | [`index`](./research/instytucje/index.md) |
 | ngo | baza NGO / sojuszników (pro bono, watchdog, media) | [`wyniki`](./research/ngo/) |
 | pbo | Poznański Budżet Obywatelski — prawo, historia, taktyka | [`wyniki`](./research/pbo/) |
+| planowanie-przestrzenne | MPZP / WZ / OOŚ / konsultacje, taktyka aktywisty | [`wyniki`](./research/planowanie-przestrzenne/) |
 
 ## Szablony pism — `szablony/`
 
@@ -37,7 +38,7 @@ Reużywalne wzory pism. Zobacz `szablony/<obszar>/` — lista pojawi się po eks
 ## Meta
 
 - [`CLAUDE.md`](./CLAUDE.md) — konwencje dla Claude Code (obowiązkowy)
-- [`research/prompty/`](./research/prompty/) — briefy 01–09 dla top 1% ekspertów
+- [`research/prompty/`](./research/prompty/) — briefy 01–10 dla top 1% ekspertów
 - `MEMORY.md` — auto-memory Claude Code (gdy aktywne)
 
 ## Konwencje (skrót)
