@@ -30,18 +30,26 @@ theme:
         icon: material/weather-night
         name: Tryb jasny
   features:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
-    - navigation.top
-    - toc.follow
+    # Nawigacja zawsze widoczna
+    - navigation.instant            # SPA-like page transitions
+    - navigation.instant.prefetch   # prefetch link po hoverze (szybsze wrażenie)
+    - navigation.instant.progress   # loading bar podczas przejść
+    - navigation.tabs               # zakładki top-level pod headerem
+    - navigation.tabs.sticky        # zakładki przyklejone podczas scrolla
+    - navigation.sections           # sekcje w sidebarze (nie rozwinięte)
+    - navigation.indexes            # index.md jako landing sekcji
+    - navigation.footer             # prev/next na dole każdej strony
+    - navigation.top                # back-to-top button
+    # Spis treści i wyszukiwarka
+    - toc.follow                    # highlight aktualnej sekcji w TOC
     - search.suggest
     - search.highlight
     - search.share
+    # Treść
     - content.code.copy
-    - content.action.edit
-    - content.tabs.link
+    - content.action.edit           # link „edytuj tę stronę" do GitHuba
+    - content.tabs.link             # synchronizowane zakładki (np. język kodu)
+    - content.tooltips              # lepsze tooltipy linków
   icon:
     repo: fontawesome/brands/github
 
