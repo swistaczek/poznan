@@ -5,7 +5,7 @@
 - **Narzędzie / model:** _do uzupełnienia_
 - **Zasięg:** weryfikacja składu RM Poznania kadencji 2024–2029; karty operacyjne dla 7 radnych TD (Wośkowiak, Kowalczyk, Jarmakowska-Kolanus, Konopa, Plewiński, Woźniak MR, Małyszka-Łukomska); weryfikacja statusu Strzeleckiej Klaudii i Grzesia Michała; uzupełnienie okręgów 3–6.
 
-> **Karty operacyjne:** [Plewiński](../radni/plewinski-przemyslaw.md) · [Kapustka](../radni/kapustka-lukasz.md) · [Strzelecka](../radni/strzelecka-klaudia.md) · [Antolczyk](../radni/antolczyk-magdalena.md)
+> **Karty operacyjne:** [Plewiński](radni/plewinski-przemyslaw.md) · [Kapustka](radni/kapustka-lukasz.md) · [Strzelecka](radni/strzelecka-klaudia.md) · [Antolczyk](radni/antolczyk-magdalena.md)
 
 ---
 

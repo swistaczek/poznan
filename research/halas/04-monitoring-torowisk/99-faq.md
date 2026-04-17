@@ -58,7 +58,7 @@ Pierwszy layer retrieval — zajrzyj tu, zanim zaczniesz czytać chunki tematycz
 
 **Q:** Urzędnicy zbywają mieszkańców argumentem „ulica jest w WPF, remont kapitalny za 5 lat, nic więcej nie zrobimy". Czy muszę to akceptować?
 
-**A:** **Nie.** To fałszywe przeciwstawienie. WPF dotyczy **inwestycji strukturalnych** (przebudowa, nowe trasy) — finansowanych z budżetu majątkowego Miasta. **Utrzymanie** (szlifowanie, wymiana wkładek, podbijanie) = **budżet operacyjny MPK** — niezależny strumień. Stosuj: żądanie wdrożenia **procedur odtworzeniowych z budżetu bieżącego** z powołaniem na: (a) obowiązki z **art. 113–115a POŚ** (standardy hałasu), (b) sentencję decyzji DUŚ (jeśli była), (c) nadrzędny obowiązek ochrony zdrowia lokatorów (art. 68 Konstytucji). „Zamrażanie WPF" na 5 lat nie zwalnia z obowiązku utrzymania w stanie zgodnym z normami. Argumentarium: [`../03-zdrowie/04-argumentarium.md`](../03-zdrowie/04-argumentarium.md).
+**A:** **Nie.** To fałszywe przeciwstawienie. WPF dotyczy **inwestycji strukturalnych** (przebudowa, nowe trasy) — finansowanych z budżetu majątkowego Miasta. **Utrzymanie** (szlifowanie, wymiana wkładek, podbijanie) = **budżet operacyjny MPK** — niezależny strumień. Stosuj: żądanie wdrożenia **procedur odtworzeniowych z budżetu bieżącego** z powołaniem na: (a) obowiązki z **art. 113–115a POŚ** (standardy hałasu), (b) sentencję decyzji DUŚ (jeśli była), (c) nadrzędny obowiązek ochrony zdrowia lokatorów (art. 68 Konstytucji). „Zamrażanie WPF" na 5 lat nie zwalnia z obowiązku utrzymania w stanie zgodnym z normami. Argumentarium: `research/halas/wyniki-03-zdrowie-publiczne.md`.
 
 ---
 
@@ -74,5 +74,5 @@ Pierwszy layer retrieval — zajrzyj tu, zanim zaczniesz czytać chunki tematycz
 
 - Ogólne FAQ aktywisty: [`../01-akustyka/99-faq.md`](../01-akustyka/99-faq.md)
 - Immisje cywilne FAQ: [`../02-immisje/99-faq.md`](../02-immisje/99-faq.md)
-- Zdrowie publiczne FAQ: [`../03-zdrowie/99-faq.md`](../03-zdrowie/99-faq.md)
+- Zdrowie publiczne: [`../wyniki-03-zdrowie-publiczne.md`](../wyniki-03-zdrowie-publiczne.md)
 - Kompetencje instytucji: [`../../instytucje/07-kompetencje/`](../../instytucje/07-kompetencje/)
