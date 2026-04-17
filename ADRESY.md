@@ -1,52 +1,62 @@
 # Adresy organów — Poznań / Wielkopolska
 
-Tabela referencyjna do pism urzędowych. Marker `[do weryfikacji]` = sprawdź w BIP przed użyciem, zapisz URL + datę dostępu (patrz `CLAUDE.md`). Pełna mapa kompetencji: [`research/instytucje/index.md`](./research/instytucje/index.md).
+Tabela referencyjna do pism urzędowych. Dane zweryfikowane 2026-04-17 w BIP, stronach instytucji i gov.pl.
+Pełna mapa kompetencji: [`research/instytucje/index.md`](./research/instytucje/index.md).
+
+> **Uwaga (2026):** Od 1 stycznia 2026 r. e-Doręczenia (AE:PL-...) zastępują ePUAP jako główny kanał elektroniczny dla podmiotów publicznych. Gdzie znany — podano adres e-Doręczeń.
 
 ## Samorząd Miasta Poznania
 
-| Organ / jednostka | Adres | E-mail | ePUAP | Status UDIP |
+| Organ / jednostka | Adres | E-mail | ePUAP / e-Doręczenia | Status UDIP |
 |---|---|---|---|---|
-| Prezydent Miasta Poznania (UMP) | pl. Kolegiacki 17, 61-841 Poznań | `[do weryfikacji]` | `/UMPoznan/SkrytkaESP` `[do weryfikacji]` | jawny |
-| Wydział Ochrony Środowiska UMP (UMP-WOS) | pl. Kolegiacki 17 `[do weryfikacji]` | `[do weryfikacji]` | `[do weryfikacji]` | jawny |
-| Wydział Gospodarki Komunalnej UMP | pl. Kolegiacki 17 `[do weryfikacji]` | `[do weryfikacji]` | `[do weryfikacji]` | jawny |
-| Rada Miasta Poznania | pl. Kolegiacki 17 | `[do weryfikacji]` | — | jawny |
-| ZDM — Zarząd Dróg Miejskich | ul. Wilczak 17, 61-623 Poznań `[do weryfikacji]` | `[do weryfikacji]` | `[do weryfikacji]` | jawny |
-| ZTM — Zarząd Transportu Miejskiego | ul. Matejki 59 `[do weryfikacji]` | `[do weryfikacji]` | `[do weryfikacji]` | jawny |
-| ZZM — Zarząd Zieleni Miejskiej | `[do weryfikacji]` | `[do weryfikacji]` | `[do weryfikacji]` | jawny |
-| PIM — Poznańskie Inwestycje Miejskie | pl. Wiosny Ludów 2 `[do weryfikacji]` | `[do weryfikacji]` | `[do weryfikacji]` | jawny |
+| Prezydent Miasta Poznania (UMP) | pl. Kolegiacki 17, 61-841 Poznań | pk@um.poznan.pl | `/UMPoznan/SkrytkaESP` · AE:PL-46081-20925-AEABE-27 | jawny |
+| Wydział Klimatu i Środowiska UMP (WKŚ) ¹ | ul. Gronowa 22a, 61-655 Poznań | ksr@um.poznan.pl | `/UMPoznan/SkrytkaESP` · AE:PL-46081-20925-AEABE-27 | jawny |
+| Wydział Gospodarki Komunalnej UMP (WGK) | ul. 28 Czerwca 1956 r. 404, 61-441 Poznań | gk@um.poznan.pl | `/UMPoznan/SkrytkaESP` · AE:PL-46081-20925-AEABE-27 | jawny |
+| Biuro Miejskiego Konserwatora Zabytków (MKZ) | pl. Kolegiacki 17, pok. 360, 61-841 Poznań | mkz@um.poznan.pl | `/UMPoznan/SkrytkaESP` · AE:PL-46081-20925-AEABE-27 | jawny |
+| Biuro Rady Miasta Poznania | pl. Kolegiacki 17, pok. 110, 61-841 Poznań | rm@um.poznan.pl | `/UMPoznan/SkrytkaESP` | jawny |
+| ZDM — Zarząd Dróg Miejskich | ul. Wilczak 17, 61-623 Poznań | zdm@zdm.poznan.pl | `/zdmpoznan/skrytka` · AE:PL-48221-48908-FGIJI-36 | jawny |
+| ZTM — Zarząd Transportu Miejskiego | ul. Matejki 59, 60-770 Poznań | ztm@ztm.poznan.pl | `/ZTMPoznan/SkrytkaESP` · AE:PL-88237-25958-BSCDW-19 | jawny |
+| ZZM — Zarząd Zieleni Miejskiej | ul. Strzegomska 3, 60-194 Poznań | kancelaria@zzmpoznan.pl | `/ZZMPoznan/SkrytkaESP` · AE:PL-36103-40103-JCGTR-30 | jawny |
+| PIM — Poznańskie Inwestycje Miejskie | pl. Wiosny Ludów 2, IV p., 61-831 Poznań | sekretariat@pim.poznan.pl | `/PIMSPZOO/SkrytkaESP` · AE:PL-46984-37018-UEFAJ-29 | jawny |
+| PINB dla Miasta Poznania | pl. Kolegiacki 17, pok. 504, 61-841 Poznań | pinb@um.poznan.pl | `/UMPoznan/SkrytkaESP` | jawny |
+
+¹ Dawna nazwa: Wydział Ochrony Środowiska (WOŚ). Zmiana nazwy i adresu (przeniesiony z pl. Kolegiackiego 17 na ul. Gronową). Zakres: emisje hałasu, pozwolenia środowiskowe, mapy akustyczne.
 
 ## Spółki komunalne
 
-| Spółka | Adres | Zakres | Status UDIP |
-|---|---|---|---|
-| MPK Poznań sp. z o.o. | ul. Głogowska 131/133, 60-244 Poznań `[do weryfikacji]` | tramwaj, autobus miejski | podlega (art. 4 ust. 1 pkt 5 UDIP) |
-| Aquanet S.A. | ul. Dolna Wilda 126 `[do weryfikacji]` | wodociągi, kanalizacja | podlega |
-| Veolia Energia Poznań | `[do weryfikacji]` | ciepłownictwo | podlega w zakresie zadań publicznych |
-| ZTP — Zarządca Torowisk Poznań | `[do weryfikacji]` | eksploatacja torowisk | podlega |
+| Spółka | Adres | E-mail | Zakres | Status UDIP |
+|---|---|---|---|---|
+| MPK Poznań sp. z o.o. | ul. Głogowska 131/133, 60-244 Poznań | kancelaria@mpk.poznan.pl | tramwaj, autobus miejski, **zarządca torowisk** | podlega (art. 4 ust. 1 pkt 5 UDIP) |
+| Aquanet S.A. | ul. Dolna Wilda 126, 61-492 Poznań | klient@aquanet.pl | wodociągi, kanalizacja | podlega |
+| Veolia Energia Poznań S.A. | ul. Energetyczna 3, 61-016 Poznań | bok.poznan@veolia.com | ciepłownictwo | podlega w zakresie zadań publicznych |
+
+> **Korekta:** „ZTP — Zarządca Torowisk Poznań" nie istnieje jako odrębna spółka. Torowiskami zarządza **MPK Poznań sp. z o.o.** (wynika z umów z Miastem).
 
 ## Administracja rządowa / inspekcje
 
-| Organ | Adres | Zakres kluczowy |
-|---|---|---|
-| Wojewoda Wielkopolski / WUW | al. Niepodległości 16/18, 61-713 Poznań `[do weryfikacji]` | nadzór nad samorządem (art. 85 USG) |
-| WIOŚ Poznań | ul. Czarna Rola 4 `[do weryfikacji]` | pomiary i kontrola hałasu; decyzje art. 115a POŚ |
-| GIOŚ (centrala) | ul. Bitwy Warszawskiej 1920 r. nr 3, Warszawa `[do weryfikacji]` | nadzór nad WIOŚ, PMŚ, krajowa baza emisji |
-| RDOŚ Poznań | ul. Kolegiacka 12 `[do weryfikacji]` | decyzje środowiskowe, OOŚ |
-| PINB dla Miasta Poznania | pl. Kolegiacki 17 `[do weryfikacji]` | nadzór budowlany (samodzielny organ mimo podległości Prezydentowi) |
-| WINB Wielkopolski | `[do weryfikacji]` | II instancja PINB |
-| WKZ / MKZ Poznań | `[do weryfikacji]` | konserwator zabytków |
-| PPIS dla Miasta Poznania / WSSE | ul. Noskowskiego 23 `[do weryfikacji]` | hałas w środowisku życia |
-| UTK | al. Jerozolimskie 134, 02-305 Warszawa `[do weryfikacji]` | kolej — NIE tramwaj miejski (art. 3 ust. 1 pkt 1 ustawy o transporcie kolejowym) |
-| GDDKiA Oddział Poznań | ul. Siemiradzkiego 5a `[do weryfikacji]` | drogi krajowe (w Poznaniu zarządcą pozostaje miasto — art. 19 ust. 5 ustawy o drogach publicznych) |
-| WZDW | ul. Wilczak 51 `[do weryfikacji]` | drogi wojewódzkie (j.w.) |
-| Wody Polskie RZGW Poznań | `[do weryfikacji]` | pozwolenia wodnoprawne |
+| Organ | Adres | E-mail | Zakres kluczowy |
+|---|---|---|---|
+| Wojewoda Wielkopolski / WUW | al. Niepodległości 16/18, 61-713 Poznań | wuw@poznan.uw.gov.pl | nadzór nad samorządem (art. 85 USG) |
+| WIOŚ Poznań | ul. Czarna Rola 4, 61-625 Poznań | sekretariat@poznan.wios.gov.pl | pomiary i kontrola hałasu; decyzje art. 115a POŚ |
+| GIOŚ (centrala) ² | ul. Chmielna 132/134, 00-805 Warszawa | gios@gios.gov.pl | nadzór nad WIOŚ, PMŚ, krajowa baza emisji |
+| RDOŚ Poznań ³ | ul. Jana Henryka Dąbrowskiego 79, 60-529 Poznań | sekretariat.poznan@rdos.gov.pl | decyzje środowiskowe, OOŚ |
+| PINB dla Miasta Poznania | pl. Kolegiacki 17, pok. 504, 61-841 Poznań | pinb@um.poznan.pl | nadzór budowlany |
+| WINB Wielkopolski | al. Niepodległości 16/18, bud. C, III p., 61-713 Poznań | winb-pn@poznan.uw.gov.pl | II instancja PINB; ePUAP: /WINBEK/SkrytkaESP |
+| WSSE Poznań | ul. Noskowskiego 23, 61-705 Poznań | sekretariat.wssepoznan@sanepid.gov.pl | hałas w środowisku życia; ePUAP: /wssepoznan/SkrytkaESP |
+| UTK | al. Jerozolimskie 134, 02-305 Warszawa | utk@utk.gov.pl | kolej — NIE tramwaj miejski (art. 3 ust. 1 pkt 1 ustawy o transporcie kolejowym) |
+| GDDKiA Oddział Poznań | ul. Siemiradzkiego 5a, 60-763 Poznań | sekretariatpoznan@gddkia.gov.pl | drogi krajowe |
+| WZDW | ul. Wilczak 51, 61-623 Poznań | poczta@wzdw.pl | drogi wojewódzkie |
+| Wody Polskie RZGW Poznań | ul. Chlebowa 4/8, 61-003 Poznań | poznan@wody.gov.pl | pozwolenia wodnoprawne |
+
+² GIOŚ zmienił adres 2026-01-01 z ul. Bitwy Warszawskiej 1920 r. 3 na ul. Chmielna 132/134.
+³ RDOŚ przeniósł się z ul. Kolegiackiej 12 na ul. Dąbrowskiego 79.
 
 ## Samorząd województwa
 
-| Organ | Adres | Zakres |
-|---|---|---|
-| Marszałek Województwa Wielkopolskiego / UMWW | al. Niepodległości 34, 61-714 Poznań `[do weryfikacji]` | mapy akustyczne dróg wojewódzkich i kolei, POŚ |
-| Sejmik Województwa Wielkopolskiego | j.w. | uchwały regionalne |
+| Organ | Adres | E-mail | ePUAP | Zakres |
+|---|---|---|---|---|
+| Marszałek Woj. Wielkopolskiego / UMWW | al. Niepodległości 34, 61-714 Poznań | kancelaria@umww.pl | `/umarszwlkp/SkrytkaESP` · AE:PL-36275-98241-EEETD-21 | mapy akustyczne dróg woj. i kolei, POŚ |
+| Sejmik Województwa Wielkopolskiego | al. Niepodległości 34, 61-714 Poznań | — | j.w. | uchwały regionalne |
 
 ## Ombudsman / kontrola
 
@@ -58,12 +68,27 @@ Tabela referencyjna do pism urzędowych. Marker `[do weryfikacji]` = sprawdź w 
 
 ## Sądy (Poznań)
 
-| Sąd | Adres | Właściwość |
-|---|---|---|
-| WSA w Poznaniu | ul. Ratajczaka 10/12 `[do weryfikacji]` | skargi na decyzje, bezczynność |
-| Sąd Okręgowy w Poznaniu | ul. Hejmowskiego 2 `[do weryfikacji]` | immisje art. 144 KC (w zależności od WPS) |
-| SR Poznań-Stare Miasto | `[do weryfikacji]` | drobne sprawy cywilne |
+| Sąd | Adres | E-mail | Właściwość |
+|---|---|---|---|
+| WSA w Poznaniu | ul. Franciszka Ratajczaka 10/12, 61-815 Poznań | sekretariat@poznan.wsa.gov.pl | skargi na decyzje, bezczynność |
+| Sąd Okręgowy w Poznaniu | ul. Stanisława Hejmowskiego 2, 61-736 Poznań | informacja@poznan.so.gov.pl | immisje art. 144 KC (w zależności od WPS) |
+| SR Poznań-Stare Miasto | ul. Młyńska 1a, 61-729 Poznań | informacja@poznan-staremiasto.sr.gov.pl | drobne sprawy cywilne |
 
-## Uzupełnianie
+## Źródła weryfikacji (2026-04-17)
 
-Każdy wpis `[do weryfikacji]`: znajdź w BIP, zweryfikuj, usuń marker, zapisz `source: <URL>` i `last_verified: YYYY-MM-DD`.
+- UMP, ZDM, ZTM, ZZM, PIM, PINB, WGK, WKŚ, MKZ: [bip.poznan.pl](https://bip.poznan.pl)
+- MPK: [mpk.poznan.pl/kontakt](https://www.mpk.poznan.pl/kontakt)
+- Aquanet: [aquanet.pl/kontakt](https://www.aquanet.pl/kontakt)
+- Veolia: [energiadlapoznania.pl](https://energiadlapoznania.pl)
+- WIOŚ: [bip.poznan.wios.gov.pl](https://bip.poznan.wios.gov.pl)
+- RDOŚ: [gov.pl/web/rdos-poznan/dane-kontaktowe](https://www.gov.pl/web/rdos-poznan/dane-kontaktowe)
+- WINB: [poznan.winb.gov.pl/dane-teleadresowe](https://poznan.winb.gov.pl/dane-teleadresowe)
+- WSSE: [gov.pl/web/wsse-poznan/kontakt-bip](https://www.gov.pl/web/wsse-poznan/kontakt-bip)
+- GIOŚ: [gov.pl/web/gios — nowy adres od 2026-01-01](https://www.gov.pl/web/gios)
+- GDDKiA: [gov.pl/web/gddkia-poznan/dane-teleadresowe](https://www.gov.pl/web/gddkia-poznan/dane-teleadresowe)
+- WZDW: [wzdw.pl/bip/kontakt](https://wzdw.pl/bip/kontakt)
+- Wody Polskie RZGW: [poznan.wody.gov.pl](https://poznan.wody.gov.pl)
+- UMWW: [umww.pl/kontakt](https://www.umww.pl/kontakt)
+- WSA: [bip.wsa.poznan.pl](https://bip.wsa.poznan.pl)
+- SO Poznań: [poznan.so.gov.pl](https://poznan.so.gov.pl)
+- SR Stare Miasto: [poznan-staremiasto.sr.gov.pl](https://poznan-staremiasto.sr.gov.pl)
