@@ -68,7 +68,7 @@ Każda kampania ma własny `REJESTR.md` z listą pism wysłanych i odpowiedzi �
 - **Zgłoś** brakujący temat, błąd lub nowe źródło przez [GitHub Issues](https://github.com/swistaczek/poznan/issues).
 - **Wyślij** pismo wzorowane na szablonie i **wróć z odpowiedzią organu** — zasilamy bazę precedensami i orzecznictwem.
 
-**Kontakt:** `[do uzupełnienia]` (Discord/Signal/e-mail koordynatora).
+**Kontakt:** [@swistak na X/Twitter](https://x.com/swistak) · [GitHub Issues](https://github.com/swistaczek/poznan/issues).
 
 ---
 
@@ -189,8 +189,7 @@ Przy strategicznych decyzjach (np. wybór strategii procesowej, treść pisma wy
 
 ## Kontakt i kredyty
 
-- **Maintainer:** [@swistaczek](https://github.com/swistaczek) (GitHub).
-- **Kanały komunikacji:** `[do uzupełnienia]` — Discord / Signal / e-mail koordynatora.
+- **Maintainer:** [@swistaczek](https://github.com/swistaczek) (GitHub) · [@swistak](https://x.com/swistak) (X/Twitter).
 - **Zgłoszenia:** [GitHub Issues](https://github.com/swistaczek/poznan/issues).
 
 Kontrybucje (każda forma — tekst, korekta, weryfikacja adresów, opowiedzenie o sprawie) mile widziane.
