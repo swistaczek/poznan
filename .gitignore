@@ -1,0 +1,21 @@
+# Build MkDocs
+_site/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Claude Code
+MEMORY.md
+.claude/local/

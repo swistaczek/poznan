@@ -1,0 +1,109 @@
+site_name: "Poznań — inicjatywy obywatelskie"
+site_description: "Baza wiedzy i dokumenty dla obywatelskich inicjatyw w Poznaniu: hałas, rowery, uspokojenie ruchu, UDIP, transparentność."
+site_author: "Inicjatywa obywatelska"
+site_url: "https://swistaczek.github.io/poznan/"
+repo_url: "https://github.com/swistaczek/poznan"
+repo_name: "swistaczek/poznan"
+edit_uri: "edit/main/"
+
+# Całe repo jest dokumentacją. Wykluczenia — patrz `exclude_docs` na końcu.
+docs_dir: "."
+# Katalog buildu poza treścią repo.
+site_dir: "_site"
+
+theme:
+  name: material
+  language: pl
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Tryb ciemny
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Tryb jasny
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang:
+        - pl
+      separator: '[\s\-\.\,\;\:\!\?]+'
+  - awesome-pages
+  # Opcjonalne pluginy — odkomentuj gdy potrzebne (i dodaj do requirements-docs.txt):
+  # - git-revision-date-localized:
+  #     type: date
+  #     locale: pl
+  #     enable_creation_date: true
+  # - minify:
+  #     minify_html: true
+  #     minify_js: true
+  #     minify_css: true
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/swistaczek/poznan
+  generator: false
+
+# Pliki wykluczone z publicznej strony.
+# UWAGA: NIE wyklucza się `wyniki-*.md` ani `dabrowskiego/` — to publiczna wartość repo.
+exclude_docs: |
+  CLAUDE.md
+  **/CLAUDE.md
+  MEMORY.md
+  **/MEMORY.md
+  _site/
+  .github/
+  .git/
+  .claude/
+  .venv/
+  venv/
+  node_modules/
+  requirements-docs.txt
+  research/prompty/
+  docs-local.md

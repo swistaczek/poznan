@@ -1,0 +1,5 @@
+mkdocs-material>=9.5,<10
+mkdocs-awesome-pages-plugin>=2.9,<3
+# Opcjonalne — odkomentuj w mkdocs.yml zanim odkomentujesz tutaj:
+# mkdocs-git-revision-date-localized-plugin>=1.2,<2
+# mkdocs-minify-plugin>=0.8,<1

@@ -1,0 +1,9 @@
+nav:
+  - Start: index.md
+  - Indeks: INDEKS.md
+  - Adresy: ADRESY.md
+  - Terminy: TERMINY.md
+  - Baza wiedzy: research
+  - Szablony: szablony
+  - Kampanie:
+      - dabrowskiego

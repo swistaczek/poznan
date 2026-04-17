@@ -2,82 +2,90 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Czym jest to repo
+## Repo
 
-Repozytorium gromadzi materiały i inicjatywy obywatelskie dotyczące **miasta Poznania** — w szczególności:
+Baza inicjatyw obywatelskich dla Poznania: hałas tramwajowy (ul. Dąbrowskiego, Jeżyce), ścieżki rowerowe, uspokojenie ruchu, transparentność (UDIP), kompetencje organów, jakość życia. **Nie jest projektem kodowym** — brak build/test/dependencies. Treść: `.md`, `.pdf`, dane, linki.
 
-- jakości życia mieszkańców,
-- ścieżek rowerowych i mobilności aktywnej,
-- norm hałasu (drogowego, tramwajowego, kolejowego),
-- uspokojenia ruchu (traffic calming, strefy Tempo 30, woonerfy),
-- transparentności działania władz miasta, spółek miejskich i ZTM/MPK.
+## Język i styl
 
-To **nie jest projekt programistyczny** — nie ma kodu źródłowego, buildów, testów ani zależności. Treścią są dokumenty (`.md`, `.pdf`), studia prawno-techniczne, pisma, notatki, dane i linki do źródeł.
+- Wszystko po polsku: odpowiedzi, commity, nazwy plików, treść.
+- Terminologia polskiego porządku prawnego ("rozporządzenie", nie "regulation"; "immisje", nie "nuisance").
+- **Dokumenty źródłowe** (`research/`, notatki, analizy, rejestry): **gęsty styl**. Bez zwrotów grzecznościowych, bez „warto zauważyć", bez „w niniejszym dokumencie". Fakty, liczby, sygnatury, linki. Oszczędzaj tokeny — te pliki ładują się do wielu sesji.
+- **Pisma urzędowe** (`<inicjatywa>/pisma/`): **pełny protokół urzędowy**. Nie skracaj zwrotów, adresat z pełną właściwością rzeczową, podstawa prawna konkretnie, petitum, termin odpowiedzi, klauzule doręczenia. Tu forma ma wartość procesową.
 
-## Język
-
-**Wszystkie odpowiedzi, commit messages, nazwy plików i treść dokumentów — po polsku.** Dotyczy to też komentarzy, opisów PR-ów i podsumowań. Terminologia prawna i techniczna powinna być zgodna z polskim porządkiem prawnym (nie tłumaczymy np. "rozporządzenia" jako "regulation" w tekście).
-
-## Struktura katalogów
-
-Konwencja jest dwupoziomowa:
+## Struktura
 
 ```
-<inicjatywa-lub-lokalizacja>/<obszar-problemowy>/
-research/<obszar-problemowy>/
+research/<obszar>/              # wiedza referencyjna, reużywalna
+research/prompty/               # briefy 01–NN dla top 1% ekspertów (persona + zakres)
+<inicjatywa>/<obszar>/          # kampania (np. dabrowskiego/halas/)
+szablony/<obszar>/              # reużywalne szablony pism (w budowie)
 ```
 
-- **`<inicjatywa>/`** (np. `dabrowskiego/`) — konkretna kampania, ulica, osiedle lub projekt obywatelski. Trzyma pisma, wnioski, interwencje, korespondencję z urzędami.
-- **`research/`** — materiały źródłowe przekrojowe: studia prawne, regulacje, analizy, dane pomiarowe, opracowania eksperckie. Nie są związane z jedną kampanią — stanowią bazę wiedzy reużywalną między inicjatywami.
-- **`<obszar-problemowy>/`** (np. `halas/`, `rowery/`, `uspokojenie-ruchu/`, `transparentnosc/`) — kategoria tematyczna wspólna dla `research/` i katalogów inicjatyw.
+Obszary: `halas`, `rowery`, `uspokojenie-ruchu`, `transparentnosc`, `instytucje`.
 
-Tworząc nowy materiał: najpierw rozstrzygnij, czy to ogólna wiedza (→ `research/`), czy działanie w konkretnej sprawie (→ `<inicjatywa>/`).
+Decyzja przy nowym materiale: ogólna wiedza → `research/`, sprawa konkretna → `<inicjatywa>/`, reużywalny szablon → `szablony/`.
+
+**Nazwy plików**: kebab-case, **bez polskich znaków i spacji** (łamie URL/git na różnych OS).
+
+## Nested CLAUDE.md
+
+Podkatalogi mogą mieć własne `CLAUDE.md` z lokalnymi konwencjami — ładują się gdy Claude czyta plik z tego katalogu. **Caveat: nested CLAUDE.md NIE reładują się po `/compact`** (tylko root). Kluczowe reguły trzymaj w tym pliku; nested służą do konwencji specyficznych dla obszaru.
+
+## Rozmiary plików
+
+- Cel: każdy plik ≤ 12 KB (bezpieczny budżet tokenów jednym Read).
+- Twardy limit: **nie twórz plików > 25 K tokenów (~40 KB PL)** — Read zwraca błąd, Claude pracuje na ślepo przez Grep.
+- Obecne `research/<obszar>/wyniki-*.md` (45–77 KB) przekraczają limit — reorganizacja w fazie planowania; do czasu jej ukończenia czytaj z `offset`/`limit` lub Grep po sekcjach.
 
 ## Styl pracy z dokumentami
 
-- **Cytuj źródła prawne dokładnie** — numer aktu, dziennik ustaw, artykuł/paragraf/ustęp. Dla aktów zmienianych — wersja aktualna na dzień pisania (podaj datę).
-- **Rozróżniaj fakty od postulatów.** W piśmie do urzędu: stan prawny i stan faktyczny osobno od żądania/wniosku.
-- **Nie zmyślaj danych pomiarowych, numerów interwencji, dat posiedzeń rady.** Jeśli brak źródła — zaznacz `[do weryfikacji]` zamiast wstawiać prawdopodobną wartość.
-- **Zachowuj oryginalne nazwy instytucji** (ZDM, MPK Poznań sp. z o.o., GIOŚ, WIOŚ, RDOŚ, Rada Miasta Poznania, jednostki pomocnicze — rady osiedli).
+- Cytuj akty prawne dokładnie: akt, Dz.U., art./§/ust., data aktualnej wersji.
+- Rozdzielaj stan prawny, stan faktyczny, żądanie.
+- Nie zmyślaj liczb, dat, sygnatur. Niepewne → `[do weryfikacji]`.
+- Zachowuj oryginalne nazwy: ZDM Poznań, MPK Poznań sp. z o.o., WIOŚ, RDOŚ, Rada Miasta Poznania, rada osiedla.
 
 ## Pisanie pism urzędowych
 
-Gdy generujesz pismo, wniosek, skargę lub interpelację:
+1. Podstawa prawna — konkretny artykuł, nie „zgodnie z przepisami".
+2. Adresat właściwy rzeczowo i miejscowo → mapa w `research/instytucje/wyniki-07-kompetencje-instytucji.md`.
+3. Termin — KPA art. 35/237 lub UDIP 14 dni.
+4. Forma doręczenia (ePUAP / e-mail / adres pocztowy) — jawna klauzula.
 
-1. Ustal **podstawę prawną** (konkretny artykuł) — nie ogólnikowe "zgodnie z przepisami".
-2. Określ **adresata właściwego rzeczowo i miejscowo** — nie pisz do Prezydenta, gdy sprawa leży w kompetencji zarządcy drogi lub spółki komunalnej.
-3. Wskaż **termin** wynikający z KPA (art. 35, 237) lub ustawy o dostępie do informacji publicznej (14 dni).
-4. Dodaj **klauzulę o sposobie doręczenia odpowiedzi** (ePUAP, e-mail, adres pocztowy).
+## Dane publiczne
 
-## Transparentność i dane publiczne
+- bip.poznan.pl — uchwały, budżet, oświadczenia, zamówienia.
+- sip.poznan.pl — MPZP, WZ.
+- Rejestr umów, petycji, interpelacji.
+- UDIP: 14 dni, forma elektroniczna wystarcza (zwykły e-mail).
 
-Preferowane źródła danych o Poznaniu (gdy potrzebujesz faktu, a nie masz go w repo):
+Przy cytowaniu — **URL + data dostępu** (treść BIP znika po kadencjach).
 
-- BIP Miasta Poznania (bip.poznan.pl) — uchwały, zarządzenia, budżet, oświadczenia majątkowe.
-- System Informacji Przestrzennej Poznania (sip.poznan.pl) — MPZP, warunki zabudowy.
-- Rejestr umów, rejestr petycji, rejestr interpelacji.
-- Wnioski o informację publiczną (14 dni, forma pisemna lub elektroniczna).
+## Panel ekspertów przed finalną rekomendacją
 
-Jeśli cytujesz dane z tych źródeł — zapisuj URL **i** datę dostępu; treść BIP-u potrafi zniknąć po kadencji.
+Sprawy wysokostawkowe i wieloaspektowe (prawo + technika + zdrowie + urbanistyka + polityka). Pojedyncza perspektywa = płytka rada.
 
-## Metoda pracy: panel ekspertów przed finalną rekomendacją
+**Przed rekomendacją strategiczną: uruchom 4–6 sub-agentów równolegle** (jedna wiadomość, wiele wywołań `Agent`), model Opus, w rolach top 1% specjalistów. Persony w `research/prompty/`.
 
-Sprawy w tym repo są **wysokostawkowe** (postępowania urzędowe i sądowe, inwestycje publiczne, reputacja inicjatyw obywatelskich) i **wieloaspektowe** (prawo administracyjne + cywilne, technika, zdrowie publiczne, urbanistyka, polityka lokalna). Pojedyncza perspektywa daje płytkie, generyczne rekomendacje.
+- Każdy sub-agent: persona + brief + „czego NIE chcemy".
+- Syntezę robi agent główny: konsensus, rozbieżności, finalna propozycja.
+- **NIE** uruchamiaj panelu dla zadań operacyjnych (formatowanie, literówki).
 
-**Dlatego: zanim sformułujesz finalną rekomendację dla użytkownika, uruchom wielu sub-agentów w jednym wywołaniu równoległym (multiple tool calls in one message), z których każdy wciela się w top 1% eksperta innej dziedziny właściwej dla sprawy.** Używaj narzędzia `Agent` (subagent_type: `general-purpose` lub `Explore`), preferowany model: **Opus**.
+Kryterium: „gdybym pomylił się, kosztowałoby więcej niż kilka minut korekty" → panel.
 
-Zasady:
-- **Równolegle, nie sekwencyjnie** — jedna wiadomość, wiele wywołań `Agent`. Każdy to osobna rola (np. akustyk torowy, prawnik cywilista — immisje, epidemiolog środowiskowy, ekspert uspokojenia ruchu, ekspert UDIP).
-- **Każdy sub-agent dostaje** personę top 1% z twardymi kwalifikacjami + precyzyjny brief + sekcję „Czego NIE chcemy". Gotowe wzorce są w `research/prompty/` — używaj ich jako bazy.
-- **Minimum 3, preferowane 4–6 perspektyw** dla decyzji strategicznych: wybór drogi procesowej, projekt interwencji infrastrukturalnej, kampania medialna, wniosek do rady miasta.
-- **Syntezę robi agent główny**, nie użytkownik. Przedstaw: rekomendację, konsensus ekspertów, istotne rozbieżności z nazwiskami perspektyw, i ostateczną propozycję działania.
-- **NIE uruchamiaj panelu** dla drobnych zadań operacyjnych (formatowanie tabeli, poprawka literówki) — marnotrawstwo tokenów i czasu użytkownika.
+## Compact instructions
 
-Kryterium uruchomienia: „gdybym pomylił się w tej rekomendacji, czy kosztowałoby to więcej niż kilka minut korekty". Jeśli TAK (np. grozi kompromitacja publiczna, przegrany proces, zmarnowane środki BO, blokada inicjatywy) — odpal panel ekspertów. Jeśli NIE — odpowiedz bezpośrednio.
+Gdy streszczasz sesję, **zawsze** zachowaj:
+- Sygnatury orzeczeń i konkretne art. cytowane w trakcie.
+- Daty i adresatów pism wysłanych; otwarte terminy KPA/UDIP.
+- Decyzje o strukturze repo i konwencjach.
+- Wnioski z paneli ekspertów (ze wskazaniem plików wynikowych).
 
 ## Czego NIE robić
 
-- Nie zakładaj struktury projektu kodowego (nie twórz `package.json`, `.gitignore` dla `node_modules`, CI, itp.) — to repo dokumentowe.
-- Nie tłumacz dokumentów na angielski, jeśli użytkownik nie poprosi wprost.
-- Nie usuwaj dokumentów źródłowych — nawet jeśli wyglądają na duplikaty, mogą różnić się datą lub wersją.
-- Nie agreguj wielu spraw w jeden dokument — jedna sprawa = jeden katalog `<inicjatywa>/` = osobna ścieżka urzędowa.
+- Nie twórz struktury projektu kodowego (`package.json`, CI, `.gitignore` na `node_modules`).
+- Nie tłumacz na angielski bez wyraźnej prośby.
+- Nie usuwaj dokumentów źródłowych — wyglądające na duplikaty mogą różnić się datą lub wersją.
+- Nie agreguj wielu spraw w jeden dokument — jedna sprawa = jeden katalog = osobna ścieżka urzędowa.
+- **Nie** używaj wiki-links `[[...]]` — martwe poza Obsidian; używaj markdown relative.
+- **Nie** używaj polskich znaków ani spacji w nazwach plików.
