@@ -15,4 +15,4 @@ UDIP w Poznaniu: mapa BIP, kluczowe rejestry, zakres podmiotowy (spółki komuna
 ## Powiązania
 
 - Szablony pism: [`szablony/transparentnosc/`](../../szablony/transparentnosc/)
-- Mapa instytucji: [`../instytucje/_index.md`](../instytucje/_index.md)
+- Mapa instytucji: [`../instytucje/index.md`](../instytucje/index.md)

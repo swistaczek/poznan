@@ -8,7 +8,7 @@ Mapa nawigacyjna bazy wiedzy i inicjatyw obywatelskich dla Poznania.
 |---|---|
 | Piszę pismo urzędowe | [`szablony/`](./szablony/) + [`ADRESY.md`](./ADRESY.md) |
 | Sprawdzam termin KPA/UDIP | [`TERMINY.md`](./TERMINY.md) |
-| Szukam adresata właściwego | [`research/instytucje/_index.md`](./research/instytucje/_index.md) |
+| Szukam adresata właściwego | [`research/instytucje/index.md`](./research/instytucje/index.md) |
 | Zaczynam nowy research | [`research/prompty/`](./research/prompty/) |
 | Prowadzę kampanię Dąbrowskiego | [`dabrowskiego/`](./dabrowskiego/) |
 
@@ -16,11 +16,13 @@ Mapa nawigacyjna bazy wiedzy i inicjatyw obywatelskich dla Poznania.
 
 | Obszar | Temat | Indeks |
 |---|---|---|
-| halas | hałas tramwajowy — akustyka, immisje, zdrowie | [`_index`](./research/halas/_index.md) |
-| uspokojenie-ruchu | Tempo 30, woonerfy, interwencje | [`_index`](./research/uspokojenie-ruchu/_index.md) |
-| rowery | polityka rowerowa Poznania, audyt CROW | [`_index`](./research/rowery/_index.md) |
-| transparentnosc | UDIP, budżet, skargi na bezczynność | [`_index`](./research/transparentnosc/_index.md) |
-| instytucje | mapa kompetencji organów | [`_index`](./research/instytucje/_index.md) |
+| halas | hałas tramwajowy — akustyka, immisje, zdrowie | [`index`](./research/halas/index.md) |
+| uspokojenie-ruchu | Tempo 30, woonerfy, interwencje | [`index`](./research/uspokojenie-ruchu/index.md) |
+| rowery | polityka rowerowa Poznania, audyt CROW | [`index`](./research/rowery/index.md) |
+| transparentnosc | UDIP, budżet, skargi na bezczynność | [`index`](./research/transparentnosc/index.md) |
+| instytucje | mapa kompetencji organów | [`index`](./research/instytucje/index.md) |
+| ngo | baza NGO / sojuszników (pro bono, watchdog, media) | [`wyniki`](./research/ngo/) |
+| pbo | Poznański Budżet Obywatelski — prawo, historia, taktyka | [`wyniki`](./research/pbo/) |
 
 ## Szablony pism — `szablony/`
 
@@ -35,7 +37,7 @@ Reużywalne wzory pism. Zobacz `szablony/<obszar>/` — lista pojawi się po eks
 ## Meta
 
 - [`CLAUDE.md`](./CLAUDE.md) — konwencje dla Claude Code (obowiązkowy)
-- [`research/prompty/`](./research/prompty/) — briefy 01–07 dla top 1% ekspertów
+- [`research/prompty/`](./research/prompty/) — briefy 01–09 dla top 1% ekspertów
 - `MEMORY.md` — auto-memory Claude Code (gdy aktywne)
 
 ## Konwencje (skrót)

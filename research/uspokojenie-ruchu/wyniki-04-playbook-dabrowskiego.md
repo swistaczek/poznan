@@ -2,7 +2,7 @@
 
 > **UWAGA — plik został zreorganizowany.** Treść rozbita na chunki w katalogu `04-playbook/`. Ten plik zachowany jako źródło oryginalne (nie edytuj).
 >
-> **Indeks**: `04-playbook/_index.md`
+> **Indeks**: `04-playbook/index.md`
 >
 > **Chunki** (research/uspokojenie-ruchu/04-playbook/):
 > - `01-diagnoza-dabrowskiego.md` — geometria, V85, wypadkowość, akustyka, tramwaj w osi

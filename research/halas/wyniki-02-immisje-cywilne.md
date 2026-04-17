@@ -1,4 +1,4 @@
-> **Zreorganizowane (2026-04-17):** chunki w [`02-immisje/`](02-immisje/_index.md), szablony w [`/szablony/halas/`](../../szablony/halas/).
+> **Zreorganizowane (2026-04-17):** chunki w [`02-immisje/`](02-immisje/index.md), szablony w [`/szablony/halas/`](../../szablony/halas/).
 
 ---
 

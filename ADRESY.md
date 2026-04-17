@@ -1,6 +1,6 @@
 # Adresy organów — Poznań / Wielkopolska
 
-Tabela referencyjna do pism urzędowych. Marker `[do weryfikacji]` = sprawdź w BIP przed użyciem, zapisz URL + datę dostępu (patrz `CLAUDE.md`). Pełna mapa kompetencji: [`research/instytucje/_index.md`](./research/instytucje/_index.md).
+Tabela referencyjna do pism urzędowych. Marker `[do weryfikacji]` = sprawdź w BIP przed użyciem, zapisz URL + datę dostępu (patrz `CLAUDE.md`). Pełna mapa kompetencji: [`research/instytucje/index.md`](./research/instytucje/index.md).
 
 ## Samorząd Miasta Poznania
 

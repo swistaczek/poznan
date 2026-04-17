@@ -2,7 +2,7 @@
 
 > **Uwaga — plik rozbity na chunki.** Ten monolit (~77 KB) został zreorganizowany na 9 chunków tematycznych w `06-udip/` oraz 6 szablonów pism w `/Users/ernest/projects/poznan/szablony/transparentnosc/`. **Sięgaj tam zamiast tutaj** — chunki są zoptymalizowane pod jeden Read, szablony gotowe do użycia w kampanii.
 >
-> **Start:** [`06-udip/_index.md`](06-udip/_index.md) — mapa chunków + tabela szybkiego wyboru szablonów + drzewo decyzyjne + sygnatury.
+> **Start:** [`06-udip/index.md`](06-udip/index.md) — mapa chunków + tabela szybkiego wyboru szablonów + drzewo decyzyjne + sygnatury.
 >
 > **Najważniejsze chunki**:
 > - [`06-udip/04-procedura-wniosku-i-tryb-odwolawczy.md`](06-udip/04-procedura-wniosku-i-tryb-odwolawczy.md) — fundament procesowy.
@@ -10,7 +10,7 @@
 > - [`06-udip/08-skargi-na-bezczynnosc-wsa-nsa.md`](06-udip/08-skargi-na-bezczynnosc-wsa-nsa.md) — ścieżka sądowa.
 > - [`06-udip/99-faq.md`](06-udip/99-faq.md) — 14 pytań mieszkańca-aktywisty.
 >
-> **Szablony UDIP** (lista pełna w `06-udip/_index.md`): podstawowy, spółka komunalna, informacja przetworzona, ponaglenie KPA, skarga na bezczynność WSA, odwołanie do SKO.
+> **Szablony UDIP** (lista pełna w `06-udip/index.md`): podstawowy, spółka komunalna, informacja przetworzona, ponaglenie KPA, skarga na bezczynność WSA, odwołanie do SKO.
 >
 > Ten plik pozostawiony jako archiwum treści źródłowej — nie edytuj go, edytuj odpowiednie chunki.
 

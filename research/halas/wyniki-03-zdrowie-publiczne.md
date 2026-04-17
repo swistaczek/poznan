@@ -7,7 +7,7 @@
 
 ---
 
-> **Monolit — zreorganizowany 2026-04-17.** Wersja chunkowana (≤ 12 KB/plik) w katalogu [`03-zdrowie/`](./03-zdrowie/). Punkt wejścia: [`03-zdrowie/_index.md`](./03-zdrowie/_index.md). FAQ: [`03-zdrowie/99-faq-medyczne.md`](./03-zdrowie/99-faq-medyczne.md) i [`03-zdrowie/99-faq-prawne.md`](./03-zdrowie/99-faq-prawne.md). Ten plik zachowany jako źródło archiwalne — nowe edycje wnoś do chunków.
+> **Monolit — zreorganizowany 2026-04-17.** Wersja chunkowana (≤ 12 KB/plik) w katalogu [`03-zdrowie/`](./03-zdrowie/). Punkt wejścia: [`03-zdrowie/index.md`](./03-zdrowie/index.md). FAQ: [`03-zdrowie/99-faq-medyczne.md`](./03-zdrowie/99-faq-medyczne.md) i [`03-zdrowie/99-faq-prawne.md`](./03-zdrowie/99-faq-prawne.md). Ten plik zachowany jako źródło archiwalne — nowe edycje wnoś do chunków.
 
 ---
 

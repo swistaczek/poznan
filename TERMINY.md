@@ -63,6 +63,6 @@ Harmonogram PBO zmienia się rocznie — `[do weryfikacji: bip.poznan.pl lub bud
 
 ## Pełna analiza procedur
 
-- UDIP + skargi → [`research/transparentnosc/_index.md`](./research/transparentnosc/_index.md)
-- Mapa organów i właściwości → [`research/instytucje/_index.md`](./research/instytucje/_index.md)
-- Immisje cywilne → [`research/halas/_index.md`](./research/halas/_index.md) (sekcja 02-immisje)
+- UDIP + skargi → [`research/transparentnosc/index.md`](./research/transparentnosc/index.md)
+- Mapa organów i właściwości → [`research/instytucje/index.md`](./research/instytucje/index.md)
+- Immisje cywilne → [`research/halas/index.md`](./research/halas/index.md) (sekcja 02-immisje)

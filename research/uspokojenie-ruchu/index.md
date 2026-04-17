@@ -15,4 +15,4 @@ Materiały dotyczące Tempo 30, woonerfów, fizycznych środków uspokojenia ruc
 ## Powiązania
 
 - Szablony pism: [`szablony/uspokojenie-ruchu/`](../../szablony/uspokojenie-ruchu/)
-- Mapa instytucji: [`../instytucje/_index.md`](../instytucje/_index.md)
+- Mapa instytucji: [`../instytucje/index.md`](../instytucje/index.md)

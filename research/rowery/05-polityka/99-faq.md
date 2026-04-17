@@ -251,7 +251,7 @@ Równolegle: ZDM o **audyty BRD** przed zatwierdzeniem Stałej Organizacji Ruchu
 
 ## Powiązane
 
-- Indeks modułu: `_index.md`
+- Indeks modułu: `index.md`
 - Diagnoza sieci: `01-diagnoza-sieci.md`
 - Gap analysis CROW: `02-gap-analysis-crow.md`
 - Benchmark: `03-benchmark-miast-pl.md`

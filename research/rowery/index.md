@@ -15,4 +15,4 @@ Materiały o polityce rowerowej Poznania: diagnoza sieci, audyt CROW, benchmark 
 ## Powiązania
 
 - Szablony pism: [`szablony/rowery/`](../../szablony/rowery/)
-- Mapa instytucji: [`../instytucje/_index.md`](../instytucje/_index.md)
+- Mapa instytucji: [`../instytucje/index.md`](../instytucje/index.md)

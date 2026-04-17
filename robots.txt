@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://swistaczek.github.io/poznan/sitemap.xml

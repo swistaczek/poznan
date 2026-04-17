@@ -2,7 +2,7 @@
 
 > **UWAGA (2026-04-17):** Dokument został rozbity na chunki lookup-owe. **Nie edytuj tego pliku** — jest zachowany jako źródło historyczne do weryfikacji. Do pracy bieżącej używaj:
 >
-> - `07-kompetencje/_index.md` — drzewo decyzji „komu pisać" + nawigacja
+> - `07-kompetencje/index.md` — drzewo decyzji „komu pisać" + nawigacja
 > - `07-kompetencje/01-ustroj-miasta-poznania.md` — gmina na prawach powiatu, dualizm Prezydenta, administracja zespolona
 > - `07-kompetencje/02-jednostki-miasta-i-spolki.md` — UMP, ZDM/ZTM/ZZM, MPK/PIM/Aquanet/ZKZL/Veolia, UDIP
 > - `07-kompetencje/03-wojewodztwo-i-administracja-rzadowa.md` — Marszałek/Sejmik, Wojewoda, SKO/WSA, RPO/UODO/NIK

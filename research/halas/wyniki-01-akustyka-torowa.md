@@ -1,4 +1,4 @@
-> **Zreorganizowane (2026-04-17):** chunki w [`01-akustyka/`](01-akustyka/_index.md), szablony w [`/szablony/halas/`](../../szablony/halas/).
+> **Zreorganizowane (2026-04-17):** chunki w [`01-akustyka/`](01-akustyka/index.md), szablony w [`/szablony/halas/`](../../szablony/halas/).
 > Ten plik = pełne źródło, zachowane dla referencji. Do pracy operacyjnej użyj chunków.
 
 ---

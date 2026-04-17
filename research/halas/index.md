@@ -20,4 +20,4 @@ Materiały referencyjne dotyczące hałasu tramwajowego i drogowego w Poznaniu: 
 
 - Kampania: [`dabrowskiego/halas/`](../../dabrowskiego/halas/)
 - Szablony pism: [`szablony/halas/`](../../szablony/halas/)
-- Mapa instytucji: [`../instytucje/_index.md`](../instytucje/_index.md)
+- Mapa instytucji: [`../instytucje/index.md`](../instytucje/index.md)

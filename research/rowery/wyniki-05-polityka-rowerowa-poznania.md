@@ -6,7 +6,7 @@
 - **Zasięg:** diagnoza sieci Poznania 2026, gap analysis CROW, benchmark 5 miast PL, 15–20 priorytetowych inwestycji 2026–2030
 
 > **Uwaga: plik został rozbity na chunki ≤ 12 KB.**
-> Aktualna wersja robocza: [`05-polityka/_index.md`](05-polityka/_index.md).
+> Aktualna wersja robocza: [`05-polityka/index.md`](05-polityka/index.md).
 > Ten plik pozostaje jako źródło oryginalne (historia researchu). Do edytowania i czytania używaj modułu `05-polityka/`. Szablony pism: [`../../szablony/rowery/`](../../szablony/rowery/).
 
 ---
