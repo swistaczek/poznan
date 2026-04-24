@@ -27,7 +27,11 @@ Pełna analiza prawno-techniczna: [`research/halas/`](../../research/halas/).
 
 ## Pisma
 
-Pisma wysłane i odpowiedzi urzędów — pojawią się w tym folderze po rozpoczęciu korespondencji urzędowej. Format nazw i konwencje: [`CLAUDE.md`](../CLAUDE.md) kampanii.
+Pisma wysłane i odpowiedzi urzędów: zob. [`pisma/REJESTR.md`](pisma/REJESTR.md). Format nazw i konwencje: [`CLAUDE.md`](../CLAUDE.md) kampanii.
+
+Aktualne sprawy (pliki pism pozostają lokalnie z uwagi na dane osobowe — zob. `.gitignore`):
+
+- **2026-04-24** — prośba do ZDM (Krzyżaniak) o dodatkowe pomiary BAASA: (1) 4 m przy Dąbrowskiego 81/85, (2) wskaźniki LAmax/SEL/widmo, (3) kilka odczytów piątkowo-wieczornych, (4) opcjonalny pomiar wysokościowy (13. kondygnacja, zabudowa pierzejowa). DW: Rada Osiedla Jeżyce, BAASA Acoustics.
 
 ## Szablony do użycia
 

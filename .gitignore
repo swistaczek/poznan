@@ -21,3 +21,17 @@ env/
 # Claude Code
 MEMORY.md
 .claude/local/
+
+# Pisma kampanii — konkretne sprawy zawierają dane osobowe wnioskodawców
+# (adresy, e-maile, telefony, kontekst rodzinny). Do repo trafiają tylko:
+# - szablony w szablony/<obszar>/
+# - REJESTR.md (zsanityzowany)
+# - index.md kampanii (zsanityzowany)
+**/pisma/2*/
+**/pisma/*.docx
+**/pisma/*.pdf
+**/pisma/*.rtf
+**/pisma/email.txt
+**/pisma/email-*.txt
+**/odpowiedzi/*.pdf
+**/odpowiedzi/*.docx
