@@ -5,14 +5,19 @@ Pisma wysłane, odpowiedzi urzędów, rejestr sprawy, korespondencja z mieszkań
 ## Struktura
 
 ```
-<obszar>/pisma/        YYYY-MM-DD_ADRESAT_krotki-temat.md
-<obszar>/odpowiedzi/   YYYY-MM-DD_ADRESAT_odpowiedz-na-NN.md (+ .pdf oryginałem)
-<obszar>/REJESTR.md    tabela chronologiczna
+<obszar>/pisma/YYYY-MM-DD_temat/    katalog sprawy (LOKALNY, w .gitignore)
+  pismo.md / pismo.docx / pismo.pdf   pełne pismo z danymi osobowymi
+  email.txt                            treść wiadomości do wklejenia
+<obszar>/pisma/REJESTR.md           publiczny rejestr (zsanityzowany)
+<obszar>/odpowiedzi/                 odpowiedzi urzędów (LOKALNE PDF/DOCX)
+<obszar>/index.md                    publiczny indeks kampanii
 ```
 
 Obszary: na razie `halas/`.
 
-**Nazwa pisma**: data wysłania (nie utworzenia!), skrót adresata (`UMP-WOS`, `WIOS`, `MPK`, `ZDM`, `RPO`, `WSA`), slug sprawy.
+**Nazwa folderu sprawy**: data wysłania (nie utworzenia!), krótki slug tematu w kebab-case.
+
+**Dane osobowe**: katalogi spraw (`YYYY-MM-DD_*/`) oraz pliki `.docx`, `.pdf`, `email.txt` są ignorowane przez `.gitignore` w root repo. Do repo trafia tylko `REJESTR.md` (zsanityzowany — bez imion, adresów, e-maili) oraz szablon w `szablony/<obszar>/`. Pełna reguła: root `CLAUDE.md` → „Ochrona danych osobowych".
 
 ## REJESTR.md (format)
 
@@ -37,8 +42,9 @@ Reguła: wpis w rejestrze **w tej samej godzinie** co wysłanie pisma. Później
 
 1. Podstawa prawna zweryfikowana (ISAP — aktualna wersja).
 2. Adresat właściwy (`research/instytucje/`).
-3. Podpis + dane nadawcy (imię, nazwisko, adres — niezbędne dla KPA).
-4. Wpis w `REJESTR.md` z terminem odpowiedzi wyliczonym od daty doręczenia.
+3. Podpis + dane nadawcy (imię, nazwisko, adres — niezbędne dla KPA) **w pliku lokalnym**, nie w repo.
+4. Wpis w `REJESTR.md` (zsanityzowany) z terminem odpowiedzi wyliczonym od daty doręczenia.
+5. `git check-ignore -v <pliki-sprawy>` — potwierdź że pliki z danymi osobowymi są ignorowane przed `git add`.
 
 ## Odpowiedzi urzędów
 

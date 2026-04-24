@@ -52,6 +52,47 @@ Podkatalogi mogą mieć własne `CLAUDE.md` z lokalnymi konwencjami — ładują
 3. Termin — KPA art. 35/237 lub UDIP 14 dni.
 4. Forma doręczenia (ePUAP / e-mail / adres pocztowy) — jawna klauzula.
 
+## Ochrona danych osobowych (krytyczne — nigdy nie omijaj)
+
+Pisma urzędowe zawierają **dane osobowe nadawców**: imię i nazwisko, adres zamieszkania, adres do korespondencji, e-mail, telefon, sygnatury własne odsyłające do adresu, kontekst rodzinny (dzieci, wiek, zdrowie). **Te dane nie wchodzą do repo** — ani w commitach, ani w plikach śledzonych.
+
+**Dwuwarstwowa struktura:**
+
+- **Publiczne (w repo):**
+  - `szablony/<obszar>/*.md` — wzory z placeholderami `{{...}}`
+  - `<inicjatywa>/<obszar>/pisma/REJESTR.md` — zsanityzowany (bez imion/adresów/e-maili; sygnatury neutralne typu `EB/HAL/2026/04/01`, nie `EB/DAB87/…`)
+  - `<inicjatywa>/<obszar>/index.md` — zsanityzowany (bez numeru budynku zamieszkania)
+
+- **Lokalne (ignorowane przez git):**
+  - `<inicjatywa>/<obszar>/pisma/YYYY-MM-DD_temat/` — `pismo.md`, `pismo.docx`, `pismo.pdf`, `email.txt`
+  - `<inicjatywa>/<obszar>/odpowiedzi/*.pdf|*.docx`
+
+**Wzorce `.gitignore` (w root repo — utrzymuj, nie usuwaj):**
+
+```
+**/pisma/2*/                # foldery spraw (YYYY-MM-DD_*)
+**/pisma/*.docx
+**/pisma/*.pdf
+**/pisma/*.rtf
+**/pisma/email.txt
+**/pisma/email-*.txt
+**/odpowiedzi/*.pdf
+**/odpowiedzi/*.docx
+```
+
+**Przed `git add` / `git commit`:**
+
+1. `git check-ignore -v <plik>` dla każdego nowego pliku mogącego zawierać dane osobowe — potwierdź że jest ignorowany.
+2. `git status --untracked-files=all` — zobacz co dokładnie git chce tracknąć; jeśli widzisz pismo z prawdziwymi danymi, STOP i popraw `.gitignore`.
+3. Przejrzyj diffy sanityzowanych plików (REJESTR.md, index.md) — żadnego imienia, adresu, e-maila, sygnatury z nr budynku.
+4. Gdy pojawia się nowa kategoria plików ze sprawą (np. `notatki-telefoniczne.md`, `zdjecia/`) — dodaj wzorzec w `.gitignore` **przed** pierwszym `git add`.
+
+**Wyjątki:**
+- Odpowiedź urzędu bez danych osobowych wnioskodawcy można zarchiwizować publicznie po świadomej decyzji użytkownika: `git add -f <plik>`.
+- Dane publicznych urzędników (imię, nazwisko, stanowisko, e-mail służbowy, adres urzędu) **nie są** danymi osobowymi w rozumieniu tej sekcji — mogą być w repo.
+
+**Gdy użytkownik prosi o commit:** zawsze wykonaj krok 1–3 powyżej, nawet gdy nie prosi wprost o weryfikację prywatności.
+
 ## Dane publiczne
 
 - bip.poznan.pl — uchwały, budżet, oświadczenia, zamówienia.
