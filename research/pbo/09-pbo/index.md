@@ -59,3 +59,7 @@ updated: 2026-04-17
 ## Pełne źródło
 
 [`../wyniki-09-pbo.md`](../wyniki-09-pbo.md) — monolit ~111 KB, pełna analiza referencyjna. Do pracy operacyjnej używaj chunków. Do weryfikacji cytatów / kontekstu — sięgnij do źródła.
+
+## Powiązane studia
+
+- [`../studium-park-ujazdowski.md`](../studium-park-ujazdowski.md) — studium przypadku spektakularnego placu zabaw w Parku Ujazdowskim w Warszawie (~3,5 mln zł, projekt Grima / Małek+Naumienko, urządzenia Richter Spielgeräte) + strategia implementacji dla Poznania (PBO + Inicjatywa Lokalna + Rada Osiedla + petycje). **Uwaga jakościowa:** sekcje 3 (Rady Osiedli) i 4 (Petycje) są wyraźnie zdegradowane stylistycznie — tekst się tam zapętla; faktografia użyteczna, narracja do parafrazy.
