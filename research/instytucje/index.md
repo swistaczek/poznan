@@ -17,6 +17,10 @@ Mapa kompetencji organów właściwych dla spraw poznańskich: samorząd, admini
 - [`wyniki-07-kompetencje-instytucji.md`](./wyniki-07-kompetencje-instytucji.md)
 - [`wyniki-11-rady-osiedla.md`](./wyniki-11-rady-osiedla.md) — fakty, kompetencje, ciekawostki o wszystkich radach osiedla Poznania
 
+## Portrety organów wykonawczych
+
+- [`prezydent-jaskowiak.md`](./prezydent-jaskowiak.md) — analiza biograficzna, polityczna i zarządcza Jacka Jaśkowiaka (kadencje 2014–, PO/KO); doktryna urbanistyczna (Projekt Centrum), konflikty z władzą centralną, profil decyzyjny
+
 ## Powiązania
 
 - Adresy do pism: [`../../ADRESY.md`](../../ADRESY.md)
