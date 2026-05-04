@@ -10,6 +10,20 @@ status: draft
 
 Draft warsztatowy. Modele i kwoty — orientacyjne, do weryfikacji u dystrybutorów (Richter Spielgeräte; KAISER&KÜHNE; Berliner Seilfabrik). Lokalizacja zalecana: północna lub północno-zachodnia polana parku, **min. 50–70 m od willi**, **min. 30 m od linii brzegowej stawów**, poza koronami starodrzewu. Ostateczny dobór po inwentaryzacji.
 
+## Inspiracje wizualne (Park Ujazdowski, Warszawa)
+
+Trzy zdjęcia referencyjne z placu w Parku Ujazdowskim (proj. Grima Architektura, urządzenia Richter Spielgeräte, otwarcie 2019). Pełne opisy architektoniczne — zob. [`../../research/pbo/img/park-ujazdowski/README.md`](../../research/pbo/img/park-ujazdowski/README.md).
+
+| Zdjęcie | Element do replikacji w Sołaczu |
+|---|---|
+| ![10970](../../research/pbo/img/park-ujazdowski/10970.jpg) | **Landform playground** — kopce z zielonym EPDM zamiast pionowych wież; nie konkurują z osią widokową od ul. Mazowieckiej, wpisują się w typologię parku angielskiego Kubego |
+| ![10971](../../research/pbo/img/park-ujazdowski/10971.jpg) | **Altana z robinii** + **most łukowy** wpisany w naturalne wyniesienie terenu — Sołacz ma skarpy nad stawami, można wykorzystać istniejące zamiast budować sztuczne |
+| ![10983](../../research/pbo/img/park-ujazdowski/10983.jpg) | **Hill slide** wbudowany w wał ziemny + **pole grzybków sensorycznych** rozproszone (3–6 lat) — niska sylweta, brak konkurencji z drzewostanem |
+
+**Trzy paradygmaty z Ujazdowskiego do przeniesienia:** (1) modelowanie terenu zamiast wież, (2) materialność „Naturholz" (robinia nieobrobiona, kora częściowo, łączniki stalowe ocynk, zero impregnacji), (3) brak pełnego ogrodzenia — palisada drewniana lub naturalne skarpy.
+
+**Trzy pułapki, których unikać:** (1) niebieski EPDM imitujący wodę przy prawdziwych stawach Sołackich = kicz; (2) strzecha jako pokrycie altany — wernakularna, obca dla parku Kubego; (3) wieże >6 m blisko osi widokowej staw–willowa zabudowa.
+
 ## 1. Założenia projektowe
 
 - **Adresat**: 3–6 (juniorska), 6–12 (główna), 12+ (młodzieżowa, swobodny upadek ≤3,0 m, PN-EN 1176-1).

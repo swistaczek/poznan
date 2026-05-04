@@ -18,6 +18,16 @@ Kluczowym aspektem przestrzennym, który musi zostać bezwzględnie uwzględnion
 
 Poza architekturą, teren ten nakłada na inwestorów ogromne zobowiązania ekologiczne. Współczesny park miejski to nie tylko zieleń, ale także złożony ekosystem, ostoja miejskiej bioróżnorodności. Zaawansowana inwentaryzacja chiropterologiczna, wykonana przez specjalistów w 2023 roku, wykazała z całą pewnością obecność w Parku Ujazdowskim aż pięciu chronionych gatunków nietoperzy, w tym między innymi borowców wielkich (Nyctalus noctula), mroczków późnych (Eptesicus serotinus), nocków rudych (Myotis daubentonii), karlików malutkich (Pipistrellus pipistrellus) oraz karlików drobnych (Pipistrellus pygmaeus).1 Taka kondensacja chronionej fauny wymaga, aby wszelkie prace budowlane, oświetlenie placu zabaw oraz hałas były ściśle regulowane, co bez wątpienia rzutowało na wybór naturalnych, stonowanych materiałów oraz harmonogram prac budowlanych. Poznańscy inicjatorzy muszą zdawać sobie sprawę, że każdy ambitny projekt w dojrzałym parku będzie musiał przejść identyczną, rygorystyczną ścieżkę ocen oddziaływania na środowisko przyrodnicze.
 
+## **Galeria referencyjna**
+
+Trzy zdjęcia placu zabaw w Parku Ujazdowskim z opisami architektonicznymi (klasy urządzeń, materiały, kompozycja, walory pedagogiczne, inspiracje dla Sołacza) — zob. [`img/park-ujazdowski/README.md`](img/park-ujazdowski/README.md).
+
+| Zdjęcie | Główny element | Inspiracja dla Sołacza |
+|---|---|---|
+| [10970.jpg](img/park-ujazdowski/10970.jpg) | Labirynt linowy z bali robiniowych + zjeżdżalnie skarpowe + altana ze strzechą | *Landform playground* — kopce z EPDM zamiast wież |
+| [10971.jpg](img/park-ujazdowski/10971.jpg) | Altana ze strzechą + most łukowy + zjeżdżalnia w skarpie | Zadaszona altana z robinii + most-pomost na istniejących skarpach Sołacza |
+| [10983.jpg](img/park-ujazdowski/10983.jpg) | Sztuczny kopiec z dwiema zjeżdżalniami + most linowy + pole grzybków sensorycznych | *Hill slide* w wale ziemnym + pole grzybków rozproszone w stylu kęp-gabinetów Kubego |
+
 ## **Architektura, Koszty i Model Konsultacji Społecznych: Sukces Koncepcyjny w Warszawie**
 
 Nowoczesny, budzący estetyczny podziw plac zabaw, nie powstał z dnia na dzień w wyniku arbitralnej decyzji urzędniczej. Jest on efektem wieloletniego, wysoce złożonego i wieloetapowego procesu inwestycyjnego, którego organizacyjne początki sięgają co najmniej 2015 roku.3 Wtedy to na bezpośrednie zlecenie Zarządu Oczyszczania Miasta, będącego pierwotnym dysponentem terenu, zaczęły powstawać pierwsze szkice i założenia projektowe tego ambitnego obiektu.3 Ewolucja tych założeń stanowi studium tego, jak publiczne pieniądze mogą sfinansować architekturę na poziomie światowym.
