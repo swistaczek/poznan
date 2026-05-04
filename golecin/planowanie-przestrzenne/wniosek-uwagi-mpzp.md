@@ -84,7 +84,7 @@ Miejscowość, data sporządzenia: **Poznań, {{DATA_PODPISU}}**.
 
 #### 7.1. Treść (max 1000 znaków na wiersz)
 
-> Wnoszę uwagi do projektu miejscowego planu zagospodarowania przestrzennego „Park Golęcin" w Poznaniu (II wyłożenie do publicznego wglądu, 27.03.2026 – 20.04.2026), opisane szczegółowo w **załączniku „Uwagi szczegółowe do projektu MPZP Park Golęcin"** dołączonym do niniejszego pisma. Załącznik zawiera 16 uwag pogrupowanych w czterech blokach (A) ochrona Zachodniego Klina Zieleni i hydrologii Bogdanki, (B) komunikacja i mobilność aktywna, (C) klimat akustyczny i ochrona powietrza, (D) procedura planistyczna i partycypacja społeczna. Uwagi opierają się na deklaracji Miasta Poznania złożonej Sekretariatowi Konwencji Ramsarskiej w lipcu 2025 r. (certyfikat Wetland City Accreditation, ochrona użytków „Bogdanka I" i „Bogdanka II" przez planowanie przestrzenne) oraz na ustawowych standardach ochrony korytarzy ekologicznych, klimatu akustycznego i partycypacji obywatelskiej.
+> Wnoszę uwagi do projektu miejscowego planu zagospodarowania przestrzennego „Park Golęcin" w Poznaniu (II wyłożenie do publicznego wglądu, 27.03.2026 – 20.04.2026), opisane szczegółowo w **załączniku „Uwagi szczegółowe do projektu MPZP Park Golęcin"** dołączonym do niniejszego pisma. Załącznik zawiera 10 uwag pogrupowanych w czterech blokach: (A) ochrona Zachodniego Klina Zieleni i hydrologii Bogdanki — uwagi A4–A7, (B) komunikacja i mobilność aktywna — B1–B4, (C) klimat akustyczny i ochrona powietrza — C3, (D) procedura planistyczna i partycypacja społeczna — D2. Uwagi opierają się na deklaracji Miasta Poznania złożonej Sekretariatowi Konwencji Ramsarskiej w 2025 r. (certyfikat Wetland City Accreditation, ochrona użytków „Bogdanka I" i „Bogdanka II" przez planowanie przestrzenne) oraz na ustawowych standardach ochrony korytarzy ekologicznych, klimatu akustycznego i partycypacji obywatelskiej.
 
 #### 7.2. Szczegółowe informacje dotyczące działek ewidencyjnych
 
@@ -107,7 +107,7 @@ Miejscowość, data sporządzenia: **Poznań, {{DATA_PODPISU}}**.
 
 ### 9. Załączniki
 
-- ☑ **Załącznik nr 1**: „Uwagi szczegółowe do projektu MPZP Park Golęcin — II wyłożenie" (16 uwag merytorycznych, ~`{{LICZBA_STRON_ZAL_1}}` stron) — plik źródłowy: [`wniosek-uwagi-mpzp-zalacznik.md`](wniosek-uwagi-mpzp-zalacznik.md).
+- ☑ **Załącznik nr 1**: „Uwagi szczegółowe do projektu MPZP Park Golęcin — II wyłożenie" (10 uwag merytorycznych, ~`{{LICZBA_STRON_ZAL_1}}` stron) — plik źródłowy: [`wniosek-uwagi-mpzp-zalacznik.md`](wniosek-uwagi-mpzp-zalacznik.md).
 - ☐ Pełnomocnictwo *(jeżeli składający działa przez pełnomocnika)*.
 - ☐ Potwierdzenie uiszczenia opłaty skarbowej od pełnomocnictwa *(jeżeli wymagane)*.
 - ☐ Określenie granic terenu w formie graficznej *(w przypadku wskazania terenu jako części działki ewidencyjnej)*.
