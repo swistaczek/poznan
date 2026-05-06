@@ -106,14 +106,43 @@ Formularz w serwisie [poznan.pl/mim/pbo](https://www.poznan.pl/mim/pbo/) ma szty
 
 ## Lista poparcia (PBO27)
 
+Wzór formalny: **Załącznik nr 3 do uchwały Nr XXXII/576/IX/2026 Rady Miasta Poznania z 17 marca 2026 r.** Plik PDF (dwie strony) w katalogu: [`zal-3-lista-poparcia-pbo27.pdf`](zal-3-lista-poparcia-pbo27.pdf).
+
+### Wymogi merytoryczne
+
 - **Min. 10 odręcznych podpisów** mieszkańców Poznania (bez wymogu zameldowania).
-- Wzór: **„Lista poparcia do wydruku"** dostępna w serwisie PBO (PDF do pobrania).
-- **NIE załączać** wersji elektronicznej Listy Poparcia jako załącznika do wniosku — system tego nie przetwarza.
-- Termin: **3 dni robocze** od ostatecznego złożenia projektu (decyduje data stempla pocztowego / data nadania przesyłki).
+- Każdy podpisujący zaznacza pole „Oświadczam, że jestem mieszkańcem Poznania: tak / nie".
+- Osoby <13 r.ż.: podpis składa **rodzic / opiekun prawny**.
+- Pole „I. Wnioskodawca" + „II. Nazwa projektu" — wpisuje wnioskodawca przed zbiórką.
+- **Osobna lista poparcia do każdego składanego projektu** — nie wolno agregować.
+
+### Skutki podpisu
+
+Złożenie podpisu jest równoznaczne z:
+
+1. wyrażeniem **poparcia** dla projektu,
+2. **zgodą na późniejszą zmianę projektu** „na zasadach określonych Zasadami PBO27".
+
+Implikacja taktyczna: punkt 2 to blanco zgoda na „optymalizację zakresu" po wygranej (patrz `08b-case-studies-problemy.md` — zamiana granitu na kostkę betonową, redukcja metrów chodnika). Mieszkańcy zwykle tego nie wiedzą; w komunikacji zbiórki warto powiedzieć szczerze, że zakres może się skurczyć podczas wykonania.
+
+### Ochrona danych osobowych przy zbieraniu (RODO)
+
+- **Wnioskodawca odpowiada za ochronę danych do momentu przekazania listy do UMP.**
+- Przy zbiórce **stosować maskownicę / nakładkę** lub inne środki uniemożliwiające osobie podpisującej wgląd w dane innych podpisujących. Naruszenie = ryzyko skargi do Prezesa UODO i przerzucenie odpowiedzialności na wnioskodawcę.
+- **Administrator danych:** Prezydent Miasta Poznania od momentu **formalnego przekazania** listy (Plac Kolegiacki 17, 61-841 Poznań).
+- **IOD UMP:** `iod@um.poznan.pl` (sprostowanie / usunięcie / ograniczenie przetwarzania na podstawie rozdz. III RODO).
+- Klauzula pełna: https://www.poznan.pl/listapoparciaPBO
+- Cel przetwarzania: konsultacje społeczne dot. budżetu Miasta Poznania na 2027 r. (obowiązek prawny — art. 5a USG + uchwała XXXII/576/IX/2026).
+- Okres przechowywania: do realizacji celu + archiwizacja zgodnie z przepisami obowiązującymi u Administratora.
+
+### Termin i forma dostarczenia
+
+- **Termin: 3 dni robocze od dnia ostatecznego złożenia projektu** (decyduje data stempla pocztowego / data nadania przesyłki).
+- **NIE załączać** elektronicznej wersji listy poparcia jako załącznika do samego formularza wniosku w serwisie PBO — system tego nie przetwarza.
 - Forma doręczenia oryginału (do wyboru):
   - **biuro podawcze UMP** — pl. Kolegiacki 17, 61-841 Poznań (osobiście),
-  - **poczta tradycyjna** lub kurier (z dopiskiem **PBO27**),
-  - **skan / zdjęcie** listy poparcia jako załącznik e-mailowy → `pbo@um.poznan.pl`.
+  - **poczta tradycyjna / kurier** w **zaklejonej kopercie z dopiskiem „PBO27"** na adres **Gabinetu Prezydenta**, Plac Kolegiacki 17, 61-841 Poznań,
+  - **skan / fotografia** listy poparcia → e-mail `pbo@um.poznan.pl`.
 
 ## Kontakt operacyjny (PBO27)
 

@@ -2,11 +2,11 @@
 title: "Podstawa prawna PBO — ustawa, uchwała RMP, zarządzenia"
 type: reference
 domain: pbo
-source: wyniki-09-pbo.md
-updated: 2026-04-17
-entities: [UMP, Rada-Miasta-Poznania, Gabinet-Prezydenta, WGN, ZDM, PIM, Aquanet]
-acts: [USG-art-5a, uchwala-RMP-XVII-318-IX-2025]
-edycje: [2025, 2026]
+source: wyniki-09-pbo.md + uchwała XXXII/576/IX/2026 (zał. 3 lista poparcia, dostęp 2026-05-06)
+updated: 2026-05-06
+entities: [UMP, Rada-Miasta-Poznania, Gabinet-Prezydenta, WGN, ZDM, PIM, Aquanet, IOD-UMP]
+acts: [USG-art-5a, uchwala-RMP-XVII-318-IX-2025, uchwala-RMP-XXXII-576-IX-2026]
+edycje: [2025, 2026, 2027]
 ---
 
 # Podstawa prawna PBO
@@ -20,16 +20,25 @@ Kaskada aktów regulujących Poznański Budżet Obywatelski — od ustawy przez 
 
 Poznań: mechanizm istniał jako autonomiczny od 2013 r. (13 lat przed 2026), ustawa z 2018 r. jedynie go sformalizowała. Miasto sukcesywnie podnosi pulę ponad minimum ustawowe.
 
-## Aktualny akt prawa miejscowego (cykl PBO26)
+## Aktualny akt prawa miejscowego (cykl PBO27)
+
+**Uchwała Nr XXXII/576/IX/2026 Rady Miasta Poznania z dnia 17 marca 2026 r.** w sprawie zasad i trybu Poznańskiego Budżetu Obywatelskiego 2027.
+
+- Status: obowiązujący (cykl operacyjny PBO27, nabór 4–29 V 2026).
+- Klauzula informacyjna RODO: https://www.poznan.pl/listapoparciaPBO
+- Załączniki potwierdzone:
+  - **Zał. 3** — wzór listy poparcia projektu (PDF dwustronicowy, plik `zal-3-lista-poparcia-pbo27.pdf` w katalogu).
+
+## Poprzedni akt — cykl PBO26 (kontekst historyczny)
 
 **Uchwała Nr XVII/318/IX/2025 Rady Miasta Poznania z 1 kwietnia 2025 r.** w sprawie zasad i trybu Poznańskiego Budżetu Obywatelskiego 2026.
 
 - Ogłoszona: Dz. Urz. Woj. Wielkopolskiego z 15 kwietnia 2025 r., poz. 3535.
-- Status: obowiązujący.
+- Status: archiwalny (cykl PBO26 zamknięty XI 2025).
 - Załączniki:
   - **Zał. 1** — podział terytorialny miasta na **13 rejonów głosowania** (agregacja 42 rad osiedli).
   - **Zał. 2** — ramy czasowe (harmonogram).
-  - Zał. 3 — [do weryfikacji, wspomniany pośrednio w oryginale].
+  - **Zał. 3** — wzór listy poparcia projektu.
 
 ## Kluczowe nowe zapisy w regulaminie PBO26
 
