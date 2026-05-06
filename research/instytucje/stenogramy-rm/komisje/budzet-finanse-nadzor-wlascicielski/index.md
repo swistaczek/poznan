@@ -37,8 +37,8 @@
 
 ## Powiązania
 
-- [../../pim-siec-powiazan-kominy-placowe.md](../../pim-siec-powiazan-kominy-placowe.md) — sieć powiązań spółek komunalnych
-- [../../prezes-pim-litka-werdykt-zbiorczy.md](../../prezes-pim-litka-werdykt-zbiorczy.md) — teorie T1–T9
-- [../../nowe-teorie-2026-05-06.md](../../nowe-teorie-2026-05-06.md) — teorie T10–T14
+- [../../../pim-siec-powiazan-kominy-placowe.md](../../../pim-siec-powiazan-kominy-placowe.md) — sieć powiązań spółek komunalnych
+- [../../../prezes-pim-litka-werdykt-zbiorczy.md](../../../prezes-pim-litka-werdykt-zbiorczy.md) — teorie T1–T9
+- [../../../nowe-teorie-2026-05-06.md](../../../nowe-teorie-2026-05-06.md) — teorie T10–T14
 - [../index.md](../index.md) — indeks wszystkich komisji
 - [../rewizyjna/index.md](../rewizyjna/index.md) — Komisja Rewizyjna (Czerwiński zasiada w obu)

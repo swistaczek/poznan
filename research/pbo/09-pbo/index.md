@@ -2,13 +2,13 @@
 title: "pbo / 09 — Poznański Budżet Obywatelski"
 type: index
 domain: pbo
-source: wyniki-09-pbo.md
-updated: 2026-04-17
+source: wyniki-09-pbo.md + poznan.pl/PBO27 (dostęp 2026-05-06)
+updated: 2026-05-06
 ---
 
 # pbo / 09 — Poznański Budżet Obywatelski
 
-**TL;DR.** Poznański Budżet Obywatelski (PBO) to sformalizowany mechanizm partycypacyjny oparty na art. 5a USG + uchwale Rady Miasta Poznania. W cyklu **PBO26 pula to 31,3 mln zł** (rekord), z czego 20,4 mln zł nienaruszalnie trafia do 13 rejonów, a 10,9 mln zł na projekty ogólnomiejskie. **Terminy krytyczne 2025/2026**: zgłaszanie do 6 VI, weryfikacja VI–VIII, opiniowanie RO/KDO do 20 IX, głosowanie 6–29 X (do 12:00), wyniki koniec XI. W PBO25 odrzucono **42% inwestycji twardych** (vs 9% miękkich) — PBO strukturalnie promuje projekty miękkie typu „Trener osiedlowy". Indeks organizuje wiedzę w 12 chunków merytorycznych + 6 szablonów pism.
+**TL;DR.** Poznański Budżet Obywatelski (PBO) to sformalizowany mechanizm partycypacyjny oparty na art. 5a USG + uchwale Rady Miasta Poznania. W cyklu **PBO27 pula to 33,5 mln zł** (rekord), z czego **20,6 mln zł** trafia do 13 rejonów (19,3 duże + 1,3 małe), **12,9 mln zł** na projekty ogólnomiejskie (12 duże + 0,9 małe), a **6,0 mln zł** to wyodrębniona pula Zielonego Budżetu. **Terminy PBO27**: zgłaszanie **4–29 V 2026**, weryfikacja VI–IX, losowanie numerów koniec IX, głosowanie **5–30 X 2026**, wyniki **do 30 XI 2026**. **Nowe limity PBO27**: ogólnomiejski duży i Zielony Budżet podniesione z 2 do **3 mln zł**; koszt utrzymania w 5 lat ≤ **30%** wartości projektu. W PBO25 odrzucono **42% inwestycji twardych** (vs 9% miękkich) — PBO strukturalnie promuje projekty miękkie typu „Trener osiedlowy". Indeks organizuje wiedzę w 12 chunków merytorycznych + 6 szablonów pism.
 
 ## Chunki merytoryczne
 
@@ -28,24 +28,28 @@ updated: 2026-04-17
 
 ## Kluczowe liczby (szybki lookup)
 
-| Parametr | PBO26 (aktualny cykl) |
-|---|---|
-| Pula łączna | **31,3 mln zł** |
-| Rejonowa | 20,4 mln zł |
-| Ogólnomiejska | 10,9 mln zł |
-| Dopuszczone do głosowania | 171 projektów |
-| Ważne głosy | **76 472** (rekord) |
-| Maks. projekt rejonowy mały | 50 000 zł |
-| Maks. projekt rejonowy duży | 800 000 zł |
-| Maks. projekt ogólnomiejski mały | 300 000 zł |
-| Maks. projekt ogólnomiejski duży | 2 000 000 zł |
-| Maks. projekt Zielony Budżet | 2 000 000 zł |
-| Próg ogólnodostępności | 25 h/tydz. w godz. 6:00–22:00 |
-| Lista poparcia | min. 10 podpisów |
-| Koszyk głosów | 5 (3 ogólnomiejskie + 2 rejonowe) |
-| Odsetek odrzuceń inwestycji twardych (PBO25) | **42%** |
-| Odsetek odrzuceń projektów miękkich (PBO25) | 9% |
-| Skuteczność odwołań (PBO25) | ~20% (5/25) |
+| Parametr | PBO26 | **PBO27 (aktualny cykl)** |
+|---|---|---|
+| Pula łączna | 31,3 mln zł | **33,5 mln zł** |
+| Rejonowa (duże + małe) | 20,4 mln zł | **20,6 mln zł** (19,3 + 1,3) |
+| Ogólnomiejska (duże + małe) | 10,9 mln zł | **12,9 mln zł** (12 + 0,9) |
+| Zielony Budżet | (w ogólnomiejskiej) | **6,0 mln zł** (wyodrębniona) |
+| Maks. projekt rejonowy mały | 50 000 zł | 50 000 zł |
+| Maks. projekt rejonowy duży | 800 000 zł | 800 000 zł |
+| Maks. projekt ogólnomiejski mały | 300 000 zł | 300 000 zł |
+| Maks. projekt ogólnomiejski duży | 2 000 000 zł | **3 000 000 zł** |
+| Maks. projekt Zielony Budżet | 2 000 000 zł | **3 000 000 zł** |
+| Koszt utrzymania w 5 lat | — | **≤ 30% wartości projektu** |
+| Próg ogólnodostępności | 25 h/tydz. (6:00–22:00) | 25 h/tydz. (6:00–22:00) |
+| Lista poparcia | min. 10 podpisów | min. 10 podpisów |
+| Koszyk głosów | 5 (3 ogólnomiejskie + 2 rejonowe) | 5 (3 ogólnomiejskie + 2 rejonowe) |
+| Limity formularza (słów) | — | 8 / 14 / 300 / 150 / 150 |
+| Składowe kosztów | — | maks. 6 |
+| Załączniki (DOC/PDF/PNG/JPG) | — | maks. 5 |
+
+**Historyczne (PBO25 / PBO26):** dopuszczone do głosowania 171 (PBO26), ważne głosy 76 472 (rekord PBO26), odrzuceń inwestycji twardych 42% (PBO25, vs 9% miękkich), skuteczność odwołań ~20% (5/25, PBO25).
+
+**Kontakt PBO27:** `pbo@um.poznan.pl` · infolinia `61 646 3344` · serwis https://www.poznan.pl/mim/pbo/
 
 ## Szablony pism
 

@@ -2,11 +2,11 @@
 title: "Harmonogram roczny i procedura operacyjna PBO"
 type: reference
 domain: pbo
-source: wyniki-09-pbo.md
-updated: 2026-04-17
+source: wyniki-09-pbo.md + poznan.pl/PBO27 (dostęp 2026-05-06)
+updated: 2026-05-06
 entities: [UMP, Gabinet-Prezydenta, WGN, ZDM, ZZM, PIM, POSiR, Rady-Osiedli, KDO, PCSS]
 acts: [uchwala-RMP-XVII-318-IX-2025, PZP]
-edycje: [2025, 2026]
+edycje: [2025, 2026, 2027]
 ---
 
 # Harmonogram roczny i procedura
@@ -17,6 +17,7 @@ Cykl PBO jest sztywno kaskadowy. Niedotrzymanie terminów = pozostawienie sprawy
 
 - **PBO25:** 6 maja – 31 maja 2024.
 - **PBO26:** do 6 czerwca 2025 (wydłużony okres).
+- **PBO27:** **4 maja – 29 maja 2026**.
 
 Wymagania formalne:
 
@@ -58,12 +59,13 @@ Walidacja opinii: pracownicy **Gabinetu Prezydenta UMP**.
 
 - **PBO25:** 7–28 października 2024.
 - **PBO26:** 6 października – 29 października 2025, 12:00.
+- **PBO27:** **5 października – 30 października 2026**. Zatwierdzenie list i losowanie numerów: koniec września 2026.
 
 Szczegóły mechaniki głosowania: `05-glosowanie.md`.
 
 ## Etap 5: Ogłoszenie wyników i implementacja
 
-- Publikacja wyników: **koniec listopada**.
+- Publikacja wyników: **koniec listopada** (PBO27: do 30 listopada 2026).
 - Projekty zwycięskie → **Wieloletnia Prognoza Finansowa (WPF)** + budżety zadaniowe jednostek na rok N+1.
 
 ## Zderzenie z Prawem Zamówień Publicznych
@@ -74,11 +76,48 @@ Skutek: „cicha optymalizacja zakresu" po wygranej — rezygnacja z doświetlen
 
 ## Podsumowanie terminów krytycznych
 
-| Faza | PBO25 | PBO26 |
-|---|---|---|
-| Zgłaszanie | 6–31 V 2024 | do 6 VI 2025 |
-| Weryfikacja WGN | do początku VII | do początku VII |
-| Weryfikacja jednostek | do 16 VIII | do 16 VIII |
-| Opiniowanie RO/KDO | do 20 IX | do 20 IX |
-| Głosowanie | 7–28 X 2024 | 6–29 X 2025 (do 12:00) |
-| Ogłoszenie wyników | koniec XI 2024 | koniec XI 2025 |
+| Faza | PBO25 | PBO26 | **PBO27** |
+|---|---|---|---|
+| Zgłaszanie | 6–31 V 2024 | do 6 VI 2025 | **4–29 V 2026** |
+| Weryfikacja i opiniowanie | VI–IX 2024 | VI–IX 2025 | **VI–IX 2026** |
+| Zatwierdzenie list + losowanie nr | wrzesień 2024 | wrzesień 2025 | **koniec IX 2026** |
+| Głosowanie | 7–28 X 2024 | 6–29 X 2025 (do 12:00) | **5–30 X 2026** |
+| Ogłoszenie wyników | koniec XI 2024 | koniec XI 2025 | **do 30 XI 2026** |
+
+## Limity formularza zgłoszenia (PBO27)
+
+Formularz w serwisie [poznan.pl/mim/pbo](https://www.poznan.pl/mim/pbo/) ma sztywne limity tekstowe (system odrzuca przekroczenia). Treść trzeba zaprojektować pod te liczby zanim usiądzie się do pisania.
+
+| Pole | Limit |
+|---|---|
+| Nazwa projektu | **8 słów** |
+| Skrócony opis projektu | **14 słów** |
+| Opis projektu (główne założenia, działania) | **300 słów** |
+| Uzasadnienie realizacji | **150 słów** |
+| Uzasadnienie projektowania uniwersalnego (TAK/NIE) | **150 słów** |
+| Składowe kosztów | **maks. 6** |
+| Załączniki (DOC, PDF, PNG, JPG) | **maks. 5** |
+
+**Lokalizacja:** ulica / rejon ulic + inne istotne informacje (oba pola tekstowe, bez sztywnego limitu — krótko, konkretnie).
+
+**Pole „Projekt ma charakter":** wybór z listy (rejonowy / ogólnomiejski / Zielony Budżet — kategoryzacja determinuje pulę i próg).
+
+**Koszt utrzymania w 5 lat:** ≤ 30% wartości projektu (sprzątanie, energia, woda, bieżące remonty, konserwacja). Patrz `03-pule-finansowe.md`.
+
+## Lista poparcia (PBO27)
+
+- **Min. 10 odręcznych podpisów** mieszkańców Poznania (bez wymogu zameldowania).
+- Wzór: **„Lista poparcia do wydruku"** dostępna w serwisie PBO (PDF do pobrania).
+- **NIE załączać** wersji elektronicznej Listy Poparcia jako załącznika do wniosku — system tego nie przetwarza.
+- Termin: **3 dni robocze** od ostatecznego złożenia projektu (decyduje data stempla pocztowego / data nadania przesyłki).
+- Forma doręczenia oryginału (do wyboru):
+  - **biuro podawcze UMP** — pl. Kolegiacki 17, 61-841 Poznań (osobiście),
+  - **poczta tradycyjna** lub kurier (z dopiskiem **PBO27**),
+  - **skan / zdjęcie** listy poparcia jako załącznik e-mailowy → `pbo@um.poznan.pl`.
+
+## Kontakt operacyjny (PBO27)
+
+- **e-mail:** `pbo@um.poznan.pl`
+- **infolinia:** `61 646 3344`
+- **adres:** Urząd Miasta Poznania, pl. Kolegiacki 17, 61-841 Poznań
+- **serwis:** https://www.poznan.pl/mim/pbo/

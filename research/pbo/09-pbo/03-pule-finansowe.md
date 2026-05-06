@@ -2,11 +2,11 @@
 title: "Struktura pul finansowych PBO — rejony, progi, Zielony Budżet"
 type: reference
 domain: pbo
-source: wyniki-09-pbo.md
-updated: 2026-04-17
+source: wyniki-09-pbo.md + poznan.pl/PBO27 (dostęp 2026-05-06)
+updated: 2026-05-06
 entities: [UMP, Rady-Osiedli, ZZM]
 acts: [uchwala-RMP-XVII-318-IX-2025]
-edycje: [2024, 2025, 2026]
+edycje: [2024, 2025, 2026, 2027]
 ---
 
 # Pule finansowe PBO
@@ -29,19 +29,28 @@ Przykłady rejonów:
 |---|---|---|---|---|---|
 | PBO24 | 26,6 mln zł | — | — | — | — |
 | PBO25 | 28,0 mln zł | 0,5% | 20,4 mln zł | 7,6 mln zł | 4,0 mln zł (w ogólnomiejskiej) |
-| PBO26 | **31,3 mln zł** | ponad 0,5% | 20,4 mln zł | 10,9 mln zł | [do weryfikacji] |
+| PBO26 | 31,3 mln zł | ponad 0,5% | 20,4 mln zł | 10,9 mln zł | [do weryfikacji] |
+| **PBO27** | **33,5 mln zł** | rekord | **20,6 mln zł** (19,3 duże + 1,3 małe) | **12,9 mln zł** (12 duże + 0,9 małe) | **6,0 mln zł** (wyodrębniona) |
 
-PBO26: rekord. Pula rejonowa zablokowana na poziomie 20,4 mln zł (nienaruszalna), pula ogólnomiejska drastycznie zwiększona.
+PBO27: rekord. Pula rejonowa lekko podniesiona (20,6 mln zł) i po raz pierwszy formalnie rozbita na duże/małe. Pula ogólnomiejska 12,9 mln zł — kontynuacja trendu wzrostowego. Zielony Budżet po raz pierwszy raportowany jako odrębna kategoria 6,0 mln zł (vs „enklawa chroniona" w obrębie ogólnomiejskiej).
 
-## Kategorie projektów i progi
+## Kategorie projektów i progi (PBO27)
 
-| Kategoria | Maks. wartość | Mechanika |
-|---|---|---|
-| **Rejonowe Małe** | 50 000 zł | Równy podział — każdy z 13 rejonów otrzymuje gwarantowaną pulę (np. po 100 tys. zł). Bez algorytmu demograficznego. Mikro-interwencje, projekty integracyjne. |
-| **Rejonowe Duże** | 800 000 zł | Pula zmienna per rejon (algorytm: gęstość zaludnienia + powierzchnia). Strefa konkurencji inwestycji drogowych i placów zabaw. |
-| **Ogólnomiejskie Małe** | 300 000 zł (PBO26; podniesione z 200 tys.) | Cykliczne wydarzenia kulturalne, działania miękkie wielodzielnicowe. |
-| **Ogólnomiejskie Duże** | 2 000 000 zł | Modernizacje dróg rowerowych, duże skwery, renowacje obiektów sportowych ponadlokalnych. |
-| **Zielony Budżet** | 2 000 000 zł | Wyodrębniona pula ekologiczna: ogrody deszczowe, bioretencja, łąki kwietne, od PBO25 także ochrona istniejącej roślinności i lasy komunalne. |
+| Kategoria | Maks. wartość brutto | Zmiana vs PBO26 | Mechanika |
+|---|---|---|---|
+| **Rejonowe Małe** | 50 000 zł | bez zmian | Równy podział — każdy z 13 rejonów otrzymuje gwarantowaną pulę (np. po 100 tys. zł). Bez algorytmu demograficznego. Mikro-interwencje, projekty integracyjne. |
+| **Rejonowe Duże** | 800 000 zł | bez zmian | Pula zmienna per rejon (algorytm: gęstość zaludnienia + powierzchnia). Strefa konkurencji inwestycji drogowych i placów zabaw. |
+| **Ogólnomiejskie Małe** | 300 000 zł | bez zmian (podniesione z 200 tys. w PBO26) | Cykliczne wydarzenia kulturalne, działania miękkie wielodzielnicowe. |
+| **Ogólnomiejskie Duże** | **3 000 000 zł** | **+1 mln zł (z 2 mln)** | Modernizacje dróg rowerowych, duże skwery, renowacje obiektów sportowych ponadlokalnych. |
+| **Ogólnomiejskie Duże w ramach Zielonego Budżetu** | **3 000 000 zł** | **+1 mln zł (z 2 mln)** | Pula ekologiczna 6 mln zł wyodrębniona z ogólnomiejskiej. Zakres: ogrody deszczowe, bioretencja, łąki kwietne, ochrona istniejącej roślinności, lasy komunalne. |
+
+Źródło limitów PBO27: poznan.pl/mim/pbo (formularz zgłoszenia, dostęp 2026-05-06).
+
+### Koszty utrzymania — nowy limit (PBO27)
+
+**Łączny koszt utrzymania zrealizowanego projektu w trakcie kolejnych 5 lat (sprzątanie, energia, woda, bieżące remonty, konserwacja) NIE może przekroczyć 30% wartości zgłoszonego projektu.** Dotyczy projektów generujących koszty bieżące (boiska, fontanny, pawilony) — pomija mikrointerwencje jednorazowe.
+
+Implikacja taktyczna: kosztorys infrastrukturalny musi przewidzieć rezerwę utrzymaniową. Projekt 800 tys. zł w kategorii rejonowej dużej → maks. 240 tys. zł kosztu utrzymania w 5 lat (~48 tys./rok). Niedopasowanie = odrzucenie formalne.
 
 ## Taktyka kalibracji kosztorysu
 
@@ -54,9 +63,15 @@ Optymalizacja progu = kluczowa wiedza ekspercka. Przykład operacyjny:
 
 W kategorii ogólnomiejskiej dominują od lat powtarzalne projekty parasolowe (zajęcia sportowe, animacje kulturalne) — patrz `09-kontrowersje.md` („Trener widmo", elite capture). Oznacza to, że projekty infrastrukturalne są strukturalnie wypychane do rejonów.
 
-## Pula Zielonego Budżetu — „enklawa chroniona"
+## Pula Zielonego Budżetu — od „enklawy" do wyodrębnienia
 
-Od PBO25 w obrębie puli ogólnomiejskiej wyodrębniono Zielony Budżet — chroniony przed projektami betonowymi. Zakres:
+Ewolucja:
+
+- **PBO25:** w obrębie puli ogólnomiejskiej wyodrębniono Zielony Budżet — „enklawa chroniona" przed projektami betonowymi (4,0 mln zł).
+- **PBO26:** kontynuacja w obrębie puli ogólnomiejskiej.
+- **PBO27:** Zielony Budżet po raz pierwszy raportowany jako **osobna pula 6,0 mln zł**, z własnym progiem maks. projektu **3 mln zł** (jak duży ogólnomiejski).
+
+Zakres tematyczny:
 
 - ogrody deszczowe,
 - działania bioretencyjne,
