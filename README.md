@@ -169,6 +169,19 @@ Pełna wersja: [`CLAUDE.md`](./CLAUDE.md). W dwóch zdaniach:
 
 ---
 
+## Hierarchia wartości
+
+Repo trzyma się jednej osi: **wolność > transparentność > samorządność > polityka krajowa**. W praktyce decyzyjnej oznacza to, co następuje.
+
+- **Wolność.** Punktem odniesienia jest mieszkaniec, który chce spać, oddychać, przejść przez ulicę. Każda kampania (hałas Dąbrowskiego, plac Park Ujazdowski) sprowadza się do pytania, gdzie władza — miejska, spółkowa, wojewódzka — zawęziła tę wolność szybciej, niż prawo na to pozwala. Reszta to narzędzia.
+- **Transparentność.** Pierwsze narzędzie, bo bez niego pozostałe są ślepe. Korzystamy z UDIP (Dz.U. 2001 nr 112 poz. 1198, art. 13 — 14 dni), BIP (art. 8 tej samej ustawy), KPA art. 73 (wgląd w akta), eKRS i MSiG. Materiały o spółkach miejskich (PIM, Aquanet, ZKZL, MTP, MPK) i portrety zarządów powstają wyłącznie w oparciu o źródła publiczne.
+- **Samorządność.** Zgodnie z art. 4 ust. 3 Europejskiej Karty Samorządu Lokalnego i art. 16 ust. 2 Konstytucji RP — pisma adresujemy najbliższemu właściwemu organowi i eskalujemy w górę dopiero po wyczerpaniu szczebla niższego. Rada osiedla przed radą miasta, rada miasta przed wojewodą, wojewoda przed ministerstwem. Mapa właściwości: [`research/instytucje/`](./research/instytucje/index.md).
+- **Polityka krajowa.** Na samym końcu i celowo. Krytyka idzie po faktach, nie po barwach: KO (prezydent Jaśkowiak, wiceprezydent Gołek, zarząd PIM), PiS (poseł Czerwiński, interpelacja z 16.04.2026 o kominach w spółkach SP), Polska 2050 (projekty reform nadzoru właścicielskiego). Każdą partię traktujemy jak interesariusza, nie sojusznika ani wroga.
+
+Praktyczna konsekwencja: nie znajdziesz tu treści partyjnych ani języka „naszych" i „onych", znajdziesz nazwiska konkretnych radnych, członków zarządów spółek miejskich i urzędników — z datą głosowania, sygnaturą uchwały i numerem KRS.
+
+---
+
 ## Panel ekspertów
 
 Przy strategicznych decyzjach (np. wybór strategii procesowej, treść pisma wysokostawkowego) Claude Code uruchamia równolegle 4–6 sub-agentów w rolach top 1% ekspertów — prawo administracyjne, akustyka, zdrowie publiczne, urbanistyka, UDIP — i syntetyzuje wnioski. Persony w [`research/prompty/`](./research/prompty/). Kryterium użycia: „gdyby rekomendacja okazała się błędna, koszt > kilka minut korekty". Szczegóły: sekcja „Panel ekspertów" w [`CLAUDE.md`](./CLAUDE.md).
@@ -191,5 +204,6 @@ Przy strategicznych decyzjach (np. wybór strategii procesowej, treść pisma wy
 
 - **Maintainer:** [@swistaczek](https://github.com/swistaczek) (GitHub) · [@swistak](https://x.com/swistak) (X/Twitter).
 - **Zgłoszenia:** [GitHub Issues](https://github.com/swistaczek/poznan/issues).
+- **Treści generowane przez AI** — znaczna część materiału researchowego w tym repo (w szczególności `research/instytucje/` — portrety, aneksy OSINT, deep-dive, teorie śledcze, werdykty) jest generowana lub współ-redagowana przez Claude (model Anthropic) w środowisku [Claude Code](https://claude.ai/code). **Z dużą szansą zawierają błędy faktograficzne, mylne interpretacje sygnatur orzeczeń, nieaktualne dane personalne lub halucynowane linki/cytaty.** Każdy fakt cytowany dalej (w piśmie urzędowym, artykule prasowym, wniosku UDIP, postępowaniu sądowym) **wymaga niezależnej weryfikacji w źródle pierwotnym**: BIP, KRS, MSiG, eKRS RDF, orzecznictwo (saos.org.pl, NSA, SN, GKO), prasa branżowa. Pliki nie są poradą prawną. Korekty zgłaszaj przez Issues — zasilamy bazę precedensami i sprostowaniami.
 
 Kontrybucje (każda forma — tekst, korekta, weryfikacja adresów, opowiedzenie o sprawie) mile widziane.

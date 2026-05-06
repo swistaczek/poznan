@@ -101,7 +101,7 @@ Teza "PIM ma słabe kontrakty" jest mylnym tropem — tłumaczy objaw, nie przyc
 - https://www.przetargi.egospodarka.pl/kto-wygral/14056055,tormel-sp-z-o-o.html (kontrakty Tormel)
 - https://terlan.pl/realizacje/tramwaj-w-ulicy-ratajczaka-w-poznaniu/ (Terlan jako wykonawca Ratajczaka 2025)
 - https://www.facebook.com/StowarzyszeniePlacWolnosci (post o końcu Tormel 1.04.2025)
-- https://gloswielkopolski.pl/mosty-berdychowskie-w-poznaniu-do-poprawki-przed-otwarciem-wykonawca-mowi-o-zmianach-projektowych-a-pim-o-niewystarczajacej-jakosci/ar/c1p2-27073401 (kontrast: Budimex płaci sam za naprawę dylatacji — wykonawca spoza grupy)
+- https://gloswielkopolski.pl/mosty-berdychowskie-w-poznaniu-do-poprawki-przed-otwarciem-wykonawca-mowi-o-zmianach-projektowych-a-pim-o-niewystarczajacej-jakosci/ar/c1p2-27073401 (kontrast: Budimex płaci sam za naprawę dylatacji — wykonawca spoza grupy; pełne studium kazusu Mostów Berdychowskich, eskalacja 28→156 mln zł, rola Polski Ład 95 mln, KPI premii zarządu PIM: [`inwestycja-mosty-berdychowskie.md`](./inwestycja-mosty-berdychowskie.md))
 - https://www.urbanity.pl/wielkopolskie/poznan/blad-rachunkowy-uniewaznil-oferte-nowe-postepowanie-przed-palmiarnia-poznanska,w27261 (KIO Palmiarnia 2025)
 - https://codziennypoznan.pl/artykul/2025-06-25/zielone-swiatlo-dla-budowy-trasy-tramwajowej-w-ul-ratajczaka-kio-oddalila-odwolanie/
 

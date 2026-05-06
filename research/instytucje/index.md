@@ -34,6 +34,18 @@ Mapa kompetencji organów właściwych dla spraw poznańskich: samorząd, admini
   - [`...-aneks-recepcja.md`](./wiceprezes-pim-zaradny-aneks-recepcja.md) — recepcja sceptyczna; sieć z Gołkiem (Koło Oświatowe PO 2022); cytat „Absolutnie nie czuję się politykiem"
 - [`pim-siec-powiazan-kominy-placowe.md`](./pim-siec-powiazan-kominy-placowe.md) — **mapa zarządów i RN spółek miejskich (PIM/MTP/Aquanet/ZKZL/MPK), powiązania krzyżowe, wzorzec kadrowy Jaśkowiaka, pełna chronologia skandalu kominów płacowych 2024–2026** (Czerwiński, Plaszczak, Czekała TVN24, top: Chudziński 1065, Graczyk 979, Kobierski 975, Bittner 944, Pawlak/Kij 895, Litka 895, Krężlewski 820 tys.)
 
+### Materiały referencyjne — ustawa kominowa (dogmatyka + praktyka omijania, panel Sonnet 2026-05-06)
+
+Trzy pliki krzyżujące się z `pim-siec-powiazan-kominy-placowe.md` i werdyktem T1: ramy prawne, mechanizmy obejścia, propozycje reform. Razem ~45 KB; podzielone z powodu hard limit ≤25 KB / pliku.
+
+- [`ustawa-kominowa-prawo.md`](./ustawa-kominowa-prawo.md) — reżim 2000 (sztywne progi, *ius cogens*, art. 13 nieważność) vs reżim 2016 (KSH-spójny, dualizm część stała + KPI, brak automatycznej nieważności); mechanika obliczeniowa (5 poziomów referencyjnych, mnożniki 1×–15×, premia max 50/100%); zamrożenie podstawy wymiaru 4 403,78 zł od IV kw. 2016
+- [`ustawa-kominowa-omijanie.md`](./ustawa-kominowa-omijanie.md) — B2B + wyrok NSA II FSK 637/23 (5.02.2026) zamykający optymalizację, „rozszczepienie funkcjonalne"; kaskada spółka-córka/wnuczka (art. 6 ust. antykorupcyjnej, art. 10c u.g.k.); ekwiwalenty/odprawy + GKO BDF1.4800.84.2019, I C 529/24; **NIK 18 spółek / 15 naruszeń / 4,2 mln zł** (MKiW Czarnków +21,9%, Ekotraw Struża +26,2% i jubileusz 33,6 tys., MEC Chodzież, PUK Międzyrzec); kazus Orlena Obajtek nadwyżka 991 tys., zarząd 8,3 mln 2017–2021
+- [`ustawa-kominowa-reformy.md`](./ustawa-kominowa-reformy.md) — drenaż mózgów + ryzyko asymetryczne (KSH art. 293, 483); korupcja polityczna (zwroty partyjne); **projekty Polska 2050**: Rejestr wynagrodzeń (archiwum 5 lat), Komitet Dobrego Zarządzania (kadencja 5-letnia), zakaz multiplikacji funkcji (rezygnacja w 6 mies.), zakaz datków partyjnych; krytyka Kraczkowskiego (bez urynkowienia bazy reformy jawności = nowa biurokracja)
+
+### Studia inwestycji PIM
+
+- [`inwestycja-mosty-berdychowskie.md`](./inwestycja-mosty-berdychowskie.md) — kompleksowe studium Mostów Berdychowskich (165 m + 117 m, Chwaliszewo–Ostrów Tumski–Berdychowo): **eskalacja kosztów 28 → 68,8 → 156,1 mln zł** (557% względem szacunku 2017); finansowanie BGK Polski Ład 95 mln (60,8%); Budimex S.A. jako GW; opóźnienie 3 lata (start 2017→2022, otwarcie 2022→28.02.2025); presja zarządcza Jaśkowiaka — termin 3 marca 2025 jako KPI premii zarządu PIM (link do reżimu kominowego); ECF Award; wandalizm 2 tyg. po otwarciu; OPEX vs CAPEX
+
 ### Litka — pogłębiony research (5 plików deep-dive z 2026-05-05, panel 5 sub-agentów Opus)
 
 - [`litka-deep-avrio-eteron.md`](./litka-deep-avrio-eteron.md) — pełna chronologia K-TEL → Avrio Media (KRS 162990) 2003–2011, grupa Eteron rodziny Pietruszewskich, koncesje URE; **uwaga: linie 36/41/102 zawierają błąd — Litka wyszła z zarządu 24.04.2007, NIE pozostała prezesem (sprostowanie w werdykt T4)**

@@ -18,7 +18,7 @@ Uzupełnienie do `research/instytucje/prezes-pim-litka.md`. Daty dostępu: 2026-
 
 | Inwestycja | Start | Koniec | Budżet | Wykonawca | Uwagi |
 |---|---|---|---|---|---|
-| **Mosty Berdychowskie** (kładki pieszo-rowerowe nad Wartą i Kanałem Ulgi: Chwaliszewo–Ostrów Tumski–Berdychowo) | k. 2023 | 28.02.2025 (otwarcie oficjalne, ceremonia 18:00) | >156 mln zł | Budimex S.A. | 165 m nad Wartą, 117 m nad Kanałem Ulgi. Spór z wykonawcą "do poprawki przed otwarciem"; PIM mówił o "niewystarczającej jakości" wykonania, wykonawca o zmianach projektowych. ECF Award (Europejska Federacja Cyklistów) — Infrastruktura Rowerowa. ~50 tys. przejazdów rowerowych w I sezonie |
+| **Mosty Berdychowskie** (kładki pieszo-rowerowe nad Wartą i Kanałem Ulgi: Chwaliszewo–Ostrów Tumski–Berdychowo) | k. 2023 | 28.02.2025 (otwarcie oficjalne, ceremonia 18:00) | >156 mln zł (28→68,8→156,1; +557% vs 2017; BGK Polski Ład 95 mln = 60,8%) | Budimex S.A. | 165 m nad Wartą, 117 m nad Kanałem Ulgi. Spór z wykonawcą "do poprawki przed otwarciem"; PIM mówił o "niewystarczającej jakości" wykonania, wykonawca o zmianach projektowych. ECF Award (Europejska Federacja Cyklistów) — Infrastruktura Rowerowa. ~50 tys. przejazdów rowerowych w I sezonie. **Termin 3.03.2025 jako KPI premii zarządu PIM** (link: ustawa kominowa). → pełne studium: [`inwestycja-mosty-berdychowskie.md`](./inwestycja-mosty-berdychowskie.md) |
 | **Most Lecha — przebudowa** (jezdnia północna) | 2018-2019 | III.2020 (przejezdność) → VI.2020 (zakończenie) | ~53 mln zł (12 mln poniżej kosztorysu) | konsorcjum MOST (Sopot) + KSH (Śrem) | Termin kontraktowy 730 dni; konsorcjum zadeklarowało skrócenie. Drobne remonty dylatacji 2022-2024 ~500 tys. zł |
 | **Wiadukt Lutycka + kładka pieszo-rowerowa** (DK92, Strzeszyńska) | 2024 | bliskie zakończenia (V.2026 — "coraz bliżej zakończenia") | oferty +18 mln zł powyżej budżetu wyjściowego, miasto dosypało | Skanska | Próby obciążeniowe wiaduktu, prace przy nawierzchni Lutycka/Strzeszyńska |
 | **Wiadukt Golęcińska** | (opcja w przetargu Skanska) | otwarty od poł. czerwca [do weryfikacji rok — 2025] | część kontraktu Lutycka jako opcja | Skanska | Zniesienie szlabanów na przejazdach kolejowych na DK92 |
@@ -62,7 +62,7 @@ Uzupełnienie do `research/instytucje/prezes-pim-litka.md`. Daty dostępu: 2026-
 
 **Posiedzenie KR 5–6 marca 2026** (Codzienny Poznań, 6.03.2026):
 - Komisja kontynuuje kontrolę legalności wynagrodzeń 2021–2025
-- Weryfikuje zgodność z ustawą z 9.06.2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami
+- Weryfikuje zgodność z ustawą z 9.06.2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (mechanika mnożników 1–15, zamrożona podstawa wymiaru 4 403,78 zł, sankcja korporacyjna zamiast nieważności ex lege — zob. [`ustawa-kominowa-prawo.md`](./ustawa-kominowa-prawo.md); empiria NIK 4,2 mln zł nadpłat w 18 spółkach JST: [`ustawa-kominowa-omijanie.md`](./ustawa-kominowa-omijanie.md))
 - Pod kontrolą: 9 spółek (m.in. Aquanet, Modertrans, Termy Maltańskie, PIM)
 - Radny **Wojciech Kręglewski** (KO): wynagrodzenia "bardzo wysokie", ale wynikają z ram prawnych ustanowionych przez poprzedni rząd PiS
 - Czerwiński kontruje: same ramy ustawowe nie wyjaśniają, dlaczego Poznań płaci więcej niż porównywalne miasta

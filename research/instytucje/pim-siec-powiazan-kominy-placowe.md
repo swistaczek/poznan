@@ -162,7 +162,7 @@ Zidentyfikowano osoby zasiadające równocześnie lub sekwencyjnie w ≥2 organa
 
 **Posiedzenie kontrolne Komisji Rewizyjnej:** 5 marca 2026.
 - Stanowisko Czerwińskiego (PiS): "stawki europejskie", ustawa kominowa wyznacza **ramy**, nie wymusza maksymalizacji; inne duże miasta (Wrocław, Łódź) nie osiągają takich poziomów. Wzrost +9% rok do roku.
-- Kontrnarracja **Wojciecha Kręglewskiego** (KO): wynagrodzenia są wysokie, **ale wynikają z ustawy PiS z 2016 r.** (przerzucenie odpowiedzialności na partyjnego oponenta).
+- Kontrnarracja **Wojciecha Kręglewskiego** (KO): wynagrodzenia są wysokie, **ale wynikają z ustawy PiS z 2016 r.** (przerzucenie odpowiedzialności na partyjnego oponenta). → pełna analiza reżimu 2000 vs 2016: [`ustawa-kominowa-prawo.md`](./ustawa-kominowa-prawo.md); mechanizmy obejścia (B2B, kaskada, NIK 4,2 mln zł): [`ustawa-kominowa-omijanie.md`](./ustawa-kominowa-omijanie.md); projekty reform Polska 2050: [`ustawa-kominowa-reformy.md`](./ustawa-kominowa-reformy.md). Argument Kręglewskiego nie wytrzymuje weryfikacji — ustawa 9.06.2016 wyznacza *ramy* identyczne dla wszystkich miast (Wrocław, Łódź też pod nią), a wybór poziomu w widełkach to decyzja organu nadzoru właścicielskiego (Prezydent Miasta jako reprezentant zgromadzenia wspólników), czyli Jaśkowiaka.
 - Linia obrony administracji: **Jarosław Plaszczak** (Dyrektor BNW UMP) — pensje adekwatne do skali zadań (Aquanet zarządza miliardową infrastrukturą, MPK flotą), brak planu podwyżek na 2026 r.
 
 Źródło: https://codziennypoznan.pl/artykul/2026-03-06/radni-analizuja-dzialalnosc-miejskich-spolek...
