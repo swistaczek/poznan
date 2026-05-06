@@ -18,9 +18,11 @@ env/
 .vscode/
 *.swp
 
-# Claude Code
+# Claude Code — per-user, nie do repo
 MEMORY.md
 .claude/local/
+.claude/settings.local.json
+.claude/projects/
 
 # Pisma kampanii — konkretne sprawy zawierają dane osobowe wnioskodawców
 # (adresy, e-maile, telefony, kontekst rodzinny). Do repo trafiają tylko:
