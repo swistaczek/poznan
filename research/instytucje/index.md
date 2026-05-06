@@ -69,6 +69,14 @@ Trzy pliki krzyżujące się z `pim-siec-powiazan-kominy-placowe.md` i werdyktem
   - [`...teoria-08-werdykt.md`](./prezes-pim-litka-teoria-08-werdykt.md) — przedstawiciel Miasta MTP: częściowo potwierdzona (Kocięcka wyszła Aquanet, nadal Remondis)
   - [`...teoria-09-werdykt.md`](./prezes-pim-litka-teoria-09-werdykt.md) — Avrio/Eteron jako zaplecze: częściowo potwierdzona (deficyt transparentności biograficznej, brak konfliktu ekonomicznego)
 
+## Stenogramy RM Poznania (sesje plenarne + komisje)
+
+- [`stenogramy-rm/`](./stenogramy-rm/) — baza dokumentów RM Poznania (protokoły sesji plenarnych + 15 komisji stałych kadencji IX); aktualizowana skill-em `.claude/skills/aktualizuj-stenogramy-rm.md`. Bootstrap 2026-05-06: 22 stuby kadencji IX + LXII/2014 (PIM); 4 z 15 komisji w bazie (Rewizyjna, Budżet/Finanse/Przedsiębiorczość/Nadzór Właścicielski, Polityki Przestrzennej, Rewitalizacji i Inicjatyw Lokalnych)
+
+## Baza dziennikarzy zaangażowanych w sprawy poznańskie 2022–2026
+
+- [`dziennikarze/`](./dziennikarze/) — wynik briefu deep research [`../prompty/20-dziennikarze-poznanscy.md`](../prompty/20-dziennikarze-poznanscy.md) z 2026-05-06; 26 sprofilowanych dziennikarzy + tabela master + Top 10 gotowi/Top 5 do unikania + luki. **AI-disclaimer**: wynik LLM, każdy fakt (e-mail, URL, atrybucja artykułu) wymaga niezależnej weryfikacji. Chunking per-temat — iteracja 2.
+
 ## Powiązania
 
 - Adresy do pism: [`../../ADRESY.md`](../../ADRESY.md)
