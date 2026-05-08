@@ -53,6 +53,10 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+hooks:
+  # Per-page lastmod w sitemap.xml — czyta git log z root repo (docs/ to mirror).
+  - scripts/hooks_seo.py
+
 plugins:
   # search: PL stemmer nie jest wspierany w MkDocs Material (fallback do EN).
   - search:

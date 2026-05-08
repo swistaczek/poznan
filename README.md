@@ -182,6 +182,16 @@ Praktyczna konsekwencja: nie znajdziesz tu treści partyjnych ani języka „nas
 
 ---
 
+## Ostatnie zmiany
+
+Lista poniżej odświeża się automatycznie przy każdym buildzie strony (skrypt `scripts/mirror-to-docs.sh`). Pokazuje 30 ostatnio zmienionych dokumentów — sygnał dla crawlerów (Google, Bing) i punkt orientacyjny dla powracających czytelników.
+
+<!-- najnowsze:start -->
+*Lista zostanie uzupełniona automatycznie przy najbliższym buildzie.*
+<!-- najnowsze:end -->
+
+---
+
 ## Panel ekspertów
 
 Przy strategicznych decyzjach (np. wybór strategii procesowej, treść pisma wysokostawkowego) Claude Code uruchamia równolegle 4–6 sub-agentów w rolach top 1% ekspertów — prawo administracyjne, akustyka, zdrowie publiczne, urbanistyka, UDIP — i syntetyzuje wnioski. Persony w [`research/prompty/`](./research/prompty/). Kryterium użycia: „gdyby rekomendacja okazała się błędna, koszt > kilka minut korekty". Szczegóły: sekcja „Panel ekspertów" w [`CLAUDE.md`](./CLAUDE.md).
