@@ -4,7 +4,7 @@ type: index
 domain: golecin
 mpzp: "Park Golęcin (Poznań, Zachodni Klin Zieleni)"
 deadline_uwag: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-08
 ---
 
 # Kampania ws. MPZP „Park Golęcin" (Zachodni Klin Zieleni, Poznań)
@@ -30,6 +30,11 @@ Adresat: **Miejska Pracownia Urbanistyczna w Poznaniu**, ul. Za Bramką 1, 61-84
 - [Kompleksowa analiza uwarunkowań MPZP Park Golęcin](../research/planowanie-przestrzenne/mpzp-park-golecin-analiza.md) — studium prawno-przestrzenne.
 - [Petycja „Sportowy Golęcin — prestiż czy kompromitacja"](../research/planowanie-przestrzenne/petycja-sportowy-golecin.md) — 932 podpisy, 6 wezwań do UMP.
 - [Przykład wypełnionego ustawowego formularza uwagi do MPZP](../research/planowanie-przestrzenne/przyklad-wniosku-uwagi-do-mpzp.pdf) — wzór ustawowy z 28.11.2023.
+
+## Archiwum medialne
+
+- [Post Kuby Głaza (FB) — 3 maja 2026](../research/planowanie-przestrzenne/glaz-fb-2026-05-04-golecin.md) — apel publicystyczny w przeddzień terminu uwag; krytyka odrzucenia uwag społecznych z I wyłożenia.
+- [Post Marcina Gołka (FB) — 7 maja 2026](../research/planowanie-przestrzenne/golek-fb-2026-05-07-hala-la-golecin.md) — deklaracja Pierwszego Zastępcy Prezydenta o nieuwzględnieniu protestów ws. hali lekkoatletycznej; analiza retoryki i komentarzy mieszkańców.
 
 ## Obszary
 
