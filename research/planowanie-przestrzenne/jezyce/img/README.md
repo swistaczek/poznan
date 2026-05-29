@@ -14,5 +14,6 @@ Materiał graficzny publiczny (wizualizacje miejskie/MPU). Źródło bazowe: art
 | `render-tunel-jezyce-solacz.jpeg` | Wizualizacja naziemna przejścia pod torami: tunel w wale kolejowym, przejazd rowerowy, ruch pieszy, wózek, osoba na wózku (dostępność PRM). Pokazuje docelowy charakter łącznika pieszo-rowerowego. |
 | `render-lot-ptaka.jpeg` | Widok z lotu ptaka — wał linii 351 (E59), nowa ul. św. Wawrzyńca wzdłuż wału, zabudowa Nowych Jeżyc po stronie południowej. |
 | `render-lot-ptaka-lokalizacja.jpeg` | Ten sam widok z czerwoną ramką wskazującą lokalizację przejścia/tunelu na wale kolejowym (rejon Poleska / św. Wawrzyńca). |
+| `render-tunel-jezyce-solacz-2.jpg` | **Ilustracja poglądowa wygenerowana AI (OpenAI Playground, 29.05.2026; skompresowana do JPEG)** — dzienny widok przejścia pod torami: przejazd rowerowy, ruch pieszy, osoba na wózku, rower cargo, rodziny. NIE jest oficjalnym renderem miasta — używać jako wizualizacja kampanijna z adnotacją „ilustracja". |
 
 Uwaga: jeśli rendery pochodzą z konkretnej karty MPU lub dokumentacji PKP PLK — dopisać dokładne źródło i licencję po weryfikacji. Do czasu weryfikacji traktować jako materiał poglądowy z domeny publicznej miasta.
