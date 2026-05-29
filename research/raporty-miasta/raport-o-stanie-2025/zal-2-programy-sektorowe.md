@@ -22,7 +22,11 @@
 
 ## ROWERY
 - Program rowerowy (s.34) **WYGASA 2025**: +10,87 km w 2025; stan 361,83 km (421,35 z dopuszczonymi); 10 611 091 przejazdów (liczniki). Część inwestycji = PBO.
-- **SUMP — cel rowerowy MALEJĄCY:** udział roweru Metropolia baza 10,69% → **cel 2040 10,23%** (antycel) (Tab.3–5, s.23–31). Drogi row. 625,7 → cel 2030 692,7 km.
+- **SUMP — cel rowerowy MALEJĄCY** (zweryfikowane w PDF Tab.3 w.6/6a/6b, s.28–29; wskaźnik = udział PODRÓŻY, źródło Stowarzyszenie Metropolia Poznań, baza 2019/2022, brak narracji wyjaśniającej):
+  - cała Metropolia: 10,69% → 10,58% (2030) → **10,23% (2040)** — spadek 0,46 p.p.;
+  - **rdzeń (6a): 12,54% → 11,95% → 11,85%** — spadek 0,69 p.p. (antycel dotyczy też rdzenia, nie tylko agregatu);
+  - peryferie (6b): 13,16% → 14,49% → **14,80%** — WZROST. Spadek agregatu częściowo = efekt wag (rosnąca rola peryferii), ale rdzeń realnie maleje.
+  - Drogi rowerowe (Tab.4 w.1, s.29): 625,7 km → **692,7 km (2030)** → +10% (2040, nie liczba bezwzgl.), cała Metropolia. Patrz szczegóły: `antycel-rowerowy-sump-analiza.md`.
 - WIBEROO: oznakowano 547 jednośladów antykradzieżowo (s.84).
 
 ## TRANSPORT ZBIOROWY (Plan 2014–2025, WYGASA, s.19–20)
