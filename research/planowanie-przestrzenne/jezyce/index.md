@@ -12,7 +12,8 @@ Baza wiedzy pod inicjatywę obywatelską i projekt do Poznańskiego Budżetu Oby
 ## TL;DR
 
 - Linia kolejowa: **nr 351, korytarz E59**, zarządca **PKP PLK S.A.** (grunt Skarbu Państwa).
-- **MPZP „Jeżyce-Północ" (A1/A2, uchwalone 2024) już przewiduje tunel** pod torami w tym rejonie; PKP PLK przygotowuje dokumentację od 2025. Przejścia wciąż brak.
+- **MPZP „Jeżyce-Północ" już przewiduje przejście**: część **A1** (XCVI/1851/VIII/2024) = przejście pieszo-rowerowe przy **Poleskiej** (obiekt inicjatywy); część **A2** (VIII/110/IX/2024) = tunel kolejowo-**drogowy** Kościelna/Nad Wierzbaków (inny obiekt). Przejścia wciąż brak.
+- **Poznański Węzeł Kolejowy (PWK)**: dokumentacja projektowa całego węzła (umowa PLK–BBF, **39 mln zł netto**, 12.12.2024, do 2029); przejście Poleska analizowane „w ramach" PWK [do weryfikacji jako osobna pozycja]. Realne prace **po 2029**. Posterunek POD (d. „Poznań Jeżyce") → przystanek „Poznań Kościelna". Zob. [pwk-poznanski-wezel-kolejowy.md](pwk-poznanski-wezel-kolejowy.md).
 - Odcinek Jeżyce ~70 km/h → przejście w poziomie **formalnie dozwolone** (zakaz dopiero >160 km/h). Tunel/kładka wynika z wyboru MPZP + praktyki PKP PLK, **nie z progu prędkości** (kat. E, Dz.U. 2025 poz. 1105).
 - Koszt obiektu 2,4–94 mln zł → **przekracza próg PBO27 (3 mln, ogólnomiejski duży)**.
 - Dwa identyczne projekty PBO **odrzucono** (Dębiec-Świerczew 2017, Lutycka 2021) — powód: grunt PKP, nie miejski.
@@ -32,6 +33,7 @@ Baza wiedzy pod inicjatywę obywatelską i projekt do Poznańskiego Budżetu Oby
 
 - [Analiza MPZP „Jeżyce-Północ"](mpzp-jezyce-polnoc-analiza.md)
 - [Bariera kolejowa 351/E59 i wymogi techniczne](bariera-kolejowa-351-przejscia.md)
+- [Poznański Węzeł Kolejowy (PWK) — kontekst, 39 mln, harmonogram](pwk-poznanski-wezel-kolejowy.md)
 - [Precedensy PBO i koszty](precedensy-pbo-kladki-tory.md)
 - [Rendery](img/README.md)
 
@@ -48,3 +50,5 @@ Baza wiedzy pod inicjatywę obywatelską i projekt do Poznańskiego Budżetu Oby
 - Prędkość maksymalna linii 351 na odcinku (PKP PLK).
 - Czy tunel w WPF miasta i z jakim horyzontem (ZDM/PIM).
 - Czy PBO Poznań finansował kiedykolwiek samą dokumentację/koncepcję.
+- **Czy przejście pieszo-rowerowe Poleska jest formalnie w zakresie umowy „Dokumentacja projektowa dla PWK" (BBF), czy tylko „ewentualnym poszerzeniem"** — pismo do PKP PLK / Biura Koordynacji Projektów UMP.
+- Sygnatury uchwał Rady Osiedla Jeżyce: sesja LII (14.09.2023, przejście/MPZP) i ~04.02.2022 (przystanek „Poznań Jeżyce") — BIP RO Jeżyce.
