@@ -18,11 +18,16 @@ Kluczowe ustalenia:
 - Drugi tor finansowania: **Rada Osiedla Jeżyce** (środki wolne na małą architekturę → realizacja przez ZZM).
 - Argumenty: ustawa o dostępności + projektowanie uniwersalne + równość opiekunów (NIE WCAG — to treści cyfrowe).
 
+### Załączniki
+- `img/lawka-z-przewijakiem-foto-producenta.webp` — przykładowe zdjęcie ławki z przewijakiem (Zał. nr 1 do pisma).
+- `img/wizualizacja-pogladowa-skwer.png` — wizualizacja poglądowa (Zał. nr 2; w piśmie klauzula: pobieżna, ilustracyjna, bez docelowej lokalizacji ławki).
+
 ## Struktura
 ```
 zielen/
   index.md                          indeks obszaru (PUBLICZNY)
   wniosek-zzm-lawka-przewijak.md    pismo z placeholderami (PUBLICZNY wzór)
+  img/                              załączniki graficzne (PUBLICZNE)
   pisma/REJESTR.md                  rejestr pism (zsanityzowany)
   pisma/YYYY-MM-DD_temat/           katalog sprawy (LOKALNY, gitignored)
 ```

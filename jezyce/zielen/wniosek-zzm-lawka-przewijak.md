@@ -46,7 +46,9 @@ Jako wzór funkcjonalny wskazuję ławkę z przewijakiem o konstrukcji stalowej,
 - konstrukcja stalowa zabezpieczona antykorozyjnie (cynkowanie + malowanie proszkowe), deska suszona próżniowo i zabezpieczona lakierobejcą;
 - montaż przez betonowanie do podłoża.
 
-Powyższe parametry mają charakter poglądowy — proszę o dobór modelu spójnego ze standardami wyposażenia terenów zieleni stosowanymi przez Zarząd oraz z charakterem skweru.
+Powyższe parametry mają charakter poglądowy — proszę o dobór modelu spójnego ze standardami wyposażenia terenów zieleni stosowanymi przez Zarząd oraz z charakterem skweru. Przykładowe zdjęcie tego typu ławki z przewijakiem stanowi **Załącznik nr 1**.
+
+Do wniosku dołączam również **Załącznik nr 2** — poglądową wizualizację. **Wizualizacja została sporządzona pobieżnie, ma charakter wyłącznie ilustracyjny i nie przedstawia docelowej lokalizacji ławki na skwerze ani docelowego zagospodarowania terenu.** Ostateczne usytuowanie elementu pozostawiam do ustalenia przez Zarząd, na istniejącej nawierzchni utwardzonej, w sposób nieingerujący w zieleń i urządzenia retencyjne.
 
 ## Uzasadnienie
 
@@ -73,6 +75,11 @@ Zgodnie z art. 244 § 1 w zw. z art. 237 § 1 KPA oczekuję odpowiedzi bez zbęd
 
 Z wyrazami szacunku,
 {{IMIE_NAZWISKO}}
+
+## Załączniki
+
+1. Przykładowe zdjęcie ławki z przewijakiem (`img/lawka-z-przewijakiem-foto-producenta.webp`).
+2. Wizualizacja poglądowa — ilustracyjna, sporządzona pobieżnie, **nieprzedstawiająca docelowej lokalizacji ławki** (`img/wizualizacja-pogladowa-skwer.png`).
 
 ---
 
@@ -102,6 +109,10 @@ Z wyrazami szacunku,
 2. Wypełnić `{{...}}`, usunąć sekcję notatek. Frontmatter kopii: `type: sent`, `wyslano:`, `termin_odpowiedzi:` (+1 mies.).
 3. Wysyłka e-mail/ePUAP; zachować potwierdzenie. Pełna identyfikacja wnioskodawcy obowiązkowa (anonim = bez rozpoznania).
 4. Wpis do `jezyce/zielen/pisma/REJESTR.md` (zsanityzowany).
+
+### Załączniki graficzne (w repo)
+- `img/lawka-z-przewijakiem-foto-producenta.webp` — foto producenta (typ ławki, stal+drewno). Zał. nr 1.
+- `img/wizualizacja-pogladowa-skwer.png` — wizualizacja poglądowa skweru. Zał. nr 2. **Klauzula w piśmie: pobieżna, ilustracyjna, bez docelowej lokalizacji ławki** — by urząd nie potraktował jej jako wiążącego projektu usytuowania.
 
 ### Powiązane
 - News: https://www.poznan.pl/mim/info/news/zielony-skwer-na-jezycach,278581.html
