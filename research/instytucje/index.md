@@ -69,6 +69,10 @@ Trzy pliki krzyżujące się z `pim-siec-powiazan-kominy-placowe.md` i werdyktem
   - [`...teoria-08-werdykt.md`](./prezes-pim-litka-teoria-08-werdykt.md) — przedstawiciel Miasta MTP: częściowo potwierdzona (Kocięcka wyszła Aquanet, nadal Remondis)
   - [`...teoria-09-werdykt.md`](./prezes-pim-litka-teoria-09-werdykt.md) — Avrio/Eteron jako zaplecze: częściowo potwierdzona (deficyt transparentności biograficznej, brak konfliktu ekonomicznego)
 
+## Śledztwa i afery — jednostki/spółki miejskie
+
+- [`korupcja-zdm-2025-2026.md`](./korupcja-zdm-2025-2026.md) — afera korupcyjna w **ZDM Poznań** (śledztwo CBA + Mazowiecki Wydz. Zamiejscowy PK): naczelnik Wydziału Uzgodnień Zewnętrznych **Adam Z./A.** zatrzymany VII.2025 przy 150 tys. zł, **>700 tys. zł gotówki**, areszt; łapówki deweloperów 2020–2025 za korzystne uzgodnienia, **>1 mln zł**, pranie przez fikcyjne faktury VAT (art. 228/229/299 KK); fale zatrzymań 14.04.2026 (11 osób, 5 miast) i 27.05.2026 (prezes spółki dewel. + wątek żony z Wydz. Informatyki UM); **23 osoby / 67 zarzutów** do 27.05.2026; skutki: dymisja wiceprez. Wiśniewskiego, reforma antykorupcyjna Jaśkowiaka. **Stan: postępowanie w toku (zarzuty, nie wyroki).**
+
 ## Stenogramy RM Poznania (sesje plenarne + komisje)
 
 - [`stenogramy-rm/`](./stenogramy-rm/) — baza dokumentów RM Poznania (protokoły sesji plenarnych + 15 komisji stałych kadencji IX); aktualizowana skill-em `.claude/skills/aktualizuj-stenogramy-rm.md`. Bootstrap 2026-05-06: 22 stuby kadencji IX + LXII/2014 (PIM); 4 z 15 komisji w bazie (Rewizyjna, Budżet/Finanse/Przedsiębiorczość/Nadzór Właścicielski, Polityki Przestrzennej, Rewitalizacji i Inicjatyw Lokalnych)
