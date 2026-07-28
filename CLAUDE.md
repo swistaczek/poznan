@@ -87,6 +87,8 @@ Pisma urzędowe zawierają **dane osobowe nadawców**: imię i nazwisko, adres z
 3. Przejrzyj diffy sanityzowanych plików (REJESTR.md, index.md) — żadnego imienia, adresu, e-maila, sygnatury z nr budynku.
 4. Gdy pojawia się nowa kategoria plików ze sprawą (np. `notatki-telefoniczne.md`, `zdjecia/`) — dodaj wzorzec w `.gitignore` **przed** pierwszym `git add`.
 
+**Eksporty ankiet poparcia (CSV z formularza):** surowy plik zawiera imiona, nazwiska, e-maile i adresy w tekście opisowym — nie wchodzi do repo ani do korespondencji z urzędem/radnym. Anonimizacja: `python3 scripts/anonimizuj-csv.py <plik.csv|zip> --out-dir <inicjatywa>/<obszar>/pisma/YYYY-MM-DD_temat/` (nazwisko → inicjał, e-mail → solony skrót SHA-256, numery z tekstu wycięte, nazwy własne flagowane do przeglądu). Do repo może wejść wyłącznie plik `*-podsumowanie.md` (czyste agregaty); `*-anonimizowana.csv` to nadal dane pseudonimizowane — zostaje lokalnie.
+
 **Wyjątki:**
 - Odpowiedź urzędu bez danych osobowych wnioskodawcy można zarchiwizować publicznie po świadomej decyzji użytkownika: `git add -f <plik>`.
 - Dane publicznych urzędników (imię, nazwisko, stanowisko, e-mail służbowy, adres urzędu) **nie są** danymi osobowymi w rozumieniu tej sekcji — mogą być w repo.
