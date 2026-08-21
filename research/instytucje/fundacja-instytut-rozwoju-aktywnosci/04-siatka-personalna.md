@@ -57,6 +57,10 @@ odpowiedzialnypoznan.pl, Szymon Woźniak, 25.06.2026 i 21.07.2026:
 - Zasiadała z ramienia Prezydenta w PRDPP — zastąpiona przez **Dorotę Potejko** zarządzeniem **573/2026/P z 21.07.2026**.
 - `[do weryfikacji]` numer aktu powołania na zastępczynię (akty kadrowe nie są publikowane w rejestrze zarządzeń) i dokładna data objęcia funkcji dyrektorskiej w 2015.
 
+### Aktualizacje
+
+- **2026-08-19 — komisja konkursowa WZiSS.** Magdalena Pietrusik-Adamska jako zastępczyni prezydenta powołała komisję konkursu nr 142/2026 i powierzyła wykonanie aktu dyrektorowi WZiSS, potwierdzając wykonywanie nadzoru nad wydziałem, którym kierowała do 10 czerwca. [Źródło pierwotne](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/619-2026-p,NT001BB15E/) (publ. 2026-08-19; dostęp 2026-08-22). [Raport dzienny](../../monitoring-poznan/2026/08/2026-08-22.md).
+
 ### Dorota Potejko [F]
 
 - **p.o. dyrektorki WZiSS** — wpis BIP wytworzony i opublikowany **24.07.2026**.
