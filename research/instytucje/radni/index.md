@@ -2,7 +2,7 @@
 title: "Karty radnych — indeks operacyjny"
 type: index
 domain: instytucje
-updated: 2026-04-17
+updated: 2026-08-22
 ---
 
 # Karty radnych Rady Miasta Poznania — indeks
@@ -39,7 +39,8 @@ Kanoniczny punkt wejścia per osoba: profil operacyjny + portret dialogowy + obs
 | Plewiński Przemysław | Trzecia Droga | 3 | Kandydat na Prezydenta 2024 (19,10%) | T2 | Pragmatyk prawny — hałas jako naruszenie prawa | [→](plewinski-przemyslaw.md) |
 | Kapustka Łukasz | Trzecia Droga | 4 | **Wiceprzew. RM** | T2 | Strażnik procedur — naturalny adresat UDIP | [→](kapustka-lukasz.md) |
 | Strzelecka Klaudia | PiS | 5 | ex-Przew. Kom. Rewizyjnej (7 lat) | T1.5 | Audytor — hałas jako niegospodarność | [→](strzelecka-klaudia.md) |
-| Antolczyk Magdalena | [do wer.] | [do wer.] | Wiceprzew. Kom. Rodziny i Zdrowia | K | Potencjał — hałas=zdrowie publiczne | [→](antolczyk-magdalena.md) |
+| Antolczyk-Stawska Magdalena | [do wer.] | [do wer.] | Wiceprzew. Kom. Rodziny i Zdrowia | K | Potencjał — hałas=zdrowie publiczne | [→](antolczyk-magdalena.md) |
+| Kuberka Justyna | [do wer.] | [do wer.] | Członkini RMP (mandat potwierdzony w BIP 22.08.2026) | — | Interpelacje; brak karty | — |
 | Woźniak Małgorzata | KO | [do wer.] | Przew. Kom. Polityki Mieszkaniowej | — | Inne priorytety | — |
 | Matuszak Paweł | KO | 2 | [do wer.] | — | Inne priorytety | — |
 | Lisiecka-Pawełczak Maria | KO | [do wer.] | Przew. Kom. Rodziny i Zdrowia | — | Inne priorytety | — |
@@ -57,7 +58,6 @@ Na podstawie [wyniki-15](../wyniki-15-radni-trzecia-droga.md) — nie są radnym
 | Konopa Marcin | KKW Trzecia Droga | Brak mandatu | Kandydował, nie wszedł |
 | Woźniak Mariusz R. | KKW Trzecia Droga | Brak mandatu | Kandydował, nie wszedł |
 | Małyszka-Łukomska Natalia | KKW Trzecia Droga | Brak mandatu | Kandydowała, nie weszła |
-| Kuberka Justyna | KKW Koalicja Obywatelska (okr. 1) | Brak mandatu | 813 głosów, 3,22% |
 | Grześ Michał | KWW Zjednoczona Prawica | `[do weryfikacji]` | Brak potwierdzenia mandatu w analizowanych zbiorach 2024 |
 
 **Uwaga strukturalna**: IX kadencja liczy **34 radnych** (nie 37; spadek przez próg ludnościowy Poznania < 500 tys. zameldowanych). Podział: KO 22 · PiS 6 · Lewica 3 · Trzecia Droga 3. Trzeci radny TD — tożsamość `[do weryfikacji]` (Biuro RM: 61 878 53 12).
