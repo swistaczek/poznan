@@ -21,6 +21,7 @@ Mapa kompetencji organów właściwych dla spraw poznańskich: samorząd, admini
 
 - [`prezydent-jaskowiak.md`](./prezydent-jaskowiak.md) — analiza biograficzna, polityczna i zarządcza Jacka Jaśkowiaka (kadencje 2014–, PO/KO); doktryna urbanistyczna (Projekt Centrum), konflikty z władzą centralną, profil decyzyjny
 - [`wiceprezydent-golek.md`](./wiceprezydent-golek.md) — Marcin Gołek, Pierwszy Zastępca Prezydenta od 1 sierpnia (rewitalizacja, zarządzanie kryzysowe, mieszkalnictwo, sport); wcześniej 7 lat wiceprezes PIM (Stary Rynek, tramwaj Naramowice, Mosty Berdychowskie); kazus MBA Collegium Humanum, kominy płacowe
+- [`derech-bartosz.md`](./derech-bartosz.md) — Bartosz Derech, III zastępca Prezydenta od 1 lipca 2026; odpowiedzialność za BMIR, ZDM, ZTM, ZRD, oświatę i właścicielski nadzór ZTM nad MPK
 
 ## Portrety zarządu PIM (Poznańskie Inwestycje Miejskie)
 

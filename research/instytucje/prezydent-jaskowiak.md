@@ -158,3 +158,7 @@ Jego model decyzyjny (tworzący swoistą doktrynę tożsamościowo-inwestycyjną
 23. Michalczewski after the fight: It was the best gala I've ever seen \- YouTube, accessed May 4, 2026, [https://www.youtube.com/watch?v=OU29TKwtZWI](https://www.youtube.com/watch?v=OU29TKwtZWI)  
 24. Prezydent Poznania będzie walczył na targach \- Aktualności \- Grupa MTP, accessed May 4, 2026, [https://www.mtp.pl/pl/aktualnosci/prezydent-poznania-bedzie-walczyl-na-targach](https://www.mtp.pl/pl/aktualnosci/prezydent-poznania-bedzie-walczyl-na-targach)  
 25. Unia Metropolii Polskich rozpoczyna kolejną kadencję \- Metropolie.pl, accessed May 4, 2026, [https://metropolie.pl/artykul/unia-metropolii-polskich-rozpoczyna-kolejna-kadencje](https://metropolie.pl/artykul/unia-metropolii-polskich-rozpoczyna-kolejna-kadencje)
+
+## Aktualizacje
+
+- **2026-06-22 — fakultatywna ścieżka przygotowania ZPI.** Jaśkowiak podpisał 486/2026/P: przedwnioskowy proces przez MPU jest dobrowolny dla inwestora, lecz wiąże organizacyjnie jednostki Miasta. Obejmuje publikację KUA, 30-dniowe opinie rady osiedla i jednostek, Komisję Polityki Przestrzennej, konsultacje oraz dwie rekomendacje kierownictwu Miasta. Weryfikacja i pierwsza opinia MPU: po 14 dni. [BIP](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/486-2026-p,NT001B8862/) · [raport](../monitoring-poznan/2026/08/2026-08-22.md)

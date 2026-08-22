@@ -1,6 +1,6 @@
 ---
 tytul: Siatka personalna i instytucjonalna
-stan_na: 2026-07-26
+stan_na: 2026-08-22
 zakres: wyłącznie funkcje publiczne i zależności formalne; bez danych prywatnych
 legenda: "[F] fakt ze źródła pierwotnego · [M] twierdzenie medialne · [N] niepotwierdzone"
 ---
@@ -107,3 +107,7 @@ odpowiedzialnypoznan.pl, Szymon Woźniak, 25.06.2026 i 21.07.2026:
 - **CIL „Sąsiedzkie Jeżyce"** [F], ul. Jackowskiego 5-7, osoba kontaktowa Damian Dubina — wykaz CIL na poznan.pl (edycja 2020).
 
 **Wzorzec:** fundacja wchodzi do miejskich programów **przez inicjatywę zgłoszoną z zewnątrz** (WHO 2015, UNICEF 2019), po czym staje się **partnerem realizacyjnym** wdrożenia tej inicjatywy. Zdanie z artykułu z 21.07.2026: *„Zarówno za jedną, jak i drugą decyzją poszedł szereg działań, w których partnerem miasta okazywał się… Instytut Rozwoju Aktywności Społecznych. I każdorazowo nie była to dla tej organizacji współpraca non profit"* — jest zgodne z ustaleniami dokumentowymi co do sekwencji zdarzeń.
+
+## Aktualizacje
+
+- **2026-07-07 — Magdalena Pietrusik-Adamska: analiza konsolidacji miejskich placówek medycznych.** Zastępczyni prezydenta rekomendowała zespół roboczy i analizę kontraktów, zadłużenia, zobowiązań oraz skutków kadrowych. RMP zobowiązała Prezydenta do przedstawienia w trzy miesiące analizy Raszei, POSUM i Strusia, bez przesądzenia reorganizacji. [RMP](https://www.poznan.pl/mim/brm/news,10522/xxxviii-sesja-rady-miasta,282155.html) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
