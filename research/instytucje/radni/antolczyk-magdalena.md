@@ -1,15 +1,16 @@
 ---
-title: "Magdalena Antolczyk ([do weryfikacji] frakcja)"
+title: "Magdalena Antolczyk-Stawska ([do weryfikacji] frakcja)"
 type: karta-radnego
 tier: krótka
 frakcja: "[do weryfikacji]"
 okreg: "[do weryfikacji]"
 ocena: Wiceprzew. Komisji Zdrowia — kluczowa do narracji hałas=zdrowie publiczne
-updated: 2026-04-17
+aliases: ["Magdalena Antolczyk", "Antolczyk-Stawska Magdalena"]
+updated: 2026-08-22
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
 
-# Magdalena Antolczyk — okręg `[do wer.]`
+# Magdalena Antolczyk-Stawska — okręg `[do wer.]`
 
 Wiceprzewodnicząca Komisji Rodziny, Polityki Społecznej i Zdrowia. Kluczowa dla strategicznego manewru: **redefiniowanie hałasu tramwajowego z „inżynierskiego" na „zdrowie publiczne"**. Jej komisja musi się odnieść — to obchodzi odmowę ZDM/PIM kategorii „nieunikniony skutek uboczny".
 
@@ -56,3 +57,10 @@ Antolczyk ze względu na zakres obowiązków komisji **jest zobligowana się odn
 
 - Wyniki researchu: [`../wyniki-15-radni-trzecia-droga.md`](../wyniki-15-radni-trzecia-droga.md)
 - Kontakt BIP: magdalena_antolczyk@um.poznan.pl, tel. 61 878 53 12
+
+## Aktualizacje
+
+### Interpelacje BIP
+
+- **2026-08-21 — RM-VI.0003.292.2026.** Metadane BIP wskazują sprawę bezpieczeństwa ruchu na ul. Złotowskiej przy SP 58; nieodczytany PDF nie pozwala zweryfikować żądań. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-bezpieczenstwa-ruchu-drogowego-na-ul-zlotowskiej-w-rejonie-szkoly-podstawowej-nr-58-w-poznaniu,NT00081B1E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081B1E -->
+- **2026-08-21 — RM-VI.0003.294.2026.** Metadane BIP wskazują sprawę środków RO Grunwald Południe na progi zwalniające; nieodczytany DOCX nie pozwala zweryfikować żądań. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-wykorzystania-srodkow-rady-osiedla-grunwald-poludnie-przeznaczonych-na-montaz-progow-zwalniajacych,NT00081B3E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081B3E -->
