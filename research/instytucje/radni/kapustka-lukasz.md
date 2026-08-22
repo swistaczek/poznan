@@ -5,7 +5,7 @@ tier: 2
 frakcja: Trzecia Droga (PSL-PL2050)
 okreg: 4
 ocena: Wiceprzewodniczący RM — strażnik procedur demokratycznych, naturalny adresat postulatów UDIP
-updated: 2026-04-17
+updated: 2026-08-22
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
 
@@ -75,3 +75,9 @@ Wiceprzewodniczący RM IX kadencji, 34 lata w momencie wyborów 2024, pierwsze m
 
 - Wyniki researchu: [`../wyniki-15-radni-trzecia-droga.md`](../wyniki-15-radni-trzecia-droga.md)
 - Prezydium RM IX kadencji: Ganowicz (Przew.), Rataj · Rozmiarek · Kapustka (Wiceprzew.)
+
+## Aktualizacje
+
+### Interpelacje BIP
+
+- **2026-08-21 — RM-VI.0003.293.2026.** Metadane BIP wskazują sprawę remontu chodnika przy ul. Pyrzyczańskiej; dwóch nieodczytanych PDF-ów nie można zastąpić opisem z tytułu. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-koniecznosci-remontu-chodnika-przy-ul-pyrzyczanskiej,NT00081B2E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081B2E -->
