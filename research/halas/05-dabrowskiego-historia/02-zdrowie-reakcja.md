@@ -3,36 +3,30 @@ title: "05 / 02 — Zdrowie publiczne, SMH 2022 i reakcja społeczna"
 type: chunk
 domain: halas
 parent: wyniki-halas-dabrowskiego-historia.md
-updated: 2026-04-17
+updated: 2026-08-24
 ---
 
 # 02. Wpływ na zdrowie + SMH 2022 + reakcja społeczna
 
-## 1. Patofizjologia: NHA, NHSD, NIHD
+## 1. Wskaźniki populacyjne: NHA, NHSD, NIHD
 
-POŚpH woj. wielkopolskiego 2024-2028 przesuwa oceny ze wskaźników fizycznych ($L_{Aeq}$, $L_{DWN}$, $L_{N}$) na **wskaźniki epidemiologiczne** (oparte na wytycznych WHO 2018 i dyrektywach unijnych):
+POH 2024 uzupełnia wskaźniki fizyczne ($L_{Aeq}$, $L_{DWN}$, $L_{N}$) o **modelowane skutki populacyjne** według załącznika III dyrektywy END:
 
-- **NHA** (Noise High Annoyance) — odsetek populacji eksponowanej na znaczną uciążliwość ogólną. Niemożność skupienia, rozmowy, oglądania TV bez zamkniętego okna.
-- **NHSD** (Noise High Sleep Disturbance) — zaburzenia snu; kluczowy wskaźnik dla Dąbrowskiego (211 tramwajów/noc, pkt 17).
-- **NIHD** (Noise Ischemic Heart Disease) — choroba niedokrwienna serca jako finalny skutek wieloletniej fragmentacji snu hałasem.
+- **NHA** — modelowana liczba osób o wysokiej uciążliwości.
+- **NHSD** — modelowana liczba osób o wysokim zaburzeniu snu, wyznaczana z długookresowego `L_N`; nie z liczby przejazdów w pojedynczej nocy.
+- **NIHD** — modelowana dodatkowa liczba przypadków choroby niedokrwiennej serca, ilościowo ustanowiona w tym reżimie dla hałasu drogowego. Nie jest diagnozą ani nazwą mechanizmu dla konkretnej osoby.
 
-### Mechanizm NHSD na Dąbrowskiego/Roosevelta (pkt 17 ZDM 2016)
+### Ekspozycja nocna w punkcie 17 ZDM 2016
 
-Sen składa się z naprzemiennych faz NREM/REM (snu głębokiego) — każda kluczowa dla konsolidacji pamięci, równowagi hormonalnej, regeneracji metabolicznej.
+Hałas nocny może fragmentować sen i uruchamiać odpowiedź stresową także bez świadomego przebudzenia. Ryzyko zależy jednak od poziomu wewnątrz pomieszczenia, wartości maksymalnej i tła, liczby zdarzeń oraz cech osoby; nie można przypisać reakcji każdemu przejazdowi wyłącznie na podstawie zewnętrznego LAeqN.
 
-**Próg reakcji**: każde impulsywne zdarzenie akustyczne >45–50 dB **na poziomie poduszki** (WHO 2018) generuje u człowieka reakcję przebudzenia korowego (**EEG arousal**). Nawet bez świadomej pobudki:
+W punkcie 17 zarejestrowano 211 przejazdów w badanej porze nocnej. To informacja o częstotliwości ekspozycji, **nie 211 potwierdzonych mikrowybudzeń**. Do takiego wniosku potrzebne byłyby co najmniej poziomy LAmax/SEL wewnątrz sypialni i badanie reakcji snu.
 
-- Autonomiczny układ nerwowy rejestruje sygnał zagrożenia
-- Wyrzut kortyzolu (hormonu stresu)
-- Przyspieszenie rytmu serca, wzrost ciśnienia tętniczego
+### Długotrwała ekspozycja: co można, a czego nie można wnioskować
 
-Zjawisko: **fragmentacja snu** — działanie przewlekłe, destrukcyjne. Pkt 17 = zdarzenie co 2 min 16 s przez 8 h = ~211 arousali/noc, nawet przy „przyzwyczajeniu".
+Pomiary z 2016 r. i SMH 2022 uzasadniają pytanie o długotrwałą ekspozycję, ale nie dowodzą ciągłości identycznego poziomu w każdym roku ani związku przyczynowego dla konkretnej osoby. NHA, NHSD i NIHD są wynikami relacji dawka–skutek dla populacji. Roszczenie o uszczerbek zdrowotny wymaga indywidualnej dokumentacji medycznej, aktualnych pomiarów i wykazania związku przyczynowego.
 
-### Dekada inercji → koszt zdrowotny
-
-Zwłoka od diagnozy (2016) do fizycznych technologii naprawczych (2025-2026) = **~10 lat ekspozycji**. Tysiące mieszkańców kamienic wokół Mostu Teatralnego, Roosevelta i Dąbrowskiego (LAeqN = 62,2 dB nocą) w tym oknie mogło rozwinąć powikłania kardiologiczne jako bezpośrednią pochodną inercji infrastrukturalnej ZDM/UMP.
-
-Podstawa roszczeniowa: art. 144 KC (immisje) + art. 435 KC (odpowiedzialność na zasadzie ryzyka dla przedsiębiorstwa wprawianego w ruch siłami przyrody — MPK) — zob. [`../02-immisje/`](../02-immisje/).
+Potencjalną podstawą ochrony cywilnej jest art. 144 KC; możliwość zastosowania art. 435 KC zależy od okoliczności i kwalifikacji przedsiębiorstwa przez sąd, nie działa automatycznie — zob. [`../02-immisje/`](../02-immisje/index.md).
 
 ## 2. Strategiczna Mapa Hałasu Poznania 2022
 
@@ -51,27 +45,23 @@ Dane z Prognozy OOŚ dla MPZP „w rejonie ul. Dąbrowskiego, Szamarzewskiego i 
 
 | Wektor | LDWN [dB] | LN [dB] | Źródło |
 |---|---|---|---|
-| Przybyszewskiego → Długosza | 73–67 | **65–60** | Drogowy + tramwajowy (elewacje północne) |
-| Długosza → Polnej | 70–67 | **61–58** | Drogowy + tramwajowy (osłabienie minimalne) |
+| Przybyszewskiego → Długosza | 73–67 | **65–60** | hałas samochodowy z Dąbrowskiego |
+| Długosza → Polnej | 70–67 | **61–58** | hałas samochodowy z Dąbrowskiego |
 
-**Normy MPZP dla zabudowy pierzejowej śródmiejskiej** (po liberalizacji 2012):
+Wartości odniesienia zależą od kwalifikacji terenu: dla zabudowy wielorodzinnej/mieszkaniowo-usługowej `L_DWN/L_N = 68/59 dB`; dla formalnej strefy śródmiejskiej miasta >100 tys. mieszkańców `70/65 dB`. Prognoza rozważa oba warianty; finalną kwalifikację konkretnej posesji ustala się z MPZP albo faktycznego zagospodarowania.
 
-- LDWN = 68 dB
-- LN = 59 dB
+Przy porównaniu do 68/59 dB prognoza wskazuje na analizowanych elewacjach Dąbrowskiego maksymalnie ok. **+5 dB `L_DWN` i +6 dB `L_N`**. Jest to model długookresowy hałasu drogowego, nie aktualny pomiar interwencyjny pod każdym adresem.
 
-**Skala przekroczeń**: ΔLDWN = +2 do +7 dB w dzień, ΔLN = +2 do +6 dB w nocy. SMH 2022 **formalnie potwierdza niedotrzymanie standardów mimo dekady braku działań**.
-
-Konstatacja Prognozy OOŚ: sam ruch drogowy + tramwajowy (bez udziału lotnisk Poznań-Krzesiny / Ławica, bez przemysłu) wystarcza do trwałego naruszenia dopuszczalnych prawem standardów.
+Prognoza analizuje drogę i tramwaj oddzielnie; nie wolno sumować ich wartości dB arytmetycznie. Przywołana tabela pokazuje, że **sam hałas samochodowy** może przekraczać poziomy odniesienia w części korytarza.
 
 ## 3. Przerzut kosztów: ochrona bierna w MPZP
 
-Mechanizm polityczny: bierność u źródła → narzucenie **ochrony biernej** w MPZP:
+Dokumentacja planistyczna przewiduje **ochronę bierną** w zabudowie:
 
-- Stolarka okienna o podwyższonej izolacyjności akustycznej **$R_w$ > 40 dB**
-- Nawiewniki tłumione
-- Warstwy izolacyjne w nowych i modernizowanych kamienicach
+- przegrody i okna o izolacyjności odpowiedniej do poziomu na konkretnej elewacji;
+- rozwiązania zapewniające wymianę powietrza przy zachowaniu ochrony akustycznej.
 
-**Przerzut**: koszt ochrony obywatela przed niewydolnością infrastrukturalną miasta/województwa trafia w budżety domowe i podmioty prywatne adaptujące tkankę Jeżyc. Efekt uboczny: hermetyzacja — ucieczka wyłącznie przez permanentne zamykanie okien latem, zaprzeczenie idei „otwartego miasta".
+W praktyce część kosztu ochrony nowych/modernizowanych budynków może obciążać inwestora lub właściciela. Prognoza nie ustanawia jednak uniwersalnego `R_w >40 dB` ani jednej wymaganej technologii; parametry muszą wynikać z obliczeń i przepisów budowlanych.
 
 **Punkt interwencji aktywistycznej**: uwagi do wyłożonego MPZP (21 dni) — żądanie wpisania izolacji wibroakustycznej torowiska jako **obowiązku inwestora infrastrukturalnego**, nie właściciela kamienicy. Zob. [`../04-monitoring-torowisk/03-mpzp-licp.md`](../04-monitoring-torowisk/03-mpzp-licp.md).
 
@@ -79,28 +69,21 @@ Mechanizm polityczny: bierność u źródła → narzucenie **ochrony biernej** 
 
 ### 4.1. Inicjatywa „Stop hałasowi w Poznaniu!"
 
-- **Epicentrum**: kamienica **ul. Dąbrowskiego 96** (Jeżyce) — zarząd i właściciele mieszkań
-- Kampania równoległa realna + wirtualna na rzecz odzyskania kontroli nad klimatem akustycznym
-- Postulat kluczowy: wdrożenie cichej technologii torowej + egzekucja norm + uspokojenie ruchu
+- W materiałach źródłowych występuje inicjatywa mieszkańców odnosząca się do problemu hałasu na Dąbrowskiego; jej skład, liczebność i ciągłość wymagają potwierdzenia w pierwotnych petycjach lub korespondencji BIP.
+- Wiarygodnie można przypisać postulaty dopiero do konkretnego, zarchiwizowanego pisma; samo powtórzenie nazwy kampanii nie jest dowodem reprezentatywności.
 
 ### 4.2. Petycje w BIP UMP (2017-2025)
 
-- Skrzynki podawcze prezydenta UMP masowo zasilane wnioskami mieszkańców
-- Rejony poza Dąbrowskiego: ul. Zagrodnicza, Wójtowska (sąsiedztwo Jeżyc/Ogrodów) — hałas tramwajowy
-- Postulaty wspólne: **Strefa Tempo 30** w Śródmieściu, egzekucja art. 155 Prawa o ruchu drogowym, rozbudowa monitoringu
+- W BIP występują petycje i interpelacje dotyczące hałasu, ale bez kompletnego rejestru nie wolno określać ich jako „masowych".
+- Postulaty trzeba przypisywać do konkretnego, datowanego pisma i odpowiedzi organu. Udokumentowane przypadki oraz zastrzeżenia opisuje [chronologia nowego kompendium](../06-poznan-kompendium/06-chronologia-spory-wypowiedzi.md).
 
-**Fizykalne uzasadnienie Tempo 30**: redukcja energii kinetycznej masywnych pojazdów ($E_k = \frac{1}{2}mv^2$, 50→30 km/h = −64% energii), łagodniejsze profile przyspieszenia/dohamowania → ścięcie pików LAmax wyrywających ze snu.
+**Uzasadnienie Tempo 30**: niższa i egzekwowana prędkość może ograniczać hałas toczenia i gwałtowne przyspieszanie, ale efekt dB zależy od nawierzchni, udziału ciężkich pojazdów, płynności i faktycznej prędkości. Spadek energii kinetycznej pojazdu nie przekłada się wprost w tej samej proporcji na poziom dźwięku.
 
-### 4.3. Straż Miejska — interwencje 2021
+### 4.3. Straż Miejska — interwencje porządkowe
 
-Sprawozdania z realizacji uchwał antyhałasowych dla Poznania (BIP):
+Zakres kontroli należy wiązać z poznańską uchwałą XXXVI/614/VII/2016 wydaną na podstawie art. 157 POŚ i sankcją z art. 343 ust. 2. Art. 156 ma węższy zakres — urządzenia nagłaśniające na publicznie dostępnych terenach — i nie jest ogólną podstawą każdej kontroli gastronomii. Bez wskazania rocznego sprawozdania i definicji kategorii nie należy łączyć ani porównywać samych liczb kontroli, mandatów i wniosków do sądu.
 
-- **62 kontrole** skutkujące wnioskami do sądu
-- **116 kontroli** + **5 mandatów** w dalszym etapie
-
-Zakres: lokale gastronomiczne niezabezpieczone przed wydostaniem hałasu (art. 156 ust. 1 Ustawy POŚ — hałas w środowisku z działalności gospodarczej).
-
-**Ograniczenie**: Straż Miejska nie dysponuje kompetencją ścigania hałasu komunikacyjnego od zarządcy infrastruktury (ZDM/MPK) — tu tylko WIOŚ (art. 115a POŚ) i droga cywilna (art. 144 KC).
+**Ograniczenie**: interwencja porządkowa, pomiar środowiskowy i decyzja administracyjna to różne tryby. Właściwy organ zależy od źródła i podstawy prawnej; szczegółową mapę kompetencji zawiera nowe kompendium miejskie.
 
 ## 5. Alienacja ekologiczna jako mechanizm polityczny
 
@@ -109,10 +92,10 @@ Zakres: lokale gastronomiczne niezabezpieczone przed wydostaniem hałasu (art. 1
 **Mechanizm na Jeżycach**:
 
 1. Diagnoza 2016 (ZDM) → świadomość instytucjonalna
-2. Brak wdrożenia 2016-2024 → rosnąca frustracja
+2. Brak potwierdzenia pełnej przebudowy Dąbrowskiego do 2024 r. → rosnąca frustracja części mieszkańców
 3. Krystalizacja oddolna („Stop hałasowi!", petycje, inicjatywy BIP)
-4. Presja polityczna na RM i Marszałka → POŚpH 2018 → PHNUA 2024 → fundusze FEW → modernizacja 2025-2026
+4. Programy 2018 i 2024 oraz punktowe naprawy 2024–2026; brak dowodu na pełną przebudowę zapowiadanych 1,5 km
 
-Alienacja ekologiczna **jest katalizatorem**: bez nacisku społecznego modernizacja Dąbrowskiego (51 mln zł) nie znalazłaby się w priorytetach WPF. Dokumentowanie każdego pisma, każdej odpowiedzi, każdego terminu (rejestr KPA) buduje tor dowodowy dla kolejnych faz — od roszczeń cywilnych po kampanię publiczną.
+Teza, że nacisk społeczny spowodował konkretną inwestycję za 51 mln zł, nie ma potwierdzenia w zebranych źródłach. Wiarygodny tor dowodowy wymaga zestawienia dat petycji, odpowiedzi, budżetów, umów, odbiorów i pomiarów przed/po; dopiero taki łańcuch pozwala oceniać wpływ presji społecznej.
 
-**Tor formalny**: petycja (ustawa o petycjach 2014) → interpelacja radnego → wniosek UDIP → skarga WIOŚ (art. 115a POŚ) → pozew cywilny (art. 144 KC) → skarga do RPO / Komisji PE.
+**Instrumenty są równoległe, nie obowiązkowym łańcuchem:** petycja, interpelacja radnego, wniosek o informację środowiskową/UDIP, zgłoszenie do WIOŚ, wniosek do właściwego organu POŚ, pozew cywilny z art. 144 KC oraz wystąpienie do RPO. Dla drogi i linii tramwajowej art. 115a POŚ jest wyłączony; właściwe są m.in. pomiary zarządcy z art. 175, kontrola, dodatkowe pomiary z art. 178 i ewentualny nakaz z art. 362.
