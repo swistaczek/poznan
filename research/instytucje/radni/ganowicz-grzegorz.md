@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: do weryfikacji
 ocena: inne priorytety — stabilnosc eskalacja instytucjonalna
-updated: 2026-04-17
+updated: 2026-08-22
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -100,3 +100,12 @@ Kotwica proceduralna: myśli kategoriami stabilności ustrojowej i ciągłości 
 ## Źródła pogłębione
 
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)
+
+## Aktualizacje
+
+- **2026-07-07 — pilotaż dostępu do sesji.** Ganowicz wyjaśnił zasady przygotowane przez UMP ze służbami: publiczność podaje dane i okazuje dokument, otrzymuje jednorazowy identyfikator, zajmuje wydzielony sektor i zgłasza chęć zabrania głosu przez BRM. Wskazał Prezydenta jako zarządcę określającego instrukcje bezpieczeństwa; potrzebna jest ocena podstawy prawnej i proporcjonalności. [RMP](https://www.poznan.pl/mim/brm/news,10522/xxxviii-sesja-rady-miasta,282155.html) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
+
+### Interpelacje BIP
+
+- **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla Nowej i starej Obornickiej oraz powiązanego układu drogowego; proponują etapowy „plan B”. Brak odpowiedzi w BIP; to rozwinięcie interpelacji 231/2026. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT000819EA -->
+- **2026-06-30 — RM-VI.0003.231.2026.** Szesnastu radnych pyta o Obornicką, Nową Obornicką, Nową Szymanowskiego, Kurpińskiego, grunty, terminy i finansowanie. Pełna odpowiedź z 4 sierpnia potwierdza strategiczne korytarze, lecz brak harmonogramu i środków realizacyjnych; inwestor wystąpił o aneks, a przygotowanie węzła wydłużają projekt i decyzja środowiskowa. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-rozwoju-ukladu-drogowego-polnocnej-czesci-poznania,NT000808F2/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT000808F2 -->

@@ -5,7 +5,7 @@ tier: krotka
 frakcja: KO
 okreg: 1
 ocena: potencjal — partycypacja spoleczna
-updated: 2026-04-17
+updated: 2026-08-22
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 ---
 
@@ -43,3 +43,11 @@ Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier
 ## Źródło
 
 [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)
+
+## Aktualizacje
+
+### Interpelacje BIP
+
+- **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla Nowej i starej Obornickiej oraz powiązanego układu drogowego; proponują etapowy „plan B”. Brak odpowiedzi w BIP; to rozwinięcie interpelacji 231/2026. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT000819EA -->
+- **2026-07-07 — RM-VI.0003.240.2026.** Wniosek o usunięcie barier przy modernizacji Janickiego i zapewnienie pochylni. Miasto wyjaśniło, że schody służą dojściu technicznemu i do budynku 23, a inwestycja ma dwa dostępne wejścia z chodnikami o nachyleniu do 6%; projekt zaakceptował koordynator dostępności. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-braku-dostepnosci-dla-osob-z-niepelnosprawnosciami-oraz-wozkow-dzieciecych-w-ramach-modernizacji-ul-janickiego-n,NT00080A7E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080A7E -->
+- **2026-07-07 — RM-VI.0003.243.2026.** Wniosek o pilne, dostępne remonty chodników Jeżyckiej i fragmentu Poznańskiej. Pełnego remontu nie ma w planie 2026; ZDM zapowiedział punktową naprawę przy Barzyńskiego i zapadniętej studzienki, a dysponentem środków remontowych wskazał rady osiedli. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-pilnego-remontu-nawierzchni-chodnikow-na-ulicy-jezyckiej-oraz-fragmentu-ulicy-poznanskiej-pod-katem-dostepnosci,NT00080B46/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080B46 -->

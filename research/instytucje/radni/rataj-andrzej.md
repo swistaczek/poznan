@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: do weryfikacji
 ocena: partner operacyjny — interpelacje dokumentacja punktowa
-updated: 2026-04-17
+updated: 2026-08-22
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -113,3 +113,9 @@ Legalista porządku. Myśli matrycą procedur i luk wykonawczych; mobilizuje go 
 - Profil operacyjny: [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)
 - Ranking aktywności: [`../12-rada-miasta-radni/06-komisje-mechanika.md`](../12-rada-miasta-radni/06-komisje-mechanika.md)
 - FAQ interpelacje: [`../12-rada-miasta-radni/99-faq.md`](../12-rada-miasta-radni/99-faq.md)
+
+## Aktualizacje
+
+### Interpelacje BIP
+
+- **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla Nowej i starej Obornickiej oraz powiązanego układu drogowego; proponują etapowy „plan B”. Brak odpowiedzi w BIP; to rozwinięcie interpelacji 231/2026. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT000819EA -->

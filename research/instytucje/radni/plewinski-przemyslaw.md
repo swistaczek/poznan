@@ -5,7 +5,7 @@ tier: 2
 frakcja: Trzecia Droga (Polska 2050)
 okreg: 3
 ocena: Wnikliwy pragmatyk prawny, zorientowany na infrastrukturę transportową i hałas jako naruszenie prawa
-updated: 2026-04-17
+updated: 2026-08-22
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md (brak sekcji — nowy radny)
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
@@ -77,3 +77,13 @@ Reprezentant Polski 2050 w ramach KKW Trzecia Droga; kandydat na prezydenta Pozn
 - Wyniki researchu: [`../wyniki-15-radni-trzecia-droga.md`](../wyniki-15-radni-trzecia-droga.md)
 - Interpelacja: przedłużenie tramwaju na Kobylepole `[do wer. — link BIP]`
 - Interpelacja: sprzedaż alkoholu ul. Dworcowa 1 `[do wer. — link BIP]`
+
+## Aktualizacje
+
+- **2026-07-04 — kontrola „ścieżki w koronach drzew”.** Po zamknięciu inwestycji za 4,2 mln zł Plewiński zwrócił się do PIM o SIWZ, ofertę, protokół odbioru i korespondencję dotyczącą konserwacji. Zapowiedział publikację wyników; odpowiedzi i dokumentów dotąd nie odnaleziono. [ePoznań](https://epoznan.pl/news-news-177505-radny_zapowiada_kontrole_zamknietej_sciezki_w_koronach_drzew_ta_inwestycja_kosztowala_mieszkancow_poznania_42_mln_zl) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
+
+### Interpelacje BIP
+
+- **2026-07-15 — RM-VI.0003.246.2026.** Wniosek o rozpoczęcie budowy chodników Chrzanowskiej i Sokalskiej. ZRID wydano 13 lipca, ale nie był ostateczny. Kosztorys to 1 717 469,74 zł; przy obecnym planie ZDM brakuje 1,4 mln zł. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-chodnika-na-ul-chrzanowskiej-i-sokalskiej,NT00080BBE/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080BBE -->
+- **2026-07-15 — RM-VI.0003.249.2026.** Wniosek o pilną naprawę slipu ratowniczego nad Wartą przy ul. Panny Marii. Ekspertyza wymaga wydłużenia płyty i remontu; potrzebne będzie nowe pozwolenie wodnoprawne. Warianty i finansowanie są analizowane, a inwestycja potrwa co najmniej 2,5 roku. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-technicznego-slipu-na-warcie,NT00080BEE/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080BEE -->
+- **2026-07-15 — RM-VI.0003.247.2026.** Wniosek o dojazd autobusów do stacji Poznań Krzesiny i ustalenie zarządcy dojścia. Dojście należy do PKP S.A.; brak nawrotu i stan drogi wykluczają autobus. Planowanie ma wrócić po sprecyzowaniu przebudowy stacji w PWK. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-dojazdu-autobusow-mpk-do-stacji-kolejowej-poznan-krzesiny,NT00080BCE/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080BCE -->

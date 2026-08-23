@@ -5,7 +5,7 @@ tier: 1
 frakcja: PiS
 okreg: 2
 ocena: odmienne priorytety w transporcie / wspólny grunt zdrowie publiczne UDIP efektywnosc
-updated: 2026-04-17
+updated: 2026-08-22
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../13-radni-dialog/02-portret-rozmiarek.md
 ---
@@ -133,3 +133,10 @@ Młodsze pokolenie decydentów RM. Stopień naukowy: dr hab. `[do wer.: zakres h
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)
 - Mapa mianowników: [`../13-radni-dialog/04-mapa-mianownikow.md`](../13-radni-dialog/04-mapa-mianownikow.md)
 - Zasady dialogu ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)
+
+## Aktualizacje
+
+### Interpelacje BIP
+
+- **2026-07-27 — RM-VI.0003.257.2026.** Pytania o analizy, finansowanie i uzgodnienia przejścia pieszo-rowerowego Poleska–św. Wawrzyńca pod liniami 351/354. PKP PLK włączyła projekt przejścia 29 maja do umowy z BBF na dokumentację PWK; projekt uzgodni z Miastem. ZDM nie ma środków realizacyjnych, koszt i kształt są nierozstrzygnięte. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-mozliwosci-realizacji-dodatkowego-przejscia-pieszo-rowerowego-pod-linia-kolejowa-w-rejonie-ul-sw-wawrzynca,NT00080DBE/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080DBE -->
+- **2026-07-07 — RM-VI.0003.239.2026.** Pytanie o ochronę niszczejących dawnych akademików przy Dożynkowej. Konserwator wpisał zespół do rejestru 13 lutego 2026 r., lecz trwa odwołanie do ministra i robót nie można prowadzić; MPZP z 17 marca dodatkowo chroni budynki i układ. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-dalszych-dzialan-dotyczacych-ochrony-zespolu-akademikow-na-starych-winogradach,NT00080A6E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080A6E -->

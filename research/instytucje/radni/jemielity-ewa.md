@@ -5,7 +5,7 @@ tier: 1
 frakcja: PiS
 okreg: 1
 ocena: odmienne priorytety w transporcie / wspólny grunt seniorzy dostepnosc lad
-updated: 2026-04-17
+updated: 2026-08-22
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../13-radni-dialog/01-portret-jemielity.md
 ---
@@ -120,3 +120,9 @@ Rodowita poznanianka. Absolwentka filologii angielskiej UAM. Wieloletni nauczyci
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)
 - Mapa mianowników: [`../13-radni-dialog/04-mapa-mianownikow.md`](../13-radni-dialog/04-mapa-mianownikow.md)
 - Zasady dialogu ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)
+
+## Aktualizacje
+
+### Interpelacje BIP
+
+- **2026-08-18 — RM-VI.0003.289.2026.** Wniosek o pilną kontrolę i naprawę hydrantu przy Estkowskiego, na wysokości przystanku Małe Garbary. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-hydrantu-przy-ul-estkowskiego,NT00081A86/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081A86 -->

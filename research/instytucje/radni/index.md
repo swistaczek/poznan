@@ -19,6 +19,7 @@ Kanoniczny punkt wejścia per osoba: profil operacyjny + portret dialogowy + obs
 | Jemielity Ewa | PiS | 1 | Wiceprzew. Kom. Rodziny i Zdrowia | T1 | Odmienne priorytety / wspólny grunt: seniorzy, wartość nieruch. | [→](jemielity-ewa.md) |
 | Rozmiarek Mateusz | PiS | 2 | Wiceprzew. RM · Wiceprzew. Kom. Kultury | T1 | Odmienne priorytety / wspólny grunt: zdrowie publiczne, UDIP | [→](rozmiarek-mateusz.md) |
 | Alexandrowicz Przemysław | PiS | [do wer.] | Historycznie Wiceprzew. RM | T1 | Odmienne priorytety / wspólny grunt: dziedzictwo, ład, bezp. rodzin | [→](alexandrowicz-przemyslaw.md) |
+| Czerwiński Zbigniew | PiS | [do wer.] | Przew. Komisji Rewizyjnej · Przew. klubu PiS | T1 | Kontrola spółek, wynagrodzenia i jawność komisji | [→](czerwinski-zbigniew.md) |
 | Wierzbicki Tomasz | KO | [do wer.] | Przew. Komisji Transportu | T2 | Aktywny partner — transport, DDR, Tempo 30 | [→](wierzbicki-tomasz.md) |
 | Bonk-Hammermeister Dorota | Lewica | 1 | Historycznie Wiceprzew. Kom. Rewizyjnej | T2 | Aktywny partner — hałas, piesi, transparentność | [→](bonk-hammermeister-dorota.md) |
 | Lewandowski Tomasz | Lewica Centrum | [do wer.] | Przew. Klubu Lewicy Centrum | T2 | Wspólne priorytety — transport zbiorowy, środowisko | [→](lewandowski-tomasz.md) |
@@ -40,11 +41,17 @@ Kanoniczny punkt wejścia per osoba: profil operacyjny + portret dialogowy + obs
 | Kapustka Łukasz | Trzecia Droga | 4 | **Wiceprzew. RM** | T2 | Strażnik procedur — naturalny adresat UDIP | [→](kapustka-lukasz.md) |
 | Strzelecka Klaudia | PiS | 5 | ex-Przew. Kom. Rewizyjnej (7 lat) | T1.5 | Audytor — hałas jako niegospodarność | [→](strzelecka-klaudia.md) |
 | Antolczyk-Stawska Magdalena | [do wer.] | [do wer.] | Wiceprzew. Kom. Rodziny i Zdrowia | K | Potencjał — hałas=zdrowie publiczne | [→](antolczyk-magdalena.md) |
-| Kuberka Justyna | [do wer.] | [do wer.] | Członkini RMP (mandat potwierdzony w BIP 22.08.2026) | — | Interpelacje; brak karty | — |
-| Woźniak Małgorzata | KO | [do wer.] | Przew. Kom. Polityki Mieszkaniowej | — | Inne priorytety | — |
-| Matuszak Paweł | KO | 2 | [do wer.] | — | Inne priorytety | — |
-| Lisiecka-Pawełczak Maria | KO | [do wer.] | Przew. Kom. Rodziny i Zdrowia | — | Inne priorytety | — |
-| [Pozostali okręgi 3–6 KO/PiS/Lewica] | [do wer.] | 3–6 | [do wer.] | — | [do wer.] | — |
+| Kuberka Justyna | KO | [do wer.] | Wiceprzew. Kom. Samorządowej | K | Interpelacje i samorządność | [→](kuberka-justyna.md) |
+| Woźniak Małgorzata | KO | [do wer.] | Przew. Kom. Polityki Mieszkaniowej | K | Mieszkalnictwo i skargi | [→](wozniak-malgorzata.md) |
+| Matuszak Paweł | KO | 2 | Wiceprzew. Kom. Budżetu i Polityki Przestrzennej | K | Budżet i planowanie | [→](matuszak-pawel.md) |
+| Lisiecka-Pawełczak Maria | KO | [do wer.] | Przew. Kom. Rodziny i Zdrowia | T2 | Nadzór nad miejskimi placówkami medycznymi | [→](lisiecka-pawelczak-maria.md) |
+| Bartel Zuzanna | KO | [do wer.] | Wiceprzew. Kom. Ochrony Środowiska | K | Środowisko i gospodarka komunalna | [→](bartel-zuzanna.md) |
+| Danelska Monika | KO | [do wer.] | Przew. Kom. Rewitalizacji | K | Rewitalizacja i bezpieczeństwo | [→](danelska-monika.md) |
+| Kręglewski Wojciech | KO | [do wer.] | Wiceprzew. Kom. Mieszkaniowej i Rewizyjnej | K | Mieszkalnictwo i kontrola | [→](kreglewski-wojciech.md) |
+| Pampuch Katarzyna | KO | [do wer.] | Wiceprzew. Kom. Samorządowej | K | Samorządność | [→](pampuch-katarzyna.md) |
+| Ruta Marcin | KO | [do wer.] | Wiceprzew. Kom. Promocji i Budżetu | K | Budżet i infrastruktura | [→](ruta-marcin.md) |
+| Stachowiak Tomasz | KO | [do wer.] | Przew. Kom. Promocji | K | Infrastruktura lokalna | [→](stachowiak-tomasz.md) |
+| Sternalski Marek | KO | [do wer.] | Przew. Kom. Oświaty | K | Oświata i infrastruktura | [→](sternalski-marek.md) |
 
 ### Weryfikacja: brak mandatu IX kadencji 2024–2029
 
