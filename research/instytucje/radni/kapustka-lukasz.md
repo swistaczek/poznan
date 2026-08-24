@@ -5,7 +5,7 @@ tier: 2
 frakcja: Trzecia Droga (PSL-PL2050)
 okreg: 4
 ocena: Wiceprzewodniczący RM — strażnik procedur demokratycznych, naturalny adresat postulatów UDIP
-updated: 2026-08-22
+updated: 2026-08-24
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
 
@@ -81,5 +81,5 @@ Wiceprzewodniczący RM IX kadencji, 34 lata w momencie wyborów 2024, pierwsze m
 ### Interpelacje BIP
 
 - **2026-08-21 — RM-VI.0003.293.2026.** Wniosek o remont krótkiego chodnika łączącego Pyrzyczańską z Kurlandzką jeszcze w 2026 r. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-koniecznosci-remontu-chodnika-przy-ul-pyrzyczanskiej,NT00081B2E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081B2E -->
-- **2026-08-11 — RM-VI.0003.277.2026.** Wniosek do Policji o zwiększenie nocnych patroli na os. Orła Białego po zgłoszeniach dewastacji. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-zwiekszonych-aktow-dewastacji-na-os-orla-bialego,NT00081082/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081082 -->
+- **2026-08-11 — RM-VI.0003.277.2026.** Wniosek o zwiększenie patroli na os. Orła Białego. Odpowiedź z 21.08: Komisariat Poznań–Nowe Miasto zapowiedział szczególny nadzór i dodatkowe płatne patrole finansowane przez Miasto; bez kwoty i terminu końcowego. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-zwiekszonych-aktow-dewastacji-na-os-orla-bialego,NT00081082/) · [raport](../../monitoring-poznan/2026/08/2026-08-24.md) <!-- bip-interpelacja:NT00081082 -->
 - **2026-07-27 — RM-VI.0003.258.2026.** Wniosek o pilne przycięcie krzewów przy chodniku Kurlandzkiej na wysokości os. Orła Białego. ZDM zlecił prace z terminem do 21 sierpnia 2026 r. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-koniecznosci-przyciecia-krzewow-przy-ul-kurlandzkiej,NT00080DCE/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080DCE -->
