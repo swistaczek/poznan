@@ -6,6 +6,10 @@ Niniejszy dokument stanowi wyczerpujące, wielowymiarowe opracowanie analityczne
 
 Zarządzanie podmiotem o tak potężnym kapitale operacyjnym i wpływie na tkankę miejską wymaga nie tylko kompetencji inżynieryjnych, ale przede wszystkim doskonałej orientacji w meandrach prawa gospodarczego, finansów publicznych oraz sztuki negocjacji i zarządzania kryzysowego. W związku z tym, badanie sylwetki Justyny Litki wykracza poza standardową analizę CV, wchodząc głęboko w mechanizmy sprawowania władzy samorządowej, modele nadzoru właścicielskiego oraz ewoluujące paradygmaty komunikacji z mieszkańcami w dobie permanentnych kryzysów makroekonomicznych i logistycznych. Poniższy raport, opierając się wyłącznie na weryfikowalnych rejestrach państwowych, sprawozdaniach finansowych oraz zarchiwizowanych oświadczeniach medialnych, precyzyjnie oddziela fakty od szumu informacyjnego, ze szczególnym uwzględnieniem identyfikacji i uzasadnienia tak zwanych "białych plam" w życiorysie badanej.1
 
+## Aktualizacje
+
+- **2026-08-17 — kontrakt Palmiarni.** PIM, której zarządem kieruje Justyna Litka, zawarła w imieniu Miasta umowę z Dekpol Budownictwo: 196,6 mln zł brutto, częściowe otwarcie pod koniec 2028 r., zakończenie zakresu podstawowego w I kw. 2030 r. [PIM](https://pim.poznan.pl/aktualnosci/informacje-biezace/rusza-przebudowa-palmiarni-poznanskiej) · [raport](../monitoring-poznan/2026/08/2026-08-24.md)
+
 ## **Edukacja i Rozwój Kompetencji: Formowanie Profilu Menedżerskiego**
 
 Zrozumienie decyzji operacyjnych i strategicznych podejmowanych przez zarząd Poznańskich Inwestycji Miejskich wymaga w pierwszej kolejności dogłębnej analizy fundamentów edukacyjnych osoby stojącej na jego czele. Wykształcenie Justyny Litki układa się w niezwykle spójny, progresywny ciąg kompetencyjny, który ewoluował w odpowiedzi na rosnącą złożoność wyzwań zawodowych.
