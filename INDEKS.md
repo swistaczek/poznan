@@ -16,7 +16,7 @@ Mapa nawigacyjna bazy wiedzy i inicjatyw obywatelskich dla Poznania.
 
 | Obszar | Temat | Indeks |
 |---|---|---|
-| halas | hałas tramwajowy — akustyka, immisje, zdrowie | [`index`](./research/halas/index.md) |
+| halas | hałas w Poznaniu — drogi, tramwaje, kolej, lotnictwo, przemysł, lokale; dane, prawo, zdrowie i spory | [`index`](./research/halas/index.md) |
 | uspokojenie-ruchu | Tempo 30, woonerfy, interwencje | [`index`](./research/uspokojenie-ruchu/index.md) |
 | rowery | polityka rowerowa Poznania, audyt CROW | [`index`](./research/rowery/index.md) |
 | transparentnosc | UDIP, budżet, skargi na bezczynność | [`index`](./research/transparentnosc/index.md) |
