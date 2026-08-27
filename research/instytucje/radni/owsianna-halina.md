@@ -5,7 +5,7 @@ tier: 2
 frakcja: Lewica
 okreg: 2
 ocena: wspólne priorytety — zielen piesi seniorzy
-updated: 2026-04-17
+updated: 2026-08-27
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -101,6 +101,12 @@ Myśli historiami konkretnych ludzi: zagrożonych pieszych, wykluczonych senior�
 **Czego unikać:** Zbytniego epatowania technologią drogową, betonem i wskaźnikami inżynieryjnymi z pominięciem tkanki żywej; skupiania się wyłącznie na kierowcach z pominięciem rezydentów przestrzeni (zwierząt, seniorów).
 
 **Otwieracz:** *„Pani Halino, z ogromnym podziwem obserwuję Pani walkę o wybiegi dla zwierząt na północy miasta; nasze działania o uspokojenie ruchu mają dokładnie ten sam cel — chcemy stworzyć przestrzenie, gdzie spacer z psem, nierzadko adoptowanym po przejściach i reagującym stresem na ryk silników, znów będzie całkowicie bezpieczny."*
+
+## Aktualizacje
+
+### Interpelacje BIP
+
+- **2026-08-24 — RM-VI.0003.299.2026.** Wniosek o przeznaczenie całego wpływu ZZM z dzierżawy Cytadeli na koncert na potrzeby parku oraz o wycenioną listę pilnych prac. Organizator i kwota są zaczernione w dokumencie. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-srodkow-finansowych-uzyskanych-z-dzierzawy-cytadeli-na-koncert,NT00081C2E/) · [raport](../../monitoring-poznan/2026/08/2026-08-27.md) <!-- bip-interpelacja:NT00081C2E -->
 
 ## Źródła pogłębione
 

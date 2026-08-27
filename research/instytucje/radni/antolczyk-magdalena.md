@@ -6,7 +6,7 @@ frakcja: "[do weryfikacji]"
 okreg: "[do weryfikacji]"
 ocena: Wiceprzew. Komisji Zdrowia — kluczowa do narracji hałas=zdrowie publiczne
 aliases: ["Magdalena Antolczyk", "Antolczyk-Stawska Magdalena"]
-updated: 2026-08-22
+updated: 2026-08-25
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
 
@@ -62,6 +62,7 @@ Antolczyk ze względu na zakres obowiązków komisji **jest zobligowana się odn
 
 ### Interpelacje BIP
 
+- **2026-08-24 — RM-VI.0003.297.2026.** Pyta o etap rewitalizacji skweru Grochowska–Grunwaldzka, wykonanie chodników jeszcze w 2026 r., przyczynę opóźnienia zadania przewidzianego na 2025 r. oraz koordynację remontu z projektem zagospodarowania. Wskazuje 350 tys. zł dla WGN i 50 tys. zł dla ZZM. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-rewitalizacji-skweru-przy-ul-grochowskiej-grunwaldzkiej,NT00081BD6/) · [raport](../../monitoring-poznan/2026/08/2026-08-25.md) <!-- bip-interpelacja:NT00081BD6 -->
 - **2026-08-21 — RM-VI.0003.292.2026.** Prośba o dane z pomiarów prędkości i zdarzeń z pięciu lat, audyt BRD przy SP 58 oraz ocenę finansowania fotoradaru i udziału Poznania w pilotażu GITD. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-bezpieczenstwa-ruchu-drogowego-na-ul-zlotowskiej-w-rejonie-szkoly-podstawowej-nr-58-w-poznaniu,NT00081B1E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081B1E -->
 - **2026-08-21 — RM-VI.0003.294.2026.** Żądanie podstawy przesunięcia 20 tys. zł Rady Osiedla Grunwald Południe na Tempo 30 na Abisynii, kosztu zadania oraz przywrócenia środków na progi przy Listopadowej i technicznej Bułgarskiej. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-wykorzystania-srodkow-rady-osiedla-grunwald-poludnie-przeznaczonych-na-montaz-progow-zwalniajacych,NT00081B3E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081B3E -->
 - **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla Nowej i starej Obornickiej oraz powiązanego układu drogowego; proponują etapowy „plan B”. Brak odpowiedzi w BIP; to rozwinięcie interpelacji 231/2026. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT000819EA -->
