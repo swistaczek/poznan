@@ -2,7 +2,7 @@
 title: "Bartosz Derech — III zastępca Prezydenta Poznania"
 type: karta-osoby
 domain: instytucje
-updated: 2026-08-22
+updated: 2026-08-27
 ---
 
 # Bartosz Derech
@@ -11,6 +11,7 @@ III zastępca Prezydenta Miasta Poznania od 1 lipca 2026 r. Odpowiada m.in. za B
 
 ## Aktualizacje
 
+- **2026-08-25 — konsultacje „Wolnych Torów”.** Derech podpisał z upoważnienia 634/2026/P: pierwszy etap konsultacji dla obszaru Roosevelta–Robocza–Hetmańska–Kolejowa potrwa 11.09–2.10 i obejmie rozwiązania urbanistyczne oraz transportowe. Materiały mają być dostępne od 11.09; uwagi można złożyć elektronicznie lub pisemnie. [BIP](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/634-2026-p,NT001BB512/) · [raport](../monitoring-poznan/2026/08/2026-08-27.md)
 - **2026-07-01 — przejęcie portfela transportowego.** Derech objął nadzór nad BMIR, ZDM, ZTM, ZRD i oświatą oraz wykonywaniem przez ZTM uprawnień właścicielskich wobec MPK. [Miasto](https://kultura.poznan.pl/mim/kultura/zastepcy-prezydenta-skarbnik-i-sekretarz-miasta,p,7785,7792,7801.html) · [raport](../monitoring-poznan/2026/08/2026-08-22.md)
 - **2026-08-13 — ZDM centralizuje umowy art. 16.** Derech podpisał 613/2026/P, obowiązujące od 1 września: ZDM indywidualnie ocenia inwestycje zwykle powyżej 2000 m², ale także mniejsze o istotnym wpływie, koordynuje opinie i zawiera umowy rzeczowe lub finansowe. Wstępna ocena kompletnego wniosku: 30 dni. [BIP](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/613-2026-p,NT001BA02E/) · [raport](../monitoring-poznan/2026/08/2026-08-22.md)
 

@@ -5,7 +5,7 @@ tier: 2
 frakcja: Lewica
 okreg: 1
 ocena: aktywny partner — halas piesi transparentnosc
-updated: 2026-04-17
+updated: 2026-08-27
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -104,6 +104,12 @@ Strażniczka Śródmieścia. Myśli dyrektywami środowiskowymi UE, mapami akust
 **Czego unikać:** Retoryki utylitarystycznej, gloryfikującej deweloperski zysk i wskaźniki przepustowości samochodowej; języka urynkowienia przestrzeni publicznej.
 
 **Otwieracz:** *„Pani Doroto, czytając ostatnio najnowszy reportaż o kosztach społecznych transformacji miast, przypomniałem sobie, jak gigantyczną drogę przeszła Wilda dzięki oddolnej pracy; dlatego zależy nam, by przy nowej organizacji ruchu zachować ten sąsiedzki, rzemieślniczy charakter ulicy, chroniąc mieszkańców przed presją tranzytową."*
+
+## Aktualizacje
+
+### Interpelacje BIP
+
+- **2026-08-24 — RM-VI.0003.300.2026.** Wniosek o bezpieczne połączenie DDR przy Warszawskiej z Krańcową: analizę przejazdów lub śluz w obu kierunkach, dalszego odcinka do przejazdu kolejowego oraz terminu i wcześniejszych koncepcji. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-poprawy-infrastruktury-rowerowej-w-rejonie-skrzyzowania-ulic-warszawskiej-i-krancowej,NT00081C3E/) · [raport](../../monitoring-poznan/2026/08/2026-08-27.md) <!-- bip-interpelacja:NT00081C3E -->
 
 ## Źródła pogłębione
 
