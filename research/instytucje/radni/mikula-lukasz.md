@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: 1
 ocena: inne priorytety — procedury planistyczne blad proceduralny
-updated: 2026-08-22
+updated: 2026-09-01
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -111,6 +111,8 @@ Strateg przestrzenny: myśli kategoriami makro-urbanistyki, wskaźników intensy
 - Mechanika Komisji Polityki Przestrzennej: [`../12-rada-miasta-radni/06-komisje-mechanika.md`](../12-rada-miasta-radni/06-komisje-mechanika.md)
 
 ## Aktualizacje
+
+- **2026-08-31 — budżet 2027 i rady osiedli.** Mikuła zapowiedział ocenę wykonalności i priorytetów wieloletnich inwestycji zgłaszanych przez rady osiedli w procesie klubu KO przed budżetem 2027. Brakuje publicznego harmonogramu, kryteriów oceny i protokołów. [źródło](https://gloswielkopolski.pl/wiecej-pieniedzy-dla-poznanskich-osiedli-radni-ko-chca-wrocic-do-podstaw-i-krytykuja-miasto-za-jakosc-procesow-inwestycyjnych/ar/c1p2-29311239) · [raport](../../monitoring-poznan/2026/09/2026-09-01.md)
 
 ### Interpelacje BIP
 
