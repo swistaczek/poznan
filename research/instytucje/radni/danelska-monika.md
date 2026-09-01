@@ -2,7 +2,7 @@
 title: "Monika Danelska"
 type: karta-radnego
 frakcja: KO
-updated: 2026-08-22
+updated: 2026-09-01
 ---
 
 # Monika Danelska
@@ -10,6 +10,8 @@ updated: 2026-08-22
 Radna IX kadencji; przewodnicząca Komisji Rewitalizacji oraz wiceprzewodnicząca Komisji Bezpieczeństwa i Porządku Publicznego. [Skład RMP](https://bip.poznan.pl/bip/radni/).
 
 ## Aktualizacje
+
+- **2026-08-31 — budżet 2027 i rady osiedli.** Danelska zapowiedziała rozmowy klubu KO ze wszystkimi 42 radami osiedli i ponowną ocenę ich priorytetów przed budżetem 2027. Nie opublikowano harmonogramu, kryteriów ani sposobu dokumentowania wpływu spotkań na projekt budżetu. [źródło](https://gloswielkopolski.pl/wiecej-pieniedzy-dla-poznanskich-osiedli-radni-ko-chca-wrocic-do-podstaw-i-krytykuja-miasto-za-jakosc-procesow-inwestycyjnych/ar/c1p2-29311239) · [raport](../../monitoring-poznan/2026/09/2026-09-01.md)
 
 ### Interpelacje BIP
 
