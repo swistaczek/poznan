@@ -80,6 +80,7 @@ Reprezentant Polski 2050 w ramach KKW Trzecia Droga; kandydat na prezydenta Pozn
 
 ## Aktualizacje
 
+- **2026-09-03 — nocna sprzedaż alkoholu.** Kierowana przez Plewińskiego KBiPP jednomyślnie wskazała 1 stycznia 2027 r. zamiast 1 kwietnia jako datę wejścia miejskiego ograniczenia; urzędnicy zapowiedzieli korektę niewniesionego jeszcze projektu. [RMP](https://www.poznan.pl/mim/brm/news,10522/hulajnoga-nie-hulaj-dusza,285463.html) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md)
 - **2026-07-04 — kontrola „ścieżki w koronach drzew”.** Po zamknięciu inwestycji za 4,2 mln zł Plewiński zwrócił się do PIM o SIWZ, ofertę, protokół odbioru i korespondencję dotyczącą konserwacji. Zapowiedział publikację wyników; odpowiedzi i dokumentów dotąd nie odnaleziono. [ePoznań](https://epoznan.pl/news-news-177505-radny_zapowiada_kontrole_zamknietej_sciezki_w_koronach_drzew_ta_inwestycja_kosztowala_mieszkancow_poznania_42_mln_zl) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
 
 ### Interpelacje BIP
