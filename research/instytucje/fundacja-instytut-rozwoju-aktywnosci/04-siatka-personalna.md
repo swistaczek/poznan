@@ -59,6 +59,7 @@ odpowiedzialnypoznan.pl, Szymon Woźniak, 25.06.2026 i 21.07.2026:
 
 ### Aktualizacje
 
+- **2026-09-01–03 — procedury NGO i projekt ograniczenia alkoholu.** Pietrusik-Adamska podpisała akty 659/660, które od 1 września zmieniają procedury konkursów i art. 19a, a 3 września zapowiedziała uwzględnienie postulatu KBiPP o wejściu miejskiego ograniczenia sprzedaży alkoholu 1 stycznia 2027 r. [659](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/659-2026-p,NT001BB8D2/) · [660](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/660-2026-p,NT001BB8D6/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md)
 - **2026-08-19 — komisja konkursowa WZiSS.** Magdalena Pietrusik-Adamska jako zastępczyni prezydenta powołała komisję konkursu nr 142/2026 i powierzyła wykonanie aktu dyrektorowi WZiSS, potwierdzając wykonywanie nadzoru nad wydziałem, którym kierowała do 10 czerwca. [Źródło pierwotne](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/619-2026-p,NT001BB15E/) (publ. 2026-08-19; dostęp 2026-08-22). [Raport dzienny](../../monitoring-poznan/2026/08/2026-08-22.md).
 
 ### Dorota Potejko [F]
