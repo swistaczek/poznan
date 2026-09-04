@@ -109,7 +109,7 @@ Strażniczka Śródmieścia. Myśli dyrektywami środowiskowymi UE, mapami akust
 
 ### Interpelacje BIP
 
-- **2026-08-24 — RM-VI.0003.300.2026.** Wniosek o bezpieczne połączenie DDR przy Warszawskiej z Krańcową: analizę przejazdów lub śluz w obu kierunkach, dalszego odcinka do przejazdu kolejowego oraz terminu i wcześniejszych koncepcji. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-poprawy-infrastruktury-rowerowej-w-rejonie-skrzyzowania-ulic-warszawskiej-i-krancowej,NT00081C3E/) · [raport](../../monitoring-poznan/2026/08/2026-08-27.md) <!-- bip-interpelacja:NT00081C3E -->
+- **2026-08-24 — RM-VI.0003.300.2026.** Odpowiedź z 2.09: ZDM zlecił projekt przejazdów Warszawska–Krańcowa do końca 2026 r.; śluz nie rekomenduje. Dalsza ciągłość wymaga projektu budowlanego, na który wraz z wdrożeniem brak środków. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-poprawy-infrastruktury-rowerowej-w-rejonie-skrzyzowania-ulic-warszawskiej-i-krancowej,NT00081C3E/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT00081C3E -->
 
 ## Źródła pogłębione
 
