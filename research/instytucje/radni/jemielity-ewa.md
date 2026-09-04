@@ -125,4 +125,4 @@ Rodowita poznanianka. Absolwentka filologii angielskiej UAM. Wieloletni nauczyci
 
 ### Interpelacje BIP
 
-- **2026-08-18 — RM-VI.0003.289.2026.** Wniosek o pilną kontrolę i naprawę hydrantu przy Estkowskiego, na wysokości przystanku Małe Garbary. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-hydrantu-przy-ul-estkowskiego,NT00081A86/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00081A86 -->
+- **2026-08-18 — RM-VI.0003.289.2026.** Odpowiedź datowana 27.08: Aquanet potwierdził sprawność hydrantu nr 4634 i wydajność 13 dm³/s; ZDM miał uporządkować otoczenie do końca sierpnia. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-hydrantu-przy-ul-estkowskiego,NT00081A86/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT00081A86 -->
