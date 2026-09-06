@@ -76,7 +76,11 @@ Sugerowana skala: **1 000–1 500 rowerów**, w tym:
 
 1. Interpelacja radnych o wznowienie przetargu z budżetem **12 mln zł/rok × 4 lata** (łącznie 48 mln, minus ~30 mln wpływów netto z opłat użytkowników).
 2. Petycja obywatelska (tryb ustawy o petycjach z **11.07.2014**) z **5 000 podpisów** — próg obligatoryjnej odpowiedzi merytorycznej.
-3. Projekt do PBO 2027 na "pilotaż PRM 2.0": **3–5 mln zł** dla 200 rowerów w pierścieniu wewnątrz I Ramy — wymusi dopisanie reszty budżetu przez miasto.
+3. PBO 2027: projekt nr 172 **PROMiS** na centralną wypożyczalnię 150 rowerów za 3 mln zł został oceniony negatywnie przez ZTM. Po zamknięciu terminu 4.09.2026 karta nadal wskazywała **„Nie złożono odwołania”**, więc ta ścieżka nie weszła do dalszego etapu. [Karta projektu](https://pbo27.um.poznan.pl/d/172) (dostęp 6.09.2026).
+
+### PBO27 — wynik ścieżki PROMiS
+
+Projekt zakładał 150 rowerów klasycznych, elektrycznych i cargo, jeden punkt wypożyczeń oraz budżet **3 mln zł**; wnioskodawca oszacował pięcioletnie utrzymanie na **899 990 zł**. ZTM uzasadnił ocenę negatywną sprzecznością z uchwałą kierunkową RMP XXXVIII/678/IX/2026 dotyczącą systemu roweru miejskiego. Karta zawiera jednak niespójne pola: przy lokalizacji „Centrum” zaznaczono realizację poza Poznaniem, a 899 990 zł opisano jednocześnie jako nieprzekraczające i przekraczające 30% z 3 mln zł. Brak odwołania zamyka korektę w ramach tego cyklu, ale nie rozstrzyga zasadności modelu ani tych niespójności.
 
 ## Zarządzanie ruchem na wlotach skrzyżowań
 
