@@ -5,7 +5,7 @@ tier: 1.5
 frakcja: do weryfikacji (prawdopodobnie KO lub Trzecia Droga)
 okreg: do weryfikacji
 ocena: potencjal — dane i strategia Poznan 2040+ polityka mlodych
-updated: 2026-08-22
+updated: 2026-09-07
 source_dialog: ../13-radni-dialog/03b-portrety-pozostali.md
 source_mapa: ../13-radni-dialog/04-mapa-mianownikow.md
 ---
@@ -91,7 +91,8 @@ Data-driven policy: wyniki z badam.poznan.pl, raporty o stanie miasta, twarde st
 
 ### Interpelacje BIP
 
-- **2026-08-08 — RM-VI.0003.271.2026.** Wniosek o zachęty i pilotaż zadaszeń fotowoltaicznych nad dużymi parkingami oraz analizę możliwości ich wymagania w nowych MPZP. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-mozliwosci-zadaszania-duzych-parkingow-panelami-fotowoltaicznymi,NT00080FA6/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080FA6 -->
+- **2026-09-03 — RM-VI.0003.303.2026.** Prosi o analizę bezpieczeństwa Rubieży od ronda Moraczewskich do Juranda: prędkości, tranzytu, parkowania na części pieszej oraz możliwości strefy zamieszkania tam, gdzie brak chodnika. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-bezpieczenstwa-pieszych-na-ul-rubiez,NT00081D7A/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT00081D7A -->
+- **2026-08-08 — RM-VI.0003.271.2026.** Miasto odrzuca obligatoryjne carporty PV w MPZP ze względu na proporcjonalność i ryzyko roszczeń. WGK analizuje potencjał instalacji, a ZTM — wiaty rowerowe P&R i jedną zajezdnię; brak lokalizacji, budżetu i terminu. Parkingi P&G oceniono sceptycznie z powodu małej autokonsumpcji, ochrony konserwatorskiej, kosztów i krótkiej dzierżawy. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-mozliwosci-zadaszania-duzych-parkingow-panelami-fotowoltaicznymi,NT00080FA6/) · [raport](../../monitoring-poznan/2026/09/2026-09-07.md) <!-- bip-interpelacja:NT00080FA6 -->
 - **2026-06-23 — RM-VI.0003.225.2026.** Wniosek o poduszki berlińskie lub inne uspokojenie ruchu na Rubieży. Zatwierdzony projekt progów istnieje, lecz ZDM nie ma środków; wdrożenie zależy od finansowania Rady Osiedla Naramowice. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-montazu-poduszek-berlinskich-na-ul-rubiez,NT0007FFC6/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT0007FFC6 -->
 - **2026-06-23 — RM-VI.0003.224.2026.** Wniosek o tymczasową rekreację na terenie 3UO przy Czarnucha do czasu inwestycji oświatowej. Miasto odmówiło z powodu MPZP, ale obszar włączono do analizy zmiany planu; teren ma być ponownie oceniony z udziałem Wydziału Oświaty. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-mozliwosci-czasowego-przeznaczenia-terenu-przewidzianego-w-mpzp-pod-funkcje-oswiatowe-na-cele-rekreacyjne-przy-u,NT0007FFB6/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT0007FFB6 -->
 - **2026-06-23 — RM-VI.0003.223.2026.** Pytanie o ograniczony zakres oświetlenia ulicy Karpia i rzekomy koszt projektu ok. 800 tys. zł. Projekt kosztował 30 565,50 zł. Roboty za 207 312 zł planowano od II połowy lipca tylko na gruntach miejskich; dalszy odcinek wymaga przekazania części działek przez wspólnoty. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-realizacji-inwestycji-dotyczacej-oswietlenia-ul-karpia,NT0007FFA6/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT0007FFA6 -->

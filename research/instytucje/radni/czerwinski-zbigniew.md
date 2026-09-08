@@ -4,7 +4,7 @@ type: karta-radnego
 tier: 1
 frakcja: PiS
 okreg: do weryfikacji
-updated: 2026-08-22
+updated: 2026-09-01
 ---
 
 # Zbigniew Czerwiński (PiS)
@@ -12,6 +12,8 @@ updated: 2026-08-22
 Radny IX kadencji, przewodniczący Komisji Rewizyjnej i klubu PiS. Kluczowy dla kontroli zarządczej, wynagrodzeń w spółkach i jawności prac komisji.
 
 ## Aktualizacje
+
+- **2026-09-01 — kontrola WKiŚ.** Pod przewodnictwem Czerwińskiego Komisja Rewizyjna skierowała PU 189/2026 z zaleceniami po kontroli WKiŚ: formalna analiza ryzyka korupcyjnego, uporządkowanie nadzoru nad małą retencją, analiza programów antysmogowych i przyspieszenie procedur pomników przyrody. RMP rozpatrzy projekt 8 września. [BIP](https://bip.poznan.pl/bip/sesje/xxxix,99517/) · [raport](../../monitoring-poznan/2026/09/2026-09-01.md)
 
 - **2026-07-09 — jawność i wynagrodzenia spółek.** WSA uznał za bezskuteczne wyłączenie jawności prowadzonego przez Czerwińskiego marcowego posiedzenia w zakresie szerszym niż cele zarządcze i analiza ich uzasadnienia; orzeczenie było nieprawomocne. Komisja ustaliła tego dnia, że płace zarządów porównywanych spółek innych dużych miast są niższe, a Czerwiński zapowiedział wnioski po wakacjach. [WSA/TVN24](https://tvn24.pl/poznan/poznan-radni-utajnili-posiedzenie-o-zarobkach-sad-nie-bylo-uzasadnienia-st9135661) · [RMP](https://www.poznan.pl/mim/brm/news,10522/kontynuacja-kontroli-wynagrodzen-w-spolkach,282321.html) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
 

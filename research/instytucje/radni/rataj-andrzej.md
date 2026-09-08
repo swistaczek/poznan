@@ -118,4 +118,4 @@ Legalista porządku. Myśli matrycą procedur i luk wykonawczych; mobilizuje go 
 
 ### Interpelacje BIP
 
-- **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla Nowej i starej Obornickiej oraz powiązanego układu drogowego; proponują etapowy „plan B”. Brak odpowiedzi w BIP; to rozwinięcie interpelacji 231/2026. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT000819EA -->
+- **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
