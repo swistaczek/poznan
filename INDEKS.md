@@ -34,6 +34,7 @@ Reużywalne wzory pism. Zobacz `szablony/<obszar>/` — lista pojawi się po eks
 | Inicjatywa | Opis | CLAUDE.md |
 |---|---|---|
 | [`dabrowskiego/`](./dabrowskiego/) | ul. Dąbrowskiego (Jeżyce) — hałas tramwajowy | [`dabrowskiego/CLAUDE.md`](./dabrowskiego/CLAUDE.md) |
+| [`rada-miasta/transparentnosc/`](./rada-miasta/transparentnosc/index.md) | Rada Miasta Poznania, jawność posiedzeń komisji (sprawa z 8.09.2026) | - |
 
 ## Meta
 
