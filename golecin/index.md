@@ -30,6 +30,7 @@ Adresat: **Miejska Pracownia Urbanistyczna w Poznaniu**, ul. Za Bramką 1, 61-84
 - [Kompleksowa analiza uwarunkowań MPZP Park Golęcin](../research/planowanie-przestrzenne/mpzp-park-golecin-analiza.md) — studium prawno-przestrzenne.
 - [Petycja „Sportowy Golęcin — prestiż czy kompromitacja"](../research/planowanie-przestrzenne/petycja-sportowy-golecin.md) — 932 podpisy, 6 wezwań do UMP.
 - [Przykład wypełnionego ustawowego formularza uwagi do MPZP](../research/planowanie-przestrzenne/przyklad-wniosku-uwagi-do-mpzp.pdf) — wzór ustawowy z 28.11.2023.
+- [Analiza interpelacji radnego Ł. Mikuły (stan 09.2026)](../research/instytucje/radni/mikula-interpelacje-analiza-2026-09.md) - sekcja 2.2 zbiera pisemne odpowiedzi Urzędu ws. hali lekkoatletycznej na Golęcinie: brak sformalizowanej analizy lokalizacyjnej, wygaszone pozwolenie na budowę z 04.05.2026, konieczność nowej ULICP.
 
 ## Archiwum medialne
 

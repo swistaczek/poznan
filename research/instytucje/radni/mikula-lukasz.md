@@ -109,6 +109,7 @@ Strateg przestrzenny: myśli kategoriami makro-urbanistyki, wskaźników intensy
 
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)
 - Mechanika Komisji Polityki Przestrzennej: [`../12-rada-miasta-radni/06-komisje-mechanika.md`](../12-rada-miasta-radni/06-komisje-mechanika.md)
+- Analiza interpelacji i odpowiedzi Urzędu (stan 09.2026): [`mikula-interpelacje-analiza-2026-09.md`](mikula-interpelacje-analiza-2026-09.md)
 
 ## Aktualizacje
 
@@ -116,6 +117,8 @@ Strateg przestrzenny: myśli kategoriami makro-urbanistyki, wskaźników intensy
 - **2026-08-31 — budżet 2027 i rady osiedli.** Mikuła zapowiedział ocenę wykonalności i priorytetów wieloletnich inwestycji zgłaszanych przez rady osiedli w procesie klubu KO przed budżetem 2027. Brakuje publicznego harmonogramu, kryteriów oceny i protokołów. [źródło](https://gloswielkopolski.pl/wiecej-pieniedzy-dla-poznanskich-osiedli-radni-ko-chca-wrocic-do-podstaw-i-krytykuja-miasto-za-jakosc-procesow-inwestycyjnych/ar/c1p2-29311239) · [raport](../../monitoring-poznan/2026/09/2026-09-01.md)
 
 ### Interpelacje BIP
+
+> Treść poszczególnych interpelacji, odpowiedzi zastępców prezydenta i wnioski operacyjne: [`mikula-interpelacje-analiza-2026-09.md`](mikula-interpelacje-analiza-2026-09.md).
 
 - **2026-09-01 — RM-VI.0003.302.2026.** Żąda kontroli wygrodzenia budowy i TOR między Dąbrowskiego, Janickiego, Barańczaka i Kościelną, wskazania terminu i obowiązków inwestora oraz pilnego utwardzonego, dostępnego przejścia. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-zapewnienia-bezpiecznego-dojscia-dla-pieszych-pomiedzy-ulicami-dabrowskiego-janickiego-baranczaka-i-koscielna,NT00081D1A/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT00081D1A -->
 - **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
