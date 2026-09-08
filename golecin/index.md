@@ -4,7 +4,7 @@ type: index
 domain: golecin
 mpzp: "Park Golęcin (Poznań, Zachodni Klin Zieleni)"
 deadline_uwag: 2026-05-04
-updated: 2026-05-08
+updated: 2026-09-08
 ---
 
 # Kampania ws. MPZP „Park Golęcin" (Zachodni Klin Zieleni, Poznań)
@@ -13,7 +13,7 @@ Obywatelska inicjatywa dotycząca procedowanego miejscowego planu zagospodarowan
 
 ## Status
 
-Procedura w fazie **II wyłożenia do publicznego wglądu** (27 marca 2026 r. – 20 kwietnia 2026 r.). **Nieprzekraczalny termin składania uwag: 4 maja 2026 r.**
+**Plan uchwalony 8 września 2026 r.** na XXXIX sesji Rady Miasta Poznania (projekt PU 195/2026). Wcześniej: II wyłożenie do publicznego wglądu 27 marca do 20 kwietnia 2026 r., termin składania uwag 4 maja 2026 r. Szczegóły procedury i rozstrzygnięcia uwag: [`mpzp-park-golecin-uchwalony-2026-09.md`](mpzp-park-golecin-uchwalony-2026-09.md).
 
 Adresat: **Miejska Pracownia Urbanistyczna w Poznaniu**, ul. Za Bramką 1, 61-842 Poznań, mpu@poznan.mpu.pl.
 
@@ -27,6 +27,8 @@ Adresat: **Miejska Pracownia Urbanistyczna w Poznaniu**, ul. Za Bramką 1, 61-84
 
 ## Materiały referencyjne
 
+- [Park Tenisowy Olimpia - finansowanie i stan nieruchomości (09.2026)](olimpia-finansowanie-i-plan-2026-09.md) - weryfikacja twierdzeń z debaty publicznej: dotacja MSiT 2 429 100 zł, Pożyczka Rewitalizacyjna WFR 4 901 440,10 zł, środki Miasta Poznania 2018-2026 (2 816 000 zł), KRS i władze stowarzyszenia, nieustalony tytuł prawny do części działki 18/2.
+- [MPZP „Park Golęcin" - stan planistyczny po uchwaleniu 08.09.2026](mpzp-park-golecin-uchwalony-2026-09.md) - parametry terenu 2US, kondygnacje podziemne, plan ogólny (strefa 492SN), rozstrzygnięcie 277 uwag z II wyłożenia, petycja „Sportowy Golęcin".
 - [Kompleksowa analiza uwarunkowań MPZP Park Golęcin](../research/planowanie-przestrzenne/mpzp-park-golecin-analiza.md) — studium prawno-przestrzenne.
 - [Petycja „Sportowy Golęcin — prestiż czy kompromitacja"](../research/planowanie-przestrzenne/petycja-sportowy-golecin.md) — 932 podpisy, 6 wezwań do UMP.
 - [Przykład wypełnionego ustawowego formularza uwagi do MPZP](../research/planowanie-przestrzenne/przyklad-wniosku-uwagi-do-mpzp.pdf) — wzór ustawowy z 28.11.2023.
