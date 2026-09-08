@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: do weryfikacji
 ocena: aktywny partner — transport DDR Tempo 30
-updated: 2026-08-22
+updated: 2026-08-29
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -113,6 +113,8 @@ Pragmatyk inżynieryjny. Myśli przekrojami, wytycznymi PORD i precedensami z in
 - Mechanika Komisji Transportu: [`../12-rada-miasta-radni/06-komisje-mechanika.md`](../12-rada-miasta-radni/06-komisje-mechanika.md)
 
 ## Aktualizacje
+
+- **2026-08-28 — Komisja Transportu 4 września.** Jako przewodniczący odpowiada za posiedzenie, które ma zaopiniować PU 180/2026, 203/2026 i 204/2026 oraz omówić nowe zasady umów drogowych z inwestorami zewnętrznymi. To pierwszy jawny etap kontroli wdrożenia centralizacji umów z art. 16 ustawy o drogach publicznych w ZDM. [BIP](https://bip.poznan.pl/bip/posiedzenia/komisja-transportu,99537/) · [raport](../../monitoring-poznan/2026/08/2026-08-29.md)
 
 - **2026-07-07 — system roweru miejskiego.** W imieniu KO przedstawił PU 178/2026; Rada przyjęła uchwałę XXXVIII/678/IX/2026. Prezydent i ZTM mają przed pracami nad budżetem 2027 przeanalizować koszty, modele, finansowanie, ryzyka i ewentualny pilotaż, z pierwszeństwem trwałej infrastruktury rowerowej. [BIP](https://bip.poznan.pl/bip/uchwaly/kadencja-2024-2029,15/xxxviii-678-ix-2026-z-dnia-2026-07-07,99357/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
 

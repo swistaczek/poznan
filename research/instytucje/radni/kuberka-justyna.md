@@ -2,7 +2,7 @@
 title: "Justyna Kuberka"
 type: karta-radnego
 frakcja: KO
-updated: 2026-08-22
+updated: 2026-08-29
 ---
 
 # Justyna Kuberka
@@ -10,6 +10,8 @@ updated: 2026-08-22
 Radna IX kadencji; wiceprzewodnicząca Komisji Samorządowej. [Skład RMP](https://bip.poznan.pl/bip/radni/).
 
 ## Aktualizacje
+
+- **2026-08-28 — Dąbrowskiego 17.** Kuberka zapowiedziała zabieganie o środki na wstępną koncepcję adaptacji miejskiego budynku na siedzibę Muzeum Powstania Poznańskiego — Czerwiec 1956. WGN potwierdził własność Miasta i rozmowy o zakończeniu dzierżawy, ale nie ma dokumentacji, kosztorysu ani źródła finansowania. [wPoznaniu.pl](https://wpoznaniu.pl/jest-szansa-na-nowa-siedzibe-muzeum-poznanskiego-czerwca/) · [raport](../../monitoring-poznan/2026/08/2026-08-29.md)
 
 ### Interpelacje BIP
 
