@@ -13,6 +13,7 @@ Radna IX kadencji i przewodnicząca Komisji Rodziny, Polityki Społecznej i Zdro
 
 ## Aktualizacje
 
+- **2026-09-08 — RM-VI.0003.306.2026.** Wniosek o ustawienie książkomatu Biblioteki Raczyńskich na pozbawionym filii Umultowie, aby umożliwić odbiór zamówień rodzinom, uczniom, seniorom i osobom pracującym. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-ustawienia-ksiazkomatu-biblioteki-raczynskich-na-umultowie,NT00081DFE/) · [raport](../../monitoring-poznan/2026/09/2026-09-14.md) <!-- bip-interpelacja:NT00081DFE -->
 - **2026-09-01 — kontrola MOPR.** Po przedstawieniu stanowiska MOPR wobec nieuwzględnionych zastrzeżeń do kontroli WUW Lisiecka-Pawełczak zażądała od UMP analizy prawnej i finansowej funkcji koordynującej umieszczanie dzieci w pieczy zastępczej. [RMP](https://www.poznan.pl/mim/brm/news,10522/stanowisko-mopr-wobec-wynikow-kontroli,285367.html) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md)
 - **2026-07-07 — analiza konsolidacji miejskich placówek zdrowia.** W imieniu KO przedstawiła PU 179/2026S; przyjęte stanowisko zobowiązuje Prezydenta do przedstawienia w trzy miesiące analizy ekonomicznej, organizacyjnej i medycznej konsolidacji Raszei, POSUM i Strusia. Dokument nie przesądza kierunku reorganizacji. [BIP](https://bip.poznan.pl/bip/uchwaly/kadencja-2024-2029,15/xxxviii-680-ix-16-2026-z-dnia-2026-07-07,99359/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
 
