@@ -125,4 +125,5 @@ Rodowita poznanianka. Absolwentka filologii angielskiej UAM. Wieloletni nauczyci
 
 ### Interpelacje BIP
 
+- **2026-09-07 — RM-VI.0003.305.2026.** Pyta o wyłączenie przyszkolnych boisk na Strzeszynie dla mieszkańców w roku 2026/27 z powodu najmu: umowy, konsultacje, miejskie wytyczne i możliwość przywrócenia godzin ogólnodostępnych. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-calkowitego-wylaczenia-dostepnosci-boisk-i-obiektow-sportowych-nowej-szkoly-na-strzeszynie-dla-mieszkancow-w-rok,NT00081DEE/) · [raport](../../monitoring-poznan/2026/09/2026-09-14.md) <!-- bip-interpelacja:NT00081DEE -->
 - **2026-08-18 — RM-VI.0003.289.2026.** Odpowiedź datowana 27.08: Aquanet potwierdził sprawność hydrantu nr 4634 i wydajność 13 dm³/s; ZDM miał uporządkować otoczenie do końca sierpnia. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-hydrantu-przy-ul-estkowskiego,NT00081A86/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT00081A86 -->
