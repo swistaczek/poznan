@@ -106,6 +106,7 @@ Myśli historiami konkretnych ludzi: zagrożonych pieszych, wykluczonych senior�
 
 ### Interpelacje BIP
 
+- **2026-09-08 — RM-VI.0003.307.2026.** Ponawia postulat urządzenia formalnego, bezpiecznego przejścia istniejącym przedeptem pod wiaduktem między Armii Poznań i Ku Cytadeli, w kontekście muzeum i zabudowy dawnej rzeźni. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-przejscia-przez-ul-armii-poznan-do-ul-ku-cytadeli,NT00081E0E/) · [raport](../../monitoring-poznan/2026/09/2026-09-14.md) <!-- bip-interpelacja:NT00081E0E -->
 - **2026-08-24 — RM-VI.0003.299.2026.** Wniosek o przeznaczenie całego wpływu ZZM z dzierżawy Cytadeli na koncert na potrzeby parku oraz o wycenioną listę pilnych prac. Organizator i kwota są zaczernione w dokumencie. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-srodkow-finansowych-uzyskanych-z-dzierzawy-cytadeli-na-koncert,NT00081C2E/) · [raport](../../monitoring-poznan/2026/08/2026-08-27.md) <!-- bip-interpelacja:NT00081C2E -->
 
 ## Źródła pogłębione
