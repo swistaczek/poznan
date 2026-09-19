@@ -35,7 +35,7 @@ updated: 2026-04-17
 
 - [`../../../szablony/halas/wniosek-udip-audyt-torowiska.md`](../../../szablony/halas/wniosek-udip-audyt-torowiska.md) — wniosek UDIP z 12 pytaniami do MPK / ZTM / PIM. Użyć gdy: potrzebne twarde dane diagnostyczne (CAT, UT, wskaźnik J, historia szlifowania, budżety).
 - [`../../../szablony/halas/wezwanie-do-mpk-diagnoza-akustyczna.md`](../../../szablony/halas/wezwanie-do-mpk-diagnoza-akustyczna.md) — pierwsze pismo „niezbywalne" z wynikami pomiaru + żądaniem interwencji. Użyć gdy: macie własne pomiary kalibrowanym sprzętem i chcecie otworzyć formalną ścieżkę ze śladem do WSA.
-- [`../../../szablony/halas/skarga-wios-pomiar-kontrolny.md`](../../../szablony/halas/skarga-wios-pomiar-kontrolny.md) — skarga do WIOŚ z wnioskiem o kontrolę i pomiar referencyjny (art. 115a POŚ). Użyć gdy: MPK nie reaguje lub chcecie niezależnej ścieżki administracyjnej równolegle z cywilną.
+- `skarga-wios-pomiar-kontrolny.md` — **UWAGA (korekta 19.09.2026): NIE dotyczy dróg ani torowisk tramwajowych** - art. 115a ust. 2 POŚ wyraźnie je wyłącza z trybu WIOŚ. Szablon zachowany dla hałasu z instalacji/urządzeń (inny kontekst). Dla dróg/torowisk: wniosek o przegląd ekologiczny art. 237/241 POŚ do Marszałka Województwa, patrz `../04-monitoring-torowisk/04-wymagania-techniczne.md` §5.
 
 ## Pełne źródło
 

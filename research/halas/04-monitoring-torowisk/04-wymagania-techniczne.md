@@ -1,12 +1,14 @@
 ---
-title: "Wymagania techniczne BAT: szlifowanie, wibroizolacja, art. 115a POŚ"
+title: "Wymagania techniczne BAT: szlifowanie, wibroizolacja, przegląd ekologiczny art. 237/241 POŚ"
 type: chunk
 domain: halas
 source: wyniki-17-monitoring-torowisk-mpk.md
-updated: 2026-04-17
+updated: 2026-09-19
 ---
 
-# 04 — Wymagania techniczne (BAT) i egzekucja art. 115a POŚ
+> **KOREKTA 19.09.2026**: sekcja 5 poniżej pierwotnie opierała egzekucję na art. 115a POŚ + WIOŚ. To błędne dla hałasu drogowego/tramwajowego - **art. 115a ust. 2 POŚ wyłącza drogi i linie tramwajowe** z tego trybu, a WIOŚ nie ma tu sprawczości. Poprawiono na właściwą ścieżkę: art. 237/241 POŚ (przegląd ekologiczny) + art. 362 POŚ, z właściwością **Marszałka Województwa** (art. 378 ust. 2a pkt 4 POŚ), nie Starosty/Prezydenta. Zobacz też `../../dabrowskiego/halas/PLAN-KOMPLEKSOWY-REMONT-TOROWISKA.md` pkt 2.
+
+# 04 — Wymagania techniczne (BAT) i przegląd ekologiczny (art. 237/241 POŚ)
 
 > Źródło: [`../wyniki-17-monitoring-torowisk-mpk.md`](../wyniki-17-monitoring-torowisk-mpk.md)
 
@@ -105,34 +107,30 @@ Kontakt: **kancelaria@mpk.poznan.pl** — termin 14 dni. Szablon: [`../../../sza
 > d) stacjonarne smarownice w łukach o promieniu < R [m],
 > e) program szlifowania profilaktycznego co X MGT z dokumentacją w Paszporcie Toru."
 
-## 5. Interwencja WIOŚ — art. 115a POŚ
+## 5. Przegląd ekologiczny — art. 237/241 POŚ (WŁAŚCIWA ścieżka dla hałasu drogowego/tramwajowego)
 
-**Podstawa prawna.** Ustawa Prawo ochrony środowiska, **art. 115a** — tryb pomiaru kontrolnego.
+**Podstawa prawna.** Ustawa Prawo ochrony środowiska: art. 237 (organ może zobowiązać do sporządzenia i przedłożenia przeglądu ekologicznego), art. 241 (treść przeglądu), art. 362 (decyzja o ograniczeniu oddziaływania/dostosowaniu do wymagań). **Nie art. 115a** - ten wprost wyłącza drogi i linie tramwajowe (art. 115a ust. 2 POŚ). Organ właściwy: **Marszałek Województwa Wielkopolskiego** (art. 378 ust. 2a pkt 4 POŚ - dla przedsięwzięć mogących znacząco oddziaływać na środowisko, w tym dróg i linii tramwajowych), nie Starosta/Prezydent i nie WIOŚ.
 
-**Kto składa skargę.**
+**Kto może wnioskować/skarżyć się.**
 
-- Mieszkańcy (indywidualnie, sąsiedzko).
-- Organizacje społeczne (stowarzyszenie, fundacja).
+- Mieszkańcy (indywidualnie, sąsiedzko) - wniosek o wszczęcie postępowania z urzędu.
+- Organizacje społeczne (stowarzyszenie, fundacja) - status strony na zasadach art. 44 ustawy OOŚ.
 - Rada Osiedla (stanowisko/interpelacja).
 
 **Procedura.**
 
-1. **Skarga do WIOŚ Poznań** z żądaniem przeprowadzenia pomiarów kontrolnych ze względu na domniemane przekroczenie dopuszczalnych poziomów hałasu. Dowody wstępne: pomiary własne (niecertyfikowane, ale wskazujące skalę), pomiary ZDM 2016 (L_AeqN 62,2 dB Dąbrowskiego/Roosevelta), skargi mieszkańców.
-2. **WIOŚ przeprowadza akredytowane pomiary** — protokół.
-3. Po uprawomocnieniu wyników wykazujących przekroczenia — **organ właściwy** (Starosta / Prezydent Miasta wykonujący funkcje starosty) **z urzędu wydaje decyzję** narzucającą operatorowi źródła:
-   - maksymalny dopuszczalny poziom hałasu,
-   - terminy naprawcze,
-   - obowiązek monitoringu porealizacyjnego.
+1. Wniosek do Marszałka Województwa Wielkopolskiego o zobowiązanie zarządcy torowiska (Miasto/ZTM) do sporządzenia i przedłożenia **przeglądu ekologicznego** (art. 237 POŚ), z dowodami wstępnymi: pomiary BAASA 2026 (PPH3.05 +2,1/+3,9 dB, PPH4.16 +3,9 dB dzień), pomiary ZDM 2016, skargi mieszkańców.
+2. Przegląd ekologiczny (art. 241 POŚ) musi zawierać m.in. ocenę oddziaływania na środowisko, w tym hałas, oraz wskazanie ewentualnych działań naprawczych.
+3. Na podstawie przeglądu Marszałek może wydać **decyzję na podstawie art. 362 POŚ**, nakładającą na zarządcę obowiązek ograniczenia oddziaływania w określonym terminie, w tym m.in. wymóg zastosowania dostępnych technik ograniczających hałas.
 
-**Konsekwencje niewykonania.**
+**Konsekwencje niewykonania decyzji z art. 362 POŚ.**
 
-- **Art. 362 POŚ** — decyzja o ograniczeniu oddziaływania na środowisko.
-- **Kary pieniężne cykliczne** (art. 298 nn. POŚ) — stawki za każdy dzień przekroczenia.
-- **Administracyjne wstrzymanie użytkowania** — zawieszenie ruchu tramwajowego na odcinku do czasu usunięcia przyczyn (**art. 367 POŚ**). Generuje presję finansową przewyższającą koszt szlifowania.
+- Kary pieniężne cykliczne (art. 298 nn. POŚ) - stawki za każdy dzień niewykonania.
+- Wstrzymanie użytkowania instalacji/urządzenia w skrajnych przypadkach (art. 367-368 POŚ) - w praktyce trudne do zastosowania wobec czynnej linii tramwajowej obsługującej komunikację miejską, traktować jako środek teoretyczny, nie realny straszak.
 
-**Szablon.** [`../../../szablony/halas/skarga-wios-pomiar-kontrolny.md`](../../../szablony/halas/skarga-wios-pomiar-kontrolny.md)
+**Szablon.** Brak gotowego wzoru wniosku o przegląd ekologiczny w repo - [do stworzenia], NIE używać `skarga-wios-pomiar-kontrolny.md` (ten dotyczy instalacji/urządzeń w rozumieniu art. 115a, nie dróg/torowisk).
 
-**Uwaga proceduralna.** WIOŚ **nie decyduje o technologii** — organ narzuca limit, operator (MPK/ZDM) dobiera środki. W praktyce jedyny sposób zejścia pod normę dla torowiska w pierzei to BAT → wymuszenie ekonomiczne.
+**Uwaga proceduralna.** Marszałek **nie decyduje o konkretnej technologii** w decyzji - narzuca obowiązek ograniczenia oddziaływania w terminie, zarządca (ZTM/MPK) dobiera środki (BAT z sekcji 1-4 wyżej). Ta ścieżka jest wolniejsza i mniej przetestowana niż nacisk budżetowy przez WPF (zob. `../../dabrowskiego/halas/PLAN-KOMPLEKSOWY-REMONT-TOROWISKA.md`) - traktować jako uzupełniającą, nie główną.
 
 ## Cross-ref
 

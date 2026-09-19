@@ -44,9 +44,11 @@ signatures: []
 
 ## 1. Hałas tramwaju przekraczający normy (np. ul. Dąbrowskiego)
 
-- **Krok 1 (dowodowy)**: Wniosek o interwencyjne pomiary emisji → **WIOŚ Poznań** (ul. Czarna Rola 4). WIOŚ wydaje protokół.
-- **Krok 2 (operacyjny)**: Równolegle pismo o naprawę torowiska (szlifowanie szyn, maty wibracyjne Ortec/Sika) → **MPK Poznań** z DW do **ZTM**.
-- **Krok 3 (administracyjny)**: Złożenie protokołu WIOŚ do **Prezydenta (Wydział Klimatu i Środowiska)** z żądaniem decyzji art. 115a POŚ. Odwołanie: **SKO Poznań**.
+> **KOREKTA 19.09.2026**: kroki 1 i 3 poniżej pierwotnie opierały się na art. 115a POŚ i WIOŚ. Błędne - **art. 115a ust. 2 POŚ wyłącza drogi i linie tramwajowe** z tego trybu, WIOŚ nie ma tu sprawczości. Poprawiona ścieżka poniżej. Zobacz `../../halas/04-monitoring-torowisk/04-wymagania-techniczne.md` §5 i `../../dabrowskiego/halas/PLAN-KOMPLEKSOWY-REMONT-TOROWISKA.md`.
+
+- **Krok 1 (dowodowy)**: własne pomiary/ekspertyzy (np. BAASA), pomiary ZDM.
+- **Krok 2 (operacyjny)**: pismo o naprawę torowiska (szlifowanie szyn, wibroizolacja) → **MPK Poznań** z DW do **ZTM** (zarządca torowiska wg art. 28a ustawy o drogach publicznych, nie ZDM).
+- **Krok 3 (administracyjny)**: wniosek do **Marszałka Województwa Wielkopolskiego** (art. 378 ust. 2a pkt 4 POŚ) o przegląd ekologiczny (art. 237/241 POŚ) i decyzję na podstawie art. 362 POŚ; równolegle wniosek o aktualizację Programu ochrony środowiska przed hałasem (art. 119a ust. 10 POŚ), jeśli zadanie jest już wpisane w horyzoncie długofalowym (tak jak PHT5 dla Dąbrowskiego). Odwołanie od decyzji Marszałka: SKO nie jest właściwe - to decyzja organu I instancji marszałkowskiego, odwołanie do **Ministra Klimatu i Środowiska** albo skarga do WSA po wyczerpaniu trybu.
 
 ## 2. Zły stan torowiska — zagrożenie katastrofy budowlanej / wykolejenia
 

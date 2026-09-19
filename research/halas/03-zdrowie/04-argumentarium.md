@@ -20,6 +20,8 @@ acts:
 signatures: []
 ---
 
+> **UWAGA (korekta 19.09.2026)**: warianty poniżej używają progu WHO 44 dB $L_{NIGHT}$ (rail) jako wprost wiążącego dla tramwaju miejskiego, ze statusem "Strong Recommendation" nakazującym redukcję. To uproszczenie - WHO 2018 formułuje ten próg dla kolei konwencjonalnej, nie dla tramwajów, i sam nie uwzględnia liczbowo hałasu impulsywnego (trzaski/uderzenia), który jest istotą sprawy Dąbrowskiego. Nadaje się jako retoryka medialna/kampanijna (stąd ten plik), ale **nie cytować progu 44 dB jako bezpośrednio wiążącej normy prawnej w piśmie urzędowym** - łatwo podważyć. Zob. `../01-akustyka/03-normy-limity.md` i `../metodologia-laeq-vs-halas-impulsywny-torowisko.md`.
+
 # Argumentarium — moduły argumentacyjne dla grup obywatelskich
 
 Cztery moduły o zróżnicowanej objętości i profilu odbiorcy. Zadanie: zmiana narracji z "walki o spokój" na "ochronę życia i zdrowia publicznego". Każdy blok używa twardych, zweryfikowanych statystyk.

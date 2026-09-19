@@ -24,12 +24,14 @@ Limity krajowe dla „terenów zabudowy mieszkaniowej wielorodzinnej i zamieszka
 | Dzień (6:00–22:00) | $L_{Aeq,D}$ = 65 dB | 68 dB |
 | Noc (22:00–6:00) | $L_{Aeq,N}$ = 55 dB | 59 dB |
 
-Wytyczne **WHO Environmental Noise Guidelines for the European Region (2018)** — progi trwałej degradacji zdrowia (nadciśnienie, zaburzenia kognitywne, deprywacja snu):
+Wytyczne **WHO Environmental Noise Guidelines for the European Region (2018)** — progi rekomendowane dla hałasu kolejowego (rail):
 
-| Wskaźnik | WHO — rail |
+| Wskaźnik | WHO — rail (kolej konwencjonalna) |
 |---|---|
 | $L_{den}$ całodobowy | **54 dB** |
 | $L_{night}$ | **44 dB** |
+
+> **UWAGA (korekta 19.09.2026)**: te progi WHO dotyczą kolei konwencjonalnej ("rail"), nie tramwaju miejskiego - WHO nie publikuje odrębnych progów dla tramwajów. Bezpośrednie przenoszenie 54/44 dB na tramwaj miejski nie zostało potwierdzone w weryfikacji adwersaryjnej researchu z 17-18.09.2026 (zob. `../metodologia-laeq-vs-halas-impulsywny-torowisko.md`) i jest ryzykowne w piśmie urzędowym - łatwo podważyć jako nieuprawnioną analogię. Traktować jako wartość orientacyjną/kontekst, nie twardą normę do powołania wprost. Dodatkowo WHO 2018 sam przyznaje, że wpływ hałasu impulsowego/przerywanego (typowego dla torowisk ze stykami/rozjazdami) nie jest w tych progach uwzględniony liczbowo - to również ogranicza ich zastosowanie do sprawy trzasków na Dąbrowskiego.
 
 ## Skala rozbieżności
 
