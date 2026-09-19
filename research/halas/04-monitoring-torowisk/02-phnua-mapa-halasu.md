@@ -101,7 +101,7 @@ Dla ul. Dąbrowskiego — relewantna kategoria 1.3.3 (tramwaj) i 1.3.1 (samochó
 Wpis odcinka na listę priorytetów PHNUA:
 - **wiąże** zarządcę obowiązkiem realizacji zadania w horyzoncie programu,
 - **uzasadnia** roszczenia cywilne (art. 144 KC) przy bierności (standardy akustyczne naruszone, środki znane, zaniechanie zawinione),
-- **uzasadnia** skargę WIOŚ art. 115a POŚ (pomiar kontrolny → decyzja nakazująca).
+- **uzasadnia** wniosek o przegląd ekologiczny art. 237/241 POŚ i decyzję art. 362 POŚ do Marszałka Województwa (nie skargę WIOŚ - art. 115a ust. 2 POŚ wyłącza drogi i linie tramwajowe, korekta 19.09.2026, zob. `04-wymagania-techniczne.md` §5).
 
 ## Cross-ref
 

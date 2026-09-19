@@ -9,7 +9,7 @@ acts: [Dyrektywa-2002/49/WE]
 signatures: []
 ---
 
-# Precedensy: zaawansowane modernizacje w polskich aglomeracjach
+> **UWAGA (korekta 19.09.2026)**: liczby dB w tym pliku (Warszawa 6-9/15 dB, Kraków, Wrocław 3-5 dB) nie mają podanych źródeł i nie udało się ich potwierdzić w researchu z 18-19.09.2026. **Nie cytować w piśmie urzędowym bez niezależnej weryfikacji.** Zamiast tego użyj liczb ze źródeł recenzowanych, zebranych w `../../../dabrowskiego/halas/PLAN-KOMPLEKSOWY-REMONT-TOROWISKA.md` pkt 4: Warszawa Obozowa pomiar przed/po w budynkach (-2,0 do -2,6 dB, Lechowska 2018), smarownice na łukach (13-26 dB SEL, Żuchowski i in. 2023), modernizacja z wymianą nawierzchni (do 10 dB, przegląd PK za PKP PLK), samo szlifowanie (do 3 dB).
 
 Argument zarządcy „wdrożenie wyśrubowanych parametrów akustycznych w kanionach historycznych jest technicznie/budżetowo niemożliwe" obalany jest przez wskazanie zrealizowanych projektów. Finansowanie zwykle: **POIiŚ** (Programy Operacyjne Infrastruktura i Środowisko) + **NFOŚiGW**, nie skromny budżet samorządowy.
 

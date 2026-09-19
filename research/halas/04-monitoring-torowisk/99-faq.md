@@ -18,7 +18,7 @@ Pierwszy layer retrieval — zajrzyj tu, zanim zaczniesz czytać chunki tematycz
 
 **Q:** W którym momencie procedury zamówienia na modernizację torowiska tracę realny wpływ na kształt inwestycji?
 
-**A:** Cezurą bezpowrotną jest **upływ terminu pytań wykonawców do SWZ**. Po podpisaniu umowy z wykonawcą Opis Przedmiotu Zamówienia jest zamknięty — zamawiający (Miasto/PIM/MPK) nie ma legalnych narzędzi, by nakazać zmianę na rozwiązanie podwyższające koszty, bez naruszania **art. 454 i 455 PZP** (istotne modyfikacje umowy). Jedyny wyjątek — wyjątkowe, nieprzewidywalne okoliczności (te same przesłanki co art. 214 ust. 1 pkt 5 PZP), ale w praktyce niestosowane dla modernizacji planowej. Dalsza egzekucja jakości możliwa tylko przez art. 115a POŚ (WIOŚ → decyzja nakazująca) **po** oddaniu torowiska i pomiarze przekroczeń.
+**A:** Cezurą bezpowrotną jest **upływ terminu pytań wykonawców do SWZ**. Po podpisaniu umowy z wykonawcą Opis Przedmiotu Zamówienia jest zamknięty — zamawiający (Miasto/PIM/MPK) nie ma legalnych narzędzi, by nakazać zmianę na rozwiązanie podwyższające koszty, bez naruszania **art. 454 i 455 PZP** (istotne modyfikacje umowy). Jedyny wyjątek — wyjątkowe, nieprzewidywalne okoliczności (te same przesłanki co art. 214 ust. 1 pkt 5 PZP), ale w praktyce niestosowane dla modernizacji planowej. Dalsza egzekucja jakości możliwa **po** oddaniu torowiska i pomiarze przekroczeń przez przegląd ekologiczny (art. 237/241 POŚ) i decyzję art. 362 POŚ do Marszałka Województwa - **nie** przez art. 115a POŚ/WIOŚ (korekta 19.09.2026: art. 115a ust. 2 POŚ wyłącza drogi i linie tramwajowe z tego trybu; zob. `04-wymagania-techniczne.md` §5).
 
 ---
 
@@ -46,11 +46,13 @@ Pierwszy layer retrieval — zajrzyj tu, zanim zaczniesz czytać chunki tematycz
 
 ---
 
-## 5. Czy WIOŚ posiada uprawnienia do wyboru technologii mitygującej w decyzji art. 115a POŚ?
+## 5. Czy organ posiada uprawnienia do wyboru technologii mitygującej w decyzji art. 362 POŚ?
 
-**Q:** Jeżeli WIOŚ wyda decyzję nakazującą — czy narzuci MPK konkretną technologię (np. maty UBM)?
+**Q:** Jeżeli organ wyda decyzję nakazującą — czy narzuci MPK konkretną technologię (np. maty UBM)?
 
-**A:** **Nie.** WIOŚ i organ właściwy (Starosta / Prezydent wykonujący funkcje starosty) dysponują aparatem represyjnym — **kary z art. 362 POŚ** oraz władczymi kompetencjami do wydawania nakazów zachowania określonych **limitów hałasu** (art. 115a). Natomiast **dobór inżynierii pozostaje po stronie operatora** (MPK): czy wymiana tłucznia, USP, częstsze szlifowanie, czy kombinacja. W realiach technicznych jednak zejście poniżej normy nocnej (L_N = 50 dB dla zabudowy mieszkaniowej) w pierzei = wymusza zastosowanie BAT — ekonomia proceduralna zamyka opcje tańsze. Dodatkowo: niewykonanie decyzji w terminie → **art. 367 POŚ** (administracyjne wstrzymanie użytkowania — zawieszenie ruchu tramwajowego na odcinku).
+> **KOREKTA 19.09.2026**: pierwotnie ta odpowiedź mówiła o WIOŚ i art. 115a POŚ. Błędne dla dróg/torowisk (art. 115a ust. 2 POŚ je wyłącza). Właściwy organ to **Marszałek Województwa Wielkopolskiego** (art. 378 ust. 2a pkt 4 POŚ), tryb: przegląd ekologiczny art. 237/241 POŚ → decyzja art. 362 POŚ.
+
+**A:** **Nie.** Marszałek dysponuje aparatem represyjnym — **kary z art. 362 POŚ** oraz kompetencjami do nakładania obowiązku ograniczenia oddziaływania w terminie. Natomiast **dobór inżynierii pozostaje po stronie operatora** (MPK): czy wymiana tłucznia, USP, częstsze szlifowanie, czy kombinacja. W realiach technicznych jednak zejście poniżej normy nocnej w pierzei zwykle wymusza zastosowanie BAT. Dodatkowo: niewykonanie decyzji w terminie → dalsze kary cykliczne (art. 298 nn. POŚ); wstrzymanie użytkowania (art. 367-368 POŚ) jest w praktyce trudne do zastosowania wobec czynnej linii tramwajowej - traktować jako środek teoretyczny.
 
 ---
 
@@ -58,7 +60,7 @@ Pierwszy layer retrieval — zajrzyj tu, zanim zaczniesz czytać chunki tematycz
 
 **Q:** Urzędnicy zbywają mieszkańców argumentem „ulica jest w WPF, remont kapitalny za 5 lat, nic więcej nie zrobimy". Czy muszę to akceptować?
 
-**A:** **Nie.** To fałszywe przeciwstawienie. WPF dotyczy **inwestycji strukturalnych** (przebudowa, nowe trasy) — finansowanych z budżetu majątkowego Miasta. **Utrzymanie** (szlifowanie, wymiana wkładek, podbijanie) = **budżet operacyjny MPK** — niezależny strumień. Stosuj: żądanie wdrożenia **procedur odtworzeniowych z budżetu bieżącego** z powołaniem na: (a) obowiązki z **art. 113–115a POŚ** (standardy hałasu), (b) sentencję decyzji DUŚ (jeśli była), (c) nadrzędny obowiązek ochrony zdrowia lokatorów (art. 68 Konstytucji). „Zamrażanie WPF" na 5 lat nie zwalnia z obowiązku utrzymania w stanie zgodnym z normami. Argumentarium: `research/halas/wyniki-03-zdrowie-publiczne.md`.
+**A:** **Nie.** To fałszywe przeciwstawienie. WPF dotyczy **inwestycji strukturalnych** (przebudowa, nowe trasy) — finansowanych z budżetu majątkowego Miasta. **Utrzymanie** (szlifowanie, wymiana wkładek, podbijanie) = **budżet operacyjny MPK** — niezależny strumień. Stosuj: żądanie wdrożenia **procedur odtworzeniowych z budżetu bieżącego** z powołaniem na: (a) obowiązki z **art. 113-114 POŚ** (standardy hałasu) i art. 117a (obowiązki pomiarowe zarządcy), (b) sentencję decyzji DUŚ (jeśli była), (c) nadrzędny obowiązek ochrony zdrowia lokatorów (art. 68 Konstytucji). „Zamrażanie WPF" na 5 lat nie zwalnia z obowiązku utrzymania w stanie zgodnym z normami. Argumentarium: `research/halas/wyniki-03-zdrowie-publiczne.md`.
 
 ---
 
@@ -66,7 +68,7 @@ Pierwszy layer retrieval — zajrzyj tu, zanim zaczniesz czytać chunki tematycz
 
 **Q:** Po remoncie torowiska zauważyliśmy wzrost wibracji w mieszkaniach, mimo nowych szyn. Jak to możliwe?
 
-**A:** W mechanice **układu wielomasowego** wprowadzenie sztywnego komponentu (nowa szyna + betonowy podkład) przykręconego do **starej, stwardniałej podsypki kamiennej** = skrajny błąd inżynierski. Oszczędność polegająca na rezygnacji z demontażu zdegradowanej warstwy sprężystej nośnej (wymiana tylko powłoki wierzchniej) niweczy pochłanianie energii przez masyw podbudowy. Efekt: fale uderzeniowe propagują się swobodniej przez grunt, wywołując **rezonans akustyczny posadzek** w mieszkaniach. Zjawisko dotyczy pasma 20–80 Hz (hałas strukturalny). Rozwiązanie BAT — pełna przebudowa z **UBM + USP + wkładkami przyszynowymi** (zob. [`04-wymagania-techniczne.md`](04-wymagania-techniczne.md) §3). Analiza **LCC (Life Cycle Costing)** pokazuje, że ucinanie funduszy z kompleksowej przebudowy jest nielogiczne — generuje koszty zdrowotne, cywilne (roszczenia art. 144 KC, art. 435 KC) i proceduralne (art. 115a POŚ, art. 362 POŚ) przewyższające oszczędność.
+**A:** W mechanice **układu wielomasowego** wprowadzenie sztywnego komponentu (nowa szyna + betonowy podkład) przykręconego do **starej, stwardniałej podsypki kamiennej** = skrajny błąd inżynierski. Oszczędność polegająca na rezygnacji z demontażu zdegradowanej warstwy sprężystej nośnej (wymiana tylko powłoki wierzchniej) niweczy pochłanianie energii przez masyw podbudowy. Efekt: fale uderzeniowe propagują się swobodniej przez grunt, wywołując **rezonans akustyczny posadzek** w mieszkaniach. Zjawisko dotyczy pasma 20–80 Hz (hałas strukturalny). Rozwiązanie BAT — pełna przebudowa z **UBM + USP + wkładkami przyszynowymi** (zob. [`04-wymagania-techniczne.md`](04-wymagania-techniczne.md) §3). Analiza **LCC (Life Cycle Costing)** pokazuje, że ucinanie funduszy z kompleksowej przebudowy jest nielogiczne — generuje koszty zdrowotne, cywilne (roszczenia art. 144 KC, art. 435 KC) i proceduralne (art. 237/241 POŚ, art. 362 POŚ) przewyższające oszczędność.
 
 ---
 
