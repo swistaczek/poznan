@@ -5,7 +5,7 @@ tier: 1
 frakcja: PiS
 okreg: 2
 ocena: odmienne priorytety w transporcie / wspólny grunt zdrowie publiczne UDIP efektywnosc
-updated: 2026-08-22
+updated: 2026-09-23
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../13-radni-dialog/02-portret-rozmiarek.md
 ---
@@ -138,6 +138,6 @@ Młodsze pokolenie decydentów RM. Stopień naukowy: dr hab. `[do wer.: zakres h
 
 ### Interpelacje BIP
 
-- **2026-09-10 — RM-VI.0003.310.2026.** Wspólnie z Sarą Szynkowską vel Sęk i Klaudią Strzelecką pyta o podstawę użycia logo Poznania na alkoholu podczas Betlejem Poznańskiego, licencję, zgodność z polityką alkoholową i zasady na przyszłość. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-wykorzystywania-logotypu-miasta-poznania-na-butelkach-z-alkoholem-sprzedawanych-podczas-betlejem-poznanskiego-20,NT00081EB2/) · [raport](../../monitoring-poznan/2026/09/2026-09-14.md) <!-- bip-interpelacja:NT00081EB2 -->
+- **2026-09-10 — RM-VI.0003.310.2026.** Odpowiedź z 21.09: Gabinet Prezydenta nie wydawał w latach 2024–2026 zgód na logo miasta na alkoholu; organizatora wezwano do zaprzestania używania etykiety na alkoholu i zapowiedziano regularne przeglądy marki. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-wykorzystywania-logotypu-miasta-poznania-na-butelkach-z-alkoholem-sprzedawanych-podczas-betlejem-poznanskiego-20,NT00081EB2/) · [raport](../../monitoring-poznan/2026/09/2026-09-23.md) <!-- bip-interpelacja:NT00081EB2 -->
 - **2026-07-27 — RM-VI.0003.257.2026.** Pytania o analizy, finansowanie i uzgodnienia przejścia pieszo-rowerowego Poleska–św. Wawrzyńca pod liniami 351/354. PKP PLK włączyła projekt przejścia 29 maja do umowy z BBF na dokumentację PWK; projekt uzgodni z Miastem. ZDM nie ma środków realizacyjnych, koszt i kształt są nierozstrzygnięte. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-mozliwosci-realizacji-dodatkowego-przejscia-pieszo-rowerowego-pod-linia-kolejowa-w-rejonie-ul-sw-wawrzynca,NT00080DBE/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080DBE -->
 - **2026-07-07 — RM-VI.0003.239.2026.** Pytanie o ochronę niszczejących dawnych akademików przy Dożynkowej. Konserwator wpisał zespół do rejestru 13 lutego 2026 r., lecz trwa odwołanie do ministra i robót nie można prowadzić; MPZP z 17 marca dodatkowo chroni budynki i układ. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-dalszych-dzialan-dotyczacych-ochrony-zespolu-akademikow-na-starych-winogradach,NT00080A6E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080A6E -->
