@@ -2,7 +2,7 @@
 title: Kampania Dąbrowskiego
 type: index
 domain: dabrowskiego
-updated: 2026-04-17
+updated: 2026-09-23
 ---
 
 # Kampania ul. Dąbrowskiego (Jeżyce, Poznań)
@@ -16,6 +16,7 @@ Kampania w fazie formowania — baza prawna i techniczna gotowa ([research](../r
 ## Obszary
 
 - [**Hałas tramwajowy**](halas/) — pomiary, skargi do WIOŚ, wezwania do MPK, droga cywilna.
+- [**Chodniki**](chodniki/) - jakość odtworzeń nawierzchni po robotach w pasie drogowym, odbiory i kary ZDM (sprawa: chodnik przy nr 115).
 
 Dalsze obszary (uspokojenie ruchu, rowery, przestrzeń publiczna) — według potrzeb.
 
