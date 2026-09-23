@@ -3,7 +3,7 @@ title: "Dąbrowskiego / Hałas tramwajowy"
 type: index
 domain: dabrowskiego
 area: halas
-updated: 2026-04-17
+updated: 2026-09-23
 ---
 
 # Hałas tramwajowy — ul. Dąbrowskiego
@@ -16,6 +16,7 @@ updated: 2026-04-17
 - **Zabudowa**: kanion uliczny, kamienice XIX/XX w., fronty ~6–8 m od osi torowiska.
 - **Zarządca infrastruktury**: MPK Poznań sp. z o.o. (100% Miasto).
 - **Zarządca drogi**: ZDM Poznań.
+- **Stan na 23.09.2026**: ZTM (W-ZTM-13911-2026, 22.09) przyznaje, że drgania od taboru przenoszą się na budynki; sierpniowe roboty 2026 = wymiana zużytych odcinków szyn, konstrukcja bez zmian; trwałe rozwiązanie = kompleksowa przebudowa pełnego przekroju, 2029-2030 warunkowo (środki z budżetu Miasta). Otwarty wniosek UDIP do ZTM, termin ok. 07.10.2026.
 
 ## Podstawa prawna
 
@@ -32,6 +33,8 @@ Pisma wysłane i odpowiedzi urzędów: zob. [`pisma/REJESTR.md`](pisma/REJESTR.m
 Aktualne sprawy (pliki pism pozostają lokalnie z uwagi na dane osobowe — zob. `.gitignore`):
 
 - **2026-04-24** — prośba do ZDM (Krzyżaniak) o dodatkowe pomiary BAASA: (1) 4 m przy Dąbrowskiego 81/85, (2) wskaźniki LAmax/SEL/widmo, (3) kilka odczytów piątkowo-wieczornych, (4) opcjonalny pomiar wysokościowy (13. kondygnacja, zabudowa pierzejowa). DW: Rada Osiedla Jeżyce, BAASA Acoustics.
+- **2026-09-22** - odpowiedź ZTM W-ZTM-13911-2026 (ZTM.IE.4342.03.2026) na wniosek z 09.09.2026: przyznanie drgań, przebudowa 2029-2030 warunkowo, oparcie na SMH 2022 z pominięciem BAASA 2026. Notatka: [`odpowiedzi/2026-09-22_ztm-w-ztm-13911-2026.md`](odpowiedzi/2026-09-22_ztm-w-ztm-13911-2026.md).
+- **2026-09-23** - odpowiedź do ZTM (BCC Rada Osiedla Jeżyce): polemika SMH 2022 vs BAASA 2026, kwalifikacja terenu, wniosek o stałe ograniczenie prędkości do czasu przebudowy i potwierdzenie szlifowania 2026, wniosek UDIP 6 pkt (termin ok. 07.10.2026). Tego dnia pismo ZTM przekazane Radzie Osiedla Jeżyce.
 
 ## Szablony do użycia
 

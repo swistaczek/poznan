@@ -2,7 +2,7 @@
 title: "Bariera kolejowa linii 351 (E59) w Jeżycach — wymogi techniczne i prawne przejścia pieszo-rowerowego"
 type: analiza
 domain: planowanie-przestrzenne
-updated: 2026-05-29
+updated: 2026-09-23
 ---
 
 # Linia 351 (korytarz E59) — bariera komunikacyjna i wymogi przejścia pieszo-rowerowego
@@ -48,7 +48,30 @@ Bezkolizyjność (kładka/tunel) + grunt PKP + procedura zarządcy = trzy barier
 - grunt nie-miejski = typowa przyczyna odrzucenia weryfikacyjnego;
 - konieczna formalna zgoda/porozumienie z PKP PLK i miastem.
 
+## Stan uzgodnień z UMP, wrzesień 2026
+
+Korespondencja mieszkańca (wnioskodawcy inicjatywy) z UMP, Biuro Koordynacji Projektów i Rewitalizacji Miasta (BKPiRM), pl. Kolegiacki 17, `kp@um.poznan.pl`. Jeden znak sprawy dla całego wątku: **KPRM-XIII.7226.5.16.2026**. Podpis: Dyrektor Grzegorz Kamiński; prowadzi: Karolina Kozak. Dane wnioskodawcy wyłącznie w lokalnych `pisma/YYYY-MM-DD_*/`.
+
+| data | nr rej. | odpowiedź na | treść |
+|---|---|---|---|
+| 27.08.2026 | 27082603575 | pisma z 27.07 i 10.08.2026 (Prezydent + zastępcy Gołek, Derech, Weremczuk) | ZDM: wniosek „jest zasadny"; podstawa MPZP A1 (XCVI/1851/VIII/2024), teren kk: „bezkolizyjnego przejścia pieszego pod terenem nasypu kolejowego"; za pismem PKP PLK z 03.06.2026 nr IRRK5/13/2.2233.2.21.2025.IRE-03590-I.12 zaprojektowanie przejścia na przedłużeniu ul. Poleskiej (linie 351 i 354) „włączone zostało w dniu 29.05.2026 r." do umowy PKP PLK z BBF Sp. z o.o. (PWK); „PKP PLK w swoim zakresie wykona projekt dokumentacji, którą uzgodni z Miastem"; wiadukt Kościelna w tej samej dokumentacji, szczegóły „nie rozstrzygnięte", brak kosztów; realizacja „w dużej mierze zależna jest od środków finansowych" |
+| 28.08.2026 | 28082600810 | pytanie z 27.08.2026 (termin i jednostka uzgodnienia) | Miasto „w sposób ciągły od czerwca 2025 roku uzgadnia propozycje rozwiązań koncepcyjnych" PWK; uzgodnienia m.in. MKZ, ZDM, ZTM, MPU; korespondencję PKP PLK z Miastem koordynuje BKPiRM; „po stornie PKP PLK leży uzgodnienie projektów z mieszkańcami" [sic]. Brak terminu |
+| 22.09.2026 | 22092602884 | pytania z 04.09.2026 (kwartał/rok przekazania rozwiązań Poleskiej; układ wiaduktu Kościelna) | pkt 1: „terminy przekazania projektów budowlanych zawierających szczegóły rozwiązań nie są Miastu znane"; zapytania kierować do PKP PLK S.A., al. Niepodległości 8, Poznań. pkt 2: „rozwiązania projektowe nie zostały uzgodnione jednak niezależnie od ostatecznych wyników uzgodnień i docelowego kształtu tego rozwiązania, zgodnie z przepisami uwzględni ono odseparowanie ruchu pieszego i rowerowego od jezdni dla pojazdów" |
+
+Wnioski:
+- **Kościelna:** 22.09.2026 pierwsza pisemna deklaracja Miasta, że przebudowany wiadukt będzie miał ruch pieszy i rowerowy odseparowany od jezdni, niezależnie od wyniku uzgodnień. Brak parametrów (szerokość, osobno pieszy/rowerowy czy wspólny ciąg), brak terminu i kosztu.
+- **Poleska:** Miasto nie zna harmonogramu projektów budowlanych; odsyła do PKP PLK jako inwestora. Konsultacje z mieszkańcami po stronie PKP PLK (pisma 28.08 i 22.09).
+- **Finansowanie:** pismo z 22.09.2026 go nie dotyczy. Stan bez zmian od 27.08.2026 (zależne od środków; wg Zarządu PKP PLK z 13.08.2026 partycypacja UMP w kosztach robót ustalana na kolejnych etapach).
+- **MPZP A1 mówi o przejściu „pieszym"**; Miasto w pismach używa „pieszo-rowerowe". Pilnować w dalszej korespondencji.
+
+Otwarte:
+- Pismo PKP PLK z 04.08.2026, znak IRRK5/13/2.2233.205.2026.IRE-03590-I.1 (Kierownik Kontraktu, Zespół kontraktu nr 5/13/2, Region Zachodni, Centrum Realizacji Inwestycji): treść `[do odczytania]`. Odczytać przed kolejnym zapytaniem.
+- Następny krok: zapytanie do PKP PLK S.A. (al. Niepodległości 8, Poznań) o harmonogram projektów dla przejścia Poleska i etap udziału mieszkańców.
+- 23.09.2026 odpowiedź do BKPiRM: **draft, niewysłany** (podziękowanie, utrwalenie deklaracji ws. Kościelnej, zapowiedź zapytania do PKP PLK o harmonogram Poleskiej, prośba o informację po uzgodnieniu koncepcji).
+
 ## Powiązania
 
 - [`mpzp-jezyce-polnoc-analiza.md`](mpzp-jezyce-polnoc-analiza.md) — plan miejski przewiduje tunel w tym rejonie.
 - [`precedensy-pbo-kladki-tory.md`](precedensy-pbo-kladki-tory.md) — koszty i odrzucenia.
+- [`pwk-poznanski-wezel-kolejowy.md`](pwk-poznanski-wezel-kolejowy.md) - kontekst PWK, umowa PKP PLK z BBF.
+- [`../../../jezyce/rowery/pisma/REJESTR.md`](../../../jezyce/rowery/pisma/REJESTR.md) - rejestr pism inicjatywy.

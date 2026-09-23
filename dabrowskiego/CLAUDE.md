@@ -13,7 +13,7 @@ Pisma wysłane, odpowiedzi urzędów, rejestr sprawy, korespondencja z mieszkań
 <obszar>/index.md                    publiczny indeks kampanii
 ```
 
-Obszary: na razie `halas/`.
+Obszary: `halas/`, `chodniki/`.
 
 **Nazwa folderu sprawy**: data wysłania (nie utworzenia!), krótki slug tematu w kebab-case.
 
