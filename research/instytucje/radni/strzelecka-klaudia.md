@@ -5,7 +5,7 @@ tier: 1.5
 frakcja: Zjednoczona Prawica (PiS)
 okreg: 5
 ocena: Wieloletnia audytor instytucjonalna — ekspert ZDM/PIM, sojuszniczka w obszarze hałas=niegospodarność
-updated: 2026-08-22
+updated: 2026-09-23
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
 
@@ -81,5 +81,5 @@ Ur. ok. 1990 r. (34 lata w 2024), jedna z najważniejszych postaci poznańskiej 
 
 ### Interpelacje BIP
 
-- **2026-09-10 — RM-VI.0003.310.2026.** Wspólnie z Sarą Szynkowską vel Sęk i Mateuszem Rozmiarkiem pyta o podstawę użycia logo Poznania na alkoholu podczas Betlejem Poznańskiego, licencję, zgodność z polityką alkoholową i zasady na przyszłość. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-wykorzystywania-logotypu-miasta-poznania-na-butelkach-z-alkoholem-sprzedawanych-podczas-betlejem-poznanskiego-20,NT00081EB2/) · [raport](../../monitoring-poznan/2026/09/2026-09-14.md) <!-- bip-interpelacja:NT00081EB2 -->
+- **2026-09-10 — RM-VI.0003.310.2026.** Odpowiedź z 21.09: Gabinet Prezydenta nie wydawał w latach 2024–2026 zgód na logo miasta na alkoholu; organizatora wezwano do zaprzestania używania etykiety na alkoholu i zapowiedziano regularne przeglądy marki. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-wykorzystywania-logotypu-miasta-poznania-na-butelkach-z-alkoholem-sprzedawanych-podczas-betlejem-poznanskiego-20,NT00081EB2/) · [raport](../../monitoring-poznan/2026/09/2026-09-23.md) <!-- bip-interpelacja:NT00081EB2 -->
 - **2026-06-25 — RM-VI.0003.229.2026.** Żądanie chronologii i pełnego rozliczenia przebudowy Hali Arena, działań MTP, finansowania oraz harmonogramu. MTP wydało 12 008 876,64 zł własnych środków. Miasto wybrało wykonawcę PFU 30 czerwca (210 dni), dalszy przetarg zależy od dofinansowania; planowana widownia 3,5–4,5 tys. miejsc. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-przebudowy-hali-arena-oraz-rozliczenia-dotychczasowych-dzialan-miasta-poznania-i-grupy-mtp,NT0008008E/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT0008008E -->
