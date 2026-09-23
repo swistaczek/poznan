@@ -4,7 +4,7 @@ type: karta-radnego
 tier: 1
 frakcja: PiS
 okreg: do weryfikacji
-updated: 2026-09-01
+updated: 2026-09-23
 ---
 
 # Zbigniew Czerwiński (PiS)
@@ -12,6 +12,8 @@ updated: 2026-09-01
 Radny IX kadencji, przewodniczący Komisji Rewizyjnej i klubu PiS. Kluczowy dla kontroli zarządczej, wynagrodzeń w spółkach i jawności prac komisji.
 
 ## Aktualizacje
+
+- **2026-09-23 — kontrola Zoo.** Jako przewodniczący Komisji Rewizyjnej referuje PU 231/2026, dodający kompleksową kontrolę Ogrodu Zoologicznego za lata 2024–2026. Projekt przewiduje rozpoczęcie i zakończenie kontroli w grudniu 2026 r.; zakres szczegółowy, zespół i kryteria nie zostały opublikowane. [BIP](https://bip.poznan.pl/bip/projekty-uchwal/projekt-uchwaly-pu-231-2026-zmieniajacej-uchwale-w-sprawie-zatwierdzenia-planu-kontroli-komisji-rewizyjnej-rady-miasta-poznania,286345.html) · [raport](../../monitoring-poznan/2026/09/2026-09-23.md)
 
 - **2026-09-01 — kontrola WKiŚ.** Pod przewodnictwem Czerwińskiego Komisja Rewizyjna skierowała PU 189/2026 z zaleceniami po kontroli WKiŚ: formalna analiza ryzyka korupcyjnego, uporządkowanie nadzoru nad małą retencją, analiza programów antysmogowych i przyspieszenie procedur pomników przyrody. RMP rozpatrzy projekt 8 września. [BIP](https://bip.poznan.pl/bip/sesje/xxxix,99517/) · [raport](../../monitoring-poznan/2026/09/2026-09-01.md)
 
@@ -24,5 +26,6 @@ Radny IX kadencji, przewodniczący Komisji Rewizyjnej i klubu PiS. Kluczowy dla 
 
 ### Interpelacje BIP
 
+- **2026-09-20 — RM-VI.0003.315.2026.** Twierdzi, że 19.09 urzędnicy miejscy bezprawnie rozwiązali zgromadzenie przed szpitalem ginekologiczno-położniczym; żąda podstawy prawnej, wskazania odpowiedzialnych urzędników, konsekwencji służbowych i gwarancji niepowtórzenia działań. Brak odpowiedzi organu. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-bezprawnego-rozwiazania-zgromadzenia-w-dniu-19-wrzesnia-2026-przed-szpitalem-ginekologiczno-polozniczym-w-poznan,NT00081F92/) · [raport](../../monitoring-poznan/2026/09/2026-09-23.md) <!-- bip-interpelacja:NT00081F92 -->
 - **2026-08-09 — RM-VI.0003.272.2026.** Żądanie działań naprawczych i konsekwencji po kontroli wojewody w MOPR. Miasto podało: nagana dla kierownika, ustne pouczenia zastępcy dyrektora i kierownika organizacyjnego, pisemne polecenia i harmonogramy; dyrektorka spełnia obecnie wymogi, część ustaleń MOPR kwestionuje. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-kontroli-wojewody-wielkopolskiego-w-miejskim-osrodku-pomocy-rodzinie,NT00080FB6/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080FB6 -->
 - **2026-07-01 — RM-VI.0003.232.2026.** Żądanie pełnych kosztów dostosowania i eksploatacji tramwajów NGT6D nr 971 i 977. Dostosowanie kosztowało 254 624,90 i 231 691,91 zł plus 16 600 zł badania; eksploatacja 55 111,12 i 90 912,60 zł, naprawy awaryjne 16 532,61 i 3 345,93 zł. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-braku-pelnej-odpowiedzi-na-interpelacje-185-w-sprawie-tramwajow-ngt6d,NT00080902/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT00080902 -->
