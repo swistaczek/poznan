@@ -2,7 +2,7 @@
 title: "Dostęp do surowych danych pomiarowych BAASA"
 type: research
 domain: halas
-updated: 2026-09-18
+updated: 2026-10-01
 ---
 
 # Czy można żądać surowych danych/nagrań z pomiarów hałasu BAASA
@@ -10,6 +10,8 @@ updated: 2026-09-18
 Pytanie wyjściowe: po otrzymaniu 5 sprawozdań BAASA (16.09.2026, zob. `pomiary-baasa-2026-05-wyniki.md`) czy warto i można skutecznie zażądać od ZDM i/lub BAASA Acoustics surowych danych pomiarowych (plik z miernika SVAN 971/971A, ewentualnie nagranie audio), na podstawie których powstały uśrednione wyniki LAeq, żeby wyodrębnić z nich pojedyncze zdarzenia impulsywne (LAmax/SEL dla trzasków i uderzeń).
 
 **Status researchu: ROZSTRZYGNIĘTY (tura 2, 18.09.2026).** Pierwsza tura (17.09.2026) zamknęła tylko pytanie o retencję wg akredytacji PCA, z wynikiem negatywnym. Druga tura zamknęła pozostałe pięć pytań, a przy okazji domknęła otwarte pytanie nr 1 z pliku [`metodologia-laeq-vs-halas-impulsywny-torowisko.md`](metodologia-laeq-vs-halas-impulsywny-torowisko.md) o polską definicję dźwięku impulsowego i korektę K_I (patrz pkt 15-16). Odpowiedź: TAK, wniosek ma sens, ale nie na podstawie UDIP tylko **ustawy OOŚ**, i nie do BAASA tylko **do ZDM**. Szczegóły i podstawy poniżej.
+
+**Status sprawy (01.10.2026): dane udostępnione CZĘŚCIOWO.** Wniosek wysłany 18.09.2026 (petitum a-i jak w "Wniosek operacyjny" niżej, w skróconej wersji). ZDM odpowiedział pismem ZDM-PK.01520.249.2026.8 z 01.10.2026 (w terminie): przekazał umowy DZ.RO.344.67-69.2026 (zanonimizowane, art. 5 ust. 1-2 UDIP), SWZ DZ.RO.341.23.2026 oraz "zapisy z mierników (kopia plików źródłowych)", czyli xlsx z **samym LAeq w kroku loggera** (1 s drogi, 0,5 s tramwaje), bez kolumn Max/Min/Peak, bez .SVL/.SVT, bez WAV, bez Summary Results. Na pkt a (kolumny Lmax/Lpeak), d (Logger Step, audio) i i (art. 177 POŚ) brak odpowiedzi; reszta danych "przechowywana w siedzibie laboratorium", "ZDM nie posiada danych, które nie stanowiły przedmiotu umów". Brak decyzji (art. 20 ust. 1 OOŚ) i brak przekazania wniosku do BAASA (art. 19 ust. 2 OOŚ). Pytanie z pkt 11/13 (czy logowano Max) pozostaje otwarte: eksport zawiera tylko profil `P1 (A, Lin)`. Surówka i analiza: [`dabrowskiego/halas/dane/`](../../dabrowskiego/halas/dane/baasa-2026-surowe-dane-README.md), [`dabrowskiego/halas/odpowiedzi/2026-10-01_zdm-dane-zrodlowe-baasa.md`](../../dabrowskiego/halas/odpowiedzi/2026-10-01_zdm-dane-zrodlowe-baasa.md). Najważniejsze: sam log LAeq 0,5 s wystarczył do weryfikacji LAE przejazdów (pkt 13, "SEL: tak"): PPH4.16 odtworzone co do 0,0 dB (mediana), PPH4.05 zaniżone w protokole o ok. 10,7 dB.
 
 Wszystkie cytaty przepisów pochodzą z tekstów ujednoliconych pobranych z ELI/API Sejmu (`api.sejm.gov.pl/eli/...`), nie ze źródeł wtórnych.
 
@@ -189,7 +191,7 @@ Kolejność działań: **priorytet nadal ma pytanie już zadane ZDM 17.09.2026**
 
 - Sygnatury z pkt 18-20 pochodzą z lustra CBOSA (orzeczenia-nsa.pl) i z bazy Sieci Obywatelskiej Watchdog; sama CBOSA (orzeczenia.nsa.gov.pl) była w obu turach niedostępna dla narzędzi automatycznych. Przed cytowaniem w piśmie potwierdzić w CBOSA co najmniej: I OSK 517/06, I OSK 2149/12, I OSK 2130/11, IV SAB/Po 31/23, I OSK 473/17, III OSK 3749/21, III OSK 5418/21, III SAB/Gl 80/22, I OSK 8/15, I OSK 1605/17, II SAB/Łd 90/22.
 - Nie odnaleziono orzeczenia dotyczącego wprost udostępnienia surowych danych z miernika hałasu ani danych stanowiących podstawę mapy akustycznej. To luka, nie ustalenie negatywne. Zalecane frazy do przeszukania CBOSA z przeglądarki: "poziom emitowanego hałasu" + "art. 18", "wyniki pomiarów hałasu" + "udostępnienie", ustawa OOŚ art. 9 ust. 3.
-- Który z odcinków (Zadanie 2, 3 czy 4) obejmuje ul. Dąbrowskiego: nie wynika z rejestru umów, trzeba z OPZ.
+- ~~Który z odcinków (Zadanie 2, 3 czy 4) obejmuje ul. Dąbrowskiego~~ ROZSTRZYGNIĘTE 01.10.2026 (SWZ): PPH2.43 = cz. 2 (DZ.RO.344.67.2026), PPH3.05 i PPH3.58 = cz. 3 (.68), PPH4.05 i PPH4.16 = cz. 4 tramwajowa (.69). Umowy nie zawierają klauzul o danych surowych ani audio; OPZ (wcielony §1 ust. 4) wymaga przekazania ZDM "zapisu cyfrowego wyników na CD/DVD" z opisem struktury plików. Zob. [`2026-10-01_zdm-swz-umowy-baasa.md`](../../dabrowskiego/halas/odpowiedzi/2026-10-01_zdm-swz-umowy-baasa.md).
 - Rozbieżność w dokumentacji Svantek: częstotliwość próbkowania audio SV 971A (48 kHz w karcie katalogowej vs 12/24 kHz w instrukcji v.1.03). Bez znaczenia dla wniosku, ale nie cytować konkretnej wartości.
 - **Zaniżenie LAFmax i LAImax przy odczycie z LAeq,1s (pkt 13) to obliczenie własne** (model analityczny plus symulacja numeryczna detektorów), nie wartość z normy ani z literatury. Takiej publikacji nie ma u B&K/HBK, NTi, Cirrus ani Svantek (sprawdzone). Nie przypisywać jej źródła, podawać jako oszacowanie.
 - ISO 1996-1:2016: numer klauzuli lub załącznika, w którym wydanie 2016 podaje 5/12 dB, nie został potwierdzony (iso.org, ANSI, iTeh zwracały 403). Same liczby są pewne, bo pochodzą z Amd 1:1998 i z zał. nr 8 do Dz.U. 2014 poz. 1542.
@@ -197,3 +199,4 @@ Kolejność działań: **priorytet nadal ma pytanie już zadane ZDM 17.09.2026**
 - ISO 1996-2:2017 Annex H i klauzule 9.x w pełnym brzmieniu: preview urywa się na s. 9. Nie potwierdzono, by ta norma narzucała konkretną rozdzielczość czasową ani zapis audio.
 - Typowy czas trwania pojedynczego uderzenia na złączu szyn: brak twardej liczby w źródłach otwartych. Przyjęty rząd wielkości (dziesiątki ms) wsparty oknem 0,125 s stosowanym w literaturze (Wu i Thompson 2003, Torstensson i in. 2019) oraz definicją z ISO 3095:2013 pkt 3.15 ("duration of a single impulsive noise is usually less than 1 s").
 - Nie weryfikowano treści samych sprawozdań BAASA pod kątem obecności kolumn Max i Peak w logu. To wymaga wglądu w załącznik do sprawozdania albo zapytania wprost, i jest pierwszym pytaniem wniosku (ppkt c petitum).
+- **Aktualizacja 01.10.2026:** eksport przekazany przez ZDM zawiera wyłącznie `LAeq (TH)` profilu `P1 (A, Lin)`. Protokoły podają stałą czasową FAST i krok 1 s (drogi) / 500 ms (tramwaje), więc detektor Fast działał, ale czy jego maksimum było logowane, nadal nie wiadomo. Pytanie a/d wniosku z 18.09.2026 bez odpowiedzi.
