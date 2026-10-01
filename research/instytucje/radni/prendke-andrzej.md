@@ -5,7 +5,7 @@ tier: krotka
 frakcja: KO
 okreg: 2
 ocena: potencjal — szybkie symboliczne zwyciestwa gotowiec
-updated: 2026-08-24
+updated: 2026-09-26
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 ---
 
@@ -48,6 +48,9 @@ Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier
 
 ### Interpelacje BIP
 
+- **2026-09-24 — RM-VI.0003.323.2026.** Wniosek o pilne, choćby czasowe wydzielenie torowiska na moście Królowej Jadwigi podczas objazdów po wyłączeniu mostu św. Rocha oraz o wskazanie przeszkód dla zmiany. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-wydzielenia-torowiska-na-moscie-krolowej-jadwigi-2026-09-24,NT00082062/) · [raport](../../monitoring-poznan/2026/09/2026-09-26.md) <!-- bip-interpelacja:NT00082062 -->
+- **2026-09-24 — RM-VI.0003.322.2026.** Pytanie o remont nierównego chodnika po północnej stronie ul. Grunwaldzkiej, od ronda Jana Nowaka-Jeziorańskiego do ul. Ostroroga, używanego przez pacjentów i pracowników Uniwersyteckiego Szpitala Klinicznego. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-chodnika-przy-uniwersyteckim-szpitalu-klinicznym-2026-09-24,NT00082052/) · [raport](../../monitoring-poznan/2026/09/2026-09-26.md) <!-- bip-interpelacja:NT00082052 -->
+- **2026-09-24 — RM-VI.0003.320.2026.** Wniosek o linię ciągłą i ewentualne separatory przy al. Armii Poznań/Za Cytadelą/Pułaskiego oraz informację o planowanej stałej organizacji ruchu i terminie. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-organizacji-ruchu-na-al-armii-poznan-przy-ul-za-cytadela-i-ul-pulaskiego-2026-09-24,NT00082032/) · [raport](../../monitoring-poznan/2026/09/2026-09-26.md) <!-- bip-interpelacja:NT00082032 -->
 - **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
 - **2026-08-17 — RM-VI.0003.287.2026.** Odpowiedź datowana 24.08: zadania Piątkowska–Maczka nie ma w planie; projekt oszacowano na 350 tys. zł, budowę na 2,6 mln zł plus grunty/PIM, a przygotowanie na ok. 3 lata. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-projektu-przedluzenia-trasy-rowerowej-wzdluz-ul-piatkowskiej-do-ul-maczka,NT000819DA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819DA -->
 - **2026-08-17 — RM-VI.0003.283.2026.** Odpowiedź z 2.09: ZTM nie prowadzi ciągłej analizy strat czasu ani nie ma narzędzia z danych CSV; zespół MPK/MIR/ZDM/ZTM ma opracować metodologię, bez terminu i kwoty. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-badania-strat-czasu-komunikacji-miejskiej-na-skrzyzowaniach,NT0008199A/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT0008199A -->
