@@ -30,6 +30,6 @@ Zsanityzowany (bez imion, adresów, e-maili nadawcy; sygnatury neutralne). Pełn
 
 ## Wzory i ścieżki
 
-Wzory: [`../odpowiedz-zdm-ciag-pieszy-uciazliwosci.md`](../odpowiedz-zdm-ciag-pieszy-uciazliwosci.md), [`../zawiadomienie-pinb-niezgodnosc-mpzp.md`](../zawiadomienie-pinb-niezgodnosc-mpzp.md), [`../wniosek-zdm-mpu-radny-ciag-pieszy.md`](../wniosek-zdm-mpu-radny-ciag-pieszy.md) (w gałęzi `feat/jezyce-komunikacja-przejscie-famma`).
+Wzory: `../odpowiedz-zdm-ciag-pieszy-uciazliwosci.md`, `../zawiadomienie-pinb-niezgodnosc-mpzp.md`, `../wniosek-zdm-mpu-radny-ciag-pieszy.md` (w gałęzi `feat/jezyce-komunikacja-przejscie-famma`, jeszcze nie w `main`).
 
 Ścieżki wspierające: UDIP (aneks 5, wniosek inwestora, COR, umowa dzierżawy), ustawa o dostępności (Koordynator ds. dostępności UM), skarga art. 227 KPA na ZDM do Rady Miasta Poznania, służebność drogi koniecznej (art. 145 KC).
