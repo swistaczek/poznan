@@ -7,7 +7,7 @@ updated: 2026-09-18
 
 # Własny czujnik hałasu na LoRa, zasilany solarnie - plan
 
-Cel: niezależny od ZDM/BAASA, ciągły pomiar hałasu na zewnątrz (elewacja/balkon Dąbrowskiego 96), zasilany bateryjnie-solarnie, transmisja danych przez LoRaWAN. Ernest kupił już czujnik przemysłowy RS485 Modbus (rodzina Renke/Renkeer, rebadge YY010), 30-130 dB, ±0,5dB, IP67, pobór 0,4W w wersji RS485.
+Cel: niezależny od ZDM/BAASA, ciągły pomiar hałasu na zewnątrz (elewacja/balkon od strony ul. Dąbrowskiego), zasilany bateryjnie-solarnie, transmisja danych przez LoRaWAN. Czujnik już kupiony: przemysłowy RS485 Modbus (rodzina Renke/Renkeer, rebadge YY010), 30-130 dB, ±0,5dB, IP67, pobór 0,4W w wersji RS485.
 
 Deep research: 3 równoległe subagenty (dev kit + LoRa, gateway/TTN, zasilanie solarne/RS485/obudowa). Poniżej zsyntetyzowany, spójny plan.
 
