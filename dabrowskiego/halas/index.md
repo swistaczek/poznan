@@ -3,7 +3,7 @@ title: "Dąbrowskiego / Hałas tramwajowy"
 type: index
 domain: dabrowskiego
 area: halas
-updated: 2026-09-23
+updated: 2026-10-01
 ---
 
 # Hałas tramwajowy — ul. Dąbrowskiego
@@ -35,6 +35,7 @@ Aktualne sprawy (pliki pism pozostają lokalnie z uwagi na dane osobowe — zob.
 - **2026-04-24** — prośba do ZDM (Krzyżaniak) o dodatkowe pomiary BAASA: (1) 4 m przy Dąbrowskiego 81/85, (2) wskaźniki LAmax/SEL/widmo, (3) kilka odczytów piątkowo-wieczornych, (4) opcjonalny pomiar wysokościowy (13. kondygnacja, zabudowa pierzejowa). DW: Rada Osiedla Jeżyce, BAASA Acoustics.
 - **2026-09-22** - odpowiedź ZTM W-ZTM-13911-2026 (ZTM.IE.4342.03.2026) na wniosek z 09.09.2026: przyznanie drgań, przebudowa 2029-2030 warunkowo, oparcie na SMH 2022 z pominięciem BAASA 2026. Notatka: [`odpowiedzi/2026-09-22_ztm-w-ztm-13911-2026.md`](odpowiedzi/2026-09-22_ztm-w-ztm-13911-2026.md).
 - **2026-09-23** - odpowiedź do ZTM (BCC Rada Osiedla Jeżyce): polemika SMH 2022 vs BAASA 2026, kwalifikacja terenu, wniosek o stałe ograniczenie prędkości do czasu przebudowy i potwierdzenie szlifowania 2026, wniosek UDIP 6 pkt (termin ok. 07.10.2026). Tego dnia pismo ZTM przekazane Radzie Osiedla Jeżyce.
+- **2026-10-01** - odpowiedź ZDM ZDM-PK.01520.249.2026.8 na wniosek OOŚ/UDIP z 18.09.2026: surowe zapisy LAeq z mierników BAASA (bez Lmax, .SVL, audio), SWZ, umowy DZ.RO.344.67-69.2026. Surówka potwierdza PPH4.16 (+3,9 dB dzień) i PPH3.05 (noc +3,9..+4,6 dB); PPH4.05 zaniżone o ok. 10 dB i położone ok. 840 m od opisanego adresu; noc tramwajowa nie mierzona, ruch tramwajów z danych ZTM wbrew SWZ. Notatki: [`odpowiedzi/2026-10-01_zdm-dane-zrodlowe-baasa.md`](odpowiedzi/2026-10-01_zdm-dane-zrodlowe-baasa.md), [`odpowiedzi/2026-10-01_zdm-swz-umowy-baasa.md`](odpowiedzi/2026-10-01_zdm-swz-umowy-baasa.md); dane i wykresy: [`dane/`](dane/baasa-2026-surowe-dane-README.md).
 
 ## Szablony do użycia
 
