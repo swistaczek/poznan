@@ -53,13 +53,6 @@ Ograniczenie: wszystkie precedensy to spory sąsiedzkie. Firma przy wejściu do 
 4. Pismo do administratora: informacja z art. 13 i tablica wg EROD pkt 111-114, wskazanie podstawy z art. 6, sprzeciw z art. 21, ograniczenie pola widzenia do granic nieruchomości lub maskowanie (C-708/18 pkt 51, EROD pkt 27, DS.523.6546.2024).
 5. Brak reakcji albo nieustalony operator: skarga do Prezesa UODO (art. 77), z opisem prób ustalenia administratora.
 
-## Przypadek: ul. Dąbrowskiego 79a (29.09.2026)
-
-- Maszt tymczasowy (ok. 6-8 m) za ogrodzeniem budowy Archicom "Wieża Jeżyce", za biurowcem Omega. Dwie kamery tubowe z oświetlaczem LED + jedno urządzenie nierozpoznane (czujka lub trzecia kamera). Obiektywy skierowane m.in. na bramę wjazdową i drogę przed ogrodzeniem, czyli poza plac budowy.
-- Brak tablicy, piktogramu i klauzuli RODO w kadrze. Na warstwie GEOPOZ brak kamery miejskiej w tym punkcie (najbliższe ok. 90 m, przy jezdni Dąbrowskiego).
-- Najbardziej prawdopodobny administrator: inwestor, generalny wykonawca lub firma ochrony budowy [do ustalenia z tablicy informacyjnej budowy]. Właściciel działki (ark. 09, obręb Jeżyce) do ustalenia w EKW.
-- Następny krok: tablica budowy, potem pismo do inwestora z żądaniem jak w pkt 4, dopiero potem UODO.
-
 ## Otwarte
 
 - Kompetencje SM i Policji wobec prywatnych kamer bez tablicy.
