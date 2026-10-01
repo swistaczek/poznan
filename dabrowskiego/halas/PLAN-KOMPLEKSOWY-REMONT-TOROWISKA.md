@@ -61,7 +61,7 @@ Wzorcem technicznym (brak odrębnych standardów MPK Poznań) są WTT Tramwajów
 - Samo szlifowanie: do **3 dB**.
 - Warszawa Obozowa, pomiar przed/po w budynkach: **-2,0 do -2,6 dB** (2017 vs 2018).
 
-**Benchmark z samego Poznania**: łuk przy Okrąglaku - MPK samo zastosowało matę wibroizolacyjną "żeby spełnić zgodnie z normą wymagania komfortu dla ludzi w budynku" (04.02.2025). Most Teatralny 2014 (400 m od domu Ernesta, ten sam ciąg) - smarownice, maty, profile gumowe przyszynowe, 543 poprzeczki w otulinie gumowej, koszt 4,45 mln zł, **skuteczność do 5 dB**.
+**Benchmark z samego Poznania**: łuk przy Okrąglaku - MPK samo zastosowało matę wibroizolacyjną "żeby spełnić zgodnie z normą wymagania komfortu dla ludzi w budynku" (04.02.2025). Most Teatralny 2014 (ten sam ciąg, ok. 400 m od odcinka) - smarownice, maty, profile gumowe przyszynowe, 543 poprzeczki w otulinie gumowej, koszt 4,45 mln zł, **skuteczność do 5 dB**.
 
 ## 5. Koszt i czas - realistyczne widełki
 
