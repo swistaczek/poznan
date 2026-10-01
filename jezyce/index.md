@@ -15,6 +15,7 @@ Przejście jest **przewidziane w MPZP „Jeżyce-Północ"** (uchwały 2024), a 
 
 ## Obszary
 
+- [**Komunikacja piesza**](komunikacja/index.md) - odcięte przejście Dąbrowskiego 87 / Kościelna-Barańczaka (Famma); ZDM-DOR.081.33.2026.14 z 09.09.2026 (aneks 5: Janickiego/Dąbrowskiego do 30.12.2026).
 - [**Rowery / mobilność**](rowery/index.md) — projekt PBO, pre-audyt własności i uzgodnień, rejestr pism.
 
 ## Materiały referencyjne
