@@ -19,6 +19,7 @@ Oznaczenia: wszystkie sygnatury bez dopisku przeczytane w pełnym tekście; **[c
 3. **Odmowa i umorzenie tylko decyzją** (art. 16 ust. 1 udip). Pismo "prawa ma deweloper" albo "proszę zwrócić się do projektanta" to bezczynność, skarga do WSA bez ponaglenia. Warunek: sąd uzna projekt za informację publiczną.
 4. **Realne ryzyka dotyczą formy, nie odmowy:** wgląd w siedzibie zamiast kopii (art. 14 ust. 2, SPORNE), "treść zamiast kopii" przy dokumencie nieurzędowym (SPORNE), tajemnica przedsiębiorcy (decyzja i wykazanie przesłanek).
 5. **Najpewniejsza droga do pełnej kopii:** projekt zatwierdzony pozwoleniem na budowę, w aktach organu architektoniczno-budowlanego (dokument urzędowy: III OSK 2195/22, I OSK 1856/15). Równolegle pisma własne zarządcy i zatwierdzona organizacja ruchu (prawo autorskie dewelopera ich nie dotyczy) oraz pytania o parametry (fakty, nie utwór).
+6. **Wniosek udip składa osoba fizyczna, a nie rada lub zarząd osiedla** (organ nie jest "każdym" z art. 2 ust. 1: NSA III OSK 2112/24); radny osiedlowy wnioskuje we własnym imieniu. Szczegóły: [strategia, sekcja 2](prawa-autorskie-a-dostep-do-projektu-drogowego-strategia.md).
 
 ## 1. Stan prawny
 

@@ -3,12 +3,12 @@ title: "Projekt drogowy z umowy art. 16 udp: umowy, sprawa Dąbrowskiego, wzór 
 type: how-to
 domain: transparentnosc
 updated: 2026-10-03
-acts: [udp-art-16, udip-art-10-14-16, ppsa-art-53-54, rozp-zarzadzanie-ruchem]
+acts: [udp-art-16, udip-art-2-10-14-16, ppsa-art-53-54, rozp-zarzadzanie-ruchem, usg-art-24-37a]
 ---
 
 # Projekt drogowy z umowy art. 16 udp: umowy, zastosowanie, strategia
 
-Część 2 analizy [prawa autorskie dewelopera a dostęp do projektu drogowego](prawa-autorskie-a-dostep-do-projektu-drogowego.md) (stan prawny, linie orzecznicze, ryzyka). Indeks orzeczeń: [`prawa-autorskie-a-dostep-do-projektu-drogowego-orzecznictwo.md`](prawa-autorskie-a-dostep-do-projektu-drogowego-orzecznictwo.md). Stan na 02.10.2026.
+Część 2 analizy [prawa autorskie dewelopera a dostęp do projektu drogowego](prawa-autorskie-a-dostep-do-projektu-drogowego.md) (stan prawny, linie orzecznicze, ryzyka). Indeks orzeczeń: [`prawa-autorskie-a-dostep-do-projektu-drogowego-orzecznictwo.md`](prawa-autorskie-a-dostep-do-projektu-drogowego-orzecznictwo.md). Stan na 02.10.2026; wnioskodawca udip (sekcja 2) na 03.10.2026.
 
 ## 1. Umowy z art. 16 udp i klauzule autorskie
 
@@ -28,7 +28,11 @@ Część 2 analizy [prawa autorskie dewelopera a dostęp do projektu drogowego](
 - **Posiadanie (POTWIERDZONE):** projekt budowlano-architektoniczny złożony do ZDM 02.04.2024, ZDM "kilkukrotnie zgłaszał uwagi" (aneks 3, preambuła pkt 4); ZDM zobowiązał się do "Uzgodnienia przedstawionych projektów budowlanych, a następnie wykonawczych" (§ 4 ust. 6); dwa egzemplarze projektu w 7 dni od decyzji (§ 2 ust. 1 lit. j); projekt techniczny uzgadniany z ZDM po decyzji (§ 2 ust. 1 lit. a).
 - **Droga dla rowerów jest w zakresie:** aneks 1 z 16.02.2024 dodał do zakresu 1 "budowy drogi rowerowej"; aneks 3: w toku uzgodnień "koniecznym było uwzględnienie w projekcie budowy drogi rowerowej w ul. Dąbrowskiego, połączenie DDR z przejazdem przez ul. Dąbrowskiego i Żeromskiego". Spór dotyczy kierunkowości, szerokości, ciągłości i zgodności ze Standardami z zarządzenia 481/2019/P, nie istnienia DDR.
 - **Niespójność praktyki ZDM:** 04.09.2026 udostępnił w trybie udip dwa rysunki koncepcji tej samej pracowni z nadrukiem "Wszelkie prawa zastrzeżone!", bez zastrzeżeń autorskich i bez decyzji.
-- **Odmowa wobec Rady Osiedla Jeżyce** z powołaniem na prawa autorskie: znana tylko z publicznej wypowiedzi przedstawiciela RO, pisma ZDM nie znaleziono. NIEPOTWIERDZONA.
+- **Ani Rada, ani Zarząd Osiedla nie jest wnioskodawcą udip.** Organ, który sam jest podmiotem obowiązanym, nie jest "każdym" z art. 2 ust. 1 udip: "'każdy' oznacza każdego człowieka lub podmiot prawa prywatnego, z wyłączeniem organów władzy publicznej" (NSA III OSK 2112/24 z 14.11.2024, za WSA Warszawa II SAB/Wa 197/09). To samo dla jednostek budżetowych gminy w jej strukturze: udip "nie służy organom do uzyskiwania określonych informacji od innych organów czy sprawowania kontroli wewnątrzadministracyjnej" (NSA III OSK 2629/22 z 16.01.2024). NSA odnotował rozbieżności w orzecznictwie; linia szersza dotyczy podmiotów publicznych działających jako osoba prawna (WSA Gorzów II SAB/Go 133/23: szpital sp. z o.o., wyłączenie dotyczy "organów, a nie 'podmiotów prawa publicznego'"). Dla organu jednostki pomocniczej, bez osobowości prawnej i w strukturze tego samego Miasta co ZDM, przeciwnej linii nie znaleziono.
+  - Droga Rady poza udip: § 5 ust. 1 pkt 11 statutu Osiedla Jeżyce (uchwała RMP LXXXVII/1633/VIII/2023), wystąpienie do miejskiej jednostki "o udzielenie informacji niezbędnych do realizacji zadań Osiedla"; odpowiedź w 30 dni (zarządzenie 25/2024/K, § 2 pkt 7, § 3 ust. 4); bez decyzji i bez skargi do WSA.
+  - Radny osiedlowy może złożyć wniosek udip jako osoba fizyczna, a kanał rady nie zwalnia organu z obowiązku wobec niego: przekazanie harmonogramu projektu radzie dzielnicy "nie może zwolnić organu z obowiązku udzielenia żądanej odpowiedzi" (WSA Gdańsk III SAB/Gd 118/25, zadanie BO "pasy ruchu dla rowerów", bezczynność); członkini rady osiedla jako wnioskodawca, bezczynność (WSA Kraków II SAB/Kr 180/12).
+  - Przewodniczący Zarządu Osiedla Jeżyce nie jest radnym Rady Miasta (BIP, kadencja 2024-2029), więc nie korzysta z art. 24 ust. 2 usg; art. 37a usg daje mu udział w pracach rady gminy bez prawa głosu.
+  - Jego wypowiedź (FB, 02.10.2026): "Rady w ogóle nie mogą wnioskować w trybie ddip [tj. udip]. To są indywidualne wnioski." Kto złożył wniosek indywidualny, kiedy i czy ZDM odpowiedział decyzją, czy pismem: nie ustalono. Odmowa z powołaniem na prawa autorskie NIEPOTWIERDZONA: pisma ZDM nie znaleziono, w uchwałach i protokołach RO Jeżyce w BIP (06.2024-09.2026) brak śladu wniosku i odmowy.
 - **Terminy:** wniosek udip mieszkańca do ZDM z 28.09.2026 (PZT/PB w części DDR, SOR), 14 dni mija 12.10.2026. Wg procedowanego aneksu 5 zakres 1 do 30.12.2026; po przeniesieniu praw spór o dostęp straci znaczenie dla wpływu na projekt.
 - **Dane do wzoru (sekcja 3):** pisma ZDM IPO.412.42.1.2021 z 29.09.2021, IU.4110.14.2022 (PJ.4110.14.5.2021) z 10.11.2022, IU.4110.14.2021.85 z 22.11.2023, IU.4110.14.2021.95 z 18.12.2023 oraz uwagi do PBA z 2024 r.; PnB 544/2026; § 2 ust. 1 lit. j; § 2 ust. 18 lit. c podpunkt d tiret trzecie; przejazd przez Dąbrowskiego i Żeromskiego; standard 481/2019/P. Kontekst sprawy: [`dabrowskiego/chodniki/`](../../dabrowskiego/chodniki/index.md).
 
