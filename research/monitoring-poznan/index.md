@@ -4,6 +4,8 @@ Raporty zmian istotnych dla obywatelskiej kontroli miasta, filtrowane przez akty
 
 ## Raporty
 
+- [2026-10-03](2026/10/2026-10-03.md)
+- [2026-10-02](2026/10/2026-10-02.md)
 - [2026-10-01](2026/10/2026-10-01.md)
 - [2026-09-30](2026/09/2026-09-30.md)
 - [2026-09-29](2026/09/2026-09-29.md)
