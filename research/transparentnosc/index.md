@@ -9,6 +9,12 @@ UDIP w Poznaniu: mapa BIP, kluczowe rejestry, zakres podmiotowy (spółki komuna
 | UDIP — Poznań | mapa BIP, rejestry, procedura, odmowy | [`06-udip/`](./06-udip/) |
 | **Kontrola dotacji NGO** | narzędzia obywatelskiej kontroli dotacji dla organizacji pozarządowych: udppw (konkurs, komisja, kontrola art. 17, sprawozdanie), ufp (zwrot art. 251/252), dyscyplina finansów publicznych, **orzecznictwo NSA: co jest informacją publiczną** (umowa TAK, oferta NIE), RIO/NIK/rada miasta, nadzór ministra nad fundacją, kwalifikacje karne; **sekwencja 9 kroków z terminami** | [**`kontrola-dotacji-ngo/`**](./kontrola-dotacji-ngo/) |
 
+## Analizy tematyczne
+
+| Temat | Zakres | Wejście |
+|---|---|---|
+| Prawa autorskie dewelopera a dostęp do projektu drogowego | umowy z art. 16 udp, art. 5 i 14 udip, linie NSA, wgląd zamiast kopii, tajemnica przedsiębiorcy, wzór petitum | [`prawa-autorskie-a-dostep-do-projektu-drogowego.md`](./prawa-autorskie-a-dostep-do-projektu-drogowego.md), [strategia](./prawa-autorskie-a-dostep-do-projektu-drogowego-strategia.md), [orzecznictwo](./prawa-autorskie-a-dostep-do-projektu-drogowego-orzecznictwo.md) |
+
 ## Dokumenty zbiorcze
 
 - [`wyniki-06-udip-poznan.md`](./wyniki-06-udip-poznan.md)

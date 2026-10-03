@@ -2,7 +2,7 @@
 title: "Chodniki przy ul. Dąbrowskiego - jakość odtworzeń po robotach w pasie drogowym"
 type: index
 domain: dabrowskiego
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Chodniki przy Dąbrowskiego: odtworzenia nawierzchni po zajęciu pasa drogowego
@@ -62,7 +62,7 @@ Wnioski z 22.09:
 - Kary za przekroczenie terminu (pkt 2) marginalne: 4-8 decyzji rocznie; spadek ogółu decyzji 386 → 192 → 81 (2023-2025).
 - Ad.5: wobec MPK (100% udziałów Miasta) **nigdy** nie wydano decyzji z art. 40 ust. 12.
 - Docelowa nawierzchnia ma powstać w ramach przebudowy Janickiego-Żeromskiego (strona północna). Brak dat, brak informacji, czy nr 115 jest w zakresie i kto zabezpieczy wadliwy fragment do czasu przebudowy.
-- **Możliwe powiązanie** [do weryfikacji, ZDM nie potwierdził]: przebudowa Dąbrowskiego Janickiego-Żeromskiego jako zakres umowy IRI.4711.20.2022 z inwestorem (Galeria Nova / Archicom).
+- **Powiązanie potwierdzone w umowie** (§ 1 ust. 3 lit. a, s. 2): przebudowa Dąbrowskiego Janickiego-Żeromskiego to zakres 1 umowy IRI.4711.20.2022 z inwestorem (Galeria Nova / Archicom); pozwolenie na budowę nr 544/2026 z 29.07.2026. Dostęp do projektu: [`prawa-autorskie-a-dostep-do-projektu-drogowego-strategia.md`](../../research/transparentnosc/prawa-autorskie-a-dostep-do-projektu-drogowego-strategia.md).
 - Rozbieżność z budżetem: § 0580 dz. 600 = 0,00 zł za 2025 r., a ZDM podaje 81 decyzji na 1,25 mln zł w 2025 r. Klasyfikacja budżetowa wpływów z kar u.d.p. [do weryfikacji] (decyzja ≠ wpływ; możliwy inny paragraf).
 
 ### Draft z 23.09 (niewysłany), zakres
