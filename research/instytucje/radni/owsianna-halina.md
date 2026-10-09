@@ -104,6 +104,10 @@ Myśli historiami konkretnych ludzi: zagrożonych pieszych, wykluczonych senior�
 
 ## Aktualizacje
 
+### Procedury miejskie
+
+- **2026-10-07 — petycja Batorego.** Podczas rozpatrywania petycji o procedurę planistyczną na Batorego odwołała się do wcześniejszego uchwalenia planu. Komisja zawiesiła decyzję; zasugerowano zainteresowanie Komisji Rewizyjnej, bez potwierdzonego zlecenia kontroli. [UMP, publikacja 8.10.2026](https://www.poznan.pl/mim/smartcity/news,10522/cztery-petycje,287770.html) · [raport](../../monitoring-poznan/2026/10/2026-10-09.md).
+
 ### Interpelacje BIP
 
 - **2026-09-08 — RM-VI.0003.307.2026.** Ponawia postulat urządzenia formalnego, bezpiecznego przejścia istniejącym przedeptem pod wiaduktem między Armii Poznań i Ku Cytadeli, w kontekście muzeum i zabudowy dawnej rzeźni. Brak odpowiedzi w BIP. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-przejscia-przez-ul-armii-poznan-do-ul-ku-cytadeli,NT00081E0E/) · [raport](../../monitoring-poznan/2026/09/2026-09-14.md) <!-- bip-interpelacja:NT00081E0E -->

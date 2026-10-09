@@ -123,6 +123,10 @@ Rodowita poznanianka. Absolwentka filologii angielskiej UAM. Wieloletni nauczyci
 
 ## Aktualizacje
 
+### Procedury miejskie
+
+- **2026-10-07 — petycja Batorego.** Przy petycji dotyczącej Batorego wskazała, że przedmiotem jest procedura planistyczna, a nie samo uchwalenie planu. Komisja zawiesiła decyzję; ewentualna kontrola Komisji Rewizyjnej wymaga dalszej procedury. [UMP, publikacja 8.10.2026](https://www.poznan.pl/mim/smartcity/news,10522/cztery-petycje,287770.html) · [raport](../../monitoring-poznan/2026/10/2026-10-09.md).
+
 ### Interpelacje BIP
 
 - **2026-09-13 — RM-VI.0003.312.2026.** Wniosek o podniesienie limitu z 50 do 70 km/h na odcinkach Bukowskiej między Kolorową, Prostą i Leśnych Skrzatów oraz o pasy włączenia/wyłączenia przy ROD Energetyk II. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-zmiany-organizacji-ruchu-na-ul-bukowskiej-pomiedzy-ulicami-kolorowa-i-lesnych-skrzatow,NT00081EFE/) · [raport](../../monitoring-poznan/2026/09/2026-09-17.md) <!-- bip-interpelacja:NT00081EFE -->
