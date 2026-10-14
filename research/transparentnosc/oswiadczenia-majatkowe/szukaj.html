@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oświadczenia majątkowe Poznań: wyszukiwarka</title>
+<meta name="description" content="Szybkie wyszukiwanie linków do jawnych oświadczeń majątkowych urzędników i radnych Poznania (BIP). Tylko linki, bez treści.">
+<style>
+  :root { --bg:#fff; --fg:#1b1f24; --muted:#5b6470; --line:#dde1e6; --acc:#3949ab; --row:#f6f7f9; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#14171c; --fg:#e6e8eb; --muted:#9aa3ad; --line:#2c3139; --acc:#8c9eff; --row:#1b1f26; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  main { max-width:1100px; margin:0 auto; padding:20px 16px 40px; }
+  h1 { font-size:1.35rem; margin:0 0 4px; }
+  p.lead { color:var(--muted); margin:0 0 16px; }
+  .filters { display:grid; grid-template-columns:2fr 1fr 110px 150px; gap:8px; margin-bottom:10px; }
+  @media (max-width:720px) { .filters { grid-template-columns:1fr 1fr; } .filters input#q { grid-column:1 / -1; } }
+  input, select { width:100%; padding:9px 10px; border:1px solid var(--line); border-radius:6px; background:var(--bg); color:var(--fg); font:inherit; }
+  #stat { color:var(--muted); font-size:.9rem; margin:6px 0 10px; }
+  .wrap { overflow-x:auto; border:1px solid var(--line); border-radius:6px; }
+  table { border-collapse:collapse; width:100%; min-width:640px; }
+  th, td { text-align:left; padding:7px 9px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { font-size:.82rem; color:var(--muted); font-weight:600; position:sticky; top:0; background:var(--bg); }
+  tr:nth-child(even) td { background:var(--row); }
+  a { color:var(--acc); }
+  .m { color:var(--muted); font-size:.88rem; }
+  footer { margin-top:18px; color:var(--muted); font-size:.85rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Oświadczenia majątkowe: wyszukiwarka</h1>
+  <p class="lead">Linki do jawnych oświadczeń z BIP Miasta Poznania (wydziały UMP, jednostki miejskie, prezydent i zastępcy, radni, zarządy spółek przez Biuro Nadzoru Właścicielskiego) oraz wybranych innych BIP. Bez treści oświadczeń.</p>
+  <div class="filters">
+    <input id="q" type="search" placeholder="nazwisko, funkcja lub jednostka, np. gosiewski, zarzad drog dyrektor" autofocus>
+    <input id="j" type="search" placeholder="jednostka (fragment)">
+    <select id="r"><option value="">rok: wszystkie</option></select>
+    <select id="t"><option value="">rodzaj: wszystkie</option></select>
+  </div>
+  <div id="stat">Wczytywanie indeksu...</div>
+  <div class="wrap"><table>
+    <thead><tr><th>Osoba</th><th>Funkcja</th><th>Jednostka</th><th>Rok</th><th>Rodzaj</th><th>PDF</th></tr></thead>
+    <tbody id="out"></tbody>
+  </table></div>
+  <footer>Źródło: <a href="https://bip.poznan.pl/">bip.poznan.pl</a> i BIP wskazane w kolumnie Jednostka. Data pobrania w plikach <a href="dane/oswiadczenia.csv">dane/oswiadczenia.csv</a> i <a href="dane/oswiadczenia-zewnetrzne.csv">dane/oswiadczenia-zewnetrzne.csv</a>. Wybrane osoby: <a href="osoby/">osoby</a>.</footer>
+</main>
+<script>
+(function () {
+  var MAX = 300;
+  var rows = [];
+  var $ = function (id) { return document.getElementById(id); };
+
+  function norm(s) {
+    return (s || "").replace(/ł/g, "l").replace(/Ł/g, "L").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  }
+
+  // Parser CSV (RFC 4180: pola w cudzysłowach, "" jako cudzysłów).
+  function parseCSV(text) {
+    var out = [], row = [], f = "", q = false, i, c;
+    for (i = 0; i < text.length; i++) {
+      c = text[i];
+      if (q) {
+        if (c === '"') { if (text[i + 1] === '"') { f += '"'; i++; } else { q = false; } }
+        else { f += c; }
+      } else if (c === '"') { q = true; }
+      else if (c === ",") { row.push(f); f = ""; }
+      else if (c === "\n") { row.push(f); out.push(row); row = []; f = ""; }
+      else if (c !== "\r") { f += c; }
+    }
+    if (f !== "" || row.length) { row.push(f); out.push(row); }
+    var head = out.shift() || [];
+    return out.filter(function (r) { return r.length > 1; }).map(function (r) {
+      var o = {}; head.forEach(function (h, k) { o[h] = r[k] || ""; }); return o;
+    });
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; });
+  }
+
+  function render() {
+    var terms = norm($("q").value).split(/\s+/).filter(Boolean);
+    var jterms = norm($("j").value).split(/\s+/).filter(Boolean);
+    var rok = $("r").value, typ = $("t").value;
+    var hits = [];
+    for (var i = 0; i < rows.length; i++) {
+      var r = rows[i];
+      if (terms.length && !terms.every(function (t) { return r._hay.indexOf(t) !== -1; })) continue;
+      if (jterms.length && !jterms.every(function (t) { return r._jed.indexOf(t) !== -1; })) continue;
+      if (rok && r.rok !== rok) continue;
+      if (typ && r.rodzaj !== typ) continue;
+      hits.push(r);
+    }
+    var filtr = terms.length || jterms.length || rok || typ;
+    $("stat").textContent = filtr
+      ? "Wyników: " + hits.length + (hits.length > MAX ? " (pokazuję " + MAX + ", zawęź wyszukiwanie)" : "")
+      : "Indeks: " + rows.length + " oświadczeń. Wpisz nazwisko, funkcję lub jednostkę.";
+    if (!filtr) { $("out").innerHTML = ""; return; }
+    $("out").innerHTML = hits.slice(0, MAX).map(function (r) {
+      var pdf = '<a href="' + esc(r.url_pdf) + '" target="_blank" rel="noopener">PDF</a>';
+      if (r.url_pdf_dostepny) pdf += ' <a class="m" href="' + esc(r.url_pdf_dostepny) + '" target="_blank" rel="noopener">wersja dostępna</a>';
+      return "<tr><td>" + esc(r.imie_nazwisko) + "</td><td>" + esc(r.funkcja) + "</td><td>" +
+        (r.url_strony ? '<a href="' + esc(r.url_strony) + '" target="_blank" rel="noopener">' + esc(r.jednostka) + "</a>" : esc(r.jednostka)) +
+        "</td><td>" + esc(r.rok || "b.d.") + "</td><td>" + esc(r.rodzaj) + "</td><td>" + pdf + "</td></tr>";
+    }).join("");
+  }
+
+  function fill(sel, values) {
+    values.forEach(function (v) { var o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o); });
+  }
+
+  function load(path) {
+    return fetch(path).then(function (r) { if (!r.ok) throw new Error(path + ": " + r.status); return r.text(); }).then(parseCSV);
+  }
+
+  Promise.all([load("dane/oswiadczenia.csv"), load("dane/oswiadczenia-zewnetrzne.csv").catch(function () { return []; })])
+    .then(function (parts) {
+      rows = parts[0].concat(parts[1]);
+      rows.forEach(function (r) {
+        r._hay = [r.nazwisko_norm, norm(r.imie_nazwisko), norm(r.funkcja), norm(r.jednostka)].join(" ");
+        r._jed = norm(r.jednostka);
+      });
+      var lata = {}, rodzaje = {};
+      rows.forEach(function (r) { if (r.rok) lata[r.rok] = 1; if (r.rodzaj) rodzaje[r.rodzaj] = 1; });
+      fill($("r"), Object.keys(lata).sort().reverse());
+      fill($("t"), Object.keys(rodzaje).sort());
+      var p = new URLSearchParams(location.search);
+      if (p.get("q")) $("q").value = p.get("q");
+      render();
+    })
+    .catch(function (e) { $("stat").textContent = "Nie udało się wczytać indeksu (" + e.message + "). Otwórz stronę przez serwer HTTP, nie z dysku."; });
+
+  ["q", "j"].forEach(function (id) { $(id).addEventListener("input", render); });
+  ["r", "t"].forEach(function (id) { $(id).addEventListener("change", render); });
+})();
+</script>
+</body>
+</html>
