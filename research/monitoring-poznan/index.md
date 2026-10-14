@@ -4,6 +4,8 @@ Raporty zmian istotnych dla obywatelskiej kontroli miasta, filtrowane przez akty
 
 ## Raporty
 
+- [2026-10-14](2026/10/2026-10-14.md)
+- [2026-10-13](2026/10/2026-10-13.md) — komisja 19.10, PU 259, Aquanet i konkurs NGO 156; pokrycie częściowe.
 - [2026-10-03](2026/10/2026-10-03.md)
 - [2026-10-02](2026/10/2026-10-02.md)
 - [2026-10-01](2026/10/2026-10-01.md)

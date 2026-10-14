@@ -7,7 +7,7 @@ updated: 2026-10-03
 
 # Prawa autorskie a dostęp do informacji publicznej: indeks orzeczeń
 
-Część 3 analizy [prawa autorskie dewelopera a dostęp do projektu drogowego](prawa-autorskie-a-dostep-do-projektu-drogowego.md). Wszystkie pozycje przeczytane w pełnym tekście (CBOSA `https://orzeczenia.nsa.gov.pl/doc/<ID>`, SN w SAOS), dostęp 02.10.2026. Daty w formacie RRRR-MM-DD.
+Część 3 analizy [prawa autorskie dewelopera a dostęp do projektu drogowego](prawa-autorskie-a-dostep-do-projektu-drogowego.md). Wszystkie pozycje bez dopisku przeczytane w pełnym tekście (CBOSA `https://orzeczenia.nsa.gov.pl/doc/<ID>`, SN w SAOS), dostęp 02.10.2026. Daty w formacie RRRR-MM-DD.
 
 ## Rdzeń: prawo autorskie a informacja publiczna
 
@@ -77,6 +77,22 @@ Część 3 analizy [prawa autorskie dewelopera a dostęp do projektu drogowego](
 ## Materiał urzędowy (art. 4 pkt 2 pr. aut.)
 
 - [SN V CSK 337/08](https://www.saos.org.pl/judgments/89772); [NSA I OSK 2538/17](https://orzeczenia.nsa.gov.pl/doc/5EB13750F4) 2019-09-25; [NSA I OSK 2265/11](https://orzeczenia.nsa.gov.pl/doc/BFC87465F2)
+
+## Kto jest wnioskodawcą (rada i zarząd osiedla, radny osiedlowy)
+
+Dostęp 03.10.2026. Zastosowanie: [strategia, sekcja 2](prawa-autorskie-a-dostep-do-projektu-drogowego-strategia.md).
+
+| Sygnatura, sąd, data | Teza | Ocena |
+|---|---|---|
+| [NSA III OSK 2112/24](https://orzeczenia.nsa.gov.pl/doc/AC4C947FE4) 2024-11-14 | organ władzy publicznej (dyrektor szkoły publicznej) nie jest "każdym" z art. 2 ust. 1 udip; NSA "dostrzega rozbieżności" w orzecznictwie | przeczytany |
+| [NSA III OSK 2629/22](https://orzeczenia.nsa.gov.pl/doc/A24E15216E) 2024-01-16 | MOPS (jednostka budżetowa gminy) nieuprawniony; odmienne stanowisko doktryny NSA "nie podziela" | przeczytany |
+| [WSA Warszawa II SAB/Wa 197/09](https://orzeczenia.nsa.gov.pl/doc/4C28514AB5) 2010-02-18, postanowienie | Prezes NFZ wobec Prezesa NRL: organ bez legitymacji do wniosku i skargi; "każdy" to człowiek lub podmiot prawa prywatnego | przeczytany; glosa M. Jaśkowskiej OSP 2011/9/94 [cyt. za III OSK 2629/22, III OSK 818/26] |
+| [WSA Gorzów II SAB/Go 133/23](https://orzeczenia.nsa.gov.pl/doc/184804F0DD) 2024-01-17 | szpital sp. z o.o. uprawniony; wyłączenie dotyczy organów, nie "podmiotów prawa publicznego"; przegląd spraw z organem jako wnioskodawcą | przeczytany |
+| [WSA Gdańsk III SAB/Gd 118/25](https://orzeczenia.nsa.gov.pl/doc/460B4AD49F) 2025-06-12 | radny rady dzielnicy jako osoba fizyczna; przekazanie harmonogramu projektu radzie dzielnicy nie zwalnia z udip; bezczynność | przeczytany |
+| [WSA Kraków II SAB/Kr 180/12](https://orzeczenia.nsa.gov.pl/doc/CDE1382D4C) 2013-01-22 | członkini rady osiedla jako wnioskodawca; bezczynność bez rażącego naruszenia prawa | przeczytany |
+| [WSA Gdańsk III SAB/Gd 93/26](https://orzeczenia.nsa.gov.pl/doc/37E50C136A) 2026-04-23 | skarżący radny rady dzielnicy; skarga oddalona z innych przyczyn | przeczytany, pomocniczo |
+| WSA Wrocław IV SAB/Wr 1071/24 2025-05-08; WSA Opole II SAB/Op 38/15 | zarząd i rada osiedla jako podmiot obowiązany (bezczynność) | [cyt. za fragmentem CBOSA], do doczytania |
+| WSA Gdańsk II SAB/Gd 132/21 | relacja poglądu M. Jaśkowskiej (organ działający jako osoba prawna) | [cyt. za fragmentem CBOSA], do doczytania |
 
 ## Znane tylko z cytatu i do niecytowania
 
