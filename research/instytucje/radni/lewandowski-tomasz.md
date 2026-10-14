@@ -5,7 +5,7 @@ tier: 2
 frakcja: Lewica Centrum
 okreg: do weryfikacji
 ocena: wspólne priorytety — transport zbiorowy środowisko redystrybucja
-updated: 2026-04-17
+updated: 2026-10-13
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -13,6 +13,10 @@ source_dialog: ../wyniki-14-radni-tier2-portrety.md
 # Lewandowski Tomasz (Lewica Centrum) — okręg `[do wer.]`
 
 Wspólne priorytety. Weteran z ogromnym kapitałem politycznym — były wiceprezydent miasta, przewodniczący Klubu Lewicy Centrum. Zdolność do formowania koalicji blokujących i bezpośredniej presji politycznej na kadrę MPK. Kontakt: argument makroekonomiczny i socjalny.
+
+## Aktualizacje
+
+- **2026-10-12 — analiza taryf Aquanet.** Na wspólnym posiedzeniu komisji budżetu i środowiska poprosił o szczegółową analizę porównawczą taryf Poznania i innych dużych miast; pytał o wykonanie inwestycji i udział Poznania w przychodach. Oficjalna relacja nie wskazuje terminu ani potwierdzonego zobowiązania spółki. Proponowane taryfy 2027–2029 nie są zatwierdzone. [RMP, publikacja 12.10, dostęp 13.10](https://www.poznan.pl/mim/brm/news,10522/taryfy-za-wode-i-scieki,288047.html) · [raport](../../monitoring-poznan/2026/10/2026-10-13.md)
 
 ## Karta kontaktowa
 
