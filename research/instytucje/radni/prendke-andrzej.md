@@ -5,7 +5,7 @@ tier: krotka
 frakcja: KO
 okreg: 2
 ocena: potencjal — szybkie symboliczne zwyciestwa gotowiec
-updated: 2026-09-26
+updated: 2026-10-14
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 ---
 
@@ -45,6 +45,8 @@ Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier
 [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md)
 
 ## Aktualizacje
+
+- **2026-10-13 — odpowiedź o kadrach MPK.** Oficjalna relacja RMP opublikowała odpowiedź na zapytanie radnego o wypadające kursy: potrzeba 150 kierowców i warunkowy powrót częstotliwości. Zatrudnienie opisano na 23.09; daty pierwotnych pism nieustalone. Nie potwierdzono wykonania zapowiedzi dla 162/196. [RMP, publikacja 13.10, dostęp 14.10](https://www.poznan.pl/mim/brm/news,1202/sytuacja-kadrowa-i-ograniczenia-kursow,288165.html) · [raport](../../monitoring-poznan/2026/10/2026-10-14.md)
 
 ### Interpelacje BIP
 

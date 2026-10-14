@@ -2,7 +2,7 @@
 title: "Justyna Kuberka"
 type: karta-radnego
 frakcja: KO
-updated: 2026-09-07
+updated: 2026-10-06
 ---
 
 # Justyna Kuberka
@@ -14,6 +14,8 @@ Radna IX kadencji; wiceprzewodnicząca Komisji Samorządowej. [Skład RMP](https
 - **2026-08-28 — Dąbrowskiego 17.** Kuberka zapowiedziała zabieganie o środki na wstępną koncepcję adaptacji miejskiego budynku na siedzibę Muzeum Powstania Poznańskiego — Czerwiec 1956. WGN potwierdził własność Miasta i rozmowy o zakończeniu dzierżawy, ale nie ma dokumentacji, kosztorysu ani źródła finansowania. [wPoznaniu.pl](https://wpoznaniu.pl/jest-szansa-na-nowa-siedzibe-muzeum-poznanskiego-czerwca/) · [raport](../../monitoring-poznan/2026/08/2026-08-29.md)
 
 ### Interpelacje BIP
+
+- **2026-09-29 — RM-VI.0003.331.2026.** Pyta o kontrole reklam Piątkowska/Szydłowska, pozwolenia i zajęcie pasa, postępowania usunięcia oraz kary i termin weryfikacji. PDF datowany 27.07, wpływ BIP 29.09; sprawdzono 6.10. Brak dokumentu odpowiedzi w rekordzie; nie potwierdzono nielegalności nośników. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-reklam-na-skrzyzowaniu-ulic-piatkowskiej-i-szydlowskiej,NT0008299A/) · [raport](../../monitoring-poznan/2026/10/2026-10-06.md) <!-- bip-interpelacja:NT0008299A -->
 
 - **2026-08-19 — RM-VI.0003.291.2026.** Pytania o szkody objęte prawomocnym wyrokiem i egzekucję. Pismo z 28.08 odracza odpowiedź merytoryczną do uzyskania wyjaśnień spółek miejskich; terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-prawomocnego-wyroku,NT00081AA6/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT00081AA6 -->
 - **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
