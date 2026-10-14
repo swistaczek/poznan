@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: 1
 ocena: inne priorytety — procedury planistyczne blad proceduralny
-updated: 2026-09-01
+updated: 2026-10-14
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -112,6 +112,8 @@ Strateg przestrzenny: myśli kategoriami makro-urbanistyki, wskaźników intensy
 - Analiza interpelacji i odpowiedzi Urzędu (stan 09.2026): [`mikula-interpelacje-analiza-2026-09.md`](mikula-interpelacje-analiza-2026-09.md)
 
 ## Aktualizacje
+
+- **2026-10-12 — porządek KPP na 19.10.** Odpowiada za zaproszenie na opiniowanie czterech planów o 15:00, w tym Starego Koryta Warty; od 16:00 wspólnie z komisją promocji informacja o wdrażaniu uchwały krajobrazowej i orzecznictwie. Publikacja 12.10, 14:04; dostęp 14.10. Bez potwierdzonej opinii czy uchwalenia. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=99938) · [raport](../../monitoring-poznan/2026/10/2026-10-14.md)
 
 - **2026-09-02 — Park Golęcin.** Kierowana przez Mikułę KPP nie wydała opinii o PU 195 po dyskusji o obsłudze komunikacyjnej; kontynuację wyznaczono na 7 września. [RMP](https://www.poznan.pl/mim/brm/news,10522/miejscowe-plany,285437.html) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md)
 - **2026-08-31 — budżet 2027 i rady osiedli.** Mikuła zapowiedział ocenę wykonalności i priorytetów wieloletnich inwestycji zgłaszanych przez rady osiedli w procesie klubu KO przed budżetem 2027. Brakuje publicznego harmonogramu, kryteriów oceny i protokołów. [źródło](https://gloswielkopolski.pl/wiecej-pieniedzy-dla-poznanskich-osiedli-radni-ko-chca-wrocic-do-podstaw-i-krytykuja-miasto-za-jakosc-procesow-inwestycyjnych/ar/c1p2-29311239) · [raport](../../monitoring-poznan/2026/09/2026-09-01.md)

@@ -7,6 +7,7 @@ UDIP w Poznaniu: mapa BIP, kluczowe rejestry, zakres podmiotowy (spółki komuna
 | Podobszar | Zakres | Wejście |
 |---|---|---|
 | UDIP — Poznań | mapa BIP, rejestry, procedura, odmowy | [`06-udip/`](./06-udip/) |
+| **Oświadczenia majątkowe** | linki do oświadczeń z BIP Poznania, wyszukiwarka | [**`oswiadczenia-majatkowe/`**](./oswiadczenia-majatkowe/) |
 | **Kontrola dotacji NGO** | narzędzia obywatelskiej kontroli dotacji dla organizacji pozarządowych: udppw (konkurs, komisja, kontrola art. 17, sprawozdanie), ufp (zwrot art. 251/252), dyscyplina finansów publicznych, **orzecznictwo NSA: co jest informacją publiczną** (umowa TAK, oferta NIE), RIO/NIK/rada miasta, nadzór ministra nad fundacją, kwalifikacje karne; **sekwencja 9 kroków z terminami** | [**`kontrola-dotacji-ngo/`**](./kontrola-dotacji-ngo/) |
 
 ## Analizy tematyczne

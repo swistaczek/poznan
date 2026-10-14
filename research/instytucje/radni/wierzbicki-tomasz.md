@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: do weryfikacji
 ocena: aktywny partner — transport DDR Tempo 30
-updated: 2026-08-29
+updated: 2026-10-06
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -113,6 +113,8 @@ Pragmatyk inżynieryjny. Myśli przekrojami, wytycznymi PORD i precedensami z in
 - Mechanika Komisji Transportu: [`../12-rada-miasta-radni/06-komisje-mechanika.md`](../12-rada-miasta-radni/06-komisje-mechanika.md)
 
 ## Aktualizacje
+
+- **2026-09-25 — uwagi do organizacji ruchu Szyperskiej.** Na Komisji Transportu zachęcał mieszkańców do wspólnych postulatów kierowanych do MIR i komisji, aby zbadać możliwość korekt zatwierdzonego rozwiązania. Relacja RMP z 28.09; ponownie zweryfikowana 6.10. Nie potwierdzono nowej decyzji ani terminu zmiany projektu. [RMP](https://www.poznan.pl/mim/brm/news,10522/bezplatne-pierwszych-40-minut-a-nie-3-godziny,287043.html) · [raport](../../monitoring-poznan/2026/10/2026-10-06.md)
 
 - **2026-08-28 — Komisja Transportu 4 września.** Jako przewodniczący odpowiada za posiedzenie, które ma zaopiniować PU 180/2026, 203/2026 i 204/2026 oraz omówić nowe zasady umów drogowych z inwestorami zewnętrznymi. To pierwszy jawny etap kontroli wdrożenia centralizacji umów z art. 16 ustawy o drogach publicznych w ZDM. [BIP](https://bip.poznan.pl/bip/posiedzenia/komisja-transportu,99537/) · [raport](../../monitoring-poznan/2026/08/2026-08-29.md)
 
