@@ -88,3 +88,5 @@ Trzy pliki krzyżujące się z `pim-siec-powiazan-kominy-placowe.md` i werdyktem
 
 - Adresy do pism: [`../../ADRESY.md`](../../ADRESY.md)
 - Terminy KPA/UDIP: [`../../TERMINY.md`](../../TERMINY.md)
+
+- [Magdalena Pietrusik-Adamska](pietrusik-adamska-magdalena.md) — podpis uzasadnienia PU 259/2026; karta funkcji publicznej, 13.10.2026.
