@@ -117,3 +117,7 @@ Pragmatycy centrum i audytorzy prawicy — opozycja merytoryczna, nie frontalna.
 - **Okręg 4**: [Kapustka](kapustka-lukasz.md) (TD, Wiceprzew. RM — Rataje)
 - **Okręg 5**: [Strzelecka](strzelecka-klaudia.md) (PiS — Grunwald)
 - **Okręg 6**: `[do weryfikacji — skład nie zrekonstruowany]`
+
+## Uzupełnienie zweryfikowane 13.10.2026
+
+- [Wojciech Chudy](chudy-wojciech.md) — aktualny radny IX kadencji, przewodniczący Komisji Samorządowej; nowa karta procedury P1.

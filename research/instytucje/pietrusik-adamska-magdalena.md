@@ -1,0 +1,15 @@
+---
+title: Magdalena Pietrusik-Adamska
+type: karta-osoby
+updated: 2026-10-14
+---
+
+# Magdalena Pietrusik-Adamska
+
+Zastępczyni Prezydenta Miasta Poznania; funkcja potwierdzona w [oficjalnym serwisie UMP](https://kultura.poznan.pl/mim/kultura/zastepcy-prezydenta-skarbnik-i-sekretarz-miasta,p,7785,7792,7801.html), dostęp 13.10.2026.
+
+## Aktualizacje
+
+- **2026-10-13 — PU 261/2026 i PU 262/2026S.** Podpisała uzasadnienie projektu instytucji „Poznańskie Miejsca Kultury” (start I kwartał 2027, budżet i majątek bez kwot) oraz projekt rozpoczęcia konsolidacji Strusia/Raszei (list intencyjny, przyszła uchwała i opinie). Publikacje 12:36/13:36, dostęp 14.10; dokumenty odczytane. Nie potwierdzono utworzenia ani połączenia. [PU261](https://bip.poznan.pl/bip/news.html?co=print&id=288143&instance=1074&lang=pl) · [PU262](https://bip.poznan.pl/bip/news.html?co=print&id=288160&instance=1074&lang=pl) · [raport](../monitoring-poznan/2026/10/2026-10-14.md)
+
+- **2026-10-13 — PU 259/2026.** Podpisała uzasadnienie projektu ogólnomiejskiego ograniczenia sprzedaży alkoholu na wynos 22:00–6:00 od 1.01.2027, zastępującego pięć regulacji osiedlowych. Dokument i publikacja 13.10 (10:43), dostęp 13.10; projekt/uzasadnienie odczytane. Opiniuje KBiPP; bez potwierdzenia uchwalenia. Podpis nie oznacza ostatecznej decyzji RMP. [BIP](https://bip.poznan.pl/bip/news.html?co=print&id=288118&instance=1074&lang=pl) · [raport](../monitoring-poznan/2026/10/2026-10-13.md)
