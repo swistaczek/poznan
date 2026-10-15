@@ -5,7 +5,7 @@ tier: 2
 frakcja: Lewica
 okreg: 1
 ocena: aktywny partner — halas piesi transparentnosc
-updated: 2026-08-27
+updated: 2026-10-15
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -106,6 +106,8 @@ Strażniczka Śródmieścia. Myśli dyrektywami środowiskowymi UE, mapami akust
 **Otwieracz:** *„Pani Doroto, czytając ostatnio najnowszy reportaż o kosztach społecznych transformacji miast, przypomniałem sobie, jak gigantyczną drogę przeszła Wilda dzięki oddolnej pracy; dlatego zależy nam, by przy nowej organizacji ruchu zachować ten sąsiedzki, rzemieślniczy charakter ulicy, chroniąc mieszkańców przed presją tranzytową."*
 
 ## Aktualizacje
+
+- **2026-10-14 — porządek KOŚiGK na 21.10.** Odpowiedzialna za treść zaproszenia opublikowanego 12:37; komisja o 14:30 opiniuje PU 254 oraz wskazane w porządku PU 276–280 (opłaty, targowiska/statut, pomniki przyrody). Tekstów 276–280 nie potwierdzono na odczytanej liście projektów. Porządek nie dowodzi poparcia ani zmiany ochrony drzew. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=99997) · [raport](../../monitoring-poznan/2026/10/2026-10-15.md)
 
 ### Interpelacje BIP
 
