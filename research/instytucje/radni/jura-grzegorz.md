@@ -5,7 +5,7 @@ tier: krotka
 frakcja: KO
 okreg: do weryfikacji
 ocena: potencjal — przestrzen przez pryzmat kultury
-updated: 2026-08-22
+updated: 2026-10-15
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 ---
 
@@ -43,6 +43,8 @@ Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier
 [`../12-rada-miasta-radni/03-profile-sojusznicy.md`](../12-rada-miasta-radni/03-profile-sojusznicy.md) · [`../12-rada-miasta-radni/01-struktura-frakcje.md`](../12-rada-miasta-radni/01-struktura-frakcje.md)
 
 ## Aktualizacje
+
+- **2026-10-14 — termin opiniowania PU 261.** Jura odpowiada za treść porządku KKiN opublikowanego o 14:10: komisja 21.10, 16:30 na budowie Teatru Muzycznego ma opiniować utworzenie „Poznańskich Miejsc Kultury”, a także PU 250 o pomocy finansowej na utrzymanie ekspozycji pod Placem Kolegiackim. Nie ustalono opinii ani kwot. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=99998) · [raport](../../monitoring-poznan/2026/10/2026-10-15.md)
 
 ### Interpelacje BIP
 
