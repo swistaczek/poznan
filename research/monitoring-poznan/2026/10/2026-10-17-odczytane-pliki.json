@@ -1,0 +1,421 @@
+{
+  "schema": "poznan-bip-read-files/v1",
+  "observed_on": "2026-10-17",
+  "semantics": "Hashes identify downloaded files, not publication dates. Repeated copies deduplicated by NOTEID, attachment ID and SHA-256. No local paths or person fields.",
+  "files": [
+    {
+      "noteid": "NT00081082",
+      "symbol": "RM-VI.0003.277.2026",
+      "attachment_id": "12506",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081082&id=12506",
+      "sha256": "0f898bde18318045ff2fa7df4c6065e520763241ac74e642ea58031eaf0aff32",
+      "bytes": 68011,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081082",
+      "symbol": "RM-VI.0003.277.2026",
+      "attachment_id": "12507",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081082&id=12507",
+      "sha256": "b849ed4ab7170c97e91c84724e2d3672c5d88a681bb24aac39a602f32affc261",
+      "bytes": 427439,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081092",
+      "symbol": "RM-VI.0003.278.2026",
+      "attachment_id": "12508",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081092&id=12508",
+      "sha256": "1dfa7c0adf3b5b706a1c5338d9f6e15a7724288380abb71c081d24cc85a680c3",
+      "bytes": 70855,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT000818C6",
+      "symbol": "RM-VI.0003.279.2026",
+      "attachment_id": "12511",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT000818C6&id=12511",
+      "sha256": "34e680253b74dc04fb0d28a782e6ee5b269e008586ead38702b52f2937045c77",
+      "bytes": 77097,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT0008198A",
+      "symbol": "RM-VI.0003.282.2026",
+      "attachment_id": "12513",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT0008198A&id=12513",
+      "sha256": "26cf049aa848f3ff3c6cd41f6d284eef5989e858fbf80ac56f8690e21a01209e",
+      "bytes": 69909,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT0008199A",
+      "symbol": "RM-VI.0003.283.2026",
+      "attachment_id": "12516",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT0008199A&id=12516",
+      "sha256": "0f85e4ea0132ca43d841f882788c55ed7c63766d0044e1d8b48689ad86a31fd3",
+      "bytes": 68916,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT000819CA",
+      "symbol": "RM-VI.0003.286.2026",
+      "attachment_id": "12518",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT000819CA&id=12518",
+      "sha256": "99525bdfe7938a8399829086499678dda65518a8fcc5081d6f94fc68a0aef9cf",
+      "bytes": 69181,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT000819DA",
+      "symbol": "RM-VI.0003.287.2026",
+      "attachment_id": "12519",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT000819DA&id=12519",
+      "sha256": "7268f3a0df120acb07709404f86497b6af110bd768ab28da8e4a4703a33e6bca",
+      "bytes": 70083,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT000819EA",
+      "symbol": "RM-VI.0003.288.2026",
+      "attachment_id": "12522",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT000819EA&id=12522",
+      "sha256": "d5ad11ed6b2080f8e31190e71c616601eaa7edbf040421ca9e533565d0debee9",
+      "bytes": 70198,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081A86",
+      "symbol": "RM-VI.0003.289.2026",
+      "attachment_id": "12523",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081A86&id=12523",
+      "sha256": "ea7943113022022f596a8b9860c6ca3fbb02438b0b161f833c7f305853c40ed3",
+      "bytes": 69624,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081A86",
+      "symbol": "RM-VI.0003.289.2026",
+      "attachment_id": "12524",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081A86&id=12524",
+      "sha256": "af11454799c4d4882878969614ac7475724be1da424d6a17c78719e57c61194d",
+      "bytes": 968044,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081AA6",
+      "symbol": "RM-VI.0003.291.2026",
+      "attachment_id": "12528",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081AA6&id=12528",
+      "sha256": "4ff6a9057d5838470a426a86cb5b1fa91725bded16a3296ee1954c39e450973f",
+      "bytes": 68506,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081AA6",
+      "symbol": "RM-VI.0003.291.2026",
+      "attachment_id": "12529",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081AA6&id=12529",
+      "sha256": "352d017addf919bdefb6ab9392b728c2989f0994161bbe31a438ee237b4f2e89",
+      "bytes": 69661,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081B3E",
+      "symbol": "RM-VI.0003.294.2026",
+      "attachment_id": "12538",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081B3E&id=12538",
+      "sha256": "cf972d44816d95019fffb42c4cfe5bfc73d685a69d0569ec9c048046d6872c89",
+      "bytes": 70026,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081BD6",
+      "symbol": "RM-VI.0003.297.2026",
+      "attachment_id": "12540",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081BD6&id=12540",
+      "sha256": "4cf61c5ad7d17fa9fccde0a355feb0d1749d05a593418b23cc33e3f0ef97fe3b",
+      "bytes": 71962,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081C2E",
+      "symbol": "RM-VI.0003.299.2026",
+      "attachment_id": "12542",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081C2E&id=12542",
+      "sha256": "6ad1ed936ded514577c075602d43aec212bea6e315df7f55a687d93ef5921e33",
+      "bytes": 72248,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081C3E",
+      "symbol": "RM-VI.0003.300.2026",
+      "attachment_id": "12544",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081C3E&id=12544",
+      "sha256": "673cb2665bdb3f72e6a8484ec6472ce0586132d27d77182b11d0715fcd65b14e",
+      "bytes": 70449,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081D0A",
+      "symbol": "RM-VI.0003.301.2026",
+      "attachment_id": "12546",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081D0A&id=12546",
+      "sha256": "c84799a95ff14fa08b41dc4a8833fbd40af45fe94bb35ebe232190837731434d",
+      "bytes": 71233,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081D0A",
+      "symbol": "RM-VI.0003.301.2026",
+      "attachment_id": "12547",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081D0A&id=12547",
+      "sha256": "af434c708d721574e7b4262e70b84bad27920d8d1d054de0ede950e5e085977a",
+      "bytes": 663525,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081D1A",
+      "symbol": "RM-VI.0003.302.2026",
+      "attachment_id": "12549",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081D1A&id=12549",
+      "sha256": "8df3506b73708ac5a6d87234b728fb14f4a1096c7c3cd35aa8eb3f9b4cc5bbfa",
+      "bytes": 70737,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081D7A",
+      "symbol": "RM-VI.0003.303.2026",
+      "attachment_id": "12551",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081D7A&id=12551",
+      "sha256": "1c223bc517817cdcf425fbb3b3dc55783ff9d1ace694e58133030e7f8f4d5d28",
+      "bytes": 68080,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081DDE",
+      "symbol": "RM-VI.0003.304.2026",
+      "attachment_id": "12553",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081DDE&id=12553",
+      "sha256": "0fb0c00738a25e03b769e61ea867f8281a67b2302032989dac7211c60f633981",
+      "bytes": 70812,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081DEE",
+      "symbol": "RM-VI.0003.305.2026",
+      "attachment_id": "12556",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081DEE&id=12556",
+      "sha256": "7a429ff4b858e7f49c756e17a9b07557ade78042778cbd65946b8fa924a0b70d",
+      "bytes": 71203,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081DEE",
+      "symbol": "RM-VI.0003.305.2026",
+      "attachment_id": "12557",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081DEE&id=12557",
+      "sha256": "cbab2544724f0f5a8b5f0c62de96e6b5159d1febcdfcb71fd62f4363064d9e33",
+      "bytes": 53640,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081DFE",
+      "symbol": "RM-VI.0003.306.2026",
+      "attachment_id": "12559",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081DFE&id=12559",
+      "sha256": "7f81be669a8a6bfa4fa5c19b464c0833c130d6630941fcdbcc8d7e89c2d63aae",
+      "bytes": 70808,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081E0E",
+      "symbol": "RM-VI.0003.307.2026",
+      "attachment_id": "12561",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081E0E&id=12561",
+      "sha256": "4ff13aa920817ee54463973bf8e46f9c2f5ae1afd6e86b94cc96eb8c103ff3b1",
+      "bytes": 69043,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081E1E",
+      "symbol": "RM-VI.0003.308.2026",
+      "attachment_id": "12563",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081E1E&id=12563",
+      "sha256": "d532e858fc48b173f54b296c2fa64e7524d6025631db1a4080c32814c7275a9f",
+      "bytes": 69000,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081EB2",
+      "symbol": "RM-VI.0003.310.2026",
+      "attachment_id": "12567",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081EB2&id=12567",
+      "sha256": "9922146e405563a8714c62c100bddb454110d3aa6a9e4981645cc807f85ef516",
+      "bytes": 70434,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081EEE",
+      "symbol": "RM-VI.0003.311.2026",
+      "attachment_id": "12569",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081EEE&id=12569",
+      "sha256": "debf66025880264caeeb7873fcb68fe92573fd0fea1ea72fc0a90b4c815d8444",
+      "bytes": 71989,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081EFE",
+      "symbol": "RM-VI.0003.312.2026",
+      "attachment_id": "12571",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081EFE&id=12571",
+      "sha256": "ee4ce26c6fce499cec55b86cc6f5e2416bcfb7814803ceea7e43cfebd5045b43",
+      "bytes": 67854,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00081FF2",
+      "symbol": "RM-VI.0003.317.2026",
+      "attachment_id": "12579",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00081FF2&id=12579",
+      "sha256": "75e4c00b5a452c993602a393d87eebb2c359ad17f30bdde9989a578029aea0e6",
+      "bytes": 72388,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082032",
+      "symbol": "RM-VI.0003.320.2026",
+      "attachment_id": "12580",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082032&id=12580",
+      "sha256": "213370c5c8cec6483868ec62da85ca182d54df030f868827354ee0a06f7c7d32",
+      "bytes": 70038,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082052",
+      "symbol": "RM-VI.0003.322.2026",
+      "attachment_id": "12583",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082052&id=12583",
+      "sha256": "e7a56a300d70d4b45a0ff283c9d5a2b4a77d1ce578c73670e4b5e8b61c38b870",
+      "bytes": 67711,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082062",
+      "symbol": "RM-VI.0003.323.2026",
+      "attachment_id": "12585",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082062&id=12585",
+      "sha256": "850854693c5456916ce87fe540b40dac9cd2f3f4830565c80a7f704eafac66b3",
+      "bytes": 68376,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT000828D2",
+      "symbol": "RM-VI.0003.325.2026",
+      "attachment_id": "12588",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT000828D2&id=12588",
+      "sha256": "23f95d130bc6e53450a33ae48bc1e7de4b3bb7b7059706c6a05a23978a0db638",
+      "bytes": 73444,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT0008296A",
+      "symbol": "RM-VI.0003.328.2026",
+      "attachment_id": "12589",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT0008296A&id=12589",
+      "sha256": "cc7ec86968dcd6ec5a7ef2d8fe6e72f6bff02fd7cd8a564145ff7f56c9abd382",
+      "bytes": 71277,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT0008297A",
+      "symbol": "RM-VI.0003.329.2026",
+      "attachment_id": "12606",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT0008297A&id=12606",
+      "sha256": "291aae40c460223ece84d762d35d18448bc5f02df3e64416853fc9ea7fdbc903",
+      "bytes": 119563,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT0008297A",
+      "symbol": "RM-VI.0003.329.2026",
+      "attachment_id": "12607",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT0008297A&id=12607",
+      "sha256": "dada135ea7f65e600b5b7eb12c5a0ab7d65af9112105b9661544c61604a76b35",
+      "bytes": 13609569,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT0008298A",
+      "symbol": "RM-VI.0003.330.2026",
+      "attachment_id": "12609",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT0008298A&id=12609",
+      "sha256": "9a3d1cd806484c4450b4661d5d1950b62536defdf69f7355b7eef9a507783849",
+      "bytes": 71094,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT0008299A",
+      "symbol": "RM-VI.0003.331.2026",
+      "attachment_id": "12611",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT0008299A&id=12611",
+      "sha256": "825a01b2727cc3bdc82450024adf6898a6680738d93b94ab1cc0779f70348fe1",
+      "bytes": 368939,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082A62",
+      "symbol": "RM-VI.0003.334.2026",
+      "attachment_id": "12614",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082A62&id=12614",
+      "sha256": "9a93a11ba0ab23b28df88a31a3db0ca9dc266fc9ff34f487e9ae7d57e037e41f",
+      "bytes": 70295,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082A72",
+      "symbol": "RM-VI.0003.335.2026",
+      "attachment_id": "12616",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082A72&id=12616",
+      "sha256": "3e934505fed472da7e63e7c2502d5d1f76addee8db9a01b2257276a3bc23de1f",
+      "bytes": 70490,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082AA2",
+      "symbol": "RM-VI.0003.338.2026",
+      "attachment_id": "12618",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082AA2&id=12618",
+      "sha256": "8368f18bc068de02b8c8d5d0746106def2122f86e2c2b24e6ec5b4c33a7946bc",
+      "bytes": 67445,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082B4A",
+      "symbol": "RM-VI.0003.341.2026",
+      "attachment_id": "12620",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082B4A&id=12620",
+      "sha256": "4a8bdd4fd4bee68e40fbc76260665f413b27ccc3388353db0adad6c5667a11c4",
+      "bytes": 403633,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082B5A",
+      "symbol": "RM-VI.0003.342.2026",
+      "attachment_id": "12621",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082B5A&id=12621",
+      "sha256": "64356868adbf8f29d4d0da5a6bed79441af17c147ba436ab9823fb4fd590816a",
+      "bytes": 415439,
+      "observed_on": "2026-10-17"
+    },
+    {
+      "noteid": "NT00082B6A",
+      "symbol": "RM-VI.0003.343.2026",
+      "attachment_id": "12622",
+      "source_url": "https://bip.poznan.pl/bip/interpelacje.html?co=show&noteid=NT00082B6A&id=12622",
+      "sha256": "ba2b0ff5971d64f87388716356f987a95489ea004b97f4aeb3a55f413142f777",
+      "bytes": 443126,
+      "observed_on": "2026-10-17"
+    }
+  ]
+}
