@@ -104,7 +104,7 @@ Myśli historiami konkretnych ludzi: zagrożonych pieszych, wykluczonych senior�
 
 ## Aktualizacje
 
-- **2026-10-17 — wynik komisji 15.10; publikacja 16.10.** Komisja Skarg, Wniosków i Petycji 15.10 nie rozstrzygnęła petycji o pomnik ofiar ludobójstwa na Wołyniu (1 za zasadnością, 1 za bezzasadnością, 2 wstrzymujące). Owsianna proponowała uznanie petycji za bezzasadną i skierowanie do komisji kultury; relacja nie pozwala przypisać imiennych głosów. Decyzja przed RMP, bez potwierdzonego wydatku. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport](../../monitoring-poznan/2026/10/2026-10-17.md)
+- **2026-10-16 — relacja o petycji.** Na komisji 15.10 proponowała uznać petycję o pomnik ofiar ludobójstwa na Wołyniu za bezzasadną i skierować do KKiN, wskazując braki proceduralne i nieokreślone finansowanie. Według RMP komisja nie rozstrzygnęła petycji (1/1/2); nie przypisujemy imiennych głosów. Publikacja16.10, dostęp 17.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md)
 
 ### Procedury miejskie
 

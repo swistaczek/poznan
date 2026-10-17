@@ -114,6 +114,8 @@ Pragmatyk inżynieryjny. Myśli przekrojami, wytycznymi PORD i precedensami z in
 
 ## Aktualizacje
 
+- **2026-10-16 — KT i aktualność danych.** Odpowiada za zaproszenie KT 23.10, 13: 00: informacja MPK o działalności i rozwoju; publikacja 16.10, 09: 03. Relacja RMP 16.10 ujawnia odpowiedź na jego interpelację: Miasto wskazuje błąd Aquanet–GEOPOZ, bez terminu naprawy; dat pism/NOTEID nie ustalono. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=100037) · [RMP](https://www.poznan.pl/mim/rm/news,1202/aktualnosc-danych,288526.html) · [raport](../../monitoring-poznan/2026/10/2026-10-16.md)
+
 - **2026-09-25 — uwagi do organizacji ruchu Szyperskiej.** Na Komisji Transportu zachęcał mieszkańców do wspólnych postulatów kierowanych do MIR i komisji, aby zbadać możliwość korekt zatwierdzonego rozwiązania. Relacja RMP z 28.09; ponownie zweryfikowana 6.10. Nie potwierdzono nowej decyzji ani terminu zmiany projektu. [RMP](https://www.poznan.pl/mim/brm/news,10522/bezplatne-pierwszych-40-minut-a-nie-3-godziny,287043.html) · [raport](../../monitoring-poznan/2026/10/2026-10-06.md)
 
 - **2026-08-28 — Komisja Transportu 4 września.** Jako przewodniczący odpowiada za posiedzenie, które ma zaopiniować PU 180/2026, 203/2026 i 204/2026 oraz omówić nowe zasady umów drogowych z inwestorami zewnętrznymi. To pierwszy jawny etap kontroli wdrożenia centralizacji umów z art. 16 ustawy o drogach publicznych w ZDM. [BIP](https://bip.poznan.pl/bip/posiedzenia/komisja-transportu,99537/) · [raport](../../monitoring-poznan/2026/08/2026-08-29.md)

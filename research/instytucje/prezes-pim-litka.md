@@ -8,6 +8,8 @@ Zarządzanie podmiotem o tak potężnym kapitale operacyjnym i wpływie na tkank
 
 ## Aktualizacje
 
+- **2026-10-15 — retencja przy szkołach.** W komunikacie PIM Litka zapowiada projektowanie i roboty przy SP 9/SP 23/III LO. Przetarg PIM/10/26/ZP70/2025-473 w imieniu Miasta: oferty 20.11, 10: 00; bez wybranego wykonawcy. Publikacja15.10, dostęp 16–17.10. [PIM/TED](https://pim.poznan.pl/system/files/zp/2026-ojs200-00713889-pl.pdf) · [UMP](https://www.poznan.pl/mim/info/news/wiecej-wody-i-roslin-przy-szkolach,288400.html) · [raport](../monitoring-poznan/2026/10/2026-10-16.md)
+
 - **2026-08-17 — kontrakt Palmiarni.** PIM, której zarządem kieruje Justyna Litka, zawarła w imieniu Miasta umowę z Dekpol Budownictwo: 196,6 mln zł brutto, częściowe otwarcie pod koniec 2028 r., zakończenie zakresu podstawowego w I kw. 2030 r. [PIM](https://pim.poznan.pl/aktualnosci/informacje-biezace/rusza-przebudowa-palmiarni-poznanskiej) · [raport](../monitoring-poznan/2026/08/2026-08-24.md)
 
 ## **Edukacja i Rozwój Kompetencji: Formowanie Profilu Menedżerskiego**

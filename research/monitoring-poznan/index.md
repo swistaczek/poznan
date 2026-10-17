@@ -5,6 +5,7 @@ Raporty zmian istotnych dla obywatelskiej kontroli miasta, filtrowane przez akty
 ## Raporty
 
 - [2026-10-17](2026/10/2026-10-17.md)
+- [2026-10-16](2026/10/2026-10-16.md) — KT/MPK, podatek2027, retencja szkół, dane i 3interpelacje; częściowy.
 
 - [2026-10-14](2026/10/2026-10-14.md)
 - [2026-10-13](2026/10/2026-10-13.md) — komisja 19.10, PU 259, Aquanet i konkurs NGO 156; pokrycie częściowe.
