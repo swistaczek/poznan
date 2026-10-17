@@ -128,4 +128,4 @@ Weteran samorządowy. Intelektualne zakorzenienie: klasyczna filozofia, chrześc
 
 ## Aktualizacje
 
-- **2026-10-16 — relacja o petycji.** Na komisji 15.10 argumentował za aprobatą idei upamiętnienia ofiar ludobójstwa na Wołyniu w petycji, pozostawiając szczegóły zespołowi pomnikowemu. Według RMP komisja nie rozstrzygnęła petycji (1/1/2); nie przypisujemy imiennych głosów. Publikacja16.10, dostęp 17.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport](../../monitoring-poznan/2026/10/2026-10-16.md)
+- **2026-10-16 — relacja o petycji.** Na komisji 15.10 argumentował za aprobatą idei upamiętnienia ofiar ludobójstwa na Wołyniu w petycji, pozostawiając szczegóły zespołowi pomnikowemu. Według RMP komisja nie rozstrzygnęła petycji (1/1/2); nie przypisujemy imiennych głosów. Publikacja16.10, dostęp 17.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md)
