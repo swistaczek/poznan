@@ -294,11 +294,13 @@ Załączniki interpelacji **341 / NT00082B4A**, **342 / NT00082B5A** i **343 / N
 
 Dokończyć wskazane dokumenty, następnie historyczną kolejkę odpowiedzi. Porównywać kolejne inwentarze po NOTEID i ID załącznika. Puste hashe API nie mogą usuwać wcześniej zweryfikowanych hashy; data obserwacji listy nie zastępuje daty pobrania i odczytu pliku. Nieaktualne wpisy kart aktualizować w tym samym markerze NOTEID.
 
-## Dodatkowy odczyt zachowanych kopii: 274 i 292
+## Dodatkowy odczyt zachowanych kopii: 274, 292 i 293
 
-Po utracie Browsera odnaleziono dwie lokalne kopie DOCX o nazwach odpowiadających inwentarzowi. Ich treść jest zgodna z wcześniejszymi wpisami repo, z poniższym sprostowaniem 292. Nie wykonano nowego pobrania z BIP, dlatego nie potwierdzono zgodności bajtowej z aktualnymi załącznikami ID 12503 i 12533. Czas modyfikacji pliku lokalnego nie jest dowodem daty publikacji.
+Po utracie Browsera odnaleziono trzy lokalne kopie DOCX o nazwach odpowiadających inwentarzowi. Ich treść jest zgodna z wcześniejszymi wpisami repo, z poniższym sprostowaniem 292. Nie wykonano nowego pobrania z BIP, dlatego nie potwierdzono zgodności bajtowej z aktualnymi załącznikami ID 12503, 12533 i 12535. Czas modyfikacji pliku lokalnego nie jest dowodem daty publikacji.
 
 - **RM-VI.0003.274.2026 / NT00081052 — Andrzej Prendke.** Odpowiedź Bartosza Derecha z 21.08: PKP utrzymuje tunel Żarnowiecka–Rusałka; ZDM nie negocjuje przejęcia. ZDM zlecił koszenie przyległego pasa drogowego do końca sierpnia 2026. Bez dowodu wykonania. To ponowny odczyt znanego pisma, nie nowa zmiana. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00081052) · [wcześniejszy raport](../08/2026-08-24.md).
 - **RM-VI.0003.292.2026 / NT00081B1E — Magdalena Antolczyk-Stawska.** Odpowiedź Bartosza Derecha z 3.09: Miasto nie posiada danych z ostatnich pięciu lat o **natężeniu ruchu**, a osobno informacji o kontrolach prędkości Policji. MIR ma poruszyć bezpieczeństwo Złotowskiej na Komisji BRD i wystąpić o kontrole przy SP 58. Poprawiono kartę, która mylnie mówiła o braku pięcioletnich pomiarów prędkości. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00081B1E).
 
 SHA-256 zachowanych kopii: 274 — `2bf5f189caea7495fc503e8ea52a67ea29b1513bedbc4e0ec2936c59627e0899`; 292 — `ef9b7a61f8e21ec18f206e89905051b752685b3da39cb1d87d5637d6110eea41`. Nie dodano ich do manifestu bieżących pobrań jako świeżo pobranych plików.
+
+- **RM-VI.0003.293.2026 / NT00081B2E — Łukasz Kapustka.** Odpowiedź Bartosza Derecha z 27.08: chodnik Pyrzyczańska–Kurlandzka leży na terenie powierzonym ZDM; ZDM zlecił ZRD remont do końca września 2026. Nie potwierdza to wykonania. Karta zawiera już tę odpowiedź z raportu 4.09; nie dodano duplikatu. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00081B2E). SHA-256 zachowanej kopii: `205fe408d819be9c087ae437ab9542eb4e42603995c205b3ee0fb42c5a810141`.
