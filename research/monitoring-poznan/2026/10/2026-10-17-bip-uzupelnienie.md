@@ -117,10 +117,38 @@ Oficjalny eksport Browsera `wgn.json` obejmuje9pozycji:4najmy/dzierżawy,3inform
 
 Oferta była już sygnalizowana w raportach16/17.10. **Brak wcześniejszych odczytanych plików i hashy oznacza nieustaloną zmianę treści, a nie brak zmiany.** Dzisiejszy odczyt zamyka lukę poznania bieżącej treści czterech załączników i tworzy punkt odniesienia do kolejnych porównań. Nie kwalifikuje automatycznie oferty jako nowej do alertu.
 
-Pełna lista wskazuje także Słupską34/8 —683/2026/P i34/6 —686/2026/P orazKaczeńcową46: wadiumdo21.10,przetarg28.10o10:00. To dane listy, bez odczytu dokumentów tych trzech ofert w tym podzadaniu.
+Pełna lista wskazuje także Słupską34/8 —683/2026/P i34/6 —686/2026/P orazKaczeńcową46: wadiumdo21.10,przetarg28.10o10:00. To dane listy. W późniejszym etapie odczytano lokalne archiwalne kopie dwóch wykazów Słupskiej, opisane poniżej; nie potwierdza to aktualności ofert ani odczytu ich pełnych zestawów załączników. Dokumenty Kaczeńcowej pozostają nieodczytane.
 
 
-## SHA-256 oryginałów
+## WGN: Słupska — odczyt lokalnych kopii archiwalnych
+
+**Status dowodu:** 17.10 przeczytano w całości dwa wykazy DOC odzyskane z lokalnego archiwum wcześniejszych pobrań. Konwersję wykonano systemowym `textutil`, bez sieci. **Nie są to świeże pobrania ani potwierdzenie aktualnych cen, terminów lub niezmienności plików w BIP.** Daty modyfikacji/kopiowania plików lokalnych nie są datami publikacji. Obie oferty i poniższe główne parametry opisano już w [raporcie 17.09](../09/2026-09-17.md); nie kwalifikują się ponownie jako nowa sprzedaż.
+
+| Pole wykazu | Słupska 34/6 | Słupska 34/8 |
+|---|---|---|
+| Załącznik do zarządzenia | [686/2026/P z 14.09](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/686-2026-p,NT001BD066/) | [683/2026/P z 14.09](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/683-2026-p,NT001BCFE2/) |
+| Właściciel | Miasto Poznań | Miasto Poznań |
+| Geodezja | Krzyżowniki, arkusz 21, działka 34/6 | Krzyżowniki, arkusz 21, działka 34/8 |
+| Powierzchnia / charakter | **2432 m²**, grunt niezabudowany; użytki B, ŁV, RV, RVI | **1736 m²**, grunt niezabudowany; użytki ŁV, RVI |
+| Cena wykazu | **1 200 000 zł, zwolnienie z VAT** | **850 000 zł, zwolnienie z VAT** |
+| Tryb | Przetarg ustny nieograniczony | Przetarg ustny nieograniczony |
+| MPZP | „Północno-Zachodni Klin Zieleni”, część E — Otoczenie Jeziora Kierskiego; **7U — usługi** | Ten sam plan i symbol **7U — usługi** |
+| Dostęp do drogi w wykazie | Pośredni przez działkę 34/5 w administracji ZDM, istniejącym zjazdem od północnego wschodu | Prawnie pośredni przez 34/5; **brak faktycznego dostępu**: znak, słup z latarnią, wysoka skarpa, drzewa i krzewy |
+| Wadium / termin przetargu | Nie podano | Nie podano |
+| Pierwszeństwo nabycia | 6 tygodni od wywieszenia wykazu, data wywieszenia niepotwierdzona | Tak samo |
+
+Wykazy przywołują plan przyjęty uchwałą XLVI/698/VI/2013 z 26.02.2013; nie są decyzjami o warunkach zabudowy ani gwarancją wydania pozwolenia na konkretną inwestycję. Obie działki są pochyłe, mają skarpy, drzewa i krzewy; ich zachodnia część ma według wykazów mniej korzystne warunki geologiczne i okresowo zatrzymuje wodę. Ogrodzenia nie pokrywają się z granicami geodezyjnymi. Wykazy nie wskazują obciążeń w działach III i IV księgi, lecz nie zastępują aktualnego sprawdzenia KW.
+
+**Ograniczenia uzbrojenia:** brak sieci deszczowej w Słupskiej na wysokości działek; PIGWO 2026–2030 nie przewidywał tam inwestycji. Możliwość podłączenia wody i kanalizacji wymaga opinii gestorów. Dla **34/8** Aquanet wskazał konieczność uzyskania zgód właściciela 34/5 na wykonanie, lokalizację przyłączy i przesył. Enea wymaga uwzględnienia odległości 1,5 m od skrajnego przewodu pobliskiej linii napowietrznej; bez danych o przyszłym obiekcie nie potwierdza wystarczającej mocy. Wykazy przywołują obowiązek uzgodnienia obsługi komunikacyjnej i ewentualnych zjazdów z ZDM oraz odrębne przepisy dotyczące usuwania drzew i wyłączenia gruntów z produkcji rolnej. Nie przeliczano tych ograniczeń na powierzchnię możliwej zabudowy.
+
+**Granica uzupełnienia:** poznano treść dwóch archiwalnych wykazów, ale nie odświeżono zarządzeń, map, ogłoszeń przetargowych ani metryk zmian. Brak świeżych plików do porównania oznacza, że materialna zmiana oferty pozostaje **nieustalona**. Sam ponowny odczyt archiwum nie jest przesłanką nowego alertu.
+
+| Archiwalna kopia DOC | SHA-256 odczytanej kopii |
+|---|---|
+| wykaz_-_ul._Slupska_dz._34_6.doc | aca895ffcd0ff99b49a6233c3fd6c33f2ef51f039c6abc0a3400fd4eace8b7b9 |
+| wykaz___ul._Slupska_dz._34_8.doc | a5421283a04ab86709178ea9a49b2ed9b18730b57a7d3ecad08bf74199b76941 |
+
+## SHA-256 plików Starogardzkiej pobranych 17.10
 
 | Plik | SHA-256 |
 |---|---|
