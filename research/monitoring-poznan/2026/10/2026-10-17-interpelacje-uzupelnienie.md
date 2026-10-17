@@ -283,7 +283,7 @@ Załączniki interpelacji **341 / NT00082B4A**, **342 / NT00082B5A** i **343 / N
 
 ## Pozostałe luki
 
-- Odczytane pisma nie zamykają pełnego audytu 1679 dokumentów. Odpowiedź 274 i sześć dokumentów wymagających kontroli ról pozostają do odczytu; poza najnowszymi 50 rekordami pozostaje obszerny historyczny zasób. Nie deklaruje się pełnego pokrycia treści ani braku zmian odpowiedzi.
+- Odczytane pisma nie zamykają pełnego audytu 1679 dokumentów. Bieżące wersje odpowiedzi 274 i sześciu dokumentów wymagających kontroli ról pozostają do weryfikacji przez Browser; kopie 274/292 odczytano dodatkowo lokalnie poniżej; poza najnowszymi 50 rekordami pozostaje obszerny historyczny zasób. Nie deklaruje się pełnego pokrycia treści ani braku zmian odpowiedzi.
 - Kontrola ról: 315 / NT00081F92 / ID 12577; 293 / NT00081B2E / ID 12535; 292 / NT00081B1E / ID 12533; 291 / NT00081AA6 / ID 12530–12531; 323 / NT00082062 / ID 12586. Do odczytu pozostają też dokumenty spółek załączone do 291; pismo przewodnie nie dowodzi wyniku roszczeń.
 - Browser rozłączył się podczas dalszego odczytu, a Mac był zablokowany. Nie zastosowano alternatywnego transportu BIP. Dokończenie pobrań wymaga dostępnego Browsera.
 - Odpowiedzi często wskazują późniejszą datę wpływu do Prezydenta niż rejestr. Przykłady: 328–331 — rejestr 29.09, pisma 2.10; 334–335 — rejestr 2.10, pisma 5.10; 305 — rejestr 7.09, pismo 9.09. Dat nie utożsamia się.
@@ -293,3 +293,12 @@ Załączniki interpelacji **341 / NT00082B4A**, **342 / NT00082B5A** i **343 / N
 ## Dalsze kroki
 
 Dokończyć wskazane dokumenty, następnie historyczną kolejkę odpowiedzi. Porównywać kolejne inwentarze po NOTEID i ID załącznika. Puste hashe API nie mogą usuwać wcześniej zweryfikowanych hashy; data obserwacji listy nie zastępuje daty pobrania i odczytu pliku. Nieaktualne wpisy kart aktualizować w tym samym markerze NOTEID.
+
+## Dodatkowy odczyt zachowanych kopii: 274 i 292
+
+Po utracie Browsera odnaleziono dwie lokalne kopie DOCX o nazwach odpowiadających inwentarzowi. Ich treść jest zgodna z wcześniejszymi wpisami repo, z poniższym sprostowaniem 292. Nie wykonano nowego pobrania z BIP, dlatego nie potwierdzono zgodności bajtowej z aktualnymi załącznikami ID 12503 i 12533. Czas modyfikacji pliku lokalnego nie jest dowodem daty publikacji.
+
+- **RM-VI.0003.274.2026 / NT00081052 — Andrzej Prendke.** Odpowiedź Bartosza Derecha z 21.08: PKP utrzymuje tunel Żarnowiecka–Rusałka; ZDM nie negocjuje przejęcia. ZDM zlecił koszenie przyległego pasa drogowego do końca sierpnia 2026. Bez dowodu wykonania. To ponowny odczyt znanego pisma, nie nowa zmiana. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00081052) · [wcześniejszy raport](../08/2026-08-24.md).
+- **RM-VI.0003.292.2026 / NT00081B1E — Magdalena Antolczyk-Stawska.** Odpowiedź Bartosza Derecha z 3.09: Miasto nie posiada danych z ostatnich pięciu lat o **natężeniu ruchu**, a osobno informacji o kontrolach prędkości Policji. MIR ma poruszyć bezpieczeństwo Złotowskiej na Komisji BRD i wystąpić o kontrole przy SP 58. Poprawiono kartę, która mylnie mówiła o braku pięcioletnich pomiarów prędkości. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00081B1E).
+
+SHA-256 zachowanych kopii: 274 — `2bf5f189caea7495fc503e8ea52a67ea29b1513bedbc4e0ec2936c59627e0899`; 292 — `ef9b7a61f8e21ec18f206e89905051b752685b3da39cb1d87d5637d6110eea41`. Nie dodano ich do manifestu bieżących pobrań jako świeżo pobranych plików.
