@@ -5,7 +5,7 @@ tier: 1.5
 frakcja: do weryfikacji (prawdopodobnie KO lub Trzecia Droga)
 okreg: do weryfikacji
 ocena: potencjal — dane i strategia Poznan 2040+ polityka mlodych
-updated: 2026-09-23
+updated: 2026-10-17
 source_dialog: ../13-radni-dialog/03b-portrety-pozostali.md
 source_mapa: ../13-radni-dialog/04-mapa-mianownikow.md
 ---
@@ -90,6 +90,10 @@ Data-driven policy: wyniki z badam.poznan.pl, raporty o stanie miasta, twarde st
 ## Aktualizacje
 
 ### Interpelacje BIP
+
+- **2026-10-15 — RM-VI.0003.349.2026.** Wniosek o analizę zabezpieczenia środków w budżecie 2027 na rondo przy F. Jaśkowiaka od strony Radojewa. Autor podaje kosztorys ok. 11 mln zł i 6 mln zł osiedla na powiązany ciąg pieszy; brak potwierdzonej decyzji budżetowej. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-budowy-ronda-przy-ul-f-jaskowiaka,NT00082CCE/) · [raport](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082CCE -->
+- **2026-10-15 — RM-VI.0003.348.2026.** Wniosek o 2,5 mln zł w budżecie 2027 na połączenie piesze Radojewo–Umultowo wzdłuż Naramowickiej od Łopianowej do chodnika. Według autora projektowanie przesunięto na I–II kw. 2027; 3,5 mln zł osiedla wymaga potwierdzenia uchwałą. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-polaczenia-pieszego-radojewa-z-umultowem-wzdluz-ul-naramowickiej,NT00082CBE/) · [raport](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082CBE -->
+- **2026-10-14 — RM-VI.0003.345.2026.** Wniosek o analizę podwyższenia wynagrodzeń wicedyrektorów szkół oraz środków na rozwój i szkolenia. Bez kwoty i terminu realizacji; dokument/wpływ 14.10, pierwszy odczyt 17.10 jako uzupełnienie historyczne. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-wzmocnienia-roli-wicedyrektorow-poznanskich-szkol,NT00082C46/) · [raport](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082C46 -->
 
 - **2026-10-07 — RM-VI.0003.339.2026.** Wnosi o szczegółową analizę bezpieczeństwa ruchu, organizacji i infrastruktury na Lechickiej przy wyjeździe z Wilczego Młyna oraz przejściu dla pieszych. Interpelacja nie wskazuje kosztu ani terminu; brak potwierdzonej decyzji o przebudowie. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-bezpieczenstwa-na-ul-lechickiej,NT00082B2A/) · [raport](../../monitoring-poznan/2026/10/2026-10-09.md) <!-- bip-interpelacja:NT00082B2A -->
 

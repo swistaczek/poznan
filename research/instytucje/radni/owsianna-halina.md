@@ -104,6 +104,8 @@ Myśli historiami konkretnych ludzi: zagrożonych pieszych, wykluczonych senior�
 
 ## Aktualizacje
 
+- **2026-10-17 — wynik komisji 15.10; publikacja 16.10.** Komisja Skarg, Wniosków i Petycji 15.10 nie rozstrzygnęła petycji o pomnik ofiar ludobójstwa na Wołyniu (1 za zasadnością, 1 za bezzasadnością, 2 wstrzymujące). Owsianna proponowała uznanie petycji za bezzasadną i skierowanie do komisji kultury; relacja nie pozwala przypisać imiennych głosów. Decyzja przed RMP, bez potwierdzonego wydatku. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport](../../monitoring-poznan/2026/10/2026-10-17.md)
+
 ### Procedury miejskie
 
 - **2026-10-07 — petycja Batorego.** Podczas rozpatrywania petycji o procedurę planistyczną na Batorego odwołała się do wcześniejszego uchwalenia planu. Komisja zawiesiła decyzję; zasugerowano zainteresowanie Komisji Rewizyjnej, bez potwierdzonego zlecenia kontroli. [UMP, publikacja 8.10.2026](https://www.poznan.pl/mim/smartcity/news,10522/cztery-petycje,287770.html) · [raport](../../monitoring-poznan/2026/10/2026-10-09.md).
