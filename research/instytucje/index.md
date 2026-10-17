@@ -19,6 +19,8 @@ Mapa kompetencji organów właściwych dla spraw poznańskich: samorząd, admini
 
 ## Portrety organów wykonawczych
 
+- [Piotr Husejko — skarbnik](skarbnik-husejko.md) — zweryfikowana funkcja i aktualizacje finansowe.
+
 - [`sekretarz-tamm.md`](./sekretarz-tamm.md) — Sekretarz Miasta; wspólna obsługa cyberbezpieczeństwa i nadzór nad informatyką/zamówieniami
 
 - [`prezydent-jaskowiak.md`](./prezydent-jaskowiak.md) — analiza biograficzna, polityczna i zarządcza Jacka Jaśkowiaka (kadencje 2014–, PO/KO); doktryna urbanistyczna (Projekt Centrum), konflikty z władzą centralną, profil decyzyjny

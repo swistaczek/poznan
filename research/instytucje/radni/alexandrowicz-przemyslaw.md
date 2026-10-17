@@ -125,3 +125,7 @@ Weteran samorządowy. Intelektualne zakorzenienie: klasyczna filozofia, chrześc
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)
 - Mapa mianowników: [`../13-radni-dialog/04-mapa-mianownikow.md`](../13-radni-dialog/04-mapa-mianownikow.md)
 - Zasady dialogu ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)
+
+## Aktualizacje
+
+- **2026-10-16 — relacja o petycji.** Na komisji 15.10 argumentował za aprobatą idei upamiętnienia ofiar ludobójstwa na Wołyniu w petycji, pozostawiając szczegóły zespołowi pomnikowemu. Według RMP komisja nie rozstrzygnęła petycji (1/1/2); nie przypisujemy imiennych głosów. Publikacja16.10, dostęp 17.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport](../../monitoring-poznan/2026/10/2026-10-16.md)
