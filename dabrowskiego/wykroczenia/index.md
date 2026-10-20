@@ -15,7 +15,7 @@ Wątek: samochody dostawcze zaopatrujące sklep sieci Żabka przy ul. Jana Henry
 - Spółka kilkakrotnie deklarowała działania: w marcu 2025 r. kary dla przewoźników, wniosek do ZDM o kopertę dla dostaw, zmianę okien czasowych i wpis zakazu jazdy po chodniku do dokumentu przewozowego. Koperta powstała, zjawisko nie ustało. Kolejne deklaracje: 07.07.2026 (Pełnomocnik do kontaktów z Policją: uczulenie kierowców), 04.09.2026 (Centrum Wsparcia Klienta: szkolenie), 16.09.2026 (dział compliance: zobowiązanie przewoźnika do parkowania w miejscu przeznaczonym, działania personalne, czynności Działu Transportu). Po każdej z nich odnotowano kolejne przypadki.
 - Policja: oba zgłoszenia (lipiec i wrzesień 2026) przekazane przez WRD KWP i WRD KMP do KP Poznań-Jeżyce. Do 20.10.2026 brak informacji o czynnościach.
 - Straż Miejska: pismem z 29.09.2026 objęła lokalizację szczególnym nadzorem. Pytanie uzupełniające z 29.09.2026 (godziny nadzoru, wyniki kontroli) bez odpowiedzi.
-- Chodnik: spółka w marcu 2025 r. zadeklarowała usunięcie szkody przez dostawcę, we wrześniu 2026 r. poproszono ją o wystąpienie do ZDM o naprawę na jej koszt. Bez reakcji. Przebudowa Dąbrowskiego na odcinku Żeromskiego - Janickiego obejmuje według pisma ZDM-PK.01520.284.2026.9 z 22.09.2026 północną stronę ulicy. Sklep jest po stronie parzystej, więc przebudowa tego chodnika nie obejmie.
+- Chodnik: spółka w marcu 2025 r. zadeklarowała, że po otrzymaniu opisu szkód zobowiąże dostawcę do ich usunięcia; śladu naprawy brak. We wrześniu 2026 r. poproszono ją o wystąpienie do ZDM o naprawę na jej koszt. Bez reakcji. Przebudowa Dąbrowskiego na odcinku Żeromskiego - Janickiego obejmuje według pisma ZDM-PK.01520.284.2026.9 z 22.09.2026 północną stronę ulicy. Sklep jest po stronie parzystej, więc przebudowa tego chodnika nie obejmie.
 - W odległości ok. 200 m działa publiczne Przedszkole nr 96 (ul. Janickiego 24a). Rano chodnikiem idą piesi, w tym rodzice z dziećmi i wózkami.
 
 ## Chronologia (skrót)
@@ -23,7 +23,7 @@ Wątek: samochody dostawcze zaopatrujące sklep sieci Żabka przy ul. Jana Henry
 | Data | Kto | Co |
 |---|---|---|
 | 27.02.2025 - 02.09.2026 | wnioskodawca do spółki, DW Rada Osiedla Jeżyce i SM, od 03.2026 także ZDM | Zgłoszenia około 13 zdarzeń, ze zdjęciami. Do ZDM wyłącznie zwykłe e-maile, które według autorespondera ZDM nie są skutecznym podaniem w trybie kpa |
-| 06.03.2025 | Centrum Wsparcia Klienta spółki | Przeprosiny i zapowiedź zobowiązania dostawcy do usunięcia szkody w nawierzchni |
+| 06.03.2025 | Centrum Wsparcia Klienta spółki | Przeprosiny; prośba o opis szkód w nawierzchni i zapowiedź, że po jego otrzymaniu spółka zobowiąże dostawcę do usunięcia szkody |
 | 25-29.03.2025 | Kierownik Działu ds. Operacji Transportowych spółki; Centrum Wsparcia Klienta | Kary finansowe dla przewoźnika, wniosek do ZDM o kopertę, zmiana harmonogramu dostaw, wpis "zakaz jazdy i parkowania na chodniku" do karty dyspozycji miejscowej |
 | 13.06.2026 | wnioskodawca | Koperta dla dostaw istnieje, zjawisko trwa |
 | 06.07.2026 | wnioskodawca do Policji (Stop Agresji Drogowej, dyżurny KP Poznań-Jeżyce) | Zgłoszenie jazdy pojazdu dostawczego wzdłuż chodnika. l.dz. R.Z.I.531.2086.2026.TS, przekazane do KMP, 08.07.2026 do KP Poznań-Jeżyce |
