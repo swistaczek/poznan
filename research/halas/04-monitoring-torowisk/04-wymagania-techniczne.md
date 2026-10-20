@@ -3,7 +3,7 @@ title: "Wymagania techniczne BAT: szlifowanie, wibroizolacja, przegląd ekologic
 type: chunk
 domain: halas
 source: wyniki-17-monitoring-torowisk-mpk.md
-updated: 2026-09-19
+updated: 2026-10-20
 ---
 
 > **KOREKTA 19.09.2026**: sekcja 5 poniżej pierwotnie opierała egzekucję na art. 115a POŚ + WIOŚ. To błędne dla hałasu drogowego/tramwajowego - **art. 115a ust. 2 POŚ wyłącza drogi i linie tramwajowe** z tego trybu, a WIOŚ nie ma tu sprawczości. Poprawiono na właściwą ścieżkę: art. 237/241 POŚ (przegląd ekologiczny) + art. 362 POŚ, z właściwością **Marszałka Województwa** (art. 378 ust. 2a pkt 4 POŚ), nie Starosty/Prezydenta. Zobacz też `../../dabrowskiego/halas/PLAN-KOMPLEKSOWY-REMONT-TOROWISKA.md` pkt 2.
@@ -119,7 +119,7 @@ Kontakt: **kancelaria@mpk.poznan.pl** — termin 14 dni. Szablon: [`../../../sza
 
 **Procedura.**
 
-1. Wniosek do Marszałka Województwa Wielkopolskiego o zobowiązanie zarządcy torowiska (Miasto/ZTM) do sporządzenia i przedłożenia **przeglądu ekologicznego** (art. 237 POŚ), z dowodami wstępnymi: pomiary BAASA 2026 (PPH3.05 +2,1/+3,9 dB, PPH4.16 +3,9 dB dzień), pomiary ZDM 2016, skargi mieszkańców.
+1. Wniosek do Marszałka Województwa Wielkopolskiego o zobowiązanie zarządcy torowiska (Miasto/ZTM) do sporządzenia i przedłożenia **przeglądu ekologicznego** (art. 237 POŚ), z dowodami wstępnymi: pomiary BAASA 2026 (PPH3.05 +2,1/+3,9 dB; PPH4.16 +3,9 dB dzień tylko przy kwalifikacji 2b ze sprawozdania, przy normie planu cz. C 68/60 dB bez przekroczenia, korekta 20.10.2026: `../../../dabrowskiego/halas/kwalifikacja-terenow-punkty-baasa-2026.md`), pomiary ZDM 2016, skargi mieszkańców.
 2. Przegląd ekologiczny (art. 241 POŚ) musi zawierać m.in. ocenę oddziaływania na środowisko, w tym hałas, oraz wskazanie ewentualnych działań naprawczych.
 3. Na podstawie przeglądu Marszałek może wydać **decyzję na podstawie art. 362 POŚ**, nakładającą na zarządcę obowiązek ograniczenia oddziaływania w określonym terminie, w tym m.in. wymóg zastosowania dostępnych technik ograniczających hałas.
 
