@@ -49,6 +49,10 @@ signatures: []
 - **Krok 1 (dowodowy)**: własne pomiary/ekspertyzy (np. BAASA), pomiary ZDM.
 - **Krok 2 (operacyjny)**: pismo o naprawę torowiska (szlifowanie szyn, wibroizolacja) → **MPK Poznań** z DW do **ZTM** (zarządca torowiska wg art. 28a ustawy o drogach publicznych, nie ZDM).
 - **Krok 3 (administracyjny)**: wniosek do **Marszałka Województwa Wielkopolskiego** (art. 378 ust. 2a pkt 4 POŚ) o przegląd ekologiczny (art. 237/241 POŚ) i decyzję na podstawie art. 362 POŚ; równolegle wniosek o aktualizację Programu ochrony środowiska przed hałasem (art. 119a ust. 10 POŚ), jeśli zadanie jest już wpisane w horyzoncie długofalowym (tak jak PHT5 dla Dąbrowskiego). Odwołanie od decyzji Marszałka: SKO nie jest właściwe - to decyzja organu I instancji marszałkowskiego, odwołanie do **Ministra Klimatu i Środowiska** albo skarga do WSA po wyczerpaniu trybu.
+- **Uzupełnienie 20.10.2026** (pełna tabela: `07-halas-droga-tramwaj-wlasciwosc.md`):
+  - organizacja ruchu jako środek ochrony przed hałasem (art. 173 pkt 2 POŚ): wniosek z art. 241 KPA do **Prezydenta** (art. 10 ust. 6 PoRD), sprawy prowadzi **Biuro MIR**; ZDM wdraża opracowane zmiany, jeśli jest finansowanie;
+  - decyzja o dodatkowych pomiarach zarządcy (art. 178 ust. 1 POŚ): **Prezydent jako starosta** (art. 378 ust. 1), postępowanie z urzędu, wniosek mieszkańca jako sygnał;
+  - właściwość Marszałka dla samej linii tramwajowej (art. 378 ust. 2a pkt 4 mówi o "drogach"): [do weryfikacji]; pismo kierować jednocześnie do Marszałka i Prezydenta.
 
 ## 2. Zły stan torowiska — zagrożenie katastrofy budowlanej / wykolejenia
 
