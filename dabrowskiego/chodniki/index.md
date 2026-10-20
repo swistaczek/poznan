@@ -7,7 +7,7 @@ updated: 2026-10-03
 
 # Chodniki przy Dąbrowskiego: odtworzenia nawierzchni po zajęciu pasa drogowego
 
-Wątek: jakość odtworzeń nawierzchni po robotach w pasie drogowym i czy ZDM realnie kontroluje odbiory. Odrębny od sprawy ciągu pieszego Janickiego i od [hałasu tramwajowego](../halas/). Rejestr pism: [`pisma/REJESTR.md`](pisma/REJESTR.md).
+Wątek: jakość odtworzeń nawierzchni po robotach w pasie drogowym i czy ZDM realnie kontroluje odbiory. Odrębny od sprawy ciągu pieszego Janickiego, od [hałasu tramwajowego](../halas/) i od [dostaw na chodniku przy nr 102](../wykroczenia/) (tamten chodnik leży po stronie parzystej, poza przebudową północnej strony odcinka Żeromskiego - Janickiego). Rejestr pism: [`pisma/REJESTR.md`](pisma/REJESTR.md).
 
 ## Sprawa: chodnik przy Dąbrowskiego 115
 
