@@ -89,6 +89,8 @@ Data-driven policy: wyniki z badam.poznan.pl, raporty o stanie miasta, twarde st
 
 ## Aktualizacje
 
+- **2026-10-19 — kadry oświaty.** RMP publikuje odpowiedź UMP na pytania radnego:428,12 etatu wakatów na 1.10;201 osób z prawem do emerytury w 2027;1032 nauczycieli poniżej 30 lat. Data pierwotnej odpowiedzi i metodologia nieustalone; osoby i etaty to różne miary. [RMP](https://www.poznan.pl/mim/rm/news,1202/liczba-wakatow-w-placowkach-oswiatowych,288610.html) · [raport](../../monitoring-poznan/2026/10/2026-10-20.md).
+
 ### Interpelacje BIP
 
 - **2026-10-15 — RM-VI.0003.349.2026.** Wniosek o analizę środków w budżecie 2027 na rondo F. Jaśkowiaka od Radojewa. Radny wskazuje kosztorys około 11 mln zł i 6 mln zł osiedla na powiązany chodnik; interpelacja nie potwierdza uchwalonych wydatków. Dokument/wpływ 2026-10-15; odczyt 16–17.10, publikacja nieustalona. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-budowy-ronda-przy-ul-f-jaskowiaka-2026-10-15,NT00082CCE/) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082CCE -->

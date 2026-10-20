@@ -103,6 +103,8 @@ Kotwica proceduralna: myśli kategoriami stabilności ustrojowej i ciągłości 
 
 ## Aktualizacje
 
+- **2026-10-16 — XLI sesja 27.10,09:00; uzupełnienie historyczne 20.10.** Opublikowany porządek obejmuje m. in. PU 276–280,281,252/255,261/262 i 259. Dokument 16.10, publikacja 16.10,16:01; PDF odczytanyOCR 20.10. To etap skierowania pod obrady, bez podjętych uchwał. [BIP](https://bip.poznan.pl/bip/sesje/xli,100057/) · [raport](../../monitoring-poznan/2026/10/2026-10-20.md).
+
 - **2026-07-07 — pilotaż dostępu do sesji.** Ganowicz wyjaśnił zasady przygotowane przez UMP ze służbami: publiczność podaje dane i okazuje dokument, otrzymuje jednorazowy identyfikator, zajmuje wydzielony sektor i zgłasza chęć zabrania głosu przez BRM. Wskazał Prezydenta jako zarządcę określającego instrukcje bezpieczeństwa; potrzebna jest ocena podstawy prawnej i proporcjonalności. [RMP](https://www.poznan.pl/mim/brm/news,10522/xxxviii-sesja-rady-miasta,282155.html) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
 
 ### Interpelacje BIP
