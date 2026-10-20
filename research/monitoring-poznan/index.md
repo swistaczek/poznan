@@ -4,6 +4,8 @@ Raporty zmian istotnych dla obywatelskiej kontroli miasta, filtrowane przez akty
 
 ## Raporty
 
+- [2026-10-20](2026/10/2026-10-20.md) — komisja budżetowa, interpelacje Umultowa i odpowiedzi; częściowy.
+
 - [2026-10-17](2026/10/2026-10-17.md)
 - [2026-10-16](2026/10/2026-10-16.md) — KT/MPK, podatek2027, retencja szkół, dane i 3interpelacje; częściowy.
 

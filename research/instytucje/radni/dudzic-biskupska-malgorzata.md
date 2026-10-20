@@ -111,6 +111,8 @@ Myśli jak audytor finansowy w jednej osobie z główną księgową korporacji: 
 
 ## Aktualizacje
 
+- **2026-10-19 — komisja budżetowa 26.10,14:30.** Nowe zaproszenie przewodniczącej obejmuje m. in. targowiska, podatek 2027, kulturę, PFRON, obsługę danych/cyberbezpieczeństwo i konsolidację lecznictwa. Publikacja 19.10,11:34; dostęp 20.10. Porządek nie dowodzi opinii ani wyniku głosowania. [BIP100077](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=100077) · [raport](../../monitoring-poznan/2026/10/2026-10-20.md).
+
 ### Interpelacje BIP
 
 - **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
