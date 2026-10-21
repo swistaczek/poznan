@@ -1,0 +1,13 @@
+punkt_kontrolny,polozenie,lon_wgs84,lat_wgs84,warstwa7_obiekty_OBJECTID_SUM24,warstwa12_LDWN_tramwaj,warstwa13_LN_tramwaj
+PPH3.05,nr 118,16.892714,52.415006,190:259; 191:259; 1046:259; 1104:259,65-70 dB,55-60 dB
+PPH2.43,nr 82 (ul. Polna),16.8980,52.4139,904:259; 905:259,60-65 dB,55-60 dB
+PPH4.16/P16,nr 73 (współrzędne P16 z 2021),16.901497,52.413289,737:259; 791:259,60-65 dB,55-60 dB
+PPH3.58,nr 52,16.9033,52.4127,909:259; 1656:259,65-70 dB,55-60 dB
+x16.9040,węzeł z ul. Kraszewskiego (Rynek Jeżycki),16.9040,52.41255,908:0; 2211:259; 2216:0; 2217:259; 2218:0; 2219:259; 2315:0,60-65 dB,55-60 dB
+x16.9047,odcinek Rynek Jeżycki - Most Teatralny,16.9047,52.4124,792:0; 793:0,55-60 dB,-16.4-50 dB
+x16.9055,odcinek Rynek Jeżycki - Most Teatralny,16.9055,52.4123,792:0; 793:0; 1115:0; 2099:0,-10-55 dB,-16.4-50 dB
+x16.9065,odcinek Rynek Jeżycki - Most Teatralny,16.9065,52.4121,1115:0; 1116:0; 2098:0; 2099:0,-10-55 dB,-16.4-50 dB
+x16.9080,odcinek Rynek Jeżycki - Most Teatralny,16.9080,52.4118,1116:0; 2098:0,-10-55 dB,-16.4-50 dB
+PPH4.05/P05,ok. 14 m od skrzyżowania z ul. Kochanowskiego,16.909742,52.411506,1116:0; 1117:0; 1118:0; 2098:0,-10-55 dB,-16.4-50 dB
+x16.9110,odcinek Rynek Jeżycki - Most Teatralny,16.9110,52.4111,763:0; 1654:0; 1655:0,-10-55 dB,-16.4-50 dB
+x16.9125,przy węźle Most Teatralny,16.9125,52.4106,633:0; 1002:0; 1651:0; 1652:0; 1943:0,60-65 dB,50-55 dB
