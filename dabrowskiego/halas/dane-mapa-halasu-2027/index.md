@@ -52,7 +52,7 @@ BAASA Acoustics sp. j. (AB 1820) na zlecenie ZDM, sprawozdania S-2026.03-10 z 31
 | PPH3.05, nr 118 | drogowy z torowiskiem, 19-20.05 | 70,1 / 63,9 | +1,3 / -1,9 | 4a, strefa śródmiejska (MPZP) | 68 / 60 | +2,1 / +3,9 |
 | PPH2.43, nr 82 | drogowy z torowiskiem, 19-20.05 | 66,1 / 60,6 (przed korektą elewacyjną 69,1 / 63,6) | +1,1 / -1,3 | "Tereny niechronione" | brak | brak |
 | PPH3.58, nr 52 | drogowy z torowiskiem, 19-20.05 | 65,1 / 60,6 (68,1 / 63,6) | +1,2 / -1,4 | nie wpisano ("Wybierz") | brak | brak |
-| PPH4.16, nr 73 | tramwajowy, 23.04, 11:40-14:45 | 64,9 / 58,7* | +1,2 / -2,1 | 2b (plan VII/84/VIII/2019: standard śródmiejski) | 61 / brak | +3,9 / brak |
+| PPH4.16, nr 73 | tramwajowy, 23.04, 11:40-14:45 | 64,9 / 58,7* | +1,2 / -2,1 | 2b (plan VII/84/VIII/2019: standard śródmiejski) | 61 / brak (plan: 68 / 60) | +3,9 / brak (przy 68 dB: -3,1) |
 | PPH4.05, ul. Kochanowskiego | tramwajowy, 23.04, 15:15-19:05 | 51,5 / 45,4* | +1,3 / -2,3 | "Tereny niechronione" | brak | brak |
 
 \* LAeqN wyliczony z liczby kursów ZTM; w nocy nie mierzono. Pomiary drogowe obejmują hałas drogi i torowiska łącznie. Wynik to dobowy LAeq z jednego dnia, nie roczne LDWN/LN. Pomiary poprzedziły roboty torowe MPK od 01.08.2026 (wymiana odcinków szyn bez zmiany konstrukcji). Ruch w dobie pomiaru, uwagi: [wyniki-pomiarow-2026.csv](wyniki-pomiarow-2026.csv).
@@ -86,7 +86,7 @@ Warstwy 7, 12 i 13 w 12 punktach kontrolnych (SIP, 21.10.2026): [model-smh-2022-
 - SMH 2022 (s. 63-66): "Wszystkie torowiska przyjęto jako nawierzchnie normalnie utrzymane (Railhead roughness=3)"; w całym mieście 2 typy torowisk (podkłady betonowe, Track base=2, albo drewniane, Track base=8); jeden typ pojazdu TRAM ("nie dokonuje się podziału na typy tramwajów"). Poprawki kalibracyjne +4,0 dB w P05, P16 i P37, przypisane "dla całego jednorodnego odcinka torowiska tramwajowego"; średni błąd kalibracji 1,9 dB.
 - MPK (07.08 i 12.08.2026): po robotach z sierpnia konstrukcja toru bez zmian; "stan przedmiotowego tory jest zły a konstrukcja przestarzała"; szlifowanie od Mostu Teatralnego do pętli Ogrody planowane na XI-XII 2026.
 - ZTM (22.09.2026): drgania od taboru przenoszą się na budynki; przebudowa pełnego przekroju torowiska na lata 2029-2030, jeśli będą środki.
-- ZDM (19.10.2026): na przebudowę ul. Dąbrowskiego od ul. Roosevelta do ul. Żeromskiego 250 000 zł (2026) i 2 000 000 zł (2027); przebudowa torowiska "obecnie tylko założeniem projektowym".
+- ZDM (19.10.2026): na przebudowę ul. Dąbrowskiego (Roosevelta - Żeromskiego) 250 000 zł (2026) i 2 000 000 zł (2027); przebudowa torowiska "obecnie tylko założeniem projektowym".
 - Marszałek Województwa (18.08.2026): odcinek objęty działaniem PHT4 programu ochrony środowiska przed hałasem.
 
 Cytaty i znaki pism: [chronologia, cz. 3](chronologia.md#3-stanowiska-instytucji-cytaty).
@@ -105,7 +105,6 @@ Cytaty i znaki pism: [chronologia, cz. 3](chronologia.md#3-stanowiska-instytucji
 - SIP Poznań, usługa SMH 2022: `https://wms1.geopoz.poznan.pl:6443/arcgis/rest/services/sip/strategiczna_mapa_halasu_2022/MapServer`, warstwy 7, 12, 13; zapytania 21.10.2026.
 - Postępowanie SMH 2027: [platformazakupowa.pl/transakcja/1338175](https://platformazakupowa.pl/transakcja/1338175), OPZ cz. I-III; BZP 2026/00322955, 2026/BZP 00410731.
 - Sprawozdania BAASA S-2026.03-10 z 31.07.2026 (ZDM-PK.01520.249.2026.5); zapisy z mierników (ZDM-PK.01520.249.2026.8).
-- Rozkład ZTM Poznań, GTFS 20261008_20261031.zip ([ztm.poznan.pl](https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile/?file=20261008_20261031.zip), pobrany 21.10.2026), przystanek Polna, dni robocze (service_id 1, 5, 7: ten sam wynik).
+- Rozkład ZTM Poznań, GTFS 20261008_20261031.zip ([ztm.poznan.pl](https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile/?file=20261008_20261031.zip), pobrany 08.10 i 21.10.2026), przystanek Polna, dni robocze (service_id 1, 5, 7: ten sam wynik).
 - MPZP: XC/1711/VIII/2023 (rejon ulic J. H. Dąbrowskiego, A. Szamarzewskiego i Polnej), § 5 pkt 1 lit. e; VII/84/VIII/2019 (Jeżyce - Północ, cz. C), § 5 ust. 2 pkt 1.
 - Prawo: POŚ (t.j. Dz.U. 2025 poz. 647), art. 118; rozporządzenie w sprawie SMH (t.j. Dz.U. 2024 poz. 255) i zmiana Dz.U. 2026 poz. 621.
-- Pisma instytucji: znaki i daty w [chronologii](chronologia.md).
