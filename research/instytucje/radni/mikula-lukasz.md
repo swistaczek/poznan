@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: 1
 ocena: inne priorytety — procedury planistyczne blad proceduralny
-updated: 2026-10-14
+updated: 2026-10-21
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -112,6 +112,8 @@ Strateg przestrzenny: myśli kategoriami makro-urbanistyki, wskaźników intensy
 - Analiza interpelacji i odpowiedzi Urzędu (stan 09.2026): [`mikula-interpelacje-analiza-2026-09.md`](mikula-interpelacje-analiza-2026-09.md)
 
 ## Aktualizacje
+
+- **2026-10-19 — poprawka granic planu.** KPP przyjęła poprawkę Mikuły rozszerzającą o jedną działkę obszar przystąpienia do MPZP przy Dolnej Wildzie, Królowej Jadwigi, Drodze Dębińskiej i o.Mariana Żelazka; projekt z poprawką pozytywnie zaopiniowano. Numeru działki i imiennego głosowania relacja nie podaje. Bez uchwały RMP. Publikacja20.10, dostęp21.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/teren-wokol-teatru-polskiego,288701.html) · [raport](../../monitoring-poznan/2026/10/2026-10-21.md)
 
 - **2026-10-12 — porządek KPP na 19.10.** Odpowiada za zaproszenie na opiniowanie czterech planów o 15:00, w tym Starego Koryta Warty; od 16:00 wspólnie z komisją promocji informacja o wdrażaniu uchwały krajobrazowej i orzecznictwie. Publikacja 12.10, 14:04; dostęp 14.10. Bez potwierdzonej opinii czy uchwalenia. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=99938) · [raport](../../monitoring-poznan/2026/10/2026-10-14.md)
 

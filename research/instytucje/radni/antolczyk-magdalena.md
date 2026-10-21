@@ -6,7 +6,7 @@ frakcja: "[do weryfikacji]"
 okreg: "[do weryfikacji]"
 ocena: Wiceprzew. Komisji Zdrowia — kluczowa do narracji hałas=zdrowie publiczne
 aliases: ["Magdalena Antolczyk", "Antolczyk-Stawska Magdalena"]
-updated: 2026-09-23
+updated: 2026-10-21
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
 
@@ -63,7 +63,7 @@ Antolczyk ze względu na zakres obowiązków komisji **jest zobligowana się odn
 ### Interpelacje BIP
 
 - **2026-10-08 — RM-VI.0003.343.2026.** Wspólnie z Tomaszem Stachowiakiem żąda uzupełnienia odpowiedzi z 18.09 dotyczącej Husarskiej: dokumentacji i bilansu legalnych miejsc postojowych, wskazania statusu odcinków i właściwych zarządców oraz wyników oceny drzew i planu pielęgnacji. To ponowne pytania kontrolne, nie decyzja o zmianie parkowania. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-odpowiedzi-na-interpelacje-dotyczaca-uporzadkowania-parkowania-oraz-poprawy-stanu-drzew-na-ulicy-husarskiej,NT00082B6A/) · [raport](../../monitoring-poznan/2026/10/2026-10-09.md) <!-- bip-interpelacja:NT00082B6A -->
-- **2026-10-08 — RM-VI.0003.342.2026.** Pyta o status planowanej inwestycji Instytutu Genetyki Człowieka PAN przy Księżycowej, znaczenie terminu 31.12.2026 oraz możliwość odzyskania dyspozycji nad terenem i przeznaczenia go na park/boisko. Termin i stan prawny są twierdzeniami interpelacji wymagającymi odpowiedzi miasta; nie potwierdzono zmiany przeznaczenia. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-mozliwosci-zagospodarowania-nieruchomosci-przy-ul-ksiezycowej-na-cele-rekreacyjno-sportowe,NT00082B5A/) · [raport](../../monitoring-poznan/2026/10/2026-10-09.md) <!-- bip-interpelacja:NT00082B5A -->
+- **2026-10-08 — RM-VI.0003.342.2026.** Odpowiedź Natalii Weremczuk z20.10: Prezydent odmówił wydłużenia terminu zabudowy miejskiej działki13/67 przy Księżycowej i zaproponował PAN rozwiązanie użytkowania wieczystego za porozumieniem; stanowisko PAN do2.11. Termin31.12.2026 dotyczy zabudowy, użytkowanie trwa do13.05.2110. Plan3U warunkowo dopuszcza sport/rekreację; brak decyzji o boisku. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082B5A) · [raport](../../monitoring-poznan/2026/10/2026-10-21.md) <!-- bip-interpelacja:NT00082B5A -->
 - **2026-10-07 — RM-VI.0003.341.2026.** Wnosi o analizę widoczności między kierowcami wyjeżdżającymi z Junikowskiej a użytkownikami drogi rowerowej przy Grunwaldzkiej; pyta o rozwiązania poprawiające bezpieczeństwo i ich możliwy koszt. Brak decyzji lub harmonogramu wykonania. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-poprawy-bezpieczenstwa-na-skrzyzowaniu-ulic-grunwaldzkiej-i-junikowskiej,NT00082B4A/) · [raport](../../monitoring-poznan/2026/10/2026-10-09.md) <!-- bip-interpelacja:NT00082B4A -->
 
 - **2026-09-07 — RM-VI.0003.304.2026.** Odpowiedź z 18.09: MIR i ZDM odrzucają dodatkowe miejsca na Husarskiej bez przebudowy; odcinek nr 4–6 jest drogą wewnętrzną. Kolejne cięcia drzew zależą od przeglądu i budżetu ZDM, bez terminu i kwoty. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-uporzadkowania-parkowania-oraz-poprawy-stanu-drzew-na-ulicy-husarskiej,NT00081DDE/) · [raport](../../monitoring-poznan/2026/09/2026-09-23.md) <!-- bip-interpelacja:NT00081DDE -->
