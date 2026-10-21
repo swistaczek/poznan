@@ -3,7 +3,7 @@ title: "Skargi na bezczynność do WSA/NSA — architektura prawna i pułapki"
 type: how-to
 domain: transparentnosc
 source: wyniki-06-udip-poznan.md
-updated: 2026-04-17
+updated: 2026-10-20
 entities:
   - WSA-Poznań
   - NSA
@@ -35,6 +35,8 @@ Złożenie profesjonalnie sformułowanej skargi do Wojewódzkiego Sądu Administ
 - Spółka komunalna odpisała zwykłym e-mailem „tajemnica przedsiębiorstwa" bez formalnej decyzji (zob. `03-udip-a-spolki-komunalne.md`).
 
 **Nie wzywaj ponownie.** W UDIP NIE ma obowiązku wzywania do usunięcia naruszenia prawa (inaczej niż w KPA). Dodatkowe „przypomnienie" wydłuża procedurę i daje urzędowi czas na manipulację aktami.
+
+**Uwaga (20.10.2026): po udostępnieniu skarga przepada.** Skarga na bezczynność wniesiona już po załatwieniu wniosku podlega odrzuceniu (stan historyczny), nawet gdy odpowiedź przyszła po terminie (NSA III OSK 526/22, pkt 11). Skarżyć trzeba elementy nadal nieudostępnione bez rozstrzygnięcia albo zanim organ odpowie.
 
 ## 2. Tryb pośredni — kluczowa pułapka formalna
 
@@ -109,6 +111,25 @@ Jeśli WSA oddali skargę:
 - Karuzela SKO ↔ organ (bez wejścia do WSA): 6–18 miesięcy czystej obstrukcji.
 
 Dlatego OD POCZĄTKU prowadź równolegle dwie ścieżki — odwoławczą i sądową.
+
+## 11. Orzecznictwo zweryfikowane (CBOSA, dostęp 20.10.2026)
+
+| Teza | Orzeczenie | Status |
+|---|---|---|
+| Skarga na bezczynność w udip nie musi być poprzedzona środkiem zaskarżenia (ponaglenie zbędne): "nie musi być poprzedzona żadnym środkiem zaskarżenia na drodze administracyjnej" | NSA I OSK 2433/18, 28.01.2020 | prawomocne |
+| Wydanie aktu w sprawie czyni bezczynność "stanem historycznym"; "skarga wniesiona w czasie, w którym bezczynność (przewlekłość) jest już takim właśnie stanem historycznym, podlega odrzuceniu" (udip, skarga po decyzji odmownej) | NSA III OSK 526/22, post. 26.05.2023, stosuje uchwałę 7 sędziów II OPS 5/19 z 22.06.2020 (ONSAiWSA 2020 nr 5 poz. 79) | prawomocne |
+| Ta sama linia w WSA w Poznaniu (skarga na bezczynność dyrektora zarządu dróg miejskich, miasto zanonimizowane) | WSA w Poznaniu II SAB/Po 272/25, post. 04.03.2026 | prawomocne |
+| Organ musi ustosunkować się do każdego pytania wniosku i zweryfikować, czy dotyczy informacji publicznej (kontrargument wobec IV SAB/Gl 196/17) | NSA III OSK 2535/25, 19.06.2026 | prawomocne |
+| Gdy organ informacji nie posiada, "zobowiązany powinien zawsze powiadamiać wnioskodawcę", z wyjaśnieniem dlaczego | NSA I OSK 2093/14, 30.09.2015 | prawomocne |
+| "udostępnienie informacji publicznej pozorne, w części, niepełnej albo wymijającej nie jest wypełnieniem obowiązku" | NSA III OSK 7599/21, 17.03.2023 | prawomocne |
+| Pominięcie części dokumentów (dwie umowy) = bezczynność z rażącym naruszeniem prawa, 1000 zł grzywny; "błąd techniczny" organu nie pomógł | NSA III OSK 504/26, 17.07.2026 (WSA II SAB/Bk 118/25) | prawomocne |
+| Linia powoływana przez organy (np. ZDM 01.10.2026, z niepełną sygnaturą "IV SAB/Gl 196/1"): "w trybie przepisów ustawy o dostępie do informacji publicznej, nie można domagać się wyrażenia opinii na dany temat, przeprowadzenia oceny lub dokonania interpretacji"; przeciw niej III OSK 2535/25 | WSA w Gliwicach IV SAB/Gl 196/17, 13.09.2017 | prawomocny |
+
+Linki: https://orzeczenia.nsa.gov.pl/doc/C2798B9A18 (I OSK 2433/18), /87C8F3A748 (III OSK 526/22), /2FCD3608C4 (II OPS 5/19), /2DC2D51F4D (II SAB/Po 272/25), /617D061717 (III OSK 2535/25), /CF95D9EB07 (I OSK 2093/14), /55D992F0A9 (III OSK 7599/21), /4CE6DE11B2 (III OSK 504/26), /B3428F9448 (IV SAB/Gl 196/17).
+
+Nie cytować: I OSK 2678/16 (brak tezy o "czynności organu"; zamiennik I OSK 2093/14), I OSK 1599/15 (egzamin adwokacki), III OSK 90/25 (działa przeciw wnioskodawcy), II SAB/Kr 116/15 (uchylony). II SAB/Ke 71/26 dotyczy skargi przedwczesnej, nie skargi po załatwieniu wniosku.
+
+Zastosowanie: [`dabrowskiego/halas/odpowiedzi/2026-10-19_zdm-pk-01520-249-2026-13.md`](../../../dabrowskiego/halas/odpowiedzi/2026-10-19_zdm-pk-01520-249-2026-13.md).
 
 ## Szablon powiązany
 

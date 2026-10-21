@@ -2,12 +2,14 @@
 title: "Plan działania: kompleksowy remont torowiska ul. Dąbrowskiego"
 type: strategy
 domain: halas
-updated: 2026-09-19
+updated: 2026-10-20
 ---
 
 # Plan działania: kompleksowy remont torowiska ul. Dąbrowskiego
 
 Cel: doprowadzić do kompleksowej (nie punktowej) przebudowy torowiska tramwajowego na odcinku Żeromskiego - Rynek Jeżycki/Polna. Synteza 4 równoległych researchów (18-19.09.2026) + 18 miesięcy dotychczasowej dokumentacji sprawy. Zobacz też: `DOSSIER-TOROWISKO.md`, `KANALY-WPLYWU.md`, `pomiary-baasa-2026-05-wyniki.md`.
+
+> **Aktualizacja 20.10.2026** (pisma ZDM-RO.401.544.2026.8 z 02.10 i ZDM-PK.01520.249.2026.13 z 19.10.2026): w zadaniu WPF ZDM/P/009 "Przebudowa utwardzonych ulic krajowych, wojewódzkich i powiatowych" wydzielono pozycję "Przebudowa ul. Dąbrowskiego na odcinku od F. Roosevelta do ul. S. Żeromskiego": 250 000 zł na 2026 r. (potwierdzone w materiałach informacyjnych do projektu budżetu 2026, BIP) i 2 000 000 zł na 2027 r. (tylko pismo ZDM). Według ZDM "trwa doszczegółowienie zakresu", zadania nie przekazano PIM, a przebudowa torowiska jest "tylko założeniem projektowym". W WPF z 29.09.2026 (XL/741/IX/2026) słowo "Dąbrowsk" nadal nie występuje; zadania tramwajowego dla Dąbrowskiego w WPF brak. Wnioski z art. 241 kpa do zakresu dokumentacji (analiza akustyczna, pełny przekrój z torowiskiem, drgania, pomiary po przebudowie) przekazano do Wydziału Przygotowania Inwestycji ZDM, termin 02.11.2026. Najbliższe okno: projekt budżetu i WPF na 2027 r. do 15.11.2026. Wymóg wiążący dla projektu torowiska: § 48 ust. 3 rozp. MI z 24.06.2022 (rozwiązania redukujące hałas i wibracje). Szczegóły: [`odpowiedzi/2026-10-19_zdm-pk-01520-249-2026-13.md`](odpowiedzi/2026-10-19_zdm-pk-01520-249-2026-13.md), [`odpowiedzi/2026-10-19_zdm-ro-401-544-2026-11.md`](odpowiedzi/2026-10-19_zdm-ro-401-544-2026-11.md).
 
 ## 1. Kto decyduje - poprawka do dotychczasowych założeń
 
