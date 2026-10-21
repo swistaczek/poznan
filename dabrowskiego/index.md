@@ -13,6 +13,8 @@ Obywatelska inicjatywa dotycząca uciążliwości akustycznej torowiska tramwajo
 
 Kampania w fazie formowania — baza prawna i techniczna gotowa ([research](../research/)), pierwsze pisma w toku. Pisma wysłane i odpowiedzi urzędów będą pojawiać się w [`halas/`](halas/).
 
+Dane dla strategicznej mapy hałasu Poznania 2027 (punkty i wyniki pomiarów 2026, natężenie tramwajów w modelu 2022, pytania do wykonawcy, chronologia korespondencji): [`halas/dane-mapa-halasu-2027/`](halas/dane-mapa-halasu-2027/index.md).
+
 ## Obszary
 
 - [**Hałas tramwajowy**](halas/) — pomiary, skargi do WIOŚ, wezwania do MPK, droga cywilna.
