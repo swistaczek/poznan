@@ -78,6 +78,8 @@ Wiceprzewodniczący RM IX kadencji, 34 lata w momencie wyborów 2024, pierwsze m
 
 ## Aktualizacje
 
+- **2026-10-22 — konsolidacja szpitali i kompetencje cenowe.** RMP21.10 relacjonuje przyjęcie przez komisję20.10 wniosku Kapustki o odstąpienie od opiniowania PU262/2026S z powodu brakujących dokumentów i analiz. Osobno kwestionował przekazanie Prezydentowi ustalania opłat targowych; brak imiennego wyniku jego głosu. [RMP: szpitale](https://www.poznan.pl/mim/rm/news,10522/konsolidacja-tak-czy-nie,288799.html) · [RMP: targowiska](https://www.poznan.pl/mim/rm/news,10522/kto-ma-decydowac-o-stawkach-oplat-na-targowiskach,288763.html) · [raport](../../monitoring-poznan/2026/10/2026-10-22.md). Dostęp22.10.
+
 ### Interpelacje BIP
 
 - **2026-08-21 — RM-VI.0003.293.2026.** Odpowiedź datowana 27.08: ZDM zlecił ZRD remont chodnika Pyrzyczańska–Kurlandzka do końca września 2026 r.; kwoty nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-koniecznosci-remontu-chodnika-przy-ul-pyrzyczanskiej,NT00081B2E/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT00081B2E -->
