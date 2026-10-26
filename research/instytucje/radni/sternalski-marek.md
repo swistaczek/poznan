@@ -2,7 +2,7 @@
 title: "Marek Sternalski"
 type: karta-radnego
 frakcja: KO
-updated: 2026-10-21
+updated: 2026-10-26
 ---
 
 # Marek Sternalski
@@ -10,6 +10,8 @@ updated: 2026-10-21
 Radny IX kadencji; przewodniczący Komisji Oświaty i Wychowania oraz wiceprzewodniczący klubu KO. [Skład RMP](https://bip.poznan.pl/bip/radni/).
 
 ## Aktualizacje
+
+- **2026-10-22 — KOiW 29.10.** Odpowiada za zaproszenie na 29.10, 15:00: finansowanie i nadzór nad szkołami niepublicznymi oraz Szkołą w Chmurze, kontrola dotacji, plany płacowe oświaty 2027 i wykonanie poprawek budżetu 2026. To porządek, bez wyników kontroli lub zatwierdzonych podwyżek. Publikacja 22.10, 12:06; dostęp 26.10. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=100117) · [raport](../../monitoring-poznan/2026/10/2026-10-26.md)
 
 - **2026-08-31 — budżet 2027 i inwestycje osiedlowe.** Sternalski, przy zapowiedzi rozmów KO z 42 radami osiedli, publicznie zestawił sposób prowadzenia inwestycji przez pion Mariusza Wiśniewskiego z PIM i innymi jednostkami. Nie przedstawiono mierników ani dokumentu porównawczego; proces ma zasilić projekt budżetu 2027. [źródło](https://gloswielkopolski.pl/wiecej-pieniedzy-dla-poznanskich-osiedli-radni-ko-chca-wrocic-do-podstaw-i-krytykuja-miasto-za-jakosc-procesow-inwestycyjnych/ar/c1p2-29311239) · [raport](../../monitoring-poznan/2026/09/2026-09-01.md)
 

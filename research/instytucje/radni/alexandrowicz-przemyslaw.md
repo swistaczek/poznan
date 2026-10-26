@@ -5,7 +5,7 @@ tier: 1
 frakcja: PiS
 okreg: do weryfikacji
 ocena: odmienne priorytety w transporcie / wspólny grunt dziedzictwo lad bezpieczenstwo rodzin
-updated: 2026-04-17
+updated: 2026-10-26
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../13-radni-dialog/03-portret-alexandrowicz.md
 ---
@@ -127,5 +127,7 @@ Weteran samorządowy. Intelektualne zakorzenienie: klasyczna filozofia, chrześc
 - Zasady dialogu ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)
 
 ## Aktualizacje
+
+- **2026-10-22 — Rada Posnanii.** Zarządzenie 757/2026/P powołuje go do siedmioosobowej Rady Wydawnictwa Miejskiego Posnania do 30.09.2033, na okres powołania dyrektora. Dokument i wejście w życie 22.10; publikacja nieustalona, odczyt aktu 26.10. Brak informacji o wynagrodzeniu. [BIP](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/757-2026-p,NT001BE656/) · [raport](../../monitoring-poznan/2026/10/2026-10-26.md)
 
 - **2026-10-16 — relacja o petycji.** Na komisji 15.10 argumentował za aprobatą idei upamiętnienia ofiar ludobójstwa na Wołyniu w petycji, pozostawiając szczegóły zespołowi pomnikowemu. Według RMP komisja nie rozstrzygnęła petycji (1/1/2); nie przypisujemy imiennych głosów. Publikacja16.10, dostęp 17.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md)

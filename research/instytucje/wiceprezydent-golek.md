@@ -1,5 +1,9 @@
 # **Wysoce Ustrukturyzowana i Wyczerpująca Analiza Biografii, Działalności Administracyjnej oraz Decyzji Strategicznych Marcina Gołka w Strukturach Samorządu Terytorialnego Miasta Poznania**
 
+## Aktualizacje
+
+- **2026-10-22 — konkurs NGO 150/2026.** Podpisał z upoważnienia Prezydenta zarządzenie 759/2026/P: 10 tys. zł dla Fundacji Neurowskazówka na „Aktywny Mózg- Aktywny Senior”, zadanie do 31.12.2026. Dyrektor BKPiRM odpowiada za umowę, nadzór i sprawozdanie. Bez dowodu wypłaty. Dokument 22.10; publikacja nieustalona, pełny odczyt 26.10. [BIP](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/759-2026-p,NT001BE662/) · [raport](../monitoring-poznan/2026/10/2026-10-26.md)
+
 ## **Wprowadzenie do Analizy Trajektorii Zawodowej i Politycznej**
 
 Współczesne modele zarządzania wielkimi aglomeracjami miejskimi, w szczególności tymi o ugruntowanej pozycji makroekonomicznej i znaczeniu metropolitalnym, wymagają od decydentów publicznych unikalnej hybrydyzacji kompetencji. Przestrzeń miejska nie jest już postrzegana wyłącznie jako zbiór infrastruktury technicznej, lecz jako wysoce skomplikowany, samoregulujący się ekosystem społeczno-gospodarczy, w którym procesy polityczne, inżynieryjne i komunikacyjne przenikają się na każdym poziomie decyzyjnym. W tym kontekście, postać Marcina Gołka – pełniącego obecnie kluczową funkcję Pierwszego Zastępcy Prezydenta Miasta Poznania – wyrasta na jedno z najbardziej fascynujących studiów przypadku w najnowszej historii polskiego samorządu terytorialnego.1 Jego biografia zawodowa stanowi soczewkę, przez którą można obserwować ewolucję modelu kariery od zakulisowego stratega i doradcy politycznego, poprzez stanowiska ściśle technokratyczne i menedżerskie w spółkach prawa handlowego z udziałem kapitału komunalnego, aż po zajęcie pierwszoplanowej, eksponowanej pozycji ustrojowej w architekturze władzy wykonawczej miasta.1

@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: do weryfikacji
 ocena: inne priorytety — stabilnosc eskalacja instytucjonalna
-updated: 2026-08-22
+updated: 2026-10-26
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -102,6 +102,8 @@ Kotwica proceduralna: myśli kategoriami stabilności ustrojowej i ciągłości 
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)
 
 ## Aktualizacje
+
+- **2026-10-22 — Rada Posnanii.** Zarządzenie 757/2026/P powołuje go do siedmioosobowej Rady Wydawnictwa Miejskiego Posnania do 30.09.2033, na okres powołania dyrektora. Dokument i wejście w życie 22.10; publikacja nieustalona, odczyt aktu 26.10. Brak informacji o wynagrodzeniu. [BIP](https://bip.poznan.pl/bip/zarzadzenia-prezydenta/757-2026-p,NT001BE656/) · [raport](../../monitoring-poznan/2026/10/2026-10-26.md)
 
 - **2026-07-07 — pilotaż dostępu do sesji.** Ganowicz wyjaśnił zasady przygotowane przez UMP ze służbami: publiczność podaje dane i okazuje dokument, otrzymuje jednorazowy identyfikator, zajmuje wydzielony sektor i zgłasza chęć zabrania głosu przez BRM. Wskazał Prezydenta jako zarządcę określającego instrukcje bezpieczeństwa; potrzebna jest ocena podstawy prawnej i proporcjonalności. [RMP](https://www.poznan.pl/mim/brm/news,10522/xxxviii-sesja-rady-miasta,282155.html) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
 
