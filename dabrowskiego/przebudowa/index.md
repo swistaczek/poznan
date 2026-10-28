@@ -8,7 +8,7 @@ updated: 2026-10-28
 
 # Przebudowa ul. Dąbrowskiego: zakres 1 (Żeromskiego - Janickiego)
 
-Wątek: przebudowa północnej strony ul. Dąbrowskiego między Żeromskiego a Janickiego, wykonywana przez inwestora prywatnego w ramach umowy z art. 16 udp; dostęp do projektu, stała organizacja ruchu (SOR), droga dla rowerów (DDR), zieleń. Osobno: odbruk i zieleń na odcinku śródmiejskim (Biuro Koordynacji Projektów i Rewitalizacji Miasta). Inne obszary: [hałas tramwajowy](../halas/index.md) (tam przebudowa Roosevelta - Żeromskiego, inny odcinek), [chodnik przy nr 115](../chodniki/index.md). Rejestr pism: [`pisma/REJESTR.md`](pisma/REJESTR.md).
+Wątek: przebudowa północnej strony ul. Dąbrowskiego między Żeromskiego a Janickiego, wykonywana przez inwestora prywatnego w ramach umowy z art. 16 udp; dostęp do projektu, stała organizacja ruchu (SOR), droga dla rowerów (DDR), zieleń. Osobno: odbruk i zieleń na odcinku śródmiejskim (Biuro Koordynacji Projektów i Rewitalizacji Miasta). Inne obszary: [hałas tramwajowy](../halas/index.md) (tam planowana przebudowa Roosevelta - Żeromskiego w całym pasie drogowym, osobne zadanie PIM), [chodnik przy nr 115](../chodniki/index.md). Rejestr pism: [`pisma/REJESTR.md`](pisma/REJESTR.md).
 
 ## Zakres i dokumenty
 
@@ -16,7 +16,7 @@ Wątek: przebudowa północnej strony ul. Dąbrowskiego między Żeromskiego a J
 |---|---|---|
 | Umowa art. 16 udp | IRI.4711.20.2022 z 30.12.2022, § 1 ust. 3 lit. a | zakres 1: Dąbrowskiego Żeromskiego - Janickiego (strona północna); zakres 2: 1KD-L (Barańczaka); zakres 3: Janickiego. Aneks 5 "procedowany" (ZDM 13.10.2026); wg ZDM-DOR.081.33.2026.14 z 09.09.2026 termin Dąbrowskiego 30.12.2026. Kontekst umowy: [`jezyce/komunikacja/`](../../jezyce/komunikacja/index.md) |
 | Pozwolenie na budowę | decyzja Prezydenta nr **544/2026** z 29.07.2026, UA-VI.6740.1301.2025 (WUiA, z up. Kierownik Oddziału Architektury II) | zatwierdza PZT i PAB; inwestorzy Galeria Nova-Archicom Projekt 127 sp. z o.o. SKA i Archicom Poznań sp. z o.o.; przebudowa drogi z odwodnieniem, oświetleniem, sygnalizacją, siecią SN 15 kV, trakcją tramwajową, małą architekturą (ark. 09 obr. Jeżyce). Wniosek 23.12.2025 |
-| Decyzja Wojewody Wielkopolskiego | 57/26, IR-V.7840.126.2025 [do weryfikacji, plik nieodczytany] | przekazana przez ZDM 28.10.2026 jako druga decyzja dla zakresu 1 |
+| Decyzja Wojewody Wielkopolskiego | 57/26, IR-V.7840.126.2025 [do weryfikacji, plik nieodczytany] | przekazana przez ZDM 28.10.2026 w odpowiedzi na pkt 5 (decyzje dla zakresu 1); przedmiot [do weryfikacji] |
 | SOR | projekt z 07.10.2025 (wersja D); zatwierdzenie BMIR **MIR-I.7221.1.416.2025** z 17.10.2025 | "Projekt docelowej organizacji ruchu na ul. Dąbrowskiego, Janickiego i 1KD-L (Barańczaka)"; wprowadzenie "do 12.2026 roku", zatwierdzenie do 31.12.2026 |
 | Roboty | komunikat ZDM 12.10.2026; ZDM-PK.01520.284.2026.18 z 22.10.2026 | start 15.10.2026, harmonogram do 31.01.2027 |
 
@@ -27,7 +27,7 @@ Kategoria drogi: "Droga Powiatowa nr 5772P", klasa Z (opis techniczny SOR). Prę
 - DDR jest w projekcie. ZDM (ZDM-PK.01520.359.2026.6): "budowę jednokierunkowej drogi dla rowerów o szerokości 1,5 m na odcinku od przejścia dla pieszych przy ul. Dąbrowskiego/Żeromskiego do włączenia z ruchu ogólnego na wysokości posesji Dąbrowskiego 105 wraz z rezerwą terenową pod rozbudowę drogi dla rowerów do 2,00 przy ul. Janickiego". Kierunek: zachodni.
 - Przekrój (arkusz 2.1 SOR): chodnik 2,0 m, DDR 1,5 m, pas postojowy równoległy 2,5 m z kostki kamiennej, jezdnia; wymiana warstwy ścieralnej jezdni na szer. 1 m.
 - Brak w dokumentach: kierunku wschodniego, przejazdu dla rowerów przy Janickiego, ciągłości DDR na odcinku 105 - Janickiego (ruch rowerów jezdnią). Opis techniczny SOR nie wspomina DDR; cel SOR: "stworzenie bezpiecznych ciągów pieszych".
-- Ocena: szerokość 1,5 m zgodna z § 42 ust. 2 rozp. MI z 24.06.2022 (Dz.U. 2022 poz. 1518); jednokierunkowa DDR rozpoczęta zjazdem z jezdni mieści się w wyjątku rozdz. 6 Standardów rowerowych. Otwarte: czy dokumentacja zawiera pisemne uzasadnienie "trudnych warunków" (§ 2 ust. 5 w zw. z § 40 ust. 5 rozp. MI 2022) dla prowadzenia ruchu rowerów jezdnią od nr 105 do Janickiego. Rozp. 2022 ma zastosowanie (wniosek o PnB 23.12.2025, § 115); opis SOR powołuje uchylone rozp. z 02.03.1999.
+- Ocena: szerokość 1,5 m zgodna z § 42 ust. 2 rozp. MI z 24.06.2022 (Dz.U. 2022 poz. 1518); jednokierunkowa DDR rozpoczęta zjazdem z jezdni mieści się w wyjątku rozdz. 6 Standardów rowerowych. Otwarte: czy dokumentacja zawiera pisemne uzasadnienie "trudnych warunków" (§ 2 ust. 5 w zw. z § 40 ust. 5 rozp. MI 2022) dla prowadzenia ruchu rowerów jezdnią od nr 105 do Janickiego. Rozp. 2022 ma zastosowanie (wniosek o PnB 23.12.2025, § 115); opis SOR powołuje rozp. z 02.03.1999, nieobowiązujące od 21.09.2022.
 - PZT nieudostępniony. ZDM 13.10.2026: dokumentacja uzgadniana w trybie umowy partycypacyjnej to "dokument prywatny". Informacja WUiA dołączona do decyzji 544/2026, pkt 1: "Zatwierdzony projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany stanowi integralną część decyzji o pozwoleniu na budowę." Analiza dostępu: [`prawa-autorskie-a-dostep-do-projektu-drogowego-strategia.md`](../../research/transparentnosc/prawa-autorskie-a-dostep-do-projektu-drogowego-strategia.md).
 
 ## Zieleń w zakresie 1
