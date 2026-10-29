@@ -6,6 +6,7 @@ Linki do PDF oświadczeń majątkowych w BIP. Stan: 2026-10-14.
 |---|---|
 | Wyszukiwarka | [`szukaj.html`](./szukaj.html) |
 | Wybrane osoby | [`osoby.md`](./osoby.md), [`dane/osoby.csv`](./dane/osoby.csv) |
+| Podsumowania per osoba | [`podsumowania/`](./podsumowania/index.md) |
 | Indeks BIP Poznania | [`dane/oswiadczenia.csv`](./dane/oswiadczenia.csv) |
 | Inne BIP | [`dane/oswiadczenia-zewnetrzne.csv`](./dane/oswiadczenia-zewnetrzne.csv) |
 
