@@ -5,7 +5,7 @@ tier: krotka
 frakcja: KO
 okreg: 2
 ocena: potencjal — szybkie symboliczne zwyciestwa gotowiec
-updated: 2026-10-14
+updated: 2026-10-29
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 ---
 
@@ -49,6 +49,10 @@ Prompt: [`../../prompty/14-radni-tier2-portrety.md`](../../prompty/14-radni-tier
 - **2026-10-13 — odpowiedź o kadrach MPK.** Oficjalna relacja RMP opublikowała odpowiedź na zapytanie radnego o wypadające kursy: potrzeba 150 kierowców i warunkowy powrót częstotliwości. Zatrudnienie opisano na 23.09; daty pierwotnych pism nieustalone. Nie potwierdzono wykonania zapowiedzi dla 162/196. [RMP, publikacja 13.10, dostęp 14.10](https://www.poznan.pl/mim/brm/news,1202/sytuacja-kadrowa-i-ograniczenia-kursow,288165.html) · [raport](../../monitoring-poznan/2026/10/2026-10-14.md)
 
 ### Interpelacje BIP
+
+- **2026-10-23 — RM-VI.0003.358.2026.** Pyta o konieczność ogrodzenia Stadionu Miejskiego i parkingu za parowozem oraz żąda analizy możliwości zmian przez operatora, w tym poprawy dojścia pieszego. To wniosek dotyczący zagospodarowania miejskiego obiektu, bez decyzji o usunięciu parkingu. Pismo/wpływ 23.10; odczyt 29.10, publikacja nieustalona. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082E5E) · [raport](../../monitoring-poznan/2026/10/2026-10-29.md) <!-- bip-interpelacja:NT00082E5E -->
+
+- **2026-10-16 — RM-VI.0003.351.2026.** Odpowiedź Gołka 28.10 na interpelację o Brandstaettera: Straż Miejska od września prowadzi doraźne kontrole, nakładała mandaty i zapowiada dalszą obserwację. Bez liczby mandatów, trwałej zmiany organizacji i terminu inwestycji. BIP wpływ 16.10, odpowiedź wskazuje 19.10; odczyt 29.10, publikacja nieustalona. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082D1E) · [raport](../../monitoring-poznan/2026/10/2026-10-29.md) <!-- bip-interpelacja:NT00082D1E -->
 
 - **2026-09-24 — RM-VI.0003.323.2026.** Bartosz Derech (15.10): wydzielone torowisko na moście Królowej Jadwigi jest rekomendowanym rozwiązaniem docelowym, lecz obecnie nie jest planowane ze względu na częściowe zamknięcie mostu Chrobrego i obawę ograniczenia przepustowości. Zapowiedziano analizę ZTM, ZDM i Biura MIR, bez terminu. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082062) · [raport](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082062 -->
 - **2026-09-24 — RM-VI.0003.322.2026.** Bartosz Derech (2.10): plan finansowy ZDM i WPF nie zabezpieczają środków na przebudowę północnego chodnika Grunwaldzkiej od ronda Jana Nowaka-Jeziorańskiego do Ostroroga, przy Uniwersyteckim Szpitalu Klinicznym. ZDM wykonuje punktowe naprawy interwencyjne. Nie podano kosztu ani terminu przebudowy. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082052) · [raport](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082052 -->

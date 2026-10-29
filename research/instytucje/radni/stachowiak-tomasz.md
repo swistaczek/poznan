@@ -2,7 +2,7 @@
 title: "Tomasz Stachowiak"
 type: karta-radnego
 frakcja: KO
-updated: 2026-09-23
+updated: 2026-10-29
 ---
 
 # Tomasz Stachowiak
@@ -13,7 +13,7 @@ Radny IX kadencji; przewodniczący Komisji Promocji Miasta i Relacji Zewnętrzny
 
 ### Interpelacje BIP
 
-- **2026-10-08 — RM-VI.0003.343.2026.** Wspólnie z Magdaleną Antolczyk-Stawską żąda uzupełnienia odpowiedzi z 18.09 dotyczącej Husarskiej: dokumentacji i bilansu legalnych miejsc postojowych, wskazania statusu odcinków i właściwych zarządców oraz wyników oceny drzew i planu pielęgnacji. To ponowne pytania kontrolne, nie decyzja o zmianie parkowania. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-odpowiedzi-na-interpelacje-dotyczaca-uporzadkowania-parkowania-oraz-poprawy-stanu-drzew-na-ulicy-husarskiej,NT00082B6A/) · [raport](../../monitoring-poznan/2026/10/2026-10-09.md) <!-- bip-interpelacja:NT00082B6A -->
+- **2026-10-08 — RM-VI.0003.343.2026.** Wspólnie z Antolczyk-Stawską żąda uzupełnienia danych o Husarskiej. Odpowiedź Derecha 26.10: wizja ZDM/MIR/osiedla ma zbadać parkowanie; ewentualne środki po stronie osiedla. Brak bilansu i gotowych wyników przeglądu drzew; bez terminu wizji/prac. Odczytano odpowiedź i 3 załączniki 29.10; publikacja nieustalona. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082B6A) · [raport](../../monitoring-poznan/2026/10/2026-10-29.md) <!-- bip-interpelacja:NT00082B6A -->
 
 - **2026-09-07 — RM-VI.0003.304.2026.** Odpowiedź z 18.09: MIR i ZDM odrzucają dodatkowe miejsca na Husarskiej bez przebudowy; odcinek nr 4–6 jest drogą wewnętrzną. Kolejne cięcia drzew zależą od przeglądu i budżetu ZDM, bez terminu i kwoty. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-uporzadkowania-parkowania-oraz-poprawy-stanu-drzew-na-ulicy-husarskiej,NT00081DDE/) · [raport](../../monitoring-poznan/2026/09/2026-09-23.md) <!-- bip-interpelacja:NT00081DDE -->
 - **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
