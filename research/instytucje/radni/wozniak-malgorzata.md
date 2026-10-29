@@ -2,7 +2,7 @@
 title: "Małgorzata Woźniak"
 type: karta-radnego
 frakcja: KO
-updated: 2026-08-22
+updated: 2026-10-29
 ---
 
 # Małgorzata Woźniak
@@ -10,6 +10,8 @@ updated: 2026-08-22
 Radna IX kadencji; przewodnicząca Komisji Polityki Mieszkaniowej oraz wiceprzewodnicząca Komisji Skarg, Wniosków i Petycji. [Skład RMP](https://bip.poznan.pl/bip/radni/).
 
 ## Aktualizacje
+
+- **2026-10-27 — finansowanie PMK.** Podczas sesji zapytała o etaty i budżet nowej instytucji. Dyrektorka Wydziału Kultury podała 1 mln zł na strukturę w 2027 oraz 3–4 etaty. RMP potwierdza utworzenie PMK; kwota pozostaje założeniem przedstawionym na sesji, bez dowodu uchwalenia dotacji 2027. Publikacja 27.10, odczyt 29.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/xli-sesja-rady-miasta,289248.html) · [raport](../../monitoring-poznan/2026/10/2026-10-29.md)
 
 ### Interpelacje BIP
 

@@ -5,7 +5,7 @@ tier: 2
 frakcja: Trzecia Droga (PSL-PL2050)
 okreg: 4
 ocena: Wiceprzewodniczący RM — strażnik procedur demokratycznych, naturalny adresat postulatów UDIP
-updated: 2026-08-24
+updated: 2026-10-29
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
 
@@ -77,6 +77,8 @@ Wiceprzewodniczący RM IX kadencji, 34 lata w momencie wyborów 2024, pierwsze m
 - Prezydium RM IX kadencji: Ganowicz (Przew.), Rataj · Rozmiarek · Kapustka (Wiceprzew.)
 
 ## Aktualizacje
+
+- **2026-10-27 — przyjęcie ulgi SPP.** RMP potwierdza przyjęcie projektu jego autorstwa: identyfikator 50 zł/mies. dla wskazanych kategorii zasłużonych dawców,6–12 mies., warunki PIT i zameldowania w Poznaniu; od 1.01.2027. Publikacja relacji 27.10, odczyt 29.10; finalny akt/głosowanie nieodczytane. [RMP](https://www.poznan.pl/mim/rm/news,10522/xli-sesja-rady-miasta,289248.html) · [raport](../../monitoring-poznan/2026/10/2026-10-29.md)
 
 ### Interpelacje BIP
 

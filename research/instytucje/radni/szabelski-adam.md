@@ -5,7 +5,7 @@ tier: 1.5
 frakcja: do weryfikacji (prawdopodobnie KO lub Trzecia Droga)
 okreg: do weryfikacji
 ocena: potencjal — dane i strategia Poznan 2040+ polityka mlodych
-updated: 2026-10-17
+updated: 2026-10-29
 source_dialog: ../13-radni-dialog/03b-portrety-pozostali.md
 source_mapa: ../13-radni-dialog/04-mapa-mianownikow.md
 ---
@@ -91,7 +91,7 @@ Data-driven policy: wyniki z badam.poznan.pl, raporty o stanie miasta, twarde st
 
 ### Interpelacje BIP
 
-- **2026-10-15 — RM-VI.0003.349.2026.** Wniosek o analizę środków w budżecie 2027 na rondo F. Jaśkowiaka od Radojewa. Radny wskazuje kosztorys około 11 mln zł i 6 mln zł osiedla na powiązany chodnik; interpelacja nie potwierdza uchwalonych wydatków. Dokument/wpływ 2026-10-15; odczyt 16–17.10, publikacja nieustalona. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-budowy-ronda-przy-ul-f-jaskowiaka-2026-10-15,NT00082CCE/) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082CCE -->
+- **2026-10-15 — RM-VI.0003.349.2026.** Wniosek o środki na rondo Jaśkowiaka/Radojewo. Derech 28.10: dokumentacja 2024, obecna potrzeba finansowania ok. 14 mln zł obejmuje wykupy/PIM. Wniosek 2025 nie trafił do WPF; ZDM ponowił go do budżetu 2027. Bez przyznania środków i terminu robót. BIP wpływ 15.10, odpowiedź wskazuje 16.10; odczyt 29.10, publikacja nieustalona. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082CCE) · [raport](../../monitoring-poznan/2026/10/2026-10-29.md) <!-- bip-interpelacja:NT00082CCE -->
 
 - **2026-10-15 — RM-VI.0003.348.2026.** Wniosek o 2,5 mln zł w budżecie 2027 na połączenie piesze Radojewo–Umultowo wzdłuż Naramowickiej od Łopianowej do istniejącego chodnika. Wskazane przez radnego 3,5 mln zł osiedla i przesunięcie projektu na I/II kwartał 2027 wymagają potwierdzenia. Bez decyzji o finansowaniu. Dokument/wpływ 2026-10-15; odczyt 16–17.10, publikacja nieustalona. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-polaczenia-pieszego-radojewa-z-umultowem-wzdluz-ul-naramowickiej-2026-10-15,NT00082CBE/) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082CBE -->
 
