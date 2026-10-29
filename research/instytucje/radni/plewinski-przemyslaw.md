@@ -80,6 +80,8 @@ Reprezentant Polski 2050 w ramach KKW Trzecia Droga; kandydat na prezydenta Pozn
 
 ## Aktualizacje
 
+- **2026-10-22 — PU259/2026.** Podpisał pozytywną opinię KBiPP o miejskim ograniczeniu nocnej sprzedaży alkoholu; karta obiegowa potwierdza głosowanie3/0/0 i posiedzenie22.10, mimo opisu załącznika21.10. To opinia komisji, bez przypisywania indywidualnego głosu; projekt przewiduje22:00–6:00 od1.01.2027, nadal przed rozstrzygnięciem sesji27.10. [BIP](https://bip.poznan.pl/bip/projekty-uchwal/projekt-uchwaly-pu-259-2026-w-sprawie-wprowadzenia-na-terenie-poznania-ograniczenia-w-godzinach-nocnych-sprzedazy-napojow-alkoho,288118.html) · [raport](../../monitoring-poznan/2026/10/2026-10-25.md)
+
 - **2026-09-03 — nocna sprzedaż alkoholu.** Kierowana przez Plewińskiego KBiPP jednomyślnie wskazała 1 stycznia 2027 r. zamiast 1 kwietnia jako datę wejścia miejskiego ograniczenia; urzędnicy zapowiedzieli korektę niewniesionego jeszcze projektu. [RMP](https://www.poznan.pl/mim/brm/news,10522/hulajnoga-nie-hulaj-dusza,285463.html) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md)
 - **2026-07-04 — kontrola „ścieżki w koronach drzew”.** Po zamknięciu inwestycji za 4,2 mln zł Plewiński zwrócił się do PIM o SIWZ, ofertę, protokół odbioru i korespondencję dotyczącą konserwacji. Zapowiedział publikację wyników; odpowiedzi i dokumentów dotąd nie odnaleziono. [ePoznań](https://epoznan.pl/news-news-177505-radny_zapowiada_kontrole_zamknietej_sciezki_w_koronach_drzew_ta_inwestycja_kosztowala_mieszkancow_poznania_42_mln_zl) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
 
