@@ -16,6 +16,12 @@ Materiały referencyjne dotyczące hałasu tramwajowego i drogowego w Poznaniu: 
 
 - [`../../dabrowskiego/halas/PLAN-KOMPLEKSOWY-REMONT-TOROWISKA.md`](../../dabrowskiego/halas/PLAN-KOMPLEKSOWY-REMONT-TOROWISKA.md) — zsyntetyzowany, zweryfikowany plan (19.09.2026): kompetencje ZTM/MPK, dowód braku środków w WPF, zakres techniczny, koszty, kalendarz budżetowy. Nadrzędny wobec starszych ustaleń poniżej tam, gdzie są sprzeczne.
 
+## Ustalenia zweryfikowane (10.2026)
+
+- [`kwalifikacja-akustyczna-terenu-przy-drodze.md`](./kwalifikacja-akustyczna-terenu-przy-drodze.md): gdzie i według jakiej normy ocenia się hałas drogi i torowiska w jezdni: art. 174 ust. 2 i 175 ust. 4b POŚ, plan miejscowy a faktyczne zagospodarowanie (III OSK 171/25, II OSK 524/09, II SA/Sz 116/08), ryzyko art. 114 ust. 4 POŚ (zabudowa na granicy pasa drogowego), stan prawny 19.10.2026.
+- [`srodki-redukcji-halasu-tramwaj-droga.md`](./srodki-redukcji-halasu-tramwaj-droga.md): skuteczność szlifowania, smarowania, tłumików, konstrukcji toru, ograniczeń prędkości, nawierzchni, ekranów i okien według źródeł pomiarowych; dane prędkości tramwajów z ul. Dąbrowskiego.
+- Właściwość organów (Marszałek, Prezydent, BMIR, ZTM/MPK, skargi z działu VIII): [`../instytucje/07-kompetencje/07-halas-droga-tramwaj-wlasciwosc.md`](../instytucje/07-kompetencje/07-halas-droga-tramwaj-wlasciwosc.md).
+
 ## Dokumenty zbiorcze
 
 - [`wyniki-01-akustyka-torowa.md`](./wyniki-01-akustyka-torowa.md)

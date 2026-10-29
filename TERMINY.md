@@ -10,8 +10,9 @@ Tabela procesowa: czynność | termin | podstawa | konsekwencja przekroczenia.
 | Powiadomienie o konieczności przedłużenia | do 2 miesięcy | art. 13 ust. 2 UDIP | wymaga uzasadnienia |
 | Decyzja odmowna | 14 dni | art. 16 UDIP | odwołanie do organu wyższego stopnia |
 | Odwołanie od decyzji odmownej | 14 dni od doręczenia | KPA art. 129 | uprawomocnienie decyzji |
-| Skarga do WSA na bezczynność | bez twardego limitu, po wezwaniu | p.p.s.a. art. 3 § 2 pkt 8, art. 53 § 2b | — |
-| Wezwanie do usunięcia naruszenia (przed WSA) | 14 dni od bezczynności | KPA art. 37 § 1 | warunek wniesienia skargi |
+| Skarga do WSA na bezczynność | w czasie trwania bezczynności, **bez ponaglenia** (NSA I OSK 2433/18, 28.01.2020) | p.p.s.a. art. 3 § 2 pkt 8 | skarga wniesiona po udostępnieniu (także spóźnionym) podlega odrzuceniu: stan historyczny (NSA III OSK 526/22 w zw. z uchwałą II OPS 5/19) |
+| Ponaglenie (art. 37 KPA) | w udip co do zasady zbędne | NSA I OSK 2433/18 | ewentualnie z ostrożności |
+| Udostępnienie informacji o środowisku (ustawa OOŚ) | miesiąc od otrzymania wniosku; do 2 miesięcy ze względu na stopień skomplikowania (z zawiadomieniem, art. 36 KPA odpowiednio) | art. 14 ust. 1-2 ustawy z 03.10.2008 (t.j. Dz.U. 2026 poz. 670); forma zgodna z wnioskiem: art. 15 ust. 1 | odmowa w drodze decyzji (art. 20 ust. 1) |
 
 ## Kodeks postępowania administracyjnego (KPA)
 
@@ -23,6 +24,10 @@ Tabela procesowa: czynność | termin | podstawa | konsekwencja przekroczenia.
 | Skarga w trybie art. 227 KPA | 1 miesiąc na rozpatrzenie | KPA art. 237 | — |
 | Odwołanie od decyzji | 14 dni od doręczenia | KPA art. 129 § 2 | uprawomocnienie |
 | Przekazanie sprawy według właściwości | bez zbędnej zwłoki | KPA art. 65 § 1 | w praktyce + 30-60 dni w obiegu |
+| Załatwienie wniosku (dział VIII, art. 241 KPA) | miesiąc | KPA art. 244 § 1 w zw. z art. 237 § 1 | skarga z art. 246 § 2 do organu z art. 229 (ZDM, BMIR, Prezydent w zadaniach własnych: Rada Miasta) |
+| Zawiadomienie o niemożności załatwienia wniosku w terminie | w terminie miesiąca | KPA art. 245 | brak zawiadomienia: skarga z art. 246 § 2 |
+| Przekazanie wniosku do organu właściwego | 7 dni, z zawiadomieniem wnioskodawcy | KPA art. 243 | - |
+| Skarga do WSA na niezałatwienie skargi lub wniosku (dział VIII) | nie przysługuje | NSA III OSK 3694/21, I OSK 2091/16 | odrzucenie (art. 58 § 1 pkt 1 p.p.s.a.) |
 
 ## Postępowanie przed WSA / NSA
 

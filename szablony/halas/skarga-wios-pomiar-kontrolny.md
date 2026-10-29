@@ -4,8 +4,10 @@ type: template
 domain: halas
 adresat_typ: [WIOŚ]
 podstawa_prawna: [art. 115a POŚ, art. 237 KPA, art. 227 KPA, art. 66 Konstytucji RP]
-updated: 2026-04-17
+updated: 2026-10-20
 ---
+
+> **UWAGA (20.10.2026), przeczytaj przed użyciem**: podstawa z art. 115a POŚ jest chybiona dla torowiska i drogi. Art. 115a ust. 2 POŚ (t.j. Dz.U. 2025 poz. 647) wyłącza z decyzji o dopuszczalnym poziomie hałasu hałas powstający w związku z eksploatacją dróg i linii tramwajowych. WIOŚ może przeprowadzić kontrolę zarządcy (ustawa o Inspekcji Ochrony Środowiska), ale decyzje dla drogi w mieście na prawach powiatu wydają: Marszałek Województwa (przegląd ekologiczny art. 237 i 241 ust. 2, decyzja art. 362; art. 378 ust. 2a pkt 4 POŚ) i Prezydent jako starosta (dodatkowe pomiary, art. 178 ust. 1 w zw. z art. 378 ust. 1 POŚ). Mapa właściwości: [`research/instytucje/07-kompetencje/07-halas-droga-tramwaj-wlasciwosc.md`](../../research/instytucje/07-kompetencje/07-halas-droga-tramwaj-wlasciwosc.md). Szablon wymaga przeredagowania przed użyciem.
 
 {{MIEJSCOWOSC}}, {{DATA}}
 
