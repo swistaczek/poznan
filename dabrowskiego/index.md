@@ -2,7 +2,7 @@
 title: Kampania Dąbrowskiego
 type: index
 domain: dabrowskiego
-updated: 2026-09-23
+updated: 2026-10-20
 ---
 
 # Kampania ul. Dąbrowskiego (Jeżyce, Poznań)
@@ -21,6 +21,7 @@ Przebudowa ulicy (zakres 1 Żeromskiego - Janickiego: projekt, SOR, droga dla ro
 
 - [**Hałas tramwajowy**](halas/) — pomiary, skargi do WIOŚ, wezwania do MPK, droga cywilna.
 - [**Chodniki**](chodniki/) - jakość odtworzeń nawierzchni po robotach w pasie drogowym, odbiory i kary ZDM (sprawa: chodnik przy nr 115).
+- [**Wykroczenia drogowe**](wykroczenia/) - jazda i postój pojazdów dostawczych na chodniku (sprawa: dostawy do sklepu przy nr 102); adresaci Policja i Straż Miejska.
 
 Dalsze obszary (uspokojenie ruchu, rowery, przestrzeń publiczna) — według potrzeb.
 

@@ -13,7 +13,7 @@ Pisma wysłane, odpowiedzi urzędów, rejestr sprawy, korespondencja z mieszkań
 <obszar>/index.md                    publiczny indeks kampanii
 ```
 
-Obszary: `halas/`, `chodniki/`.
+Obszary: `halas/`, `chodniki/`, `wykroczenia/` (wykroczenia drogowe, adresaci Policja i Straż Miejska; postój zgłaszany tylko do Straży Miejskiej).
 
 **Nazwa folderu sprawy**: data wysłania (nie utworzenia!), krótki slug tematu w kebab-case.
 
