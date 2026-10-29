@@ -30,6 +30,8 @@ Pełna analiza prawno-techniczna: [`research/halas/`](../../research/halas/).
 
 Pisma wysłane i odpowiedzi urzędów: zob. [`pisma/REJESTR.md`](pisma/REJESTR.md). Format nazw i konwencje: [`CLAUDE.md`](../CLAUDE.md) kampanii.
 
+Ostatnia odpowiedź w sprawie torowiska: ZTM 28.10.2026 (W-ZTM-16212-2026): ograniczenie prędkości tramwajów do 20 km/h, szlifowanie szyn w 2026, przebudowa bez planu finansowego, dokumentacji i kosztorysu; kwalifikacja terenów przy punktach pomiarowych. Notatka: [`odpowiedzi/2026-10-28_ztm-w-ztm-16212-2026.md`](odpowiedzi/2026-10-28_ztm-w-ztm-16212-2026.md).
+
 Aktualne sprawy (pliki pism pozostają lokalnie z uwagi na dane osobowe — zob. `.gitignore`):
 
 - **2026-04-24** — prośba do ZDM (Krzyżaniak) o dodatkowe pomiary BAASA: (1) 4 m przy Dąbrowskiego 81/85, (2) wskaźniki LAmax/SEL/widmo, (3) kilka odczytów piątkowo-wieczornych, (4) opcjonalny pomiar wysokościowy (13. kondygnacja, zabudowa pierzejowa). DW: Rada Osiedla Jeżyce, BAASA Acoustics.
