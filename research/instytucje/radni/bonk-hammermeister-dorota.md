@@ -107,6 +107,8 @@ Strażniczka Śródmieścia. Myśli dyrektywami środowiskowymi UE, mapami akust
 
 ## Aktualizacje
 
+- **2026-10-22 — kompetencje cenowe targowisk.** Według relacji RMP21.10 radna na komisji20.10 kwestionowała przekazanie Prezydentowi ustalania opłat, wskazując utratę wpływu Rady. Komisja zaopiniowała delegację3/2/1; relacja nie przypisuje radnej konkretnego głosu. Brak uchwały i nowych stawek. [RMP](https://www.poznan.pl/mim/rm/news,10522/kto-ma-decydowac-o-stawkach-oplat-na-targowiskach,288763.html) · [raport](../../monitoring-poznan/2026/10/2026-10-22.md). Dostęp22.10.
+
 ### Interpelacje BIP
 
 - **2026-08-24 — RM-VI.0003.300.2026.** Odpowiedź z 2.09: ZDM zlecił projekt przejazdów Warszawska–Krańcowa do końca 2026 r.; śluz nie rekomenduje. Dalsza ciągłość wymaga projektu budowlanego, na który wraz z wdrożeniem brak środków. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-poprawy-infrastruktury-rowerowej-w-rejonie-skrzyzowania-ulic-warszawskiej-i-krancowej,NT00081C3E/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT00081C3E -->

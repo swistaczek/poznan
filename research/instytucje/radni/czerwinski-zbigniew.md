@@ -13,6 +13,8 @@ Radny IX kadencji, przewodniczący Komisji Rewizyjnej i klubu PiS. Kluczowy dla 
 
 ## Aktualizacje
 
+- **2026-10-22 — porządek Komisji Rewizyjnej.** Wytworzony21.10 i opublikowany21.10,13:04 pod odpowiedzialnością przewodniczącego Czerwińskiego:29.10,16:00 planowane zakończenie kontroli BNW2024–2025 i kontynuacja kontroli nadzoru Prezydenta nad spółkami oraz zarządzenia103/2024/P. To zaproszenie, bez wyników, ustaleń naruszeń i indywidualnych głosowań. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=100097) · [raport](../../monitoring-poznan/2026/10/2026-10-22.md). Dostęp22.10.
+
 - **2026-09-23 — kontrola Zoo.** Jako przewodniczący Komisji Rewizyjnej referuje PU 231/2026, dodający kompleksową kontrolę Ogrodu Zoologicznego za lata 2024–2026. Projekt przewiduje rozpoczęcie i zakończenie kontroli w grudniu 2026 r.; zakres szczegółowy, zespół i kryteria nie zostały opublikowane. [BIP](https://bip.poznan.pl/bip/projekty-uchwal/projekt-uchwaly-pu-231-2026-zmieniajacej-uchwale-w-sprawie-zatwierdzenia-planu-kontroli-komisji-rewizyjnej-rady-miasta-poznania,286345.html) · [raport](../../monitoring-poznan/2026/09/2026-09-23.md)
 
 - **2026-09-01 — kontrola WKiŚ.** Pod przewodnictwem Czerwińskiego Komisja Rewizyjna skierowała PU 189/2026 z zaleceniami po kontroli WKiŚ: formalna analiza ryzyka korupcyjnego, uporządkowanie nadzoru nad małą retencją, analiza programów antysmogowych i przyspieszenie procedur pomników przyrody. RMP rozpatrzy projekt 8 września. [BIP](https://bip.poznan.pl/bip/sesje/xxxix,99517/) · [raport](../../monitoring-poznan/2026/09/2026-09-01.md)

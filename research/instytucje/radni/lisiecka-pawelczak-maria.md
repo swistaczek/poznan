@@ -13,6 +13,8 @@ Radna IX kadencji i przewodnicząca Komisji Rodziny, Polityki Społecznej i Zdro
 
 ## Aktualizacje
 
+- **2026-10-22 — informowanie o opłatach targowych.** Relacja RMP21.10 z komisji20.10: radna pytała o informowanie radnych przed publikacją zarządzenia cenowego; dyrektorka Poznańskich Rynków i Placów zadeklarowała uprzedzanie o planowanych zmianach. Brak dowodu wpisania deklaracji do uchwały i imiennego głosu radnej; opinia komisji do delegacji3/2/1. [RMP](https://www.poznan.pl/mim/rm/news,10522/kto-ma-decydowac-o-stawkach-oplat-na-targowiskach,288763.html) · [raport](../../monitoring-poznan/2026/10/2026-10-22.md). Dostęp22.10.
+
 - **2026-10-13 — porządek komisji zdrowia.** Odpowiada za porządek KRPSiZ na 20.10, 16:30: opiniowanie PU 260 i projektu stanowiska PU 262 o rozpoczęciu konsolidacji Strusia/Raszei. Publikacja 13.10, 14:29; dostęp 14.10. Nie jest to opinia komisji ani decyzja o połączeniu. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=99978) · [raport](../../monitoring-poznan/2026/10/2026-10-14.md)
 
 - **2026-09-01 — kontrola MOPR.** Po przedstawieniu stanowiska MOPR wobec nieuwzględnionych zastrzeżeń do kontroli WUW Lisiecka-Pawełczak zażądała od UMP analizy prawnej i finansowej funkcji koordynującej umieszczanie dzieci w pieczy zastępczej. [RMP](https://www.poznan.pl/mim/brm/news,10522/stanowisko-mopr-wobec-wynikow-kontroli,285367.html) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md)
