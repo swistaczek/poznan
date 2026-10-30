@@ -4,6 +4,8 @@ Raporty zmian istotnych dla obywatelskiej kontroli miasta, filtrowane przez akty
 
 ## Raporty
 
+- [2026-10-30](2026/10/2026-10-30.md) — Naramowicka, dodatki oświatowe, konsultacje MPZP i interpelacje; częściowy.
+
 - [2026-10-21](2026/10/2026-10-21.md)
 
 - [2026-10-17](2026/10/2026-10-17.md)
