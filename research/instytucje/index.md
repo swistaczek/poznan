@@ -94,3 +94,8 @@ Trzy pliki krzyżujące się z `pim-siec-powiazan-kominy-placowe.md` i werdyktem
 - Terminy KPA/UDIP: [`../../TERMINY.md`](../../TERMINY.md)
 
 - [Magdalena Pietrusik-Adamska](pietrusik-adamska-magdalena.md) — podpis uzasadnienia PU 259/2026; karta funkcji publicznej, 13.10.2026.
+
+## Uzupełnienia kart — 3.11.2026
+
+- [Maciej Nestoruk — dyrektor ZDM](dyrektor-zdm-nestoruk.md).
+- [Natalia Weremczuk — II zastępczyni Prezydenta](wiceprezydent-weremczuk.md).
