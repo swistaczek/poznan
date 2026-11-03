@@ -2,7 +2,7 @@
 title: "Bartosz Derech — III zastępca Prezydenta Poznania"
 type: karta-osoby
 domain: instytucje
-updated: 2026-10-10
+updated: 2026-11-03
 ---
 
 # Bartosz Derech
@@ -10,6 +10,8 @@ updated: 2026-10-10
 III zastępca Prezydenta Miasta Poznania od 1 lipca 2026 r. Odpowiada m.in. za Biuro Miejskiego Inżyniera Ruchu, ZDM, ZTM, Zarząd Robót Drogowych i oświatę; przez ZTM wykonuje uprawnienia właścicielskie wobec MPK. Jest politycznym adresem odpowiedzialności za drogi, transport publiczny i politykę rowerową.
 
 ## Aktualizacje
+
+- **2026-11-02 — kierownictwo ZDM i ZTM.** Według komunikatu UMP Maciej Nestoruk objął ZDM, Jan Gosiewski wrócił do ZTM, a Tomasz Łapszewicz na stanowisko zastępcy ds. Publicznego Transportu Zbiorowego. Derech potwierdził zakończenie czasowego kierowania ZDM przez Gosiewskiego. Bez pozyskanego aktu zatrudnienia i nowych mierników nadzoru. [UMP](https://www.poznan.pl/mim/info/news/nowy-dyrektor-zarzadu-drog-miejskich,289630.html) · [raport](../monitoring-poznan/2026/11/2026-11-03.md)
 
 - **2026-10-09 — PU 254/2026 (projekt).** Derech podpisał uzasadnienie projektu zniesienia ochrony trzech lip przy Meteorytowej (dokument 8.10, publikacja 9.10, 11:59). Wniosek ZDM dotyczy bezpieczeństwa; dwa drzewa mają problemy statyczne, trzecie jest wywrotem według uzasadnienia. Opiniuje KOŚiGK; nie potwierdzono uchwalenia ani wycinki. [BIP](https://bip.poznan.pl/bip/news.html?co=print&id=287902&instance=1074&lang=pl) · [raport](../monitoring-poznan/2026/10/2026-10-10.md)
 
