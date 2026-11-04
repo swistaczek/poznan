@@ -5,7 +5,7 @@ tier: 2
 frakcja: Lewica
 okreg: 2
 ocena: wspólne priorytety — zielen piesi seniorzy
-updated: 2026-08-27
+updated: 2026-11-04
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -103,6 +103,8 @@ Myśli historiami konkretnych ludzi: zagrożonych pieszych, wykluczonych senior�
 **Otwieracz:** *„Pani Halino, z ogromnym podziwem obserwuję Pani walkę o wybiegi dla zwierząt na północy miasta; nasze działania o uspokojenie ruchu mają dokładnie ten sam cel — chcemy stworzyć przestrzenie, gdzie spacer z psem, nierzadko adoptowanym po przejściach i reagującym stresem na ryk silników, znów będzie całkowicie bezpieczny."*
 
 ## Aktualizacje
+
+- **2026-10-30 — porządek KSWiP5.11.** Odpowiada za zaproszenie na5.11,16:30: m.in. petycje o nagrywanie jawnych komisji oraz kontrolę planowanych zmian Kobylegopola. Wytworzenie/publikacja30.10,12:42, odczyt4.11; uzupełnienie przed terminem, bez stanowiska komisji i bez danych skarżących. [źródło](https://bip.poznan.pl/bip/posiedzenia/komisja-skarg-wnioskow-i-petycji,100157/) · [raport](../../monitoring-poznan/2026/11/2026-11-04.md)
 
 - **2026-10-16 — relacja o petycji.** Na komisji 15.10 proponowała uznać petycję o pomnik ofiar ludobójstwa na Wołyniu za bezzasadną i skierować do KKiN, wskazując braki proceduralne i nieokreślone finansowanie. Według RMP komisja nie rozstrzygnęła petycji (1/1/2); nie przypisujemy imiennych głosów. Publikacja16.10, dostęp 17.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md)
 
