@@ -2,7 +2,7 @@
 title: "Tomasz Stachowiak"
 type: karta-radnego
 frakcja: KO
-updated: 2026-09-23
+updated: 2026-11-04
 ---
 
 # Tomasz Stachowiak
@@ -10,6 +10,8 @@ updated: 2026-09-23
 Radny IX kadencji; przewodniczący Komisji Promocji Miasta i Relacji Zewnętrznych oraz wiceprzewodniczący Komisji Kultury Fizycznej i Turystyki. [Skład RMP](https://bip.poznan.pl/bip/radni/).
 
 ## Aktualizacje
+
+- **2026-11-02 — dalsze prace nad zasadami Starego Rynku.** Zapowiada kontynuowanie prac komisji z innymi komisjami i służbami oraz ustalenie listy działań. Estrada proponuje45zł/m² za ogródki zamiast20; brak decyzji i okresu rozliczeniowego w relacji. Publikacja3.11, dostęp4.11. [źródło](https://www.poznan.pl/mim/rm/news,10522/swiety-marcin-i-stary-rynek,289692.html) · [raport](../../monitoring-poznan/2026/11/2026-11-04.md)
 
 ### Interpelacje BIP
 

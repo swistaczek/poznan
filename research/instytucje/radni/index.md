@@ -121,3 +121,7 @@ Pragmatycy centrum i audytorzy prawicy — opozycja merytoryczna, nie frontalna.
 ## Uzupełnienie zweryfikowane 13.10.2026
 
 - [Wojciech Chudy](chudy-wojciech.md) — aktualny radny IX kadencji, przewodniczący Komisji Samorządowej; nowa karta procedury P1.
+
+## Uzupełnienie zweryfikowane 4.11.2026
+
+- [Sara Szynkowska vel Sęk](szynkowska-vel-sek-sara.md) — kanoniczna karta; mandat i funkcje komisji BIP. Wspólne pismo2.11 Strzeleckiej, Rozmiarka i Szynkowskiej vel Sęk deklaruje rezygnację z PiS; nie potwierdza przekształcenia klubu RMP. [Raport](../../monitoring-poznan/2026/11/2026-11-04.md).

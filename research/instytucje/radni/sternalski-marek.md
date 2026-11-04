@@ -2,7 +2,7 @@
 title: "Marek Sternalski"
 type: karta-radnego
 frakcja: KO
-updated: 2026-10-21
+updated: 2026-11-04
 ---
 
 # Marek Sternalski
@@ -15,7 +15,7 @@ Radny IX kadencji; przewodniczący Komisji Oświaty i Wychowania oraz wiceprzewo
 
 ### Interpelacje BIP
 
-- **2026-10-20 — RM-VI.0003.355.2026.** Pyta o przyczyny niepowołania zespołu wdrażającego uchwałę XXXIV/622/IX/2026 o dostosowaniu infrastruktury oświaty do demografii, rozwoju przestrzennego i specjalnych potrzeb edukacyjnych. Według autora przedstawicieli zgłoszono do17.06, lecz zespół nie powstał; wymaga odpowiedzi organu. Dokument/wpływ20.10; dostęp21.10. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082DDE) · [raport](../../monitoring-poznan/2026/10/2026-10-21.md) <!-- bip-interpelacja:NT00082DDE -->
+- **2026-11-03 — RM-VI.0003.355.2026.** Interpelacja z20.10 o niewykonaniu uchwałyXXXIV/622/IX/2026: Derech3.11 zapowiada na3.11 spotkanie przygotowujące zespół ds. infrastruktury oświaty i zmian demograficznych. Zaproszono przedstawicieli RMP, klubów, komisji, Solidarności i ZNP. Bez dowodu odbycia spotkania/powołania oraz harmonogramu. Publikacja odpowiedzi nieustalona; dostęp4.11. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT00082DDE) · [raport](../../monitoring-poznan/2026/11/2026-11-04.md) <!-- bip-interpelacja:NT00082DDE -->
 
 - **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
 - **2026-06-30 — RM-VI.0003.231.2026.** Szesnastu radnych pyta o Obornicką, Nową Obornicką, Nową Szymanowskiego, Kurpińskiego, grunty, terminy i finansowanie. Pełna odpowiedź z 4 sierpnia potwierdza strategiczne korytarze, lecz brak harmonogramu i środków realizacyjnych; inwestor wystąpił o aneks, a przygotowanie węzła wydłużają projekt i decyzja środowiskowa. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-rozwoju-ukladu-drogowego-polnocnej-czesci-poznania,NT000808F2/) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md) <!-- bip-interpelacja:NT000808F2 -->
