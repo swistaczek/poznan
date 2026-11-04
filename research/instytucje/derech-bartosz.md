@@ -11,6 +11,8 @@ III zastępca Prezydenta Miasta Poznania od 1 lipca 2026 r. Odpowiada m.in. za B
 
 ## Aktualizacje
 
+- **2026-10-30 — komisja oświaty.** Na komisji oświaty29.10 zadeklarował analizę liczby osób kierowanych do kontroli dotacji placówek niesamorządowych. Relacja RMP30.10 podaje19kontroli/ok.1,4mln zł zwrotów w2025 i8/ponad700tys. w I półroczu2026. Nie pozyskano decyzji jednostkowych ani potwierdzeń wpływu pieniędzy; nie potwierdzono zwiększenia etatów. Dostęp1.11. [RMP](https://www.poznan.pl/mim/rm/news,10522/finanse-i-kontrole-w-oswiacie,289496.html) · [raport](../monitoring-poznan/2026/11/2026-11-01.md)
+
 - **2026-10-09 — PU 254/2026 (projekt).** Derech podpisał uzasadnienie projektu zniesienia ochrony trzech lip przy Meteorytowej (dokument 8.10, publikacja 9.10, 11:59). Wniosek ZDM dotyczy bezpieczeństwa; dwa drzewa mają problemy statyczne, trzecie jest wywrotem według uzasadnienia. Opiniuje KOŚiGK; nie potwierdzono uchwalenia ani wycinki. [BIP](https://bip.poznan.pl/bip/news.html?co=print&id=287902&instance=1074&lang=pl) · [raport](../monitoring-poznan/2026/10/2026-10-10.md)
 
 - **2026-08-26 — przedstawiciel Poznania w WTR (projekt).** PU 203/2026 przewiduje powołanie Derecha do zgromadzenia Związku Powiatowo-Gminnego „Wielkopolski Transport Regionalny” od dnia uchwały do końca kadencji prezydenta. Zgromadzenie jest organem stanowiącym i kontrolnym organizatora transportu; projekt czeka na opinię Komisji Transportu i decyzję RMP. [BIP](https://bip.poznan.pl/bip/projekty-uchwal/projekt-uchwaly-pu-203-2026-w-sprawie-powolania-przedstawiciela-miasta-poznania-do-udzialu-w-zgromadzeniu-zwiazku-powiatowo-gmin,284917.html) · [raport](../monitoring-poznan/2026/08/2026-08-28.md)
