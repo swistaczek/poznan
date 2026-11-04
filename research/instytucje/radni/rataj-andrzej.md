@@ -118,4 +118,4 @@ Legalista porządku. Myśli matrycą procedur i luk wykonawczych; mobilizuje go 
 
 ### Interpelacje BIP
 
-- **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
+- **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych pytało o harmonogram i finansowanie północnego układu drogowego. Odpowiedź Derecha z30.10: etap II/III dokumentacji przedłużony do31.12.2027; odrębnych pięć węzłów ma środki WPF2026–2029 i Funduszu Spójności. Nowa/stara Obornicka bez finansowania i harmonogramu. Publikacja nieustalona; dostęp1.11, kontrola4.11. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT000819EA) · [raport](../../monitoring-poznan/2026/11/2026-11-01.md) <!-- bip-interpelacja:NT000819EA -->
