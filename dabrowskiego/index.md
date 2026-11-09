@@ -17,6 +17,8 @@ Dane dla strategicznej mapy hałasu Poznania 2027 (punkty i wyniki pomiarów 202
 
 Przebudowa ulicy (zakres 1 Żeromskiego - Janickiego: projekt, SOR, droga dla rowerów, zieleń; odbruk i zieleń przed przebudową): [`przebudowa/`](przebudowa/index.md).
 
+Stan wszystkich spraw na 09.11.2026 (sygnatury, terminy, następne kroki, wpływ odpowiedzi UMP Or-V.152.1.743.2026): [`dossier-2026-11-09.md`](dossier-2026-11-09.md). Wniosek o kompleksową kontrolę odcinka Żeromskiego - Polna i odpowiedź Zastępcy Prezydenta: [`audyt-odcinka/`](audyt-odcinka/index.md).
+
 ## Obszary
 
 - [**Hałas tramwajowy**](halas/) — pomiary, skargi do WIOŚ, wezwania do MPK, droga cywilna.
