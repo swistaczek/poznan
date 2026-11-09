@@ -33,3 +33,15 @@ Zsanityzowany (bez imion, adresów, e-maili nadawcy; sygnatury neutralne). Pełn
 Wzory: `../odpowiedz-zdm-ciag-pieszy-uciazliwosci.md`, `../zawiadomienie-pinb-niezgodnosc-mpzp.md`, `../wniosek-zdm-mpu-radny-ciag-pieszy.md` (w gałęzi `feat/jezyce-komunikacja-przejscie-famma`, jeszcze nie w `main`).
 
 Ścieżki wspierające: UDIP (aneks 5, wniosek inwestora, COR, umowa dzierżawy), ustawa o dostępności (Koordynator ds. dostępności UM), skarga art. 227 KPA na ZDM do Rady Miasta Poznania, służebność drogi koniecznej (art. 145 KC).
+
+## Uzupełnienie 09.11.2026
+
+Pisma WUiA z 13.10 i 19.10.2026 (UA-X.1431.283.2026) i wniosek z 01.10: PR #57 (niezmergowany). Przekrój spraw: [`../../../dabrowskiego/dossier-2026-11-09.md`](../../../dabrowskiego/dossier-2026-11-09.md).
+
+| Data | Kierunek | Adresat / nadawca | Sygnatura | Treść | Status |
+|---|---|---|---|---|---|
+| 2026-10-22 | wychodzące | ZDM + MPU (DW: radny Ł. Mikuła, RO Jeżyce) | - | Krótka notka z nagraniem przejścia wąskim pasem między ogrodzeniem budowy a budynkiem (żwir, kałuże, luźna kostka) | wysłane; bez odpowiedzi (09.11) |
+| 2026-11-02 | - | WUiA | UA-X.1431.283.2026 | Pkt 1-3 wniosku z 01.10 (stanowisko co do zgodności zajęcia dz. 25/4, 28/7, 27/6 z MPZP cz. F): miesiąc z art. 244 § 1 kpa minął bez odpowiedzi; WUiA 19.10 zapowiedział "odrębne pismo" i traktuje całość jako udip (termin przedłużony do 02.12.2026) | bez odpowiedzi |
+| 2026-11-09 | przychodzące | UMP, Z-ca Prezydenta B. Derech | Or-V.152.1.743.2026 | Dz. 25/4: dzierżawa "ściśle określona w czasie" na obsługę placu budowy, docelowo KD-Dxs; przedmiot dzierżawy obejmuje działkę od strony Dąbrowskiego, fragment przejścia "prowadzącego przede wszystkim przez nieruchomości prywatne", o skrócie decyduje właściciel. Pomija kxr i kp; sprzeczne z WGN GN-VIII.6845.995.2026 (22.07.2026: "nie obowiązuje umowa najmu / dzierżawy"). Aneks 5 dla Janickiego "na wniosek inwestora"; przyczyny opóźnień: decyzje dla inwestycji drogowych, gatunki chronione (decyzja RDOŚ). Błąd: umowa z inwestorem "zawarta 30 grudnia 2012 r." (IRI.4711.20.2022 jest z 30.12.2022). Notatka: [`../../../dabrowskiego/audyt-odcinka/odpowiedzi/2026-11-06_ump-or-v-152-1-743-2026.md`](../../../dabrowskiego/audyt-odcinka/odpowiedzi/2026-11-06_ump-or-v-152-1-743-2026.md) | doręczono |
+
+Otwarte: umowa dzierżawy (data, czynsz, tryb, wykaz z art. 35 ugn); COR MIR-I.7221.2.393.2026; kary umowne za zakres 3 po 31.05.2026; treść aneksu 5 przed podpisaniem.
