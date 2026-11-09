@@ -17,4 +17,4 @@ Format zgodny z [`dabrowskiego/CLAUDE.md`](../../CLAUDE.md). Opis wątku: [`../i
 
 - Brak ustawowego terminu po stronie wnioskodawcy (pismo nie jest decyzją).
 - ok. 09.12.2026: punkt kontrolny odpowiedzi na prośbę z 09.11 o uzupełnienie pkt 2 i 3 [ocena].
-- Skarga z art. 246 § 1 lub § 2 kpa do Rady Miasta Poznania (art. 229 pkt 3 kpa): bez terminu, decyzja wnioskodawcy [do weryfikacji].
+- Skarga z art. 246 § 1 lub § 2 kpa do Rady Miasta Poznania (art. 229 pkt 3 kpa): bez terminu, decyzja wnioskodawcy; ponaglenie i droga sądowa nie przysługują.

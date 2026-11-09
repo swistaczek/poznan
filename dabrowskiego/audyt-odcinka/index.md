@@ -13,7 +13,7 @@ Wątek: wniosek mieszkańca z 15.09.2026 do Zastępczyni Prezydenta Miasta Pozna
 ## Stan (09.11.2026)
 
 - Odpowiedź **Or-V.152.1.743.2026** z 06.11.2026 (Z-ca Prezydenta B. Derech, podpis 09.11): tryb art. 241 kpa odmówiony ("konkretne sprawy wymagające zbadania stanu faktycznego"), dział VIII "nie stanowi podstawy prawnej do przeprowadzenia kompleksowej kontroli"; mimo to informacja o pięciu zagadnieniach. Notatka: [`odpowiedzi/2026-11-06_ump-or-v-152-1-743-2026.md`](odpowiedzi/2026-11-06_ump-or-v-152-1-743-2026.md).
-- Termin miesiąca (art. 244 § 1 w zw. z art. 237 § 1 kpa) minął ok. 15.10.2026; odpowiedź ok. 25 dni po terminie, bez zawiadomienia o zwłoce.
+- Termin miesiąca (art. 244 § 1 w zw. z art. 237 § 1 kpa) minął ok. 15.10.2026; odpowiedź ok. 25 dni po terminie, bez zawiadomienia z art. 245 kpa.
 - Bez odpowiedzi: pkt 2 (zadanie audytowe poza planem), pkt 3 (osoba koordynująca).
 - Załatwione faktycznie: wykop przy przejściu na Janickiego (usunięty przez wykonawcę 25.09.2026, po interwencji SM 15.09).
 - Nowe fakty: kontrola Miejskiego Inżyniera Ruchu na Janickiego 09.09.2026; stały nadzór SM przy nr 102 od 09.09.2026; SMH Poznania do 30.06.2027 obejmie odcinek (hałas drogowy i tramwajowy); aneks nr 5 dla Janickiego procedowany na wniosek inwestora.
@@ -23,7 +23,7 @@ Wątek: wniosek mieszkańca z 15.09.2026 do Zastępczyni Prezydenta Miasta Pozna
 | Termin | Co | Podstawa |
 |---|---|---|
 | ok. 09.12.2026 [ocena] | uzupełnienie pkt 2 i 3 (prośba wysłana 09.11.2026) | art. 244 § 2 kpa |
-| opcja | skarga na sposób załatwienia lub na zwłokę do Rady Miasta Poznania | art. 246 § 1-2, art. 229 pkt 3 kpa [do weryfikacji] |
+| opcja, po odpowiedzi na prośbę z 09.11 | skarga na sposób załatwienia (kwalifikacja) i na zwłokę bez zawiadomienia z art. 245 do Rady Miasta Poznania; bez terminu, bez drogi sądowej | art. 246 § 1-2, art. 229 pkt 3 kpa |
 
 ## Czego celowo nie ma
 
