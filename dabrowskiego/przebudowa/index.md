@@ -45,14 +45,14 @@ Kategoria drogi: "Droga Powiatowa nr 5772P", klasa Z (opis techniczny SOR). Prę
 
 ## Stan na 28.10.2026
 
-- Pismo ZDM-PK.01520.359.2026.10: 13 załączników; pismo przewodnie nieodczytane, odczytane 3 załączniki. Udostępnione: pełny zatwierdzony SOR (wersja D), decyzja 544/2026, decyzja Wojewody, 8 pism IU.4110.14.2021, notatka ZDM ze spotkania z RO Jeżyce 29.08.2024. Brak wg plików: PZT/PAB, opinia Koordynatora Infrastruktury Rowerowej, opinia ZDM ZOP 1118 do SOR, pismo IU.4110.14.2021.166 z 24.10.2024, projekt zieleni.
+- Pismo ZDM-PK.01520.359.2026.10: 13 załączników; pismo z 27.10 (podpis p.o. Dyrektora ZDM) to zwykłe pismo informacyjne, nie decyzja z art. 16 udip, bez pouczenia; odczytane 3 załączniki, ZDM przyznał brak pisemnego uzasadnienia trudnych warunków dla odcinka 105 - Janickiego. Udostępnione: pełny zatwierdzony SOR (wersja D), decyzja 544/2026, decyzja Wojewody, 8 pism IU.4110.14.2021, notatka ZDM ze spotkania z RO Jeżyce 29.08.2024. Brak wg plików: PZT/PAB, opinia Koordynatora Infrastruktury Rowerowej, opinia ZDM ZOP 1118 do SOR, pismo IU.4110.14.2021.166 z 24.10.2024, projekt zieleni.
 - 13.10.2026 ZDM przekazał arkusz 2.1 wersji C (13.03.2025); zatwierdzona jest wersja D (07.10.2025).
 - Jedyna opinia Policji w SOR (KMP WRD Rd.I.5321.383.2024.PO z 25.04.2024) dotyczy sygnalizacji Janickiego/Dąbrowskiego.
 
 ## Otwarte terminy
 
 - **29.10.2026**: cz. III wniosku z 28.09 (art. 241 kpa; wpływ 29.09; art. 244 § 1 w zw. z art. 237 § 1 kpa). Czy pismo .10 to załatwia: [do weryfikacji].
-- **12.11.2026**: tylko gdy pismo .10 jest decyzją odmowną (art. 16 ust. 1 udip): odwołanie do SKO 14 dni od doręczenia; 11.11 święto (art. 57 § 4 kpa) [do weryfikacji].
+- Pismo .10 nie jest decyzją: odwołanie do SKO niedopuszczalne, termin 12.11.2026 nieaktualny. Na bezczynność ewentualnie ponaglenie albo skarga do WSA (art. 3 § 2 pkt 8 ppsa, wpis 100 zł); bez presji terminu.
 - **30.12.2026**: termin zakresu 1 wg projektu aneksu 5.
 - **31.12.2026**: SOR; brak zawiadomienia o wprowadzeniu (min. 7 dni wcześniej, § 12 ust. 1 rozp. MI z 23.09.2003, Dz.U. 2017 poz. 784) oznacza utratę ważności zatwierdzenia (§ 12 ust. 4 w zw. z § 8 ust. 7).
 - **31.01.2027**: koniec robót wg harmonogramu.
