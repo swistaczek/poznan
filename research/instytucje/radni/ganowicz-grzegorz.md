@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: do weryfikacji
 ocena: inne priorytety — stabilnosc eskalacja instytucjonalna
-updated: 2026-08-22
+updated: 2026-11-04
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -102,6 +102,8 @@ Kotwica proceduralna: myśli kategoriami stabilności ustrojowej i ciągłości 
 - Profil operacyjny: [`../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md`](../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md)
 
 ## Aktualizacje
+
+- **2026-11-03 — inauguracja VII MRM.** RMP zapowiada na5.11,16:00 otwarcie przez Ganowicza sesji VII Młodzieżowej Rady Miasta i odebranie ślubowania. Następnie wybory przewodniczącego, zastępców, sekretarza i komisji rewizyjnej. Publikacja3.11, dostęp4.11; brak wyników. [źródło](https://www.poznan.pl/mim/rm/news,10522/vii-kadencja-mlodziezowej-rady-miasta-w-czwartek-rozpocznie-dzialalnosc,289664.html) · [raport](../../monitoring-poznan/2026/11/2026-11-04.md)
 
 - **2026-07-07 — pilotaż dostępu do sesji.** Ganowicz wyjaśnił zasady przygotowane przez UMP ze służbami: publiczność podaje dane i okazuje dokument, otrzymuje jednorazowy identyfikator, zajmuje wydzielony sektor i zgłasza chęć zabrania głosu przez BRM. Wskazał Prezydenta jako zarządcę określającego instrukcje bezpieczeństwa; potrzebna jest ocena podstawy prawnej i proporcjonalności. [RMP](https://www.poznan.pl/mim/brm/news,10522/xxxviii-sesja-rady-miasta,282155.html) · [raport](../../monitoring-poznan/2026/08/2026-08-22.md)
 

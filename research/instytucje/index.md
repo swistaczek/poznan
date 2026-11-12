@@ -94,3 +94,5 @@ Trzy pliki krzyżujące się z `pim-siec-powiazan-kominy-placowe.md` i werdyktem
 - Terminy KPA/UDIP: [`../../TERMINY.md`](../../TERMINY.md)
 
 - [Magdalena Pietrusik-Adamska](pietrusik-adamska-magdalena.md) — podpis uzasadnienia PU 259/2026; karta funkcji publicznej, 13.10.2026.
+
+- [Natalia Weremczuk](wiceprezydent-weremczuk.md) — II zastępczyni Prezydenta; kanoniczna ścieżka zgodna z draftem PR68, sprzedaż Towarowej3.11.

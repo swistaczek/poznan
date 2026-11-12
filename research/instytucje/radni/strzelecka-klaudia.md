@@ -5,7 +5,7 @@ tier: 1.5
 frakcja: Zjednoczona Prawica (PiS)
 okreg: 5
 ocena: Wieloletnia audytor instytucjonalna — ekspert ZDM/PIM, sojuszniczka w obszarze hałas=niegospodarność
-updated: 2026-09-23
+updated: 2026-11-04
 source_dialog: ../wyniki-15-radni-trzecia-droga.md
 ---
 
@@ -78,6 +78,8 @@ Ur. ok. 1990 r. (34 lata w 2024), jedna z najważniejszych postaci poznańskiej 
 - Stowarzyszenie „Projekt Poznań" (wiceprzewodnicząca od 2011) `[do wer. — aktualność funkcji]`
 
 ## Aktualizacje
+
+- **2026-11-02 — rezygnacja z członkostwa w PiS.** Wspólne pismo Strzeleckiej, Rozmiarka i Szynkowskiej vel Sęk z2.11 deklaruje rezygnację z PiS. Publikacja3.11, dostęp4.11. Brak potwierdzenia formalnej zmiany nazwy/składu klubu RMP; nie zmieniać automatycznie przypisania klubowego. [źródło](https://www.facebook.com/strzeleckaklaudia/posts/pfbid0LrwSQoFXZSboEjxZj5nXGcir2hcuuMbJQkmXzftYTrUpmF7vU3t3bcEUBcMKKupjl) · [raport](../../monitoring-poznan/2026/11/2026-11-04.md)
 
 ### Interpelacje BIP
 

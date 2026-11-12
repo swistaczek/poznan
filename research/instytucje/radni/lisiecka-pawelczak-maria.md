@@ -4,7 +4,7 @@ type: karta-radnego
 tier: 2
 frakcja: KO
 okreg: do weryfikacji
-updated: 2026-10-14
+updated: 2026-11-04
 ---
 
 # Maria Lisiecka-Pawełczak (KO)
@@ -12,6 +12,8 @@ updated: 2026-10-14
 Radna IX kadencji i przewodnicząca Komisji Rodziny, Polityki Społecznej i Zdrowia. Istotna dla nadzoru nad miejskimi placówkami medycznymi i polityką społeczną.
 
 ## Aktualizacje
+
+- **2026-11-04 — propozycje zmian Raszei w porządku komisji.** Współodpowiada za zaproszenie na10.11,16:30. KRPSiZ ma omówić propozycje zmian organizacyjnych i finansowych Raszei, statut MOPR i profilaktykę; wspólnie z KRiIL także PU299. Wytworzenie3.11, publikacja4.11,07:52, dostęp4.11. Bez decyzji o konsolidacji. [źródło](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=100177) · [raport](../../monitoring-poznan/2026/11/2026-11-04.md)
 
 - **2026-10-13 — porządek komisji zdrowia.** Odpowiada za porządek KRPSiZ na 20.10, 16:30: opiniowanie PU 260 i projektu stanowiska PU 262 o rozpoczęciu konsolidacji Strusia/Raszei. Publikacja 13.10, 14:29; dostęp 14.10. Nie jest to opinia komisji ani decyzja o połączeniu. [BIP](https://bip.poznan.pl/bip/kalsam.html?co=posiedzenie&id=99978) · [raport](../../monitoring-poznan/2026/10/2026-10-14.md)
 

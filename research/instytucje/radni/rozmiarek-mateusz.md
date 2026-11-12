@@ -5,7 +5,7 @@ tier: 1
 frakcja: PiS
 okreg: 2
 ocena: odmienne priorytety w transporcie / wspólny grunt zdrowie publiczne UDIP efektywnosc
-updated: 2026-09-23
+updated: 2026-11-04
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../13-radni-dialog/02-portret-rozmiarek.md
 ---
@@ -135,6 +135,8 @@ Młodsze pokolenie decydentów RM. Stopień naukowy: dr hab. `[do wer.: zakres h
 - Zasady dialogu ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)
 
 ## Aktualizacje
+
+- **2026-11-02 — rezygnacja z członkostwa w PiS.** Wspólne pismo Strzeleckiej, Rozmiarka i Szynkowskiej vel Sęk z2.11 deklaruje rezygnację z PiS. Publikacja3.11, dostęp4.11. Brak potwierdzenia formalnej zmiany nazwy/składu klubu RMP; nie zmieniać automatycznie przypisania klubowego. [źródło](https://www.facebook.com/strzeleckaklaudia/posts/pfbid0LrwSQoFXZSboEjxZj5nXGcir2hcuuMbJQkmXzftYTrUpmF7vU3t3bcEUBcMKKupjl) · [raport](../../monitoring-poznan/2026/11/2026-11-04.md)
 
 ### Interpelacje BIP
 
