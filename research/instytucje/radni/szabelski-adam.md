@@ -89,6 +89,8 @@ Data-driven policy: wyniki z badam.poznan.pl, raporty o stanie miasta, twarde st
 
 ## Aktualizacje
 
+- **2026-10-30 — Komisja oświaty.** Relacja RMP z 30.10 z komisji oświaty 29.10 wiąże jego interpelację o dodatki wicedyrektorów z negocjacjami płacowymi na 2027 r.; koszt tego składnika oszacowano na 3 mln zł rocznie. Nie jest to decyzja o podwyżce. Następny krok: porównać porozumienie płacowe i projekt budżetu. [RMP](https://www.poznan.pl/mim/rm/news,10522/finanse-i-kontrole-w-oswiacie,289496.html) · [raport](../../monitoring-poznan/2026/10/2026-10-31.md)
+
 ### Interpelacje BIP
 
 - **2026-10-15 — RM-VI.0003.349.2026.** Wniosek o analizę środków w budżecie 2027 na rondo F. Jaśkowiaka od Radojewa. Radny wskazuje kosztorys około 11 mln zł i 6 mln zł osiedla na powiązany chodnik; interpelacja nie potwierdza uchwalonych wydatków. Dokument/wpływ 2026-10-15; odczyt 16–17.10, publikacja nieustalona. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-budowy-ronda-przy-ul-f-jaskowiaka-2026-10-15,NT00082CCE/) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md) <!-- bip-interpelacja:NT00082CCE -->
