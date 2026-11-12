@@ -3,12 +3,12 @@ title: "Przebudowa ul. Dąbrowskiego - zakres 1 (Żeromskiego - Janickiego), pro
 type: index
 domain: dabrowskiego
 area: przebudowa
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 # Przebudowa ul. Dąbrowskiego: zakres 1 (Żeromskiego - Janickiego)
 
-Wątek: przebudowa północnej strony ul. Dąbrowskiego między Żeromskiego a Janickiego, wykonywana przez inwestora prywatnego w ramach umowy z art. 16 udp; dostęp do projektu, stała organizacja ruchu (SOR), droga dla rowerów (DDR), zieleń. Osobno: odbruk i zieleń na odcinku śródmiejskim (Biuro Koordynacji Projektów i Rewitalizacji Miasta). Inne obszary: [hałas tramwajowy](../halas/index.md) (tam planowana przebudowa Roosevelta - Żeromskiego w całym pasie drogowym, osobne zadanie PIM), [chodnik przy nr 115](../chodniki/index.md). Rejestr pism: [`pisma/REJESTR.md`](pisma/REJESTR.md).
+Wątek: przebudowa północnej strony ul. Dąbrowskiego między Żeromskiego a Janickiego, wykonywana przez inwestora prywatnego w ramach umowy z art. 16 udp; dostęp do projektu, stała organizacja ruchu (SOR), droga dla rowerów (DDR), zieleń. Osobno: odbruk i zieleń na odcinku śródmiejskim (Biuro Koordynacji Projektów i Rewitalizacji Miasta) oraz trasa rowerowa R1 Z na odcinku Żeromskiego - Rynek Jeżycki (wniosek do Prezydenta, odpowiedź ZDM). Inne obszary: [hałas tramwajowy](../halas/index.md) (tam planowana przebudowa Roosevelta - Żeromskiego w całym pasie drogowym, osobne zadanie PIM), [chodnik przy nr 115](../chodniki/index.md). Rejestr pism: [`pisma/REJESTR.md`](pisma/REJESTR.md).
 
 ## Zakres i dokumenty
 
@@ -38,10 +38,19 @@ Kategoria drogi: "Droga Powiatowa nr 5772P", klasa Z (opis techniczny SOR). Prę
 - Wycinka: decyzja 544/2026, pouczenie pkt 7: usunięcie drzew kolidujących wymaga odrębnego zezwolenia (art. 83 uop, Wydział Klimatu i Środowiska UMP).
 - Dla przyszłych przebudów (np. Roosevelta - Żeromskiego): § 9 ust. 1a rozp. MI 2022, dodany Dz.U. 2025 poz. 1352, w mocy od 08.10.2026: "Projektując drogę, w odpowiednim zakresie uwzględnia się ryzyka i oddziaływania wynikające ze zmiany klimatu" (...). § 2 rozp. zmieniającego dopuszcza niestosowanie tego przepisu w sprawach objętych przepisem przejściowym.
 
+## Trasa rowerowa R1 Z (Żeromskiego - Rynek Jeżycki), stan 29.10.2026
+
+- Wniosek mieszkańca z 25.09.2026 do Prezydenta: brak infrastruktury rowerowej na odcinku R1 Z Żeromskiego - Rynek Jeżycki; środki w budżecie 2027 i WPF, harmonogram Programu Rowerowego, Standardy rowerowe (481/2019/P). Przekazany do ZDM (Or-V.152.1.776.2026).
+- ZDM 26.10.2026 (ZDM-PR.0434.1.2026.2): "nie przewiduje się zmiany przebiegu trasy R1 Z. Odcinek od ul. Żeromskiego do Rynku Jeżyckiego pozostaje elementem planowanego układu tras rowerowych miasta".
+- Program Rowerowy XLVIII/843/VII/2017 (2017-2022, perspektywa do 2025): horyzont minął; nowy bez harmonogramu i daty, zakończenie aktualizacji po wynikach kompleksowych badań ruchu (termin badań nieznany).
+- PIM: pismo inicjujące przebudowę Roosevelta - Żeromskiego (cały pas, torowisko, jezdnia, chodniki). 05.10 ZDM pisał "drogami dla rowerów", 26.10 "rozwiązania dla ruchu rowerowego". Bez daty i znaku pisma do PIM, kwot i terminu; 19.10 (ZDM-PK.01520.249.2026.13) "zadania nie przekazano PIM".
+- Nr 111-115: teren przekazany wykonawcy przebudowy Janickiego i Dąbrowskiego (zakres 1) 11.06.2026; wizja 23.10.2026 bez zanieczyszczeń jezdni.
+
 ## Sprawy
 
 1. **Udip ZDM-PK.01520.359.2026** (sprawa ZDM-26-993883): wniosek z 28.09.2026 o projekt DDR, SOR, opinie, decyzje, aneks 5 oraz wniosek z art. 241 kpa o korektę DDR. Odpowiedzi: [13.10.2026, .6](odpowiedzi/2026-10-13_zdm-pk-01520-359-2026-6.md), [28.10.2026, .10](odpowiedzi/2026-10-28_zdm-pk-01520-359-2026-10.md).
 2. **Odbruk i zieleń przed przebudową** (BKPiRM, KPRM-III.062.1.8.2026): propozycja z 25.07.2026; ZDM 05.10.2026: wystąpienie do PIM, wstępnie przebudowa Roosevelta - Żeromskiego w całym pasie z zielenią, "nie zakładamy innych działań doraźnych".
+3. **Trasa rowerowa R1 Z** (Prezydent, Or-V.152.1.776.2026; ZDM-PR.0434.1.2026, sprawa ZDM-26-987255): wniosek z 25.09.2026 o środki w budżecie 2027 i WPF, harmonogram Programu Rowerowego, Standardy rowerowe. Odpowiedź: [26.10.2026, .2](odpowiedzi/2026-10-26_zdm-pr-0434-1-2026-2.md); część Prezydenta bez odpowiedzi.
 
 ## Stan na 28.10.2026
 
@@ -52,11 +61,13 @@ Kategoria drogi: "Droga Powiatowa nr 5772P", klasa Z (opis techniczny SOR). Prę
 ## Otwarte terminy
 
 - **29.10.2026**: cz. III wniosku z 28.09 (art. 241 kpa; wpływ 29.09; art. 244 § 1 w zw. z art. 237 § 1 kpa). Czy pismo .10 to załatwia: [do weryfikacji].
+- **29.10.2026**: Prezydent, pkt 1 w części budżetowej i pkt 3 wniosku z 25.09 (R1 Z) oraz pismo z 29.09 (art. 244 § 1 kpa); od wpływu wniosku 26.10.2026 [do weryfikacji, który bieg]. Brak odpowiedzi.
 - **12.11.2026**: tylko gdy pismo .10 jest decyzją odmowną (art. 16 ust. 1 udip): odwołanie do SKO 14 dni od doręczenia; 11.11 święto (art. 57 § 4 kpa) [do weryfikacji].
+- **15.11.2026**: projekt uchwały budżetowej na 2027 i projekt WPF do Rady Miasta (art. 238 ust. 1 i art. 230 ust. 2 ufp); sprawdzić zadanie ZDM/P/009 i środki na R1 Z.
 - **30.12.2026**: termin zakresu 1 wg projektu aneksu 5.
 - **31.12.2026**: SOR; brak zawiadomienia o wprowadzeniu (min. 7 dni wcześniej, § 12 ust. 1 rozp. MI z 23.09.2003, Dz.U. 2017 poz. 784) oznacza utratę ważności zatwierdzenia (§ 12 ust. 4 w zw. z § 8 ust. 7).
 - **31.01.2027**: koniec robót wg harmonogramu.
 
 ## Czego celowo nie ma
 
-Danych wnioskodawcy (imię, nazwisko, adres, telefon, e-mail), identyfikatorów wiadomości, plików PDF pism i załączników (SOR, decyzje, pisma IU, notatka: tylko znaki i opis), nazwisk uczestników spotkania z 2024 r. ani danych projektantów. Oryginały: lokalnie, poza repo.
+Danych wnioskodawcy (imię, nazwisko, adres, telefon, e-mail), identyfikatorów wiadomości, plików PDF pism i załączników (SOR, decyzje, pisma IU, notatka: tylko znaki i opis), zdjęć załączonych do wniosku z 25.09.2026, nazwisk uczestników spotkania z 2024 r. ani danych projektantów. Oryginały: lokalnie, poza repo.
