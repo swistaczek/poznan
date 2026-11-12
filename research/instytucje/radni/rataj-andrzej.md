@@ -5,7 +5,7 @@ tier: 2
 frakcja: KO
 okreg: do weryfikacji
 ocena: partner operacyjny — interpelacje dokumentacja punktowa
-updated: 2026-08-22
+updated: 2026-11-03
 source_operacyjny: ../12-rada-miasta-radni/03-profile-sojusznicy.md
 source_dialog: ../wyniki-14-radni-tier2-portrety.md
 ---
@@ -118,4 +118,4 @@ Legalista porządku. Myśli matrycą procedur i luk wykonawczych; mobilizuje go 
 
 ### Interpelacje BIP
 
-- **2026-08-17 — RM-VI.0003.288.2026.** Dwudziestu radnych żąda harmonogramów, finansowania i zabezpieczeń dla północnego układu drogowego. Pismo z 28.08 odracza odpowiedź ze względu na zakres sprawy; nowego terminu nie podano. [BIP](https://bip.poznan.pl/bip/interpelacje/interpelacja-ws-stanu-przygotowania-terminow-realizacji-i-finansowania-inwestycji-drogowych-w-polnocnej-czesci-poznania,NT000819EA/) · [raport](../../monitoring-poznan/2026/09/2026-09-04.md) <!-- bip-interpelacja:NT000819EA -->
+- **2026-10-30 — RM-VI.0003.288.2026.** Derech30.10: etap2/3 dokumentacji węzła Poznań Suchy Las przedłużono do31.12.2027. Obornicka/Nowa Obornicka i Nowa Kurpińskiego bez środków; pięć miejskich węzłów ma finansowanieWPF2026–2029/Fundusz Spójności. Nowa Szymanowskiego: wniosek budżetowy po projekcie. Koncepcja przejazdu Umultowska kosztowała147600zł; brak odpowiedziPKP na pytania17.03/17.09 według pisma. [BIP](https://bip.poznan.pl/bip/interpelacje.html?co=print&noteid=NT000819EA) · [raport](../../monitoring-poznan/2026/11/2026-11-03.md) <!-- bip-interpelacja:NT000819EA -->

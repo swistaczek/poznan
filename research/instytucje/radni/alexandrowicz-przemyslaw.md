@@ -5,7 +5,7 @@ tier: 1
 frakcja: PiS
 okreg: do weryfikacji
 ocena: odmienne priorytety w transporcie / wspólny grunt dziedzictwo lad bezpieczenstwo rodzin
-updated: 2026-04-17
+updated: 2026-11-03
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../13-radni-dialog/03-portret-alexandrowicz.md
 ---
@@ -127,5 +127,7 @@ Weteran samorządowy. Intelektualne zakorzenienie: klasyczna filozofia, chrześc
 - Zasady dialogu ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)
 
 ## Aktualizacje
+
+- **2026-10-29 — nadzór nad dotacjami oświatowymi.** W relacji RMP z 30.10 Alexandrowicz wskazuje, że inne duże miasta mają liczniejsze zespoły kontroli. Derech zadeklarował analizę obsady. Wydział podał 19 kontroli i ok. 1,4 mln zł zwrotów w 2025 oraz 8 i ponad 700 tys. zł w I półroczu 2026; bez potwierdzenia zwiększenia etatów. [RMP](https://www.poznan.pl/mim/rm/news,10522/finanse-i-kontrole-w-oswiacie,289496.html) · [raport](../../monitoring-poznan/2026/11/2026-11-03.md)
 
 - **2026-10-16 — relacja o petycji.** Na komisji 15.10 argumentował za aprobatą idei upamiętnienia ofiar ludobójstwa na Wołyniu w petycji, pozostawiając szczegóły zespołowi pomnikowemu. Według RMP komisja nie rozstrzygnęła petycji (1/1/2); nie przypisujemy imiennych głosów. Publikacja16.10, dostęp 17.10. [RMP](https://www.poznan.pl/mim/rm/news,10522/nierozstrzygnieta-petycja,288512.html) · [raport 16.10](../../monitoring-poznan/2026/10/2026-10-16.md) · [raport 17.10](../../monitoring-poznan/2026/10/2026-10-17.md)

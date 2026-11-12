@@ -5,7 +5,7 @@ tier: 1.5
 frakcja: do weryfikacji (prawdopodobnie KO lub Trzecia Droga)
 okreg: do weryfikacji
 ocena: potencjal — dane i strategia Poznan 2040+ polityka mlodych
-updated: 2026-10-17
+updated: 2026-11-03
 source_dialog: ../13-radni-dialog/03b-portrety-pozostali.md
 source_mapa: ../13-radni-dialog/04-mapa-mianownikow.md
 ---
@@ -88,6 +88,8 @@ Data-driven policy: wyniki z badam.poznan.pl, raporty o stanie miasta, twarde st
 - Mapa mianowników: [`../13-radni-dialog/04-mapa-mianownikow.md`](../13-radni-dialog/04-mapa-mianownikow.md)
 
 ## Aktualizacje
+
+- **2026-10-29 — negocjacje płac oświaty 2027.** RMP 30.10 wiąże interpelację Szabelskiego z rozważaną podwyżką dodatków wicedyrektorów, szacowaną na 3 mln zł rocznie. Łączne negocjowane postulaty określono na 50 mln zł. To negocjacje, bez przyznania środków. Następny krok: projekt budżetu i wynik rozmów ze związkami. [RMP](https://www.poznan.pl/mim/rm/news,10522/finanse-i-kontrole-w-oswiacie,289496.html) · [raport](../../monitoring-poznan/2026/11/2026-11-03.md)
 
 ### Interpelacje BIP
 
