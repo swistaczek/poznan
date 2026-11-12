@@ -5,7 +5,7 @@ tier: 1
 frakcja: PiS
 okreg: 1
 ocena: odmienne priorytety w transporcie / wspólny grunt seniorzy dostepnosc lad
-updated: 2026-08-22
+updated: 2026-10-29
 source_operacyjny: ../12-rada-miasta-radni/04-profile-neutralni-przeciwnicy.md
 source_dialog: ../13-radni-dialog/01-portret-jemielity.md
 ---
@@ -122,6 +122,8 @@ Rodowita poznanianka. Absolwentka filologii angielskiej UAM. Wieloletni nauczyci
 - Zasady dialogu ogólne: [`../13-radni-dialog/05-zasady-dialogu.md`](../13-radni-dialog/05-zasady-dialogu.md)
 
 ## Aktualizacje
+
+- **2026-10-27 — wycofany PU265.** BIP oznacza projekt rozstrzygnięcia jej skargi na dyrektora Zoo jako wycofany z XLI. wPoznaniu przypisuje wycofanie radnej. Brak uchwały Rady uznającej skargę za bezzasadną; stanowiska projektu komisji nie utożsamiamy z wynikiem Rady. Publikacja źródeł 27.10, dostęp 29.10. [BIP XLI](https://bip.poznan.pl/bip/sesje/xli,100057/) · [wPoznaniu](https://wpoznaniu.pl/miala-byc-skarga-na-dyrektora-zoo-ale-radna-z-pomyslu-sie-wycofala/) · [raport](../../monitoring-poznan/2026/10/2026-10-29.md)
 
 ### Procedury miejskie
 
