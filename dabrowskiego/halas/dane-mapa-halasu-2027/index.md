@@ -3,12 +3,12 @@ title: "Ul. Dąbrowskiego: dane dla strategicznej mapy hałasu Poznania 2027"
 type: dane
 domain: dabrowskiego
 area: halas
-updated: 2026-10-21
+updated: 2026-10-29
 ---
 
 # Ul. Dąbrowskiego: dane dla strategicznej mapy hałasu 2027
 
-Stan: 21.10.2026. Dane wejściowe dla odcinka ul. Dąbrowskiego (Jeżyce) od ul. Żeromskiego do Mostu Teatralnego, zebrane przez mieszkańca ul. Dąbrowskiego dla wykonawcy Strategicznej mapy hałasu miasta Poznania 2027 (konsorcjum AKUSTIX sp. z o.o. i LEMITOR Ochrona Środowiska sp. z o.o.), zamawiającego (Wydział Klimatu i Środowiska UMP, KSr) i mieszkańców. [rachunek] = obliczenie własne, [ocena] = wniosek własny. Korespondencja z instytucjami: [chronologia](chronologia.md).
+Stan: 29.10.2026. Dane wejściowe dla odcinka ul. Dąbrowskiego (Jeżyce) od ul. Żeromskiego do Mostu Teatralnego, zebrane przez mieszkańca ul. Dąbrowskiego dla wykonawcy Strategicznej mapy hałasu miasta Poznania 2027 (konsorcjum AKUSTIX sp. z o.o. i LEMITOR Ochrona Środowiska sp. z o.o.), zamawiającego (Wydział Klimatu i Środowiska UMP, KSr) i mieszkańców. [rachunek] = obliczenie własne, [ocena] = wniosek własny. Korespondencja z instytucjami: [chronologia](chronologia.md).
 
 ## Mapa 2027: co wynika z zamówienia
 
@@ -23,7 +23,7 @@ Stan: 21.10.2026. Dane wejściowe dla odcinka ul. Dąbrowskiego (Jeżyce) od ul.
 1. **Model 2022: 0 tramwajów na odcinku.** SIP, SMH 2022, warstwa 7 "Hałas tramwajowy - średnie dobowe natężenie ruchu" (SUM_24): 259 na każdym z dwóch torów przy nr 52-118, **0 na obu torach** od węzła z ul. Kraszewskiego (Rynek Jeżycki) do Mostu Teatralnego, ok. 0,65 km [rachunek]. Warstwa 12 (LDWN, tramwaj) tam: "-10-55 dB", przy nr 52-118: 60-70 dB. Przyczyna: nieustalona. 2 x 259 = 518 jest bliskie 529 kursom z rozkładu 2026 [ocena].
 2. **Przejazdy na tym odcinku.** PPH4.05, 23.04.2026, 15:15-19:05: 89 przejazdów (linia 18: 45, linia 8: 44) wg protokołu BAASA. Dla porównania PPH4.16 (nr 73), 11:40-14:45: 88 (linia 2: 30, 8: 29, 18: 29).
 3. **Nr 118 (PPH3.05)**, pomiar drogowy ulicy z torowiskiem, 19-20.05.2026: 70,1 / 63,9 dB przy dopuszczalnych 68/60 dB (teren 4a, MPZP XC/1711/VIII/2023), przekroczenie także po odjęciu niepewności. Pomiaru tramwajowego przy nr 118 w 2026 r. nie było.
-4. **Nr 73 (PPH4.16)**, tramwaj, 23.04.2026: LAeqD 64,9 dB; sprawozdanie przyjmuje 2b i 61 dB, powołując MPZP VII/84/VIII/2019, który w § 5 ust. 2 pkt 1 ustala standard strefy śródmiejskiej (68/60 dB) [kwalifikacja do wyjaśnienia]. Noc tramwajowa nie była mierzona.
+4. **Nr 73 (PPH4.16)**, tramwaj, 23.04.2026: LAeqD 64,9 dB; sprawozdanie przyjmuje 2b i 61 dB, powołując MPZP VII/84/VIII/2019, który w § 5 ust. 2 pkt 1 ustala standard strefy śródmiejskiej (68/60 dB). ZTM (W-ZTM-16212-2026 z 28.10.2026): po stronie nr 73 standard 68/60 dB, bez przekroczeń; strona przeciwna poza MPZP, wg ZTM 65/56 dB. Noc tramwajowa nie była mierzona.
 5. **LAE przejazdów** (średnie klas taboru): 83,3-86,7 dB przy nr 73 (7,5 m, "Stan torowiska: Dostateczny") i 70,7-72,8 dB przy ul. Kochanowskiego (10,5 m, "Bardzo dobry"); w obu torowisko "Wspólne z jezdnią", asfalt między szynami. Mediana prędkości: 21 i 26 km/h [rachunek].
 6. **Opis punktu kalibracyjnego.** P05 (2021) i PPH4.05 (2026) opisano jako "ul. Dąbrowskiego 82 (skrzyżowanie z ul. Polną)", a ich współrzędne leżą ok. 14 m od skrzyżowania z ul. Kochanowskiego, na odcinku z natężeniem 0. Ul. Polna jest przy nr 82 (PPH2.43).
 7. **Rozkład ZTM** (GTFS, dzień roboczy, październik 2026, przystanek Polna): 529 kursów linii 2, 8, 18 na dobę (265 w kierunku Rynku Jeżyckiego, 264 w kierunku ul. Żeromskiego); dzień 6-18: 376, wieczór 18-22: 94, noc 22-6: 59; ostatni ok. 23:20, pierwszy ok. 4:40 [rachunek]. ZTM dla 23.04.2026 (sprawozdanie PPH4.16): 477 w dzień, 58 w nocy.
@@ -86,6 +86,7 @@ Warstwy 7, 12 i 13 w 12 punktach kontrolnych (SIP, 21.10.2026): [model-smh-2022-
 - SMH 2022 (s. 63-66): "Wszystkie torowiska przyjęto jako nawierzchnie normalnie utrzymane (Railhead roughness=3)"; w całym mieście 2 typy torowisk (podkłady betonowe, Track base=2, albo drewniane, Track base=8); jeden typ pojazdu TRAM ("nie dokonuje się podziału na typy tramwajów"). Poprawki kalibracyjne +4,0 dB w P05, P16 i P37, przypisane "dla całego jednorodnego odcinka torowiska tramwajowego"; średni błąd kalibracji 1,9 dB.
 - MPK (07.08 i 12.08.2026): po robotach z sierpnia konstrukcja toru bez zmian; "stan przedmiotowego tory jest zły a konstrukcja przestarzała"; szlifowanie od Mostu Teatralnego do pętli Ogrody planowane na XI-XII 2026.
 - ZTM (22.09.2026): drgania od taboru przenoszą się na budynki; przebudowa pełnego przekroju torowiska na lata 2029-2030, jeśli będą środki.
+- ZTM (28.10.2026): na odcinku obowiązuje ograniczenie prędkości tramwajów do 20 km/h (o zasięg zapytano 29.10, daty wprowadzenia ZTM nie podał; mediana zmierzona 23.04.2026: 21 km/h przy nr 73, 26 km/h przy ul. Kochanowskiego); szlifowanie szyn w 2026; przebudowa nieujęta w żadnym planie finansowym. Notatka: [W-ZTM-16212-2026](../odpowiedzi/2026-10-28_ztm-w-ztm-16212-2026.md).
 - ZDM (19.10.2026): na przebudowę ul. Dąbrowskiego (Roosevelta - Żeromskiego) 250 000 zł (2026) i 2 000 000 zł (2027); przebudowa torowiska "obecnie tylko założeniem projektowym".
 - Marszałek Województwa (18.08.2026): odcinek objęty działaniem PHT4 programu ochrony środowiska przed hałasem.
 
