@@ -17,6 +17,7 @@ Przejście jest **przewidziane w MPZP „Jeżyce-Północ"** (uchwały 2024), a 
 
 - [**Komunikacja piesza**](komunikacja/index.md) - odcięte przejście Dąbrowskiego 87 / Kościelna-Barańczaka (Famma); ZDM-DOR.081.33.2026.14 z 09.09.2026 (aneks 5: Janickiego/Dąbrowskiego do 30.12.2026).
 - [**Rowery / mobilność**](rowery/index.md) — projekt PBO, pre-audyt własności i uzgodnień, rejestr pism.
+- [**Spotkanie z Prezydentem 10.12.2026**](../dabrowskiego/spotkania/2026-12-10_prezydent-rada-osiedla-jezyce/index.md) - pytania mieszkańca w sprawach Jeżyc (ul. Dąbrowskiego, przejście przy nr 87, skwer św. Wawrzyńca, przejście pod linią 351) z sygnaturami pism.
 
 ## Materiały referencyjne
 

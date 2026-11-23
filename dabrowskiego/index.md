@@ -2,7 +2,7 @@
 title: Kampania Dąbrowskiego
 type: index
 domain: dabrowskiego
-updated: 2026-09-23
+updated: 2026-11-23
 ---
 
 # Kampania ul. Dąbrowskiego (Jeżyce, Poznań)
@@ -19,10 +19,13 @@ Przebudowa ulicy (zakres 1 Żeromskiego - Janickiego: projekt, SOR, droga dla ro
 
 Stan wszystkich spraw na 09.11.2026 (sygnatury, terminy, następne kroki, wpływ odpowiedzi UMP Or-V.152.1.743.2026): [`dossier-2026-11-09.md`](dossier-2026-11-09.md). Wniosek o kompleksową kontrolę odcinka Żeromskiego - Polna i odpowiedź Zastępcy Prezydenta: [`audyt-odcinka/`](audyt-odcinka/index.md).
 
+Spotkanie Prezydenta Miasta Poznania z Radą Osiedla Jeżyce i mieszkańcami, 10.12.2026 (Dom Tramwajarza): pytania w sprawach ulicy (TOP 5 na część publiczną, rozmowa indywidualna, pytania rezerwowe), fakty z sygnaturami i ściąga: [`spotkania/2026-12-10_prezydent-rada-osiedla-jezyce/`](spotkania/2026-12-10_prezydent-rada-osiedla-jezyce/index.md).
+
 ## Obszary
 
 - [**Hałas tramwajowy**](halas/) — pomiary, skargi do WIOŚ, wezwania do MPK, droga cywilna.
 - [**Chodniki**](chodniki/) - jakość odtworzeń nawierzchni po robotach w pasie drogowym, odbiory i kary ZDM (sprawa: chodnik przy nr 115).
+- [**Spotkania**](spotkania/2026-12-10_prezydent-rada-osiedla-jezyce/index.md) - przygotowanie do spotkań z władzami miasta (10.12.2026: Prezydent z Radą Osiedla Jeżyce i mieszkańcami).
 
 Dalsze obszary (uspokojenie ruchu, rowery, przestrzeń publiczna) — według potrzeb.
 
